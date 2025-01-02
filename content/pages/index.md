@@ -52,7 +52,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Off-the-beaten-track
     items:
       - type: FeaturedItem
         title: Jade Dragon Snow Mountain
