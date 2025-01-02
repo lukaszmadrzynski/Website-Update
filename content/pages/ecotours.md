@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: This is a new page
+title: Ecotours
 sections: []
 slug: /ecotours
 isDraft: false
