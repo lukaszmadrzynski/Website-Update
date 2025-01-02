@@ -47,7 +47,7 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Button",
-            "showIcon": false
+            "showIcon": true
         }
     ],
     "variant": "logo-left-primary-nav-centered",
