@@ -8,7 +8,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/Template v2.png"
     },
     "primaryLinks": [
         {
