@@ -43,7 +43,7 @@
         {
             "label": "Contact Us",
             "url": "/contactus",
-            "icon": "arrowRight",
+            "icon": "mail",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Button",
