@@ -47,7 +47,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: Featured Ecotours
       color: text-dark
       styles:
         self:
