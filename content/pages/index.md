@@ -45,7 +45,6 @@ sections:
           - pb-16
           - pr-16
   - posts:
-      - content/pages/blog/this-is-a-blog-post-with-related-posts.md
       - content/pages/blog/case-study-2.md
       - content/pages/blog/case-study-3.md
     showThumbnail: true
