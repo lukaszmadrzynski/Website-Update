@@ -43,7 +43,7 @@
             "label": "Get started",
             "altText": "",
             "url": "/Consulting",
-            "showIcon": true,
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
