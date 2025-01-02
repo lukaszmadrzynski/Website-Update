@@ -44,7 +44,7 @@
             {
                 "label": "Why Us",
                 "altText": "Why Us page",
-                "url": "/careers",
+                "url": "/why-us",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
