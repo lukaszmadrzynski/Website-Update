@@ -58,6 +58,17 @@
                 "style": "secondary",
                 "type": "Link",
                 "altText": "About Us page"
+            },
+            {
+                "type": "Link",
+                "label": "See Tutorials",
+                "altText": "",
+                "url": "/contact-us",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
