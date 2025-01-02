@@ -27,7 +27,7 @@
                 "altText": "Camps page"
             },
             {
-                "label": "Documentation",
+                "label": "<a href=",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
