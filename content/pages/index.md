@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Northwest Yunnan
+      label: Cloud mountain
       color: text-primary
       type: Badge
     elementId: ''
