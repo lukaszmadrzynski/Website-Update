@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Ecotours",
-            "url": "/pricing",
+            "url": "/ecotours",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
