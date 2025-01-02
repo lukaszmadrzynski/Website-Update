@@ -46,7 +46,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: FEATURED ECOTOURS
       color: text-dark
       styles:
         self:
