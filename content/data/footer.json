@@ -28,7 +28,7 @@
             },
             {
                 "label": "Consulting",
-                "url": "/",
+                "url": "/consulting",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
