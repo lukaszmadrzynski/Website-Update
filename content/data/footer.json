@@ -33,7 +33,7 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link",
-                "altText": "<a href="
+                "altText": "Consulting page"
             }
         ],
         "type": "FooterLinksGroup"
