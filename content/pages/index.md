@@ -461,7 +461,7 @@ sections:
       businesses.
     actions:
       - label: About Us
-        url: /
+        url: /aboutus
         icon: arrowRight
         iconPosition: right
         style: secondary
