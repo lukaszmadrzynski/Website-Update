@@ -51,7 +51,7 @@
         },
         {
             "type": "Link",
-            "label": "About Usls",
+            "label": "About Us",
             "altText": "",
             "url": "/About Us",
             "showIcon": false,
