@@ -450,7 +450,9 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Business Consulting
+      text: |-
+        About
+        Cloud Mountain Ecotourism and Our Commitment to Yunnan
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
