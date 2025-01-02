@@ -25,7 +25,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/14 (4).jpg
+      url: /images/17 (2).jpg
       altText: ''
       elementId: ''
       type: ImageBlock
