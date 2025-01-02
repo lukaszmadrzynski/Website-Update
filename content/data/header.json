@@ -13,32 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Ecotours",
-            "url": "/ecotours",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Why Us",
-            "altText": "",
-            "url": "/whyus",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Camps",
-            "altText": "",
-            "url": "/camps",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Dropdown",
             "altText": "Dropdown",
             "links": [
@@ -69,6 +43,32 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "label": "Ecotours",
+            "url": "/ecotours",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Why Us",
+            "altText": "",
+            "url": "/whyus",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Camps",
+            "altText": "",
+            "url": "/camps",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [
