@@ -8,10 +8,19 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: NORTHWEST YUNNAN
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Immerse yourself in the breathtaking landscapes and vibrant cultures of
+      Northwest Yunnan on our immersive and sustainable ecotours. Explore the
+      wonders of Yunnan, from Lijiang to Shangri-La, with expert local guides,
+      supporting community tourism and making a positive impact through
+      ecotourism.
+
+
+
+
+
+
+
     actions:
       - label: Get started
         altText: ''
