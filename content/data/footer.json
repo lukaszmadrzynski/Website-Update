@@ -52,7 +52,7 @@
             },
             {
                 "label": "About Us",
-                "url": "/blog",
+                "url": "/about-us",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
