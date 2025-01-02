@@ -8,19 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: NORTHWEST YUNNAN
-    text: >+
+    text: >
       Immerse yourself in the breathtaking landscapes and vibrant cultures of
       Northwest Yunnan on our immersive and sustainable ecotours. Explore the
-      wonders of Yunnan, from Lijiang to Shangri-La, with expert local guides,
-      supporting community tourism and making a positive impact through
+      wonders of southern Tibet, from Lijiang to Shangri-La, with expert local
+      guides, supporting community tourism and making a positive impact through
       ecotourism.
-
-
-
-
-
-
-
     actions:
       - label: Get started
         altText: ''
