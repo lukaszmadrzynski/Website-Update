@@ -23,7 +23,7 @@
         {
             "label": "Why Us",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/whyus",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
