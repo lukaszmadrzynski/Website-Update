@@ -54,7 +54,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Jade Dragon Snow Mountain
         subtitle: >-
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
           Mountain near Lijiang, experiencing diverse ecosystems and stunning
