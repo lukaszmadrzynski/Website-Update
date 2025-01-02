@@ -58,7 +58,7 @@ sections:
         subtitle: Lakes and Forests Off-the-beaten-path
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/DSCN0241.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
