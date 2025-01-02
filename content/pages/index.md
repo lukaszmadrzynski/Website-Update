@@ -142,7 +142,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Featured Ecotours
+      label: Join our
       color: text-primary
       styles:
         self:
