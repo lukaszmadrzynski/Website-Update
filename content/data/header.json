@@ -31,7 +31,7 @@
         },
         {
             "label": "Camps",
-            "altText": "Careers page",
+            "altText": "",
             "url": "/camps",
             "icon": "arrowRight",
             "iconPosition": "right",
