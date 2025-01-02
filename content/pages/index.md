@@ -450,37 +450,6 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: |-
-        About
-        Cloud Mountain and Our Commitment to Yunnan
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: About Us
-        url: /aboutus
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
-  - title:
       text: Generic Section With A Form
       color: text-dark
       type: TitleBlock
@@ -538,6 +507,37 @@ sections:
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
+    type: GenericSection
+  - title:
+      text: |-
+        About
+        Cloud Mountain and Our Commitment to Yunnan
+      color: text-dark
+      type: TitleBlock
+    subtitle: Be in good company
+    text: >
+      A service that provides advice and guidance to startups and small
+      businesses.
+    actions:
+      - label: About Us
+        url: /aboutus
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+    media:
+      url: /images/hero3.svg
+      altText: Dope design preview
+      type: ImageBlock
+    badge:
+      label: This is a badge
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
     type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
