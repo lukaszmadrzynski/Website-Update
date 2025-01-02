@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: /ecotours
         showIcon: false
         icon: arrowRight
         iconPosition: right
