@@ -25,7 +25,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/IMG_20210807_105145.jpg
+      url: /images/hero.jpg
       altText: ''
       elementId: ''
       type: ImageBlock
