@@ -11,7 +11,7 @@
             {
                 "label": "Ecotours",
                 "altText": "Ecotours page",
-                "url": "/",
+                "url": "/ecotours",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
