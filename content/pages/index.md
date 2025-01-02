@@ -55,7 +55,11 @@ sections:
     items:
       - type: FeaturedItem
         title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
+        subtitle: >-
+          Embark on a challenging yet rewarding trek on Jade Dragon Snow
+          Mountain near Lijiang, experiencing diverse ecosystems and stunning
+          alpine scenery. Discover the unique flora and fauna of this iconic
+          Yunnan peak, a highlight of ecotourism in the region.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
