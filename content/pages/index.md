@@ -452,7 +452,7 @@ sections:
   - title:
       text: |-
         About
-        Cloud Mountain Ecotourism and Our Commitment to Yunnan
+        Cloud Mountain and Our Commitment to Yunnan
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
