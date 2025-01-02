@@ -70,7 +70,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Link
-            label: See Tutorials
+            label: See More
             altText: ''
             url: /ecotours-yulong
             showIcon: false
