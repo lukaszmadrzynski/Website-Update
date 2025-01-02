@@ -68,16 +68,7 @@ sections:
           styles:
             self:
               borderRadius: medium
-        actions:
-          - type: Link
-            label: See More
-            altText: ''
-            url: /ecotours-yulong
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         colors: bg-light-fg-dark
         styles:
           self:
