@@ -61,7 +61,7 @@
     },
     "socialLinks": [
         {
-            "altText": "https://www.instagram.com/cloud.mountain.sustainability/",
+            "altText": "",
             "url": "https://twitter.com/netlify",
             "icon": "instagram",
             "type": "Social"
