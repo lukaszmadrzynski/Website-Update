@@ -61,7 +61,7 @@
             },
             {
                 "type": "Link",
-                "label": "See Tutorials",
+                "label": "Contact Us",
                 "altText": "",
                 "url": "/contact-us",
                 "showIcon": false,
