@@ -56,7 +56,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Jade Dragon Snow Mountain
-        subtitle: Biodiveristy Conservation
+        subtitle: Lakes and Forests
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
           Mountain near Lijiang, experiencing diverse ecosystems and stunning
