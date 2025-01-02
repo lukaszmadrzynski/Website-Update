@@ -81,7 +81,7 @@
         {
             "type": "Social",
             "altText": "Email link",
-            "url": "mailto:lukas@cloudmountain.top",
+            "url": "lukas@cloudmountain.top",
             "icon": "mail",
             "elementId": ""
         }
