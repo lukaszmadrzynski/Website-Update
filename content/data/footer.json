@@ -43,7 +43,7 @@
         "links": [
             {
                 "label": "Why Us",
-                "altText": "careers page",
+                "altText": "Why Us page",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
