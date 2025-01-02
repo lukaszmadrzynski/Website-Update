@@ -70,7 +70,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Button
-            label: Get started
+            label: Learn More
             altText: ''
             url: /ecotours-yulong
             showIcon: false
