@@ -7,7 +7,7 @@ sections:
       text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
       color: text-dark
       type: TitleBlock
-    subtitle: NORTHWEST YUNNAN
+    subtitle: Northwest Yunnan / Southern Tibet
     text: >
       Immerse yourself in the breathtaking landscapes and vibrant cultures of
       Northwest Yunnan on our immersive and sustainable ecotours. Explore the
