@@ -32,7 +32,7 @@
         {
             "label": "Camps",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/camps",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
