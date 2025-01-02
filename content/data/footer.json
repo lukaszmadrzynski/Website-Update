@@ -19,7 +19,7 @@
             },
             {
                 "label": "Camps",
-                "url": "/pricing",
+                "url": "/camps",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
