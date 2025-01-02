@@ -80,7 +80,7 @@
         },
         {
             "type": "Social",
-            "altText": "Instagram link",
+            "altText": "Email link",
             "url": "https://www.instagram.com/cloud.mountain.sustainability/",
             "icon": "mail",
             "elementId": ""
