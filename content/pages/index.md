@@ -11,6 +11,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - pt-1
     media:
       type: ImageBlock
       url: /images/IMG_20210807_105145.jpg
