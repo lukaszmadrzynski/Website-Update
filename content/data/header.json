@@ -18,12 +18,13 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Ecotours page"
         },
         {
             "label": "Why Us",
-            "altText": "",
-            "url": "/whyus",
+            "altText": "Why Us page",
+            "url": "/why-us",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -31,7 +32,7 @@
         },
         {
             "label": "Camps",
-            "altText": "",
+            "altText": "Camps page",
             "url": "/camps",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -41,7 +42,7 @@
         {
             "type": "Link",
             "label": "Consulting",
-            "altText": "",
+            "altText": "Consulting page",
             "url": "/consulting",
             "showIcon": false,
             "icon": "arrowRight",
@@ -52,8 +53,8 @@
         {
             "type": "Link",
             "label": "About Us",
-            "altText": "",
-            "url": "/About Us",
+            "altText": "About Us page",
+            "url": "/about-us",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -64,12 +65,13 @@
     "secondaryLinks": [
         {
             "label": "Contact Us",
-            "url": "/contactus",
+            "url": "/contact-us",
             "icon": "mail",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Button",
-            "showIcon": false
+            "showIcon": false,
+            "altText": "Contact Us page"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
