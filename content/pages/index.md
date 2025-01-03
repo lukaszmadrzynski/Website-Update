@@ -26,7 +26,7 @@ sections:
           borderRadius: medium
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
       color: text-dark
   - type: GenericSection
     title:
