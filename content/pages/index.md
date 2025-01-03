@@ -280,7 +280,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: '2025'
       color: text-primary
       styles:
         self:
