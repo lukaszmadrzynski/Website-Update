@@ -41,7 +41,7 @@
         {
             "type": "Link",
             "label": "Consulting",
-            "altText": "",
+            "altText": "Consulting page",
             "url": "/consulting",
             "showIcon": false,
             "icon": "arrowRight",
