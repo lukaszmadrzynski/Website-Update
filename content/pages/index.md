@@ -6,10 +6,6 @@ sections:
     subtitle: ''
     text: ''
     actions: []
-    media:
-      type: ImageBlock
-      altText: Dope design preview
-      url: /images/IMG_20210807_105145.jpg
     colors: bg-light-fg-dark
     styles:
       self:
