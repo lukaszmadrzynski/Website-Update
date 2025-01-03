@@ -172,7 +172,7 @@ sections:
   - title:
       text: |-
         Why
-        Choose
+        Choose Us
       color: text-primary
       styles:
         self:
