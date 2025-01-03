@@ -188,7 +188,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/DSCN0241.jpg
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
