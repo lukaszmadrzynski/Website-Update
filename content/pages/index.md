@@ -19,6 +19,14 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/IMG_20210807_105145.jpg
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - type: GenericSection
     title:
       text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
