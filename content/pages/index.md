@@ -64,7 +64,7 @@ sections:
           - pt-4
           - pl-3
           - pb-3
-          - pr-16
+          - pr-3
         justifyContent: center
   - type: FeaturedItemsSection
     title:
