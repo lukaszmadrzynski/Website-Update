@@ -81,7 +81,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Jade Dragon Snow Mountain
-        subtitle: Lakes and Forests Off-the-beaten-path
+        subtitle: Off-the-beaten-path
         image:
           type: ImageBlock
           url: /images/DSCN0241.jpg
