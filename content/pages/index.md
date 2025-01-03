@@ -68,6 +68,8 @@ sections:
         justifyContent: center
         margin:
           - ml-0
+      text:
+        textAlign: justify
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
