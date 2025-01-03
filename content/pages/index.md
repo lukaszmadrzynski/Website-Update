@@ -18,7 +18,7 @@ sections:
           - pr-1
     media:
       type: ImageBlock
-      url: /images/IMG_20210807_105145.jpg
+      url: /images/hero.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
