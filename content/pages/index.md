@@ -181,7 +181,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Jade Dragon Snow Mountain
-        subtitle: Numbers Done
+        subtitle: 1 Day Off-the-beaten-path
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
