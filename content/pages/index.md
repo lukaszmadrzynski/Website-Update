@@ -92,7 +92,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Button
-            label: Learn More
+            label: Book Now
             altText: ''
             url: /ecotours-yulong
             showIcon: false
