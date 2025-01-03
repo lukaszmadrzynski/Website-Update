@@ -278,14 +278,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    badge:
-      type: Badge
-      label: '2025'
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 700
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
