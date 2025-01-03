@@ -11,14 +11,6 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/IMG_20210807_105145.jpg
     media:
       type: ImageBlock
       url: /images/hero2.svg
