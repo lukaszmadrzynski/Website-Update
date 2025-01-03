@@ -15,6 +15,7 @@ sections:
           - pt-1
           - pb-1
           - pl-1
+          - pr-1
     media:
       type: ImageBlock
       url: /images/IMG_20210807_105145.jpg
