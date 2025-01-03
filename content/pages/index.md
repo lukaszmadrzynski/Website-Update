@@ -65,7 +65,7 @@ sections:
           - pl-2
           - pb-2
           - pr-2
-        justifyContent: flex-start
+        justifyContent: center
         margin:
           - ml-0
   - type: FeaturedItemsSection
