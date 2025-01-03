@@ -203,16 +203,7 @@ sections:
             margin:
               - ml-1
               - mr-1
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
