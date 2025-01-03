@@ -14,6 +14,7 @@ sections:
         padding:
           - pt-1
           - pb-1
+          - pl-1
     media:
       type: ImageBlock
       url: /images/IMG_20210807_105145.jpg
