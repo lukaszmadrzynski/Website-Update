@@ -68,7 +68,7 @@ sections:
         textAlign: justify
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
       color: text-dark
   - type: FeaturedItemsSection
     title:
