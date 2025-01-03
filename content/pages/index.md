@@ -177,7 +177,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: '2025'
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Jade Dragon Snow Mountain
