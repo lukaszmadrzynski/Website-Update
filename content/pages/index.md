@@ -13,7 +13,7 @@ sections:
         flexDirection: row-reverse
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/IMG_20210807_105145.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
