@@ -289,6 +289,8 @@ sections:
           - pl-1
           - pr-1
         justifyContent: center
+        margin:
+          - mt-1
       subtitle:
         textAlign: center
         fontWeight: 700
