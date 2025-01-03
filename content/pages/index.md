@@ -67,7 +67,7 @@ sections:
           - pr-0
         justifyContent: center
         margin:
-          - ml-1
+          - ml-0
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
