@@ -196,7 +196,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Book Now
             altText: ''
             url: /ecotours
             showIcon: false
