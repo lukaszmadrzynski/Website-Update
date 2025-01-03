@@ -1,7 +1,7 @@
 {
     "light": "#ffffff",
     "dark": "#4A4A4A",
-    "neutral": "#E8E8EB",
+    "neutral": "#fcfcfc",
     "neutralAlt": "#DCDCDC",
     "primary": "#2a2a2a",
     "fontBody": "sans",
@@ -15,7 +15,7 @@
         "type": "ThemeStyleHeading"
     },
     "h2": {
-        "size": "5xl",
+        "size": "4xl",
         "weight": "normal",
         "decoration": "none",
         "case": "none",
@@ -47,7 +47,7 @@
         "type": "ThemeStyleHeading"
     },
     "h6": {
-        "size": "lg",
+        "size": "4xl",
         "weight": "normal",
         "decoration": "none",
         "case": "none",

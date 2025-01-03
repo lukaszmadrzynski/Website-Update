@@ -1,37 +1,39 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/LOGO GREEN.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Cloud Mountain\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Services",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
+                "label": "Ecotours",
+                "altText": "Ecotours page",
+                "url": "/ecotours",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Camps",
+                "url": "/camps",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Camps page"
             },
             {
-                "label": "Documentation",
-                "url": "/",
+                "label": "Consulting",
+                "url": "/consulting",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Consulting page"
             }
         ],
         "type": "FooterLinksGroup"
@@ -40,49 +42,62 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "Why Us",
+                "altText": "Why Us page",
+                "url": "/why-us",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "About Us",
+                "url": "/about-us",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "About Us page"
+            },
+            {
+                "type": "Link",
+                "label": "Contact Us",
+                "altText": "Contact Us page",
+                "url": "/contact-us",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/cloud.mountain.sustainability/",
+            "icon": "instagram",
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
+            "altText": "Facebook link",
+            "url": "s",
+            "icon": "facebook",
             "type": "Social"
         },
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "/",
             "icon": "linkedin",
             "type": "Social"
         },
         {
+            "type": "Social",
             "altText": "Email link",
-            "url": "/",
+            "url": "\"lukas@cloudmountain.top\"",
             "icon": "mail",
-            "type": "Social"
+            "elementId": ""
         }
     ],
     "legalLinks": [
@@ -103,7 +118,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "© Lijiang Cloud Mountain Education Consulting Co. Ltd.\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
