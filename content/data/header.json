@@ -31,7 +31,7 @@
         },
         {
             "label": "Camps",
-            "altText": "",
+            "altText": "Camps page",
             "url": "/camps",
             "icon": "arrowRight",
             "iconPosition": "right",
