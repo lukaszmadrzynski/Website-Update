@@ -24,10 +24,6 @@ sections:
       styles:
         self:
           borderRadius: medium
-    title:
-      type: TitleBlock
-      text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
-      color: text-dark
   - type: GenericSection
     subtitle: Northwest Yunnan / Southeast Tibet
     text: >
