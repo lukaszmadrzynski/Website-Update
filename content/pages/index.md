@@ -63,7 +63,7 @@ sections:
         padding:
           - pt-1
           - pl-16
-          - pb-16
+          - pb-3
           - pr-16
   - type: FeaturedItemsSection
     title:
