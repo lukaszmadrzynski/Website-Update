@@ -241,7 +241,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/DSCN0241.jpg
+          url: /images/abstract-feature1.svg
           altText: Featured icon three
           elementId: ''
         actions: []
