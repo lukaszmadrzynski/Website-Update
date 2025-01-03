@@ -65,6 +65,7 @@ sections:
           - pl-16
           - pb-3
           - pr-16
+        justifyContent: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
