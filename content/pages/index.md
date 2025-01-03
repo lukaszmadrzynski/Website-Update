@@ -18,17 +18,13 @@ sections:
           - pr-1
     media:
       type: ImageBlock
-      url: /images/IMG_20210807_105145.jpg
+      url: /images/hero.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
         self:
           borderRadius: medium
   - type: GenericSection
-    title:
-      text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
-      color: text-dark
-      type: TitleBlock
     subtitle: Northwest Yunnan / Southeast Tibet
     text: >
       Immerse yourself in the breathtaking landscapes and vibrant cultures of
@@ -68,6 +64,12 @@ sections:
         justifyContent: center
         margin:
           - ml-0
+      text:
+        textAlign: justify
+    title:
+      type: TitleBlock
+      text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
+      color: text-dark
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
