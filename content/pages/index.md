@@ -11,6 +11,11 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - pt-1
+          - pb-1
+          - pl-1
+          - pr-1
     media:
       type: ImageBlock
       url: /images/IMG_20210807_105145.jpg
@@ -56,14 +61,17 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-5
+          - pl-2
+          - pb-2
+          - pr-2
+        justifyContent: center
+        margin:
+          - ml-0
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Featured Ecotours
+      text: 2025 Featured Ecotours
       color: text-dark
       styles:
         self:
