@@ -11,14 +11,6 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-    media:
-      type: ImageBlock
-      url: /images/IMG_20210807_105145.jpg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
   - type: GenericSection
     title:
       text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
