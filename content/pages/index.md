@@ -50,7 +50,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero3.svg
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
