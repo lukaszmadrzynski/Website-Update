@@ -13,7 +13,7 @@ sections:
         flexDirection: row-reverse
         padding:
           - pt-1
-          - pb-4
+          - pb-1
     media:
       type: ImageBlock
       url: /images/IMG_20210807_105145.jpg
