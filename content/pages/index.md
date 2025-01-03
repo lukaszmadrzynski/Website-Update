@@ -216,6 +216,8 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
+            margin:
+              - ml-1
       - type: FeaturedItem
         title: 20x
         subtitle: The Job Stuff
