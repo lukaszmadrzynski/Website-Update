@@ -66,6 +66,10 @@ sections:
           - ml-0
       text:
         textAlign: justify
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
