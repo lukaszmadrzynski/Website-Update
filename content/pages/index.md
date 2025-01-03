@@ -66,6 +66,8 @@ sections:
           - pb-3
           - pr-0
         justifyContent: center
+        margin:
+          - ml-1
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
