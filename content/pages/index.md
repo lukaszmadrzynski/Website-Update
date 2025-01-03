@@ -62,7 +62,7 @@ sections:
         flexDirection: row
         padding:
           - pt-4
-          - pl-3
+          - pl-0
           - pb-3
           - pr-3
         justifyContent: center
