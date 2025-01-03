@@ -291,6 +291,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
   - type: CarouselSection
     subtitle: This is a subtitle
     items:
