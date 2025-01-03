@@ -153,7 +153,7 @@ sections:
           - pt-16
           - pl-4
           - pb-5
-          - pr-8
+          - pr-4
         justifyContent: flex-start
         margin:
           - mt-1
