@@ -285,7 +285,7 @@ sections:
       styles:
         self:
           textAlign: center
-          fontWeight: 400
+          fontWeight: 700
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
