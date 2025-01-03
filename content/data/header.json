@@ -64,7 +64,7 @@
     "secondaryLinks": [
         {
             "label": "Contact Us",
-            "url": "/contactus",
+            "url": "/contact-us",
             "icon": "mail",
             "iconPosition": "right",
             "style": "secondary",
