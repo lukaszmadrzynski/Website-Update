@@ -38,7 +38,6 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/hero.jpg
       altText: ''
       elementId: ''
       type: ImageBlock
