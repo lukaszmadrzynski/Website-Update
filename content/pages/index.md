@@ -211,7 +211,7 @@ sections:
               - pt-8
               - pl-2
               - pb-8
-              - pr-8
+              - pr-1
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
