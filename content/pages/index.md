@@ -203,6 +203,47 @@ sections:
             margin:
               - ml-1
               - mr-1
+      - type: FeaturedItem
+        title: Jade Dragon Snow Mountain
+        subtitle: 1 Day Off-the-beaten-path
+        text: >
+          Embark on a challenging yet rewarding trek on Jade Dragon Snow
+          Mountain near Lijiang, experiencing diverse ecosystems and stunning
+          alpine scenery. Discover the unique flora and fauna of this iconic
+          Yunnan peak, a highlight of ecotourism in the region.
+        image:
+          type: ImageBlock
+          url: /images/DSCN0241.jpg
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Book Now
+            altText: ''
+            url: /ecotours
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+            margin:
+              - ml-1
+              - mr-1
     actions:
       - type: Button
         label: Get started
