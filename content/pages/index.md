@@ -3,6 +3,19 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      altText: Dope design preview
+      url: /images/IMG_20210807_105145.jpg
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+  - type: GenericSection
     title:
       text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
       color: text-dark
@@ -44,19 +57,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: GenericSection
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      altText: Dope design preview
-      url: /images/IMG_20210807_105145.jpg
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
