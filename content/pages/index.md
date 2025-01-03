@@ -172,7 +172,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Featured Ecotours
       color: text-dark
       styles:
         self:
