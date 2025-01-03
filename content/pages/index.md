@@ -3,6 +3,23 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
+    subtitle: ''
+    text: ''
+    actions: []
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+    media:
+      type: ImageBlock
+      url: /images/IMG_20210807_105145.jpg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
+  - type: GenericSection
     title:
       text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
       color: text-dark
@@ -15,7 +32,7 @@ sections:
       Lijiang to Shangri-La, with expert local guides, supporting community
       tourism and making a positive impact through ecotourism.
     actions:
-      - label: Ecotours
+      - label: View our Ecotours
         altText: ''
         url: /ecotours
         showIcon: false
@@ -25,7 +42,6 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/hero.jpg
       altText: ''
       elementId: ''
       type: ImageBlock
