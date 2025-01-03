@@ -45,7 +45,7 @@ sections:
           - pb-16
           - pr-16
   - type: GenericSection
-    subtitle: Be in good company
+    subtitle: ''
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
