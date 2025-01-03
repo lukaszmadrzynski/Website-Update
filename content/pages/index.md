@@ -155,6 +155,8 @@ sections:
           - pb-8
           - pr-8
         justifyContent: flex-start
+        margin:
+          - mt-1
       subtitle:
         textAlign: center
   - title: Divider
