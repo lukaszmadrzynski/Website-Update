@@ -109,7 +109,7 @@ sections:
               - pb-4
               - pr-4
             textAlign: left
-            borderRadius: medium
+            borderRadius: large
             flexDirection: col
             justifyContent: center
         text: >
