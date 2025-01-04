@@ -588,6 +588,8 @@ sections:
     styles:
       text:
         textAlign: center
+      subtitle:
+        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
