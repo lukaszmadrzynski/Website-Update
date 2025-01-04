@@ -13,5 +13,6 @@ seo:
     travel, and authentic cultural experiences in Lijiang and Shangri-La.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
