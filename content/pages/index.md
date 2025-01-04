@@ -197,7 +197,7 @@ sections:
               - pb-4
               - pr-4
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col
             justifyContent: center
             textAlign: center
             margin:
