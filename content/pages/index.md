@@ -535,6 +535,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
   - title:
       text: Generic Section With A Form
       color: text-dark
