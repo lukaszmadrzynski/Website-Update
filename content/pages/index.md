@@ -546,7 +546,7 @@ sections:
           textAlign: center
     subtitle: ''
     text: |+
-      <div style="text-align: center">Browse our Ecotours.</div>
+      <div style="text-align: center">Check our Ecotours.</div>
 
     actions:
       - type: Button
