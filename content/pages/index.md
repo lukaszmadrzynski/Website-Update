@@ -648,5 +648,7 @@ seo:
     travel with expert local guides. Book your China adventure today!
   socialImage: /images/main-hero.jpg
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
