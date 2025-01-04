@@ -257,7 +257,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Sustainable Travel
+      - title: Sustainable & Responsible
         tagline: ''
         subtitle: ''
         text: >
