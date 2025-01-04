@@ -578,10 +578,6 @@ sections:
     subtitle: We respond within one day!
     text: |
       Reach out for more tour details, special offers and customizations.  
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
     styles:
