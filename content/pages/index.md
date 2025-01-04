@@ -589,6 +589,16 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+    actions:
+      - type: Link
+        label: Send email
+        altText: Play
+        url: lukas@cloudmountain.top
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - title: Divider
     colors: bg-light-fg-dark
     styles:
