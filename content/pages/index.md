@@ -311,8 +311,10 @@ sections:
         title: Authentic & Off-the-beaten-path
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Go beyond the typical tourist attractions and engage directly with
+          local communities, experiencing the unique cultures of Lijiang,
+          Shangri-La, and beyond on our authentic ecotourism trips.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
