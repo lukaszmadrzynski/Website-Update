@@ -589,6 +589,8 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+      self:
+        justifyContent: center
     actions:
       - type: Button
         label: Get started
