@@ -165,11 +165,13 @@ sections:
       - type: FeaturedItem
         title: Jade Dragon Snow Mountain
         subtitle: 1 Day Off-the-beaten-path
-        text: >
-          Embark on a challenging yet rewarding trek on Jade Dragon Snow
-          Mountain near Lijiang, experiencing diverse ecosystems and stunning
-          alpine scenery. Discover the unique flora and fauna of this iconic
-          Yunnan peak, a highlight of ecotourism in the region.
+        text: >+
+          <div style="text-align: left">Embark on a challenging yet rewarding
+          trek on Jade Dragon Snow Mountain near Lijiang, experiencing diverse
+          ecosystems and stunning alpine scenery. Discover the unique flora and
+          fauna of this iconic Yunnan peak, a highlight of ecotourism in the
+          region.</div>
+
         image:
           type: ImageBlock
           url: /images/DSCN0241.jpg
