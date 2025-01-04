@@ -158,7 +158,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
-            textAlign: center
+            textAlign: left
             margin:
               - ml-1
               - mr-1
