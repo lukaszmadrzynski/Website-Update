@@ -539,7 +539,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: |-
+        Ready to Explore the Wonders of Ecotourism in Lijiang
+             and Shangri-La?
       color: text-dark
     subtitle: Increase your reach
     text: >
