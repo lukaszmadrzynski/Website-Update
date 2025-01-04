@@ -233,7 +233,7 @@ sections:
     items:
       - title: Expert International and Local Guides
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Our passionate and knowledgeable guides have been actively involved in
           nature conservation and sustainble development around Northwest Yunnan
