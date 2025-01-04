@@ -644,6 +644,7 @@ sections:
           - pt-8
           - pb-8
           - pl-2
+          - pr-2
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
