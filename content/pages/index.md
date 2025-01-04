@@ -575,7 +575,7 @@ sections:
         self:
           textAlign: center
           fontWeight: 400
-    subtitle: We respond to all inquiries within one day!
+    subtitle: We respond within one day!
     text: |+
       We respond to all inquiries within one day!
 
