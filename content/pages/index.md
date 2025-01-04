@@ -576,9 +576,8 @@ sections:
           textAlign: center
           fontWeight: 400
     subtitle: We respond within one day!
-    text: |+
-      We respond to all inquiries within one day!
-
+    text: |
+      Reach out for more tour details, special offers and customizations.  
     badge:
       label: Contact Us
       color: text-primary
