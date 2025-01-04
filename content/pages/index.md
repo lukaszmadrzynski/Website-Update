@@ -568,7 +568,7 @@ sections:
         alignItems: center
         justifyContent: center
   - title:
-      text: Generic Section With A Form
+      text: Contact Us
       color: text-dark
       type: TitleBlock
     subtitle: Choose your preferred
