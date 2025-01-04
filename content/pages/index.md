@@ -284,7 +284,7 @@ sections:
         type: FeaturedItem
       - title: Private & Customized
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Enjoy a private and personalized experience on our ecotours in Yunnan,
           focusing on Lijiang, Shangri-La, and surrounding areas, fostering
