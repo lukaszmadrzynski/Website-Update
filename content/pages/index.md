@@ -589,16 +589,7 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-    actions:
-      - type: Link
-        label: ''
-        altText: ''
-        url: ''
-        showIcon: true
-        icon: mail
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
   - title: Divider
     colors: bg-light-fg-dark
     styles:
