@@ -641,7 +641,7 @@ sections:
         justifyContent: center
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Cloud Mountain Ecotours
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
