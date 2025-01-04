@@ -589,7 +589,16 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /contact-us
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - title: Divider
     colors: bg-light-fg-dark
     styles:
