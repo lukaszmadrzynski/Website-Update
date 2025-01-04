@@ -613,7 +613,7 @@ sections:
   - title:
       text: |-
         About
-        Cloud Mountain and Our Commitment to Yunnan
+        Cloud Mountain
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
