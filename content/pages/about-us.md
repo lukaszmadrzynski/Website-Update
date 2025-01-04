@@ -16,4 +16,8 @@ seo:
   socialImage: /images/main-hero.jpg
   metaTags:
     - type: MetaTag
+      content: >-
+        about us cloud mountain ecotours, cloud mountain founders, lukas
+        madrzynski, lynne lyu, sustainable travel yunnan, responsible tourism
+        china, lijiang ecotours, shangri-la tours, our story, our mission
 ---
