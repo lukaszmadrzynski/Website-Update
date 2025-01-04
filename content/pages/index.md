@@ -652,7 +652,7 @@ seo:
     - type: MetaTag
       content: >-
         yunnan ecotours, china ecotours, lijiang travel, shangri-la tours, tibet
-        travel china, yunnan travel, sustainable tourism china, cultural tours
-        yunnan, hiking china, adventure travel china
+        travel china, yunnan travel, sustainable tourism china, yunnan tours,
+        hiking china, adventure travel china
 type: PageLayout
 ---
