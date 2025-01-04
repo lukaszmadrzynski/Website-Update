@@ -259,7 +259,7 @@ sections:
         type: FeaturedItem
       - title: Sustainable Travel
         tagline: a
-        subtitle: ''
+        subtitle: a
         text: >
           We are deeply committed to minimizing our environmental impact and
           supporting local communities through ethical and sustainable tourism
