@@ -546,7 +546,7 @@ sections:
           textAlign: center
     subtitle: ''
     text: |
-      Ready to Explore?
+      Browse our Ecotours!
     actions: []
     media:
       type: ImageBlock
