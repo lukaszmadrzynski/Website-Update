@@ -258,7 +258,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Sustainable Travel
-        tagline: a
+        tagline: ''
         subtitle: ''
         text: >
           We are deeply committed to minimizing our environmental impact and
