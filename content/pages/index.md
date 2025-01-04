@@ -593,7 +593,7 @@ sections:
         justifyContent: center
     actions:
       - type: Button
-        label: Get started
+        label: Contact Us
         altText: ''
         url: /contact-us
         showIcon: false
