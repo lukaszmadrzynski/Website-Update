@@ -571,6 +571,9 @@ sections:
       text: Contact Us
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: Choose your preferred
     text: |+
       We respond to all inquiries within one day!
