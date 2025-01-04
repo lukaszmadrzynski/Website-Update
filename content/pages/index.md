@@ -539,7 +539,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Explore the Wonders of Yunnan & Tibet?
+      text: Ready to Explore?
       color: text-dark
     subtitle: Increase your reach
     text: >
