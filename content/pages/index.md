@@ -350,7 +350,7 @@ sections:
     type: FeaturedItemsSection
   - type: CarouselSection
     title: null
-    subtitle: What our travelers say about us
+    subtitle: Hear from our Ecotravelers
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
