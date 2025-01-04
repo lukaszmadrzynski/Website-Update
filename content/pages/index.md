@@ -632,7 +632,7 @@ sections:
       altText: About us photo
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: About Us
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
