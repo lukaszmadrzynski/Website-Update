@@ -566,6 +566,7 @@ sections:
     styles:
       self:
         alignItems: center
+        justifyContent: center
   - title:
       text: Generic Section With A Form
       color: text-dark
