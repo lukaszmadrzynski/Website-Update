@@ -199,7 +199,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-            textAlign: left
+            textAlign: center
             margin:
               - ml-1
               - mr-1
