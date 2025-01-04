@@ -542,9 +542,8 @@ sections:
       text: Ready to Explore?
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      Browse our Ecotours
     actions:
       - type: Button
         label: Get started
