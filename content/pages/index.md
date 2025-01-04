@@ -616,10 +616,10 @@ sections:
       type: TitleBlock
     subtitle: Be in good company
     text: >
-      Cloud Mountain is dedicated to providing exceptional ecotourism
-      experiences that support local communities and sustainable development in
-      some of the most vulnerable areas of Yunnan province, China. Learn more
-      about our mission and team.
+      We are dedicated to providing exceptional ecotourism experiences that
+      support local communities and sustainable development in some of the most
+      vulnerable areas of Yunnan province, China. Learn more about our mission
+      and team.
     actions:
       - label: About Us
         url: /aboutus
