@@ -549,9 +549,6 @@ sections:
       <div style="text-align: center">Browse our Ecotours.</div>
 
     actions: []
-    media:
-      type: ImageBlock
-      altText: Fun feature preview
     badge:
       type: Badge
       label: ''
