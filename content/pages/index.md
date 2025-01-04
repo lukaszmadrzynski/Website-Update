@@ -348,7 +348,7 @@ sections:
     type: FeaturedItemsSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: What travelers say about us
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
