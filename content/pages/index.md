@@ -548,7 +548,16 @@ sections:
     text: |+
       <div style="text-align: center">Browse our Ecotours.</div>
 
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /ecotours
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     badge:
       type: Badge
       label: ''
