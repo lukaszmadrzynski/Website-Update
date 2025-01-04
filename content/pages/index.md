@@ -542,7 +542,8 @@ sections:
       text: Ready to Explore?
       color: text-dark
     subtitle: ''
-    text: ''
+    text: |
+      Ready to Explore?
     actions: []
     media:
       type: ImageBlock
