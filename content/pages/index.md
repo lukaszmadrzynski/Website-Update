@@ -587,6 +587,8 @@ sections:
         textAlign: center
       self:
         justifyContent: center
+        padding:
+          - pt-4
     actions:
       - type: Button
         label: Contact Us
