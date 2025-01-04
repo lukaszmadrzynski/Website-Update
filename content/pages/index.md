@@ -611,9 +611,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: |-
-        About
-        Cloud Mountain
+      text: Cloud Mountain Ecotours
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
