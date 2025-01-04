@@ -642,6 +642,7 @@ sections:
         flexDirection: row-reverse
         padding:
           - pt-8
+          - pb-8
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
