@@ -234,8 +234,11 @@ sections:
       - title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Our passionate and knowledgeable guides have been actively involved in
+          nature conservation and sustainble development around Northwest Yunnan
+          and Southeast Tibet, offering unique insights and ensuring an
+          authentic ecotourism experience.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
