@@ -624,6 +624,9 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    styles:
+      text:
+        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
