@@ -568,7 +568,7 @@ sections:
         alignItems: center
         justifyContent: center
   - title:
-      text: Contact Us
+      text: INQUIRE & BOOK
       color: text-dark
       type: TitleBlock
       styles:
