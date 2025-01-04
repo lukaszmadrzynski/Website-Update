@@ -163,7 +163,7 @@ sections:
               - ml-1
               - mr-1
       - type: FeaturedItem
-        title: Jade Dragon Snow Mountain
+        title: 'Lijiang: Laojun Mountain'
         subtitle: 1 Day Off-the-beaten-path
         text: >+
           <div style="text-align: left">Embark on a challenging yet rewarding
