@@ -232,7 +232,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: Expert International and Local Guides
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >
           Our passionate and knowledgeable guides have been actively involved in
