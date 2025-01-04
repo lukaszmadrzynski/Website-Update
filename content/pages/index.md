@@ -642,7 +642,10 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Cloud Mountain Ecotours
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Discover unforgettable ecotours in Yunnan, China. Explore the natural and
+    cultural wonders of Lijiang and Tibetan Shangri-La. Experience sustainable
+    travel with expert local guides. Book your China adventure today!
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
