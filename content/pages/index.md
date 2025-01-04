@@ -173,7 +173,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/DSCN0241.jpg
-          altText: Lightning bolt symbol on red background
+          altText: ''
           elementId: ''
           styles:
             self:
