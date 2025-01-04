@@ -286,9 +286,9 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Enjoy a private and personalized experience on our ecotours in Yunnan,
-          focusing on Lijiang, Shangri-La, and surrounding areas, fostering
-          deeper connections with nature and culture.
+          Enjoy a private and personalized experience on our ecotours in
+          Northwest Yunnan and Southeast Tibet, fostering deeper connections
+          with nature and culture.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
