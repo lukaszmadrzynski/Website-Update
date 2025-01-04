@@ -571,7 +571,7 @@ sections:
       text: Generic Section With A Form
       color: text-dark
       type: TitleBlock
-    subtitle: Choose your prefered
+    subtitle: Choose your preferred
     text: |+
       We respond to all inquiries within one day!
 
