@@ -645,6 +645,7 @@ sections:
           - pb-8
           - pl-2
           - pr-2
+        justifyContent: center
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
