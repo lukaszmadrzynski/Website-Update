@@ -539,9 +539,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: |-
-        Ready to Explore the Wonders of Ecotourism in Lijiang
-             and Shangri-La?
+      text: Ready to Explore the Wonders of Yunnan & Tibet?
       color: text-dark
     subtitle: Increase your reach
     text: >
