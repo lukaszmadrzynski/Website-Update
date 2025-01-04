@@ -19,5 +19,5 @@ seo:
       content: >-
         yunnan ecotours, china adventure tours, lijiang ecotours, shangri-la
         ecotours, tibet china tours, hiking tours yunnan, cultural travel china,
-        small group tours yunnan, private tours china
+        small group tours yunnan, private tours china, china ecotours
 ---
