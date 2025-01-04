@@ -543,7 +543,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: |
-      Browse our Ecotours
+      Browse our Ecotours!
     actions:
       - type: Button
         label: Get started
