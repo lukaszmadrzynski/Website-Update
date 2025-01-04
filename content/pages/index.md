@@ -308,7 +308,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - type: FeaturedItem
-        title: Feature Item One
+        title: Authentic & Off-the-beaten-path
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
