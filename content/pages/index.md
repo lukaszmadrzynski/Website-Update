@@ -231,7 +231,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Feature Item One
+      - title: 'Expert International and Local Guides in Lijiang and Shangri-La:'
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
