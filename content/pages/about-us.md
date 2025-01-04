@@ -14,5 +14,6 @@ seo:
     Lijiang and Tibetan Shangri-La.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
