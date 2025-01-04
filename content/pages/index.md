@@ -575,7 +575,7 @@ sections:
         self:
           textAlign: center
           fontWeight: 400
-    subtitle: Choose your preferred
+    subtitle: We respond to all inquiries within one day!
     text: |+
       We respond to all inquiries within one day!
 
