@@ -286,8 +286,9 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          Enjoy a private and personalized experience on our ecotours in Yunnan,
+          focusing on Lijiang, Shangri-La, and surrounding areas, fostering
+          deeper connections with nature and culture.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
