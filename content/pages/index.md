@@ -355,7 +355,9 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: ''
         subtitle: 'Maria Walters, Company'
-        text: ''
+        text: >
+          “A designer knows he has achieved perfection not when there is nothing
+          left to add, but when there is nothing left to take away.”
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
