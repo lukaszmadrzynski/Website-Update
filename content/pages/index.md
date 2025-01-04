@@ -592,7 +592,7 @@ sections:
     actions:
       - type: Link
         label: Send email
-        altText: Play
+        altText: ''
         url: ''
         showIcon: true
         icon: mail
