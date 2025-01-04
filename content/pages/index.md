@@ -640,6 +640,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - pt-8
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
