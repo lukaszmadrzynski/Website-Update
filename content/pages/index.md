@@ -231,7 +231,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Expert Guides
+      - title: Expert Local Guides
         tagline: ''
         subtitle: ''
         text: >
