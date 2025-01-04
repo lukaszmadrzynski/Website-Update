@@ -283,7 +283,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Private & Customized
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           Enjoy a private and personalized experience on our ecotours in Yunnan,
