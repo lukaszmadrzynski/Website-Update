@@ -541,6 +541,9 @@ sections:
       type: TitleBlock
       text: Ready to Explore?
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
     text: |
       Ready to Explore?
