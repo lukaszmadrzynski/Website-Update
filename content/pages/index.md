@@ -643,6 +643,7 @@ sections:
         padding:
           - pt-8
           - pb-8
+          - pl-2
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
