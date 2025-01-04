@@ -593,7 +593,7 @@ sections:
       - type: Link
         label: Send email
         altText: Play
-        url: lukas@cloudmountain.top
+        url: ''
         showIcon: true
         icon: mail
         iconPosition: right
