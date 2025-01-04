@@ -546,7 +546,7 @@ sections:
           textAlign: center
     subtitle: ''
     text: |+
-      <div style="text-align: center">Browse our Ecotours!</div>
+      <div style="text-align: center">Browse our Ecotours.</div>
 
     actions: []
     media:
