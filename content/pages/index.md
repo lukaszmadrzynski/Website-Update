@@ -591,7 +591,7 @@ sections:
         textAlign: center
     actions:
       - type: Link
-        label: lukas@cloudmountain.top
+        label: ''
         altText: ''
         url: ''
         showIcon: true
