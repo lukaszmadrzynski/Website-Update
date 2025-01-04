@@ -310,7 +310,7 @@ sections:
       - type: FeaturedItem
         title: Authentic & Off-the-beaten-path
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
