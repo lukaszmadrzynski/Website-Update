@@ -542,8 +542,7 @@ sections:
       text: Ready to Explore?
       color: text-dark
     subtitle: ''
-    text: |
-      Browse our Ecotours! fc
+    text: ''
     actions: []
     media:
       type: ImageBlock
