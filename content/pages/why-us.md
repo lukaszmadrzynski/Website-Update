@@ -15,4 +15,8 @@ seo:
   socialImage: /images/main-hero.jpg
   metaTags:
     - type: MetaTag
+      content: >-
+        yunnan ecotours best, sustainable travel china, expert guides yunnan,
+        small group tours china, authentic cultural experiences yunnan, lijiang
+        shangri-la ecotours
 ---
