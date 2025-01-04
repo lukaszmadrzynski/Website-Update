@@ -260,8 +260,10 @@ sections:
       - title: Sustainable Travel
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          We are deeply committed to minimizing our environmental impact and
+          supporting local communities through ethical and sustainable tourism
+          practices.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
