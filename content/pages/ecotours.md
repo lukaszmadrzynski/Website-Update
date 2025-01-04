@@ -14,5 +14,6 @@ seo:
     adventure today!
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
