@@ -622,7 +622,7 @@ sections:
       and team.
     actions:
       - label: About Us
-        url: /aboutus
+        url: /about-us
         icon: arrowRight
         iconPosition: right
         style: secondary
