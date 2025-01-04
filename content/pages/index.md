@@ -545,8 +545,9 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: |
-      Browse our Ecotours!
+    text: |+
+      <div style="text-align: center">Browse our Ecotours!</div>
+
     actions: []
     media:
       type: ImageBlock
