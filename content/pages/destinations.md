@@ -118,8 +118,7 @@ sections:
         title: Lijiang Old Town
         tagline: ''
         subtitle: UNESCO Cultural Heritage Site
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
