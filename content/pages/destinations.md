@@ -235,6 +235,37 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: Ready to Explore?
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    text: |+
+      <div style="text-align: center">Get Started!</div>
+
+    actions:
+      - type: Button
+        label: Choose Your Ecotour!
+        altText: ''
+        url: /ecotours
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        justifyContent: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: Inquiry and Booking
       color: text-dark
       styles:
@@ -265,37 +296,6 @@ sections:
         padding:
           - pt-6
           - pb-6
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Ready to Explore?
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    text: |+
-      <div style="text-align: center">Get Started!</div>
-
-    actions:
-      - type: Button
-        label: Choose Your Ecotour!
-        altText: ''
-        url: /ecotours
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        justifyContent: center
 slug: /destinations
 isDraft: false
 seo:
