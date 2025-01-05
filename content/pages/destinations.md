@@ -87,7 +87,7 @@ sections:
       - type: FeaturedItem
         title: Lijiang Old Town UNESCO Cultural Heritage Site
         tagline: Lijiang
-        subtitle: This is the item subtitle
+        subtitle: UNESCO Cultural Heritage Site
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
