@@ -14,4 +14,5 @@ seo:
   socialImage: /images/main-hero.jpg
   metaTags:
     - type: MetaTag
+      content: ' Lijiang, Shangri-La, Yunnan, China, Ecotourism, Travel, Destinations, Attractions, Things to do, Culture, Nature, Adventure, Jade Dragon Snow Mountain, Yulong Snow Mountain, Wenhai, Lashi, Lashihai, Wetlands, Nature Reserve'
 ---
