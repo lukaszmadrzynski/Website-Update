@@ -297,7 +297,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-6
+          - pt-9
           - pb-12
 slug: /destinations
 isDraft: false
