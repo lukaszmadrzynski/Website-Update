@@ -31,7 +31,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /destinations/yulong-snow-mountain
+            url: /destinations/jade-dragon-snow-mountain
             showIcon: false
             icon: arrowRight
             iconPosition: right
