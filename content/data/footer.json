@@ -38,41 +38,6 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "secondaryLinks": {
-        "title": "",
-        "links": [
-            {
-                "label": "Why Us",
-                "altText": "Why Us page",
-                "url": "/why-us",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "About Us",
-                "url": "/about-us",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link",
-                "altText": "About Us page"
-            },
-            {
-                "type": "Link",
-                "label": "Contact Us",
-                "altText": "Contact Us page",
-                "url": "/contact-us",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [
         {
             "altText": "Instagram link",
