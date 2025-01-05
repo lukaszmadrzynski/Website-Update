@@ -33,7 +33,7 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link",
-                "altText": "Consulting page"
+                "altText": "Destinations page"
             }
         ],
         "type": "FooterLinksGroup"
