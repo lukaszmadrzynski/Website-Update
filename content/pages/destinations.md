@@ -56,7 +56,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/wenhai1.jpg
           altText: Placeholder image
           styles:
             self:
