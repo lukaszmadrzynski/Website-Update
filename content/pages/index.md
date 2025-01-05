@@ -139,7 +139,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Book Now
+            label: Learn More
             altText: ''
             url: /ecotours
             showIcon: false
