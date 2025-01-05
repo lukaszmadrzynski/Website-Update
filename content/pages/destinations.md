@@ -85,7 +85,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item One
+        title: Lijiang Old Town UNESCO Cultural Heritage Site
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
