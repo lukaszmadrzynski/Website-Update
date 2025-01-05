@@ -110,7 +110,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Baima Snow Mountain Nature Reserve
-        tagline: This is the tagline
+        tagline: Shangri-La
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
