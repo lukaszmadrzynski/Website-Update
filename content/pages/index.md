@@ -226,7 +226,7 @@ sections:
       text: |-
         Why
         Choose Us
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
