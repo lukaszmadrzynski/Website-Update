@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Our Ecotourism Destinations
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
