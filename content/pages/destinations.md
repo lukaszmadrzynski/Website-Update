@@ -71,6 +71,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
+            textAlign: center
       - type: FeaturedItem
         title: Laojun Mountains
         tagline: ''
