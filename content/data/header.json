@@ -41,17 +41,6 @@
         },
         {
             "type": "Link",
-            "label": "Consulting",
-            "altText": "Consulting page",
-            "url": "/consulting",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
             "label": "About Us",
             "altText": "About Us page",
             "url": "/about-us",
