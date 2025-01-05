@@ -123,7 +123,7 @@ sections:
               - mr-1
       - type: FeaturedItem
         title: Yunnan Snub-nosed Monkey Journey
-        subtitle: 1 Day Off-the-beaten-path
+        subtitle: 2 Days | Wildlife Experience
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
           Mountain near Lijiang, experiencing diverse ecosystems and stunning
