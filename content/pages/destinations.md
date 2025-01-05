@@ -109,7 +109,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Baima Snow Mountain Nature Reserve
+        title: Baima Snow Mountain
         tagline: Shangri-La
         subtitle: This is the item subtitle
         text: |
