@@ -81,7 +81,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 'Lijiang: Jade Dragon Snow Mountain'
+        title: Jade Dragon Snow Mountain Conservation Patrol
         subtitle: 1 Day Off-the-beaten-path
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
