@@ -109,7 +109,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Laojun Mountains World Natural Heritage Site
+        title: Laojun Mountains UNESCO Natural Heritage Site
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
