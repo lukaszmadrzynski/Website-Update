@@ -122,7 +122,7 @@ sections:
               - ml-1
               - mr-1
       - type: FeaturedItem
-        title: 'Shangri La: Yunnan Snub-nosed Monkey'
+        title: Yunnan Snub-nosed Monkey Journey
         subtitle: 1 Day Off-the-beaten-path
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
