@@ -13,7 +13,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Lijiang Old Town UNESCO Cultural Heritage Site
+        title: Jade Dragon Snow Mountain Nature Reserve
         tagline: Lijiang
         subtitle: This is the item subtitle
         text: |
