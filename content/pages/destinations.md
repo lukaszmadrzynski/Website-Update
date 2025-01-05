@@ -85,7 +85,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Lijiang Old Town UNESCO Cultural Heritage Site
+        title: Lijiang Old Town
         tagline: Lijiang
         subtitle: UNESCO Cultural Heritage Site
         text: |
