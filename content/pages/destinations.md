@@ -152,8 +152,7 @@ sections:
         title: Baima Snow Mountain
         tagline: ''
         subtitle: Nature Reserve
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
