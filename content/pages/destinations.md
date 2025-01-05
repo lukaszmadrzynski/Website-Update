@@ -11,10 +11,10 @@ sections:
         self:
           textAlign: center
     subtitle: >-
-      Discover the unique charm and natural beauty of Northwest Yunnan, China's
-      premier ecotourism destinations, including Lijiang and Tibetan Shangri-La
-      – places where we actively work alongside local communities on impactful
-      nature conservation and sustainable development projects.
+      Get to know the real Northwest Yunnan in Lijiang and Tibetan Shangri-La,
+      places where our story is intertwined with the local communities, working
+      side-by-side on genuine conservation and building a sustainable home for
+      everyone.
     items:
       - type: FeaturedItem
         title: Jade Dragon Snow Mountain
