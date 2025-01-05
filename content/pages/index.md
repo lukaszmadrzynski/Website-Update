@@ -570,7 +570,7 @@ sections:
           fontWeight: 400
     subtitle: We respond within one day!
     text: |
-      Reach out for more tour details, special offers and customizations.  
+      Reach out for more tours, details, special offers and customizations.
     colors: bg-light-fg-dark
     type: GenericSection
     styles:
