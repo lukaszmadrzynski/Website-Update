@@ -48,7 +48,7 @@ sections:
       type: ImageBlock
     badge:
       label: Cloud mountain
-      color: text-primary
+      color: text-dark
       type: Badge
     elementId: ''
     colors: bg-light-fg-dark
