@@ -61,7 +61,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Wenhai Wetlands Nature Reserve
         tagline: Lijiang
         subtitle: This is the item subtitle
         text: |
