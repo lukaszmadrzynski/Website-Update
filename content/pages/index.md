@@ -560,7 +560,7 @@ sections:
         alignItems: center
         justifyContent: center
         padding:
-          - pt-8
+          - pt-10
   - title:
       text: Inquiry and Booking
       color: text-dark
