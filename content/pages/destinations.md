@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Jade Dragon Snow Mountain Nature Reserve
+        title: Jade Dragon Snow Mountain
         tagline: ''
         subtitle: Nature Reserve
         text: ''
