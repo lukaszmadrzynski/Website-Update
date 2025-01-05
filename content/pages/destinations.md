@@ -62,7 +62,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Laojun Mountains
-        tagline: Lijiang
+        tagline: ''
         subtitle: UNESCO Natural Heritage Site
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
