@@ -174,7 +174,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/DSCN0241.jpg
+          url: /images/wenhai2.jpg
           altText: ''
           elementId: ''
           styles:
