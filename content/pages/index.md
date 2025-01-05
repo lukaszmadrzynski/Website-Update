@@ -559,6 +559,8 @@ sections:
       self:
         alignItems: center
         justifyContent: center
+        padding:
+          - pt-8
   - title:
       text: Inquiry and Booking
       color: text-dark
