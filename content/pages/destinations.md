@@ -38,7 +38,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Wenhai Wetlands
-        tagline: Lijiang
+        tagline: ''
         subtitle: Nature Reserve
         text: |
           Follow the tutorial to build your first awesome Netlify site.
