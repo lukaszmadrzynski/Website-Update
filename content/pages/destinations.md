@@ -192,7 +192,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/lashi1.jpg
           altText: Placeholder text
           styles:
             self:
