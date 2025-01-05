@@ -71,7 +71,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
