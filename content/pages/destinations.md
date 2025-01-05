@@ -105,6 +105,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
             textAlign: center
+            justifyContent: center
       - type: FeaturedItem
         title: Lijiang Old Town
         tagline: ''
