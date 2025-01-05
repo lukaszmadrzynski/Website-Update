@@ -13,8 +13,7 @@ sections:
     subtitle: >-
       Get to know the real Northwest Yunnan in Lijiang and Tibetan Shangri-La,
       places where our story is intertwined with the local communities, working
-      side-by-side on genuine conservation and building a sustainable home for
-      everyone.
+      side-by-side on nature conservation and sustainable development.
     items:
       - type: FeaturedItem
         title: Jade Dragon Snow Mountain
