@@ -628,7 +628,7 @@ sections:
       type: ImageBlock
     badge:
       label: About Us
-      color: text-primary
+      color: text-dark
       type: Badge
     colors: bg-light-fg-dark
     styles:
