@@ -12,5 +12,6 @@ seo:
     China. Plan your ecotourism adventure to these stunning destinations.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
