@@ -61,7 +61,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Laojun Mountains UNESCO Natural Heritage Site
+        title: Laojun Mountains
         tagline: Lijiang
         subtitle: This is the item subtitle
         text: |
