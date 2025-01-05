@@ -39,7 +39,7 @@ sections:
       - type: FeaturedItem
         title: Wenhai Wetlands Nature Reserve
         tagline: Lijiang
-        subtitle: This is the item subtitle
+        subtitle: Nature Reserve
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
