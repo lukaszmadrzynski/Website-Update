@@ -134,7 +134,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Lashihai Wetlands
-        tagline: Lijiang
+        tagline: ''
         subtitle: Nature Reserve
         text: |
           Follow the tutorial to build your first Netlify Create site.
