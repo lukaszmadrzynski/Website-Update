@@ -16,7 +16,7 @@ sections:
       side-by-side on nature conservation and sustainable development.
     items:
       - type: FeaturedItem
-        title: Jade Dragon Snow Mountain
+        title: Yulong Snow Mountain
         tagline: ''
         subtitle: Nature Reserve
         text: ''
