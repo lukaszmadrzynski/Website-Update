@@ -109,7 +109,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Laojun Mountains UNESCO Natural Heritage Site
+        title: Baima Snow Mountain Nature Reserve
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
