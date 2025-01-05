@@ -13,7 +13,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Jade Dragon Snow Mountain Nature Reserve
+        title: Jade Dragon Snow Mountain
         tagline: Lijiang
         subtitle: Nature Reserve
         text: |
