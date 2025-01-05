@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Feature Item One
-        tagline: Year-round
+        tagline: Lijiang
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify site.
