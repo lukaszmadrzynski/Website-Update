@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: Jade Dragon Snow Mountain Nature Reserve
         tagline: Lijiang
-        subtitle: This is the item subtitle
+        subtitle: Nature Reserve
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
