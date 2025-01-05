@@ -359,7 +359,6 @@ sections:
         subtitle: 'Maria Walters, Company'
         text: ''
         image:
-          url: /images/person-placeholder-light.png
           altText: Maria Walters
           styles:
             self:
