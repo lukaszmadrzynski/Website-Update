@@ -61,7 +61,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Wenhai Wetlands Nature Reserve
+        title: Laojun Mountains UNESCO Natural Heritage Site
         tagline: Lijiang
         subtitle: This is the item subtitle
         text: |
