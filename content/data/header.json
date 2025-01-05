@@ -33,7 +33,7 @@
         {
             "label": "Camps",
             "altText": "Camps page",
-            "url": "/camps",
+            "url": "/destinations",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
