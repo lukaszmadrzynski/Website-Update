@@ -1,7 +1,38 @@
 ---
 type: PageLayout
 title: Why Us
-sections: []
+sections:
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Ready to Explore?
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    text: |+
+      <div style="text-align: center">Check our Ecotours.</div>
+
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /ecotours
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        justifyContent: center
 slug: /why-us
 isDraft: false
 seo:
