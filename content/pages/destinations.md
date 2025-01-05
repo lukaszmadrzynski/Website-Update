@@ -50,8 +50,7 @@ sections:
         title: Wenhai Wetlands
         tagline: ''
         subtitle: Nature Reserve
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
