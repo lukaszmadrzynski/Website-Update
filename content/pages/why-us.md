@@ -12,7 +12,7 @@ sections:
           textAlign: center
     subtitle: ''
     text: |+
-      <div style="text-align: center">Check our Ecotours.</div>
+      <div style="text-align: center">Get Started!</div>
 
     actions:
       - type: Button
