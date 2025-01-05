@@ -135,7 +135,7 @@ sections:
       - type: FeaturedItem
         title: Lashihai Wetlands
         tagline: Lijiang
-        subtitle: This is the item subtitle
+        subtitle: Nature Reserve
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
