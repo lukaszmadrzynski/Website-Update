@@ -37,7 +37,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Laojun Mountains UNESCO Natural Heritage Site
+        title: Wenhai Wetlands Nature Reserve
         tagline: Shangri-La
         subtitle: This is the item subtitle
         text: |
