@@ -13,7 +13,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Lijiang Old Town World Heritage Site
         tagline: Lijiang
         subtitle: This is the item subtitle
         text: |
