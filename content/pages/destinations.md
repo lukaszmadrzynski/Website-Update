@@ -86,7 +86,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Lijiang Old Town UNESCO Cultural Heritage Site
-        tagline: This is the tagline
+        tagline: Lijiang
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
