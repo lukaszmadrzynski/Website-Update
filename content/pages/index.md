@@ -561,7 +561,7 @@ sections:
         justifyContent: center
         padding:
           - pt-10
-          - pb-11
+          - pb-12
   - title:
       text: Inquiry and Booking
       color: text-dark
