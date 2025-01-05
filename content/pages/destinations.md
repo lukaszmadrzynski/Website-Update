@@ -133,7 +133,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Lashihai Wetlands Nature Reserve
+        title: Lashihai Wetlands
         tagline: Lijiang
         subtitle: This is the item subtitle
         text: |
