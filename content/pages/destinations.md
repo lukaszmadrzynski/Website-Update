@@ -38,7 +38,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Feature Item Two
-        tagline: This is the tagline
+        tagline: Seasonal (June-September)
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify site.
