@@ -19,7 +19,7 @@ sections:
         label: Choose Your Ecotour!
         altText: ''
         url: /ecotours
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
