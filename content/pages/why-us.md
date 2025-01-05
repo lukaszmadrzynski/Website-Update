@@ -16,7 +16,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Choose Your Ecotour!
         altText: ''
         url: /ecotours
         showIcon: false
