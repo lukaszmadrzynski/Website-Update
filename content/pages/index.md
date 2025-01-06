@@ -405,9 +405,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: '“Kids love Lukasz, he is very rational, patient and kind. ”'
         tagline: ''
         subtitle: ''
         text: ''
