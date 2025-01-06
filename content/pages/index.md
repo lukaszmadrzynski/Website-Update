@@ -433,7 +433,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "The expertise and knowledge of the teachers go far beyond what we
+          "The expertise and knowledge of the guides go far beyond what we
           experienced. The topic of sustainability will continue indefinitely,
           and seeds of love have already been planted in the hearts of our
           children."
