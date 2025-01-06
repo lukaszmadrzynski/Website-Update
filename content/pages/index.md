@@ -284,31 +284,6 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Sustainable & Responsible
-        tagline: ''
-        subtitle: ''
-        text: >
-          We are deeply committed to minimizing our environmental impact and
-          supporting local communities through ethical and sustainable tourism
-          practices.
-        image:
-          url: /images/Sustainable.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
       - type: FeaturedItem
         title: Authentic & Off-the-beaten-path
         tagline: ''
@@ -335,6 +310,31 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+      - title: Sustainable & Responsible
+        tagline: ''
+        subtitle: ''
+        text: >
+          We are deeply committed to minimizing our environmental impact and
+          supporting local communities through ethical and sustainable tourism
+          practices.
+        image:
+          url: /images/Sustainable.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
