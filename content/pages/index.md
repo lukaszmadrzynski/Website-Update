@@ -60,7 +60,7 @@ sections:
           - pt-5
           - pl-3
           - pb-2
-          - pr-0
+          - pr-3
         justifyContent: center
         margin:
           - ml-0
