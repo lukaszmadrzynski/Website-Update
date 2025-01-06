@@ -463,7 +463,7 @@ sections:
           waters,
 
           people, animals, and plants - have left an even deeper impression."
-        tagline: Testimonial 6
+        tagline: ''
         subtitle: 'Jane Doe, Company'
         text: ''
         actions: []
