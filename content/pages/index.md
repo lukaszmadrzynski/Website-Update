@@ -436,7 +436,7 @@ sections:
           "The expertise and knowledge of the two teachers go far beyond what we
           experienced. The topic of sustainability will continue indefinitely,
           and seeds of love have already been planted in the hearts of our
-          children.."
+          children."
         tagline: ''
         subtitle: ''
         text: ''
