@@ -464,7 +464,7 @@ sections:
 
           people, animals, and plants - have left an even deeper impression."
         tagline: ''
-        subtitle: 'Jane Doe, Company'
+        subtitle: ''
         text: ''
         actions: []
         colors: bg-neutralAlt-fg-dark
