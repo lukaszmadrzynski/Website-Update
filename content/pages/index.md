@@ -319,7 +319,7 @@ sections:
           Shangri-La, and beyond on our authentic ecotourism trips.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Off the beaten path3.jpg
           altText: Placeholder text
           styles:
             self:
