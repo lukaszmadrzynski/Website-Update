@@ -380,8 +380,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "Lynne is so sweet and helpful. She’s very thoughtful, patient,
+          knowledgeable, and experienced in communicating with children."
         tagline: ''
         subtitle: ''
         text: ''
