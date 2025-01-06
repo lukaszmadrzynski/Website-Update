@@ -385,7 +385,6 @@ sections:
         subtitle: 'John Doe, Company'
         text: ''
         image:
-          url: /images/person-placeholder-light.png
           altText: John Doe
           styles:
             self:
