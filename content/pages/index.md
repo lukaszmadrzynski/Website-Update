@@ -55,7 +55,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: col-reverse
+        flexDirection: col
         padding:
           - pt-5
           - pl-3
