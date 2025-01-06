@@ -405,7 +405,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: '“Kids love Lukasz, he is very rational, patient and kind. ”'
+      - title: >-
+          “Kids love Lukasz, he is very rational, patient and kind. He is very
+          knowledgeable in introducing local flora and fauna, highly
+          experienced, and familiar with the terrain.”
         tagline: ''
         subtitle: ''
         text: ''
