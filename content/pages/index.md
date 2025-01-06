@@ -406,7 +406,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Kids love Lukasz, he is very rational, patient and kind. He is very
+          “Kids love Lukas, he is very rational, patient and kind. He is very
           knowledgeable in introducing local flora and fauna, highly
           experienced, and familiar with the terrain.”
         tagline: ''
