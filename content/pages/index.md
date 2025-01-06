@@ -233,17 +233,16 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Expert Local Guides
+      - title: Private & Customized
         tagline: ''
         subtitle: ''
         text: >
-          Our passionate and knowledgeable guides have been actively involved in
-          nature conservation and sustainble development around Northwest Yunnan
-          and Southeast Tibet, offering unique insights and ensuring an
-          authentic ecotourism experience.
+          Enjoy a private and personalized experience on our ecotours in
+          Northwest Yunnan and Southeast Tibet, fostering deeper connections
+          with nature and culture.
         image:
-          url: /images/Guides.jpg
-          altText: Placeholder Image
+          url: /images/Private.jpg
+          altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
@@ -259,16 +258,17 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Private & Customized
+      - title: Expert Local Guides
         tagline: ''
         subtitle: ''
         text: >
-          Enjoy a private and personalized experience on our ecotours in
-          Northwest Yunnan and Southeast Tibet, fostering deeper connections
-          with nature and culture.
+          Our passionate and knowledgeable guides have been actively involved in
+          nature conservation and sustainble development around Northwest Yunnan
+          and Southeast Tibet, offering unique insights and ensuring an
+          authentic ecotourism experience.
         image:
-          url: /images/Private.jpg
-          altText: Placeholder image
+          url: /images/Guides.jpg
+          altText: Placeholder Image
           styles:
             self:
               borderRadius: x-large
