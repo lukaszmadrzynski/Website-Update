@@ -242,7 +242,7 @@ sections:
           and Southeast Tibet, offering unique insights and ensuring an
           authentic ecotourism experience.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Guides.jpg
           altText: Placeholder Image
           styles:
             self:
