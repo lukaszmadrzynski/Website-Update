@@ -382,7 +382,7 @@ sections:
           "Design is a plan for arranging elements in such a way as best to
           accomplish a particular purpose."
         tagline: ''
-        subtitle: 'John Doe, Company'
+        subtitle: ''
         text: ''
         image:
           altText: John Doe
