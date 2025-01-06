@@ -267,7 +267,7 @@ sections:
           supporting local communities through ethical and sustainable tourism
           practices.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Sustainable.jpg
           altText: Placeholder image
           styles:
             self:
