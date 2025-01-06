@@ -431,8 +431,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+          "The expertise and knowledge of the two teachers go far beyond what we
+          experienced. The topic of sustainability will continue indefinitely,
+          and seeds of love have already been planted in the hearts of our
+          children.."
         tagline: ''
         subtitle: ''
         text: ''
