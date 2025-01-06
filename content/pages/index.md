@@ -259,15 +259,15 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Sustainable & Responsible
+      - title: Private & Customized
         tagline: ''
         subtitle: ''
         text: >
-          We are deeply committed to minimizing our environmental impact and
-          supporting local communities through ethical and sustainable tourism
-          practices.
+          Enjoy a private and personalized experience on our ecotours in
+          Northwest Yunnan and Southeast Tibet, fostering deeper connections
+          with nature and culture.
         image:
-          url: /images/Sustainable.jpg
+          url: /images/Private.jpg
           altText: Placeholder image
           styles:
             self:
@@ -284,15 +284,15 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Private & Customized
+      - title: Sustainable & Responsible
         tagline: ''
         subtitle: ''
         text: >
-          Enjoy a private and personalized experience on our ecotours in
-          Northwest Yunnan and Southeast Tibet, fostering deeper connections
-          with nature and culture.
+          We are deeply committed to minimizing our environmental impact and
+          supporting local communities through ethical and sustainable tourism
+          practices.
         image:
-          url: /images/Private.jpg
+          url: /images/Sustainable.jpg
           altText: Placeholder image
           styles:
             self:
