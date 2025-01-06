@@ -239,7 +239,7 @@ sections:
         text: >
           Enjoy a private and personalized experience on our ecotours in
           Northwest Yunnan and Southeast Tibet, fostering deeper connections
-          with nature and culture.
+          with local nature and culture.
         image:
           url: /images/Private.jpg
           altText: Placeholder image
