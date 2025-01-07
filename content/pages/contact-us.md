@@ -12,8 +12,9 @@ sections:
           textAlign: center
           fontWeight: 400
     subtitle: ''
-    text: >+
-      ## Contact Us: Let's Start Planning Your China Travel Adventure!
+    text: >
+      <div style="text-align: left">## Contact Us: Let's Start Planning Your
+      China Travel Adventure!</div>
 
 
       **(Hero Section)**
@@ -111,9 +112,6 @@ sections:
       The friendly and helpful tone encourages engagement and reinforces your
       expertise in China travel. Remember to replace the bracketed placeholders
       with your actual contact information.
-
-
-
     actions: []
     colors: bg-light-fg-dark
     styles:
