@@ -14,16 +14,7 @@ sections:
     subtitle: ''
     text: |
       Reach out for more tours, details, special offers and customizations.
-    actions:
-      - type: Button
-        label: Contact Us
-        altText: ''
-        url: /contact-us
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     colors: bg-light-fg-dark
     styles:
       text:
