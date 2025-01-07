@@ -14,16 +14,7 @@ sections:
     text: |+
       <div style="text-align: center">Get Started!</div>
 
-    actions:
-      - type: Button
-        label: Choose Your Ecotour!
-        altText: ''
-        url: /ecotours
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     badge:
       type: Badge
       label: ''
