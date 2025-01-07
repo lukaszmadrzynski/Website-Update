@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Inquiry and Booking
+      text: PAGE CONTENT
       color: text-dark
       styles:
         self:
