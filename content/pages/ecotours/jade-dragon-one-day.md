@@ -12,10 +12,11 @@ sections:
           textAlign: center
     subtitle: Section subtitle
     text: >+
-      <div style="text-align: left">1.  Compelling Hero Section:*   Eye-Catching
-      Headline: Use a clear, keyword-rich title that immediately tells the user
-      what the tour is about (e.g., "Tiger Leaping Gorge Trek: A Classic Yunnan
-      Hiking Adventure"). Include the destination and a key selling point.
+      <div style="text-align: left">1.  Compelling Hero Section:\*   *  
+      Eye-Catching Headline: Use a clear, keyword-rich title that immediately
+      tells the user what the tour is about (e.g., "Tiger Leaping Gorge Trek: A
+      Classic Yunnan Hiking Adventure"). Include the destination and a key
+      selling point.</div>
 
 
       *   Stunning Hero Image or Video: A high-quality visual that showcases the
@@ -36,8 +37,12 @@ sections:
 
       *   Prominent Call-to-Action (CTA) Button: Place a clear and compelling
       button above the fold (visible without scrolling) such as "Book Now,"
-      "Check Availability," or "Request a Quote."**Tour Highlights/Why This
-      Tour?**</div>
+      "Check Availability," or "Request a Quote."
+
+
+
+
+      **Tour Highlights/Why This Tour?**
 
 
       *   Engaging Subheading: Clearly indicate what this section is about
