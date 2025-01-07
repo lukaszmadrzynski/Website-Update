@@ -134,7 +134,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours
+            url: /ecotours/jade-dragon-one-day
             showIcon: false
             icon: arrowRight
             iconPosition: right
