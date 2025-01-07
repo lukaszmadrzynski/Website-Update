@@ -65,6 +65,8 @@ sections:
 
       **Detailed Itinerary:**
 
+
+
       Clear Subheading: (e.g., "Your Adventure Awaits: Detailed Itinerary,"
       "Day-by-Day Itinerary").
 
