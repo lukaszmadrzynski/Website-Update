@@ -12,7 +12,7 @@ sections:
           textAlign: center
     subtitle: Section subtitle
     text: >+
-      <div style="text-align: left">1.  Compelling Hero Section:\*   *  
+      <div style="text-align: left">**Compelling Hero Section:\***   \*  
       Eye-Catching Headline: Use a clear, keyword-rich title that immediately
       tells the user what the tour is about (e.g., "Tiger Leaping Gorge Trek: A
       Classic Yunnan Hiking Adventure"). Include the destination and a key
@@ -40,8 +40,6 @@ sections:
       "Check Availability," or "Request a Quote."
 
 
-
-
       **Tour Highlights/Why This Tour?**
 
 
@@ -65,8 +63,11 @@ sections:
       <!---->
 
 
-      *   Detailed Itinerary:
-          Clear Subheading: (e.g., "Your Adventure Awaits: Detailed Itinerary," "Day-by-Day Itinerary").
+      **Detailed Itinerary:**
+
+      Clear Subheading: (e.g., "Your Adventure Awaits: Detailed Itinerary,"
+      "Day-by-Day Itinerary").
+
 
       *   Day-by-Day Breakdown: Organize the itinerary logically, with each day
       clearly labeled (e.g., "Day 1: Arrival in Lijiang & Old Town
