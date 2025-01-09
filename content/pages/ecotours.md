@@ -53,7 +53,7 @@ sections:
             margin:
               - ml-1
               - mr-1
-        tagline: 218 USD per person (based on 2 people)
+        tagline: 1 Day | Off-the-beaten-path
       - type: FeaturedItem
         title: Yunnan Snub-nosed Monkey Journey
         subtitle: 2 Days | Wildlife Experience
