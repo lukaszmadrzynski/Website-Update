@@ -1,0 +1,218 @@
+{
+    "model": "FeaturedItemsSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "ecotours",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "ecotours"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "2025 Featured Ecotours",
+                    "color": "text-dark",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "subtitle": "",
+                "items": [
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Jade Dragon Snow Mountain Conservation Patrol",
+                        "tagline": null,
+                        "subtitle": "1 Day | Off-the-beaten-path",
+                        "text": "Embark on a challenging yet rewarding trek on Jade Dragon Snow Mountain near Lijiang, experiencing diverse ecosystems and stunning alpine scenery. Discover the unique flora and fauna of this iconic Yunnan peak, a highlight of ecotourism in the region.\n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/yulong2.jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Lightning bolt symbol on red background",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "x-large"
+                                }
+                            }
+                        },
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "Learn More",
+                                "altText": "",
+                                "url": "/ecotours/jade-dragon-one-day",
+                                "showIcon": false,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": ""
+                            }
+                        ],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-4",
+                                    "pl-4",
+                                    "pb-4",
+                                    "pr-4"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "col",
+                                "justifyContent": "center",
+                                "textAlign": "left",
+                                "margin": [
+                                    "ml-1",
+                                    "mr-1"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Yunnan Snub-nosed Monkey Journey",
+                        "tagline": null,
+                        "subtitle": "2 Days | Wildlife Experience",
+                        "text": "Embark on a challenging yet rewarding trek on Jade Dragon Snow Mountain near Lijiang, experiencing diverse ecosystems and stunning alpine scenery. Discover the unique flora and fauna of this iconic Yunnan peak, a highlight of ecotourism in the region.\n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/baima2.jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Lightning bolt symbol on red background",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "x-large"
+                                }
+                            }
+                        },
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "Learn More",
+                                "altText": "",
+                                "url": "/ecotours",
+                                "showIcon": false,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": ""
+                            }
+                        ],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-4",
+                                    "pl-4",
+                                    "pb-4",
+                                    "pr-4"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "col",
+                                "justifyContent": "center",
+                                "textAlign": "left",
+                                "margin": [
+                                    "ml-1",
+                                    "mr-1"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Ancient Tea & Horse Road",
+                        "tagline": null,
+                        "subtitle": "1 Day | Off-the-beaten-path",
+                        "text": "<div style=\"text-align: left\">Embark on a challenging yet rewarding trek on Jade Dragon Snow Mountain near Lijiang, experiencing diverse ecosystems and stunning alpine scenery. Discover the unique flora and fauna of this iconic Yunnan peak, a highlight of ecotourism in the region.</div>\n\n",
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/wenhai2.jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "x-large"
+                                }
+                            }
+                        },
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "Learn More",
+                                "altText": "",
+                                "url": "/ecotours",
+                                "showIcon": false,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": ""
+                            }
+                        ],
+                        "elementId": null,
+                        "colors": "bg-neutralAlt-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-4",
+                                    "pl-4",
+                                    "pb-4",
+                                    "pr-4"
+                                ],
+                                "borderRadius": "x-large",
+                                "flexDirection": "col",
+                                "justifyContent": "center",
+                                "textAlign": "center",
+                                "margin": [
+                                    "ml-1",
+                                    "mr-1"
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "actions": [],
+                "badge": null,
+                "elementId": "",
+                "variant": "three-col-grid",
+                "colors": "bg-neutral-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pb-16",
+                            "pt-16",
+                            "pl-1",
+                            "pr-1"
+                        ],
+                        "justifyContent": "center",
+                        "margin": [
+                            "mt-0"
+                        ]
+                    },
+                    "subtitle": {
+                        "textAlign": "center",
+                        "fontWeight": 700
+                    }
+                }
+            }
+        }
+    ]
+}
