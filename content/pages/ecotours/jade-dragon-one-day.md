@@ -27,9 +27,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: |-
-        Jade Dragon Snow
-        Mountain Off-the-beaten-path: Biodiversity Conservation Forest Patrol
+      text: >-
+        Jade Dragon Snow Mountain Off-the-beaten-path: Biodiversity Conservation
+        Forest Patrol
       color: text-dark
       styles:
         self:
