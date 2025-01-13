@@ -444,7 +444,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Inquiry and Booking
+      text: Ready
       color: text-dark
       styles:
         self:
