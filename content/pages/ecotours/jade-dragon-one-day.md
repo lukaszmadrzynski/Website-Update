@@ -442,7 +442,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Contact Us
+        label: Book Your Tour Now!
         altText: ''
         url: /contact-us
         showIcon: false
