@@ -6,11 +6,7 @@ sections:
     subtitle: ''
     text: >+
       <div style="text-align:
-      left">![](https://preview--cloudmountain-24596.stackbit.dev/_static/app-assets/public/images/DSCN0241.jpg)Embark
-      on an unforgettable day trip from Lijiang to the legendary Jade Dragon
-      Snow Mountain. Ascend to breathtaking heights via cable car, witness
-      stunning glacier views, explore pristine alpine meadows, and immerse
-      yourself in the natural beauty of this iconic Yunnan landmark.</div>
+      left">![](https://preview--cloudmountain-24596.stackbit.dev/_static/app-assets/public/images/DSCN0241.jpg)</div>
 
     actions: []
     colors: bg-neutral-fg-dark
