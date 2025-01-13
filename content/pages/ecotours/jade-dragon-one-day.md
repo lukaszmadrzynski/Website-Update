@@ -371,7 +371,7 @@ sections:
         fontWeight: 700
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Photo Gallery
       color: text-dark
   - type: CarouselSection
     subtitle: Our Ecotravellers Say
