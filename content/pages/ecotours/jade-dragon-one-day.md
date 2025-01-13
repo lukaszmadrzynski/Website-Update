@@ -174,6 +174,7 @@ sections:
               - ml-1
               - mb-1
               - mr-1
+            justifyContent: center
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
