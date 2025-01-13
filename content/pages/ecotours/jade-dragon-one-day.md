@@ -235,7 +235,7 @@ sections:
       - type: Link
         label: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
