@@ -325,7 +325,7 @@ sections:
         flexDirection: col
         justifyContent: center
         padding:
-          - pb-12
+          - pb-4
   - type: ImageGallerySection
     subtitle: Photo Gallery
     images:
