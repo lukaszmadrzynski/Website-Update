@@ -436,7 +436,7 @@ sections:
       styles:
         self:
           textAlign: center
-          fontWeight: 700
+          fontWeight: 400
     subtitle: Book Your Tour Now!
     text: ''
     actions:
