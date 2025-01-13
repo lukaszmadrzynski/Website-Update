@@ -323,7 +323,7 @@ sections:
         flexDirection: col
         justifyContent: center
   - type: ImageGallerySection
-    subtitle: Gallery
+    subtitle: Jade Dragon Snow Mountain in Pictures
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
