@@ -55,6 +55,13 @@ sections:
       *   **Highlights:** Glacier Park, Blue Moon Valley (if included), Spruce
       Meadow
 
+
+      <!---->
+
+
+      *   **Price:**  222 USD per person (based on a private group of two
+      people).  Discounts on bigger groups. 
+
     actions:
       - type: Button
         label: Book Now!
