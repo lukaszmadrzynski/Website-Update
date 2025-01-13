@@ -18,7 +18,7 @@ sections:
           - pb-0
           - pr-0
         alignItems: center
-        flexDirection: row-reverse
+        flexDirection: col-reverse
         justifyContent: center
       text:
         textAlign: center
