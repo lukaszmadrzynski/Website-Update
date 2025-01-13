@@ -361,10 +361,10 @@ sections:
           - mb-0
           - mr-0
         padding:
-          - pt-16
-          - pl-4
-          - pb-16
-          - pr-4
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
         justifyContent: center
       subtitle:
         textAlign: center
