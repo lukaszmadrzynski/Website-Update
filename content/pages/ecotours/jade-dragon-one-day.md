@@ -175,6 +175,7 @@ sections:
               - mb-1
               - mr-1
             justifyContent: center
+            textAlign: center
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
