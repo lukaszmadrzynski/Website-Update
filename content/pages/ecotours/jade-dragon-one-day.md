@@ -363,7 +363,7 @@ sections:
         padding:
           - pt-0
           - pl-0
-          - pb-0
+          - pb-9
           - pr-0
         justifyContent: center
       subtitle:
