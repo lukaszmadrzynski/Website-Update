@@ -29,7 +29,7 @@ sections:
       type: TitleBlock
       text: >-
         Jade Dragon Snow Mountain Off-the-beaten-path: Biodiversity Conservation
-        Forest Patrol
+        Patrol
       color: text-dark
       styles:
         self:
