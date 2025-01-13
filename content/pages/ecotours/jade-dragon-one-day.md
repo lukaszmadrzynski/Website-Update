@@ -59,7 +59,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row
+        flexDirection: col
         justifyContent: center
 slug: /ecotours/jade-dragon-one-day
 seo:
