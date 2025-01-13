@@ -139,10 +139,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-1
-              - pl-1
-              - pb-1
-              - pr-1
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             textAlign: center
