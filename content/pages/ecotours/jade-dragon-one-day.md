@@ -183,7 +183,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Tour Highlights
+      text: Itinerary
       color: text-dark
       styles:
         self:
