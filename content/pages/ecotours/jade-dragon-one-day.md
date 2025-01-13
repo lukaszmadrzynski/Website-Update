@@ -59,6 +59,7 @@ sections:
     styles:
       self:
         alignItems: center
+        flexDirection: col
   - type: GenericSection
     title:
       type: TitleBlock
