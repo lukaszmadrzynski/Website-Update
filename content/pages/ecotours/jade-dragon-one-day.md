@@ -251,6 +251,7 @@ sections:
     styles:
       self:
         alignItems: center
+        flexDirection: col
 slug: /ecotours/jade-dragon-one-day
 seo:
   type: Seo
