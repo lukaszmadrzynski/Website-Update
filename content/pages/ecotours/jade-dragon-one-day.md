@@ -32,14 +32,10 @@ sections:
         Mountain: A One-Day Adventure from Lijiang
       color: text-dark
     subtitle: >-
-      Embark on an unforgettable day trip from Lijiang to the
-
-      legendary Jade Dragon Snow Mountain. Ascend to breathtaking heights via
-      cable
-
-      car, witness stunning glacier views, explore pristine alpine meadows, and
-
-      immerse yourself in the natural beauty of this iconic Yunnan landmark.
+      Embark on an unforgettable day trip from Lijiang to the legendary Jade
+      Dragon Snow Mountain. Ascend to breathtaking heights via cablecar, witness
+      stunning glacier views, explore pristine alpine meadows, and immerse
+      yourself in the natural beauty of this iconic Yunnan landmark. 
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
