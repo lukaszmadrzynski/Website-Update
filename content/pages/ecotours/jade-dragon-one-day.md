@@ -432,7 +432,7 @@ sections:
     title:
       type: TitleBlock
       text: Ready for Your Adventure?
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
