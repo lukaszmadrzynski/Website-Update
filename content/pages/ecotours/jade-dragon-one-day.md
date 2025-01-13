@@ -407,12 +407,6 @@ sections:
         tagline: ''
         subtitle: 'Jane Doe, Company'
         text: ''
-        image:
-          type: ImageBlock
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
         actions: []
         colors: bg-dark-fg-light
         styles:
