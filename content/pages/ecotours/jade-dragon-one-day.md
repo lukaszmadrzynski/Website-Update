@@ -14,7 +14,7 @@ sections:
       self:
         padding:
           - pt-2
-          - pl-4
+          - pl-2
           - pb-2
           - pr-4
         alignItems: center
