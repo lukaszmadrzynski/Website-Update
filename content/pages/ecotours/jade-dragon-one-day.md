@@ -233,7 +233,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: ''
         url: /
         showIcon: true
         icon: arrowRight
