@@ -364,9 +364,9 @@ sections:
       self:
         margin:
           - mt-1
-          - ml-0
+          - ml-1
           - mb-1
-          - mr-0
+          - mr-1
         padding:
           - pt-16
           - pl-4
