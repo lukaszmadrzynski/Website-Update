@@ -94,7 +94,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Increase your reach
+    subtitle: What Awaits You!
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
