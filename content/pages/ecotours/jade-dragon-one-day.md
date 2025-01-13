@@ -350,7 +350,7 @@ sections:
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
-        url: /images/rangle-logo.svg
+        url: /images/Off the beaten path3.jpg
         altText: Rangle logo
         elementId: ''
     elementId: ''
