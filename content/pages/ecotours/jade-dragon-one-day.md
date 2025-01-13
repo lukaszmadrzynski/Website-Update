@@ -215,7 +215,7 @@ sections:
         flexDirection: col
         justifyContent: center
         padding:
-          - pt-2
+          - pt-7
           - pb-11
       subtitle:
         textAlign: center
