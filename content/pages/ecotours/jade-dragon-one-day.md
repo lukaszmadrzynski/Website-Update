@@ -27,7 +27,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: |-
+        Discover the Majesty of Jade Dragon Snow
+        Mountain: A One-Day Adventure from Lijiang
       color: text-dark
     subtitle: |-
       Discover the Majesty of Jade Dragon Snow
