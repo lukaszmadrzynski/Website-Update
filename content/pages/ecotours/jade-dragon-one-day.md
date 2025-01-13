@@ -244,7 +244,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: flex-start
+        alignItems: center
         flexDirection: col
         justifyContent: center
 slug: /ecotours/jade-dragon-one-day
