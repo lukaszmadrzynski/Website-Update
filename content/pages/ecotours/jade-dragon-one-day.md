@@ -326,7 +326,7 @@ sections:
     subtitle: Photo Gallery
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/IMG_20210807_105145.jpg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
