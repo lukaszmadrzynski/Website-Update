@@ -222,47 +222,41 @@ sections:
       text: Good to Know Before You Go
       color: text-dark
     subtitle: Increase your reach
-    text: >+
+    text: >
       **What's Included:**
 
 
-      Round-trip transportation from your Lijiang hotel.
+      *   Round-trip transportation from your Lijiang hotel.
 
 
-      Entrance fees to Jade Dragon Snow Mountain National
+      *   Entrance fees to Jade Dragon Snow Mountain National
+          Park.
 
-      Park.
-
-
-      Cable car tickets (mention which section).
+      *   Cable car tickets (mention which section).
 
 
-      English-speaking guide.
+      *   English-speaking guide.
 
 
-      Bottled water.
+      *   Bottled water.
 
 
-      Oxygen canisters (if provided).
-
-
+      *   Oxygen canisters (if provided).
 
 
       **What's Not Included:**
 
 
-      Lunch (unless specified).
+      *   Lunch (unless specified).
 
 
-      Personal expenses (souvenirs, snacks).
+      *   Personal expenses (souvenirs, snacks).
 
 
-      Gratuities for the guide and driver (optional).
+      *   Gratuities for the guide and driver (optional).
 
 
-      Travel insurance.
-
-
+      *   Travel insurance.
 
 
       **Duration:** Approximately 8-10 hours.
@@ -277,29 +271,26 @@ sections:
 
 
 
+
       **What to Bring:**
 
 
-      Comfortable walking shoes.
+      *   Comfortable walking shoes.
 
 
-      Warm layers of clothing (temperature at the top can be
+      *   Warm layers of clothing (temperature at the top can be
+          significantly colder).
 
-      significantly colder).
-
-
-      Sunscreen, sunglasses, and a hat.
+      *   Sunscreen, sunglasses, and a hat.
 
 
-      Camera.
+      *   Camera.
 
 
-      Small backpack.
+      *   Small backpack.
 
 
-      Any necessary personal medications.
-
-
+      *   Any necessary personal medications.
 
 
       **Altitude Sickness:** The summit is at a high altitude. We recommend
@@ -309,13 +300,6 @@ sections:
 
 
       **Best Time to Visit:** (Briefly mention ideal seasons or times of day).
-
-
-
-
-
-
-
     actions:
       - type: Link
         label: ''
