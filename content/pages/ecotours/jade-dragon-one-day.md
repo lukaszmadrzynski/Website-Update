@@ -31,6 +31,9 @@ sections:
         Jade Dragon Snow
         Mountain Off-the-beaten-path: Biodiversity Conservation Forest Patrol
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: >-
       Embark on an unforgettable day trip from Lijiang to the legendary Jade
       Dragon Snow Mountain. Ascend to breathtaking heights via cablecar, witness
