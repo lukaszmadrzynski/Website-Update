@@ -84,7 +84,7 @@ sections:
         flexDirection: col
         justifyContent: center
         padding:
-          - pt-4
+          - pt-6
 slug: /ecotours/jade-dragon-one-day
 seo:
   type: Seo
