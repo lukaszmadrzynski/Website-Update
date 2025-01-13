@@ -323,6 +323,8 @@ sections:
         alignItems: center
         flexDirection: col
         justifyContent: center
+        padding:
+          - pb-12
   - type: ImageGallerySection
     subtitle: Photo Gallery
     images:
