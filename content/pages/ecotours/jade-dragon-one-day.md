@@ -189,9 +189,7 @@ sections:
         self:
           textAlign: center
     subtitle: What Awaits You!
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: "**Morning:**\n\n*   Hotel pickup in Lijiang and scenic drive to Jade Dragon\n    Snow Mountain.\n\n*   Arrival at the park entrance and transfer to the cable\n    car station.\n\n*   Ascend via cable car to Glacier Park (or other designated\n    high-altitude area).\n\n*   Explore the Glacier Park, enjoying the views and taking\n    photos.\n\n**Midday:**\n\n*    Descend by cable car.\n\n*    Enjoy lunch at a local restaurant (mention if included\n    or own expense).\n\n\n**Afternoon:**\n\n*   Visit Spruce Meadow (or other lower altitude scenic\n    spots).\n\n*    Explore Blue Moon Valley (if included in the\n    itinerary).\n\n**Late Afternoon:**\n\n*   Begin the return journey to Lijiang.\n\n*   Hotel drop-off in Lijiang.\n\n\no\_\_\_ Note: *This itinerary is a sample and may be subject to change based on your suggestions, weather conditions and other factors.*\n\n\n\n\n\n\n\n"
     actions:
       - type: Link
         label: ''
