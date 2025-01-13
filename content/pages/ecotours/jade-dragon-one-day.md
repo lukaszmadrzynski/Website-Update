@@ -52,15 +52,16 @@ sections:
       *   **Hiking Distance:** 6km
 
 
-      *   **Highlights:** Glacier Park, Blue Moon Valley (if included), Spruce
-      Meadow
+      *   **Highlights:** Fuguo Tibetan Buddhism Temple, Wenhai Wetlands
+      Panorama, Yi Minority Village, Biodiversity Conservation Patrol with Local
+      Ranger
 
 
       <!---->
 
 
       *   **Price:**  222 USD per person (based on a private group of two
-      people).  Discounts on bigger groups. 
+      people).  Discounts on bigger groups.
 
     actions:
       - type: Button
