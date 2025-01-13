@@ -15,7 +15,7 @@ sections:
         padding:
           - pt-2
           - pl-4
-          - pb-40
+          - pb-2
           - pr-4
         alignItems: center
         flexDirection: row-reverse
