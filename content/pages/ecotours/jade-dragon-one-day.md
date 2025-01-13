@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     text: >+
       <div style="text-align:
-      left">![](https://preview--cloudmountain-24596.stackbit.dev/_static/app-assets/public/images/DSCN0241.jpg)</div>
+      left">![](https://preview--cloudmountain-24596.stackbit.dev/_static/app-assets/public/images/DSCN0241.jpg)w</div>
 
     actions: []
     colors: bg-neutral-fg-dark
