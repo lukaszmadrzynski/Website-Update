@@ -373,6 +373,9 @@ sections:
       type: TitleBlock
       text: Photo Gallery
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: CarouselSection
     subtitle: Our Ecotravellers Say
     items:
