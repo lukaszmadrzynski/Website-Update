@@ -58,7 +58,7 @@ sections:
     actions:
       - type: Button
         label: Book Now!
-        url: /
+        url: /contact-us
         icon: arrowRight
         iconPosition: right
         style: secondary
