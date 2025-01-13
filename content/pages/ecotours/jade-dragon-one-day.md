@@ -442,7 +442,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Book Your Ecotour Now!
+        label: Book Your Ecotour Now
         altText: ''
         url: /contact-us
         showIcon: false
