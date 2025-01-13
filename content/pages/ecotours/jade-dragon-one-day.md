@@ -372,7 +372,7 @@ sections:
       subtitle:
         textAlign: center
   - type: CarouselSection
-    subtitle: Hear from Our Ecotravellers
+    subtitle: Our Ecotravellers Say
     items:
       - type: FeaturedItem
         title: >-
