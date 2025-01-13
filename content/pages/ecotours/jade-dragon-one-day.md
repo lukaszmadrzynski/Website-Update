@@ -444,7 +444,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready for an Adventure?
+      text: Ready for the Adventure?
       color: text-primary
       styles:
         self:
