@@ -376,7 +376,7 @@ sections:
         fontWeight: 700
     title:
       type: TitleBlock
-      text: Photo Gallery
+      text: Jade Dragon Snow Mountain in Pictures
       color: text-dark
       styles:
         self:
