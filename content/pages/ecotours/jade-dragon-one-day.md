@@ -40,7 +40,9 @@ sections:
       *   **Duration:** 1 Day (Approximately 8-10 hours)
 
 
-      *   **Location:** Jade Dragon Snow Mountain, near Lijiang, Yunnan, China
+      *   **Location:** [Jade Dragon Snow
+      Mountain](/destinations/jade-dragon-snow-mountain), near Lijiang, Yunnan,
+      China
 
 
       *   **Activity Level:** Moderate (some walking involved, cable car access)
