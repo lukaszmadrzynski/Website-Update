@@ -88,6 +88,7 @@ sections:
         padding:
           - pt-6
           - pl-2
+          - pr-2
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
