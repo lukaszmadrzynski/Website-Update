@@ -29,7 +29,9 @@ sections:
       type: TitleBlock
       text: Social Media Management
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: |-
+      Discover the Majesty of Jade Dragon Snow
+      Mountain: A One-Day Adventure from Lijiang
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
