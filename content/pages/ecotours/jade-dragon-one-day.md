@@ -369,7 +369,7 @@ sections:
           - mr-0
         padding:
           - pt-16
-          - pl-16
+          - pl-12
           - pb-16
           - pr-16
         justifyContent: center
