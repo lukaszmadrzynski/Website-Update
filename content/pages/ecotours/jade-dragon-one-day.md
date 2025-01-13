@@ -347,10 +347,6 @@ sections:
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
-        url: /images/Laojun1.jpg
-        altText: Vise logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/Private.jpg
         altText: Telus logo
         elementId: ''
