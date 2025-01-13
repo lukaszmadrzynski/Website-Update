@@ -371,7 +371,7 @@ sections:
           - pt-16
           - pl-12
           - pb-16
-          - pr-16
+          - pr-12
         justifyContent: center
       subtitle:
         textAlign: center
