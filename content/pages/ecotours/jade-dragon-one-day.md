@@ -36,7 +36,25 @@ sections:
       Dragon Snow Mountain. Ascend to breathtaking heights via cablecar, witness
       stunning glacier views, explore pristine alpine meadows, and immerse
       yourself in the natural beauty of this iconic Yunnan landmark. 
-    text: "\n\n\n\n§\_ Duration: 1 Day (Approximately 8-10 hours)\n\n\n\n\n\n§\_ Location: Jade Dragon Snow Mountain, near\nLijiang, Yunnan, China\n\n\n\n\n\n§\_\nActivity\nLevel: Moderate (some walking involved, cable car access)\n\n\n\n\n\n§\_ Altitudes:\n\n\n\n\n\n§\_\nHiking Distance:\n\n\n\n\n\n§\_ Highlights: Glacier Park, Blue Moon Valley (if\nincluded), Spruce Meadow\n\n\n\n\n\n\n\n"
+    text: >+
+      *   **Duration:** 1 Day (Approximately 8-10 hours)
+
+
+      *   **Location:** Jade Dragon Snow Mountain, near Lijiang, Yunnan, China
+
+
+      *   **Activity Level:** Moderate (some walking involved, cable car access)
+
+
+      *   **Altitudes:** 2400 - 3200 m
+
+
+      *   **Hiking Distance:** 6km
+
+
+      *   **Highlights:** Glacier Park, Blue Moon Valley (if included), Spruce
+      Meadow
+
     actions:
       - type: Button
         label: Get started
