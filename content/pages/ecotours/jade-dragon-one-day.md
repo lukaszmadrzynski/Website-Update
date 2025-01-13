@@ -336,7 +336,7 @@ sections:
         padding:
           - pb-4
   - type: ImageGallerySection
-    subtitle: Photo Gallery
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/Private.jpg
