@@ -57,7 +57,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Book Now!
         url: /
         icon: arrowRight
         iconPosition: right
