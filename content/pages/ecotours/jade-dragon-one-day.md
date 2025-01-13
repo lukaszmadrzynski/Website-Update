@@ -29,7 +29,7 @@ sections:
       type: TitleBlock
       text: |-
         Jade Dragon Snow
-        Mountain Off-the-beaten-path. Biodiversity Conservation Forest Patrol
+        Mountain Off-the-beaten-path: Biodiversity Conservation Forest Patrol
       color: text-dark
     subtitle: >-
       Embark on an unforgettable day trip from Lijiang to the legendary Jade
