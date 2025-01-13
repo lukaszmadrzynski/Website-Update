@@ -212,6 +212,8 @@ sections:
         alignItems: center
         flexDirection: col
         justifyContent: center
+        padding:
+          - pt-7
       subtitle:
         textAlign: center
 slug: /ecotours/jade-dragon-one-day
