@@ -170,10 +170,10 @@ sections:
             borderRadius: x-large
             flexDirection: col
             margin:
-              - mt-1
-              - ml-1
-              - mb-1
-              - mr-1
+              - mt-0
+              - ml-0
+              - mb-0
+              - mr-0
             justifyContent: center
             textAlign: center
     actions: []
