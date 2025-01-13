@@ -16,7 +16,7 @@ sections:
           - pt-2
           - pl-2
           - pb-2
-          - pr-4
+          - pr-2
         alignItems: center
         flexDirection: row-reverse
         justifyContent: center
