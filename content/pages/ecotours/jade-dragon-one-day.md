@@ -91,6 +91,9 @@ sections:
       type: TitleBlock
       text: Tour Highlights
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: Increase your reach
     text: >
       A service that helps businesses to manage their social media accounts and
