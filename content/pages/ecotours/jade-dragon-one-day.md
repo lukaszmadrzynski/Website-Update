@@ -86,48 +86,6 @@ sections:
         justifyContent: center
         padding:
           - pt-6
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Tour Highlights
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: What Awaits You!
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -220,6 +178,48 @@ sections:
           - pl-8
           - pb-16
           - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Tour Highlights
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: What Awaits You!
+    text: >
+      A service that helps businesses to manage their social media accounts and
+      posts.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col
         justifyContent: center
       subtitle:
         textAlign: center
