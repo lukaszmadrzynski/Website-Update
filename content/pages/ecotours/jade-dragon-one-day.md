@@ -29,7 +29,7 @@ sections:
       type: TitleBlock
       text: |-
         Discover the Majesty of Jade Dragon Snow
-        Mountain: Biodiversity Conservation Forest Patrol
+        Mountain: Join a Biodiversity Conservation Forest Patrol
       color: text-dark
     subtitle: >-
       Embark on an unforgettable day trip from Lijiang to the legendary Jade
