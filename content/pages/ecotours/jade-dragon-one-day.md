@@ -460,7 +460,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-14
+          - pt-20
           - pb-6
   - type: FeaturedItemsSection
     title:
