@@ -363,10 +363,10 @@ sections:
     styles:
       self:
         margin:
-          - mt-1
-          - ml-1
-          - mb-1
-          - mr-1
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
         padding:
           - pt-16
           - pl-4
