@@ -375,6 +375,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
   - type: CarouselSection
     subtitle: Our Ecotravellers Say
     items:
