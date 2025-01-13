@@ -451,8 +451,7 @@ sections:
           textAlign: center
           fontWeight: 400
     subtitle: Book Your Tour Now!
-    text: |
-      Reach out for more tours, details, special offers and customizations.
+    text: ''
     actions:
       - type: Button
         label: Contact Us
