@@ -339,10 +339,6 @@ sections:
     subtitle: Photo Gallery
     images:
       - type: ImageBlock
-        url: /images/IMG_20210807_105145.jpg
-        altText: Empathy logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/Private.jpg
         altText: Telus logo
         elementId: ''
