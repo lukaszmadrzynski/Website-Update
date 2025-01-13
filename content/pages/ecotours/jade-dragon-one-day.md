@@ -450,7 +450,7 @@ sections:
         self:
           textAlign: center
           fontWeight: 400
-    subtitle: We respond within one day!
+    subtitle: Book Your Tour Now!
     text: |
       Reach out for more tours, details, special offers and customizations.
     actions:
