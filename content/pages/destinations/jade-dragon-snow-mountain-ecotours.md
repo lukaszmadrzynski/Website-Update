@@ -81,7 +81,6 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/17 (2).jpg
       altText: Fun feature preview
     badge:
       type: Badge
