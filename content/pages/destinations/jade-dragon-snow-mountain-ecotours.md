@@ -97,47 +97,6 @@ sections:
           - pb-16
       subtitle:
         textAlign: center
-  - type: ImageGallerySection
-    title:
-      type: TitleBlock
-      text: Jade Dragon Snow Mountain in Pictures
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/Private.jpg
-        altText: Telus logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Sustainable.jpg
-        altText: Sanity logo
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Off the beaten path3.jpg
-        altText: Rangle logo
-        elementId: ''
-    elementId: ''
-    motion: move-to-left
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-12
-          - pl-0
-          - pb-9
-          - pr-0
-        justifyContent: center
-      subtitle:
-        textAlign: center
-        fontWeight: 700
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
