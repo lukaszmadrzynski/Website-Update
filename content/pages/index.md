@@ -345,7 +345,7 @@ sections:
           - pl-8
           - pb-16
           - pr-8
-        justifyContent: center
+        justifyContent: flex-end
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
