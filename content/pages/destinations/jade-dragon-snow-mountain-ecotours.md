@@ -64,7 +64,7 @@ sections:
       type: TitleBlock
       text: |-
         Plan
-        Your Ascent: Discovering the Dragon's Secrets in Every Season
+        Your Ascent:
       color: text-dark
       styles:
         self:
