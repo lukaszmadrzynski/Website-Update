@@ -70,9 +70,8 @@ sections:
         self:
           textAlign: center
     subtitle: Discovering the Dragon's Secrets in Every Season
-    text: >+
-      <div style="text-align: left">Spring (March - May)A Canvas of Blooming
-      Colors on Quieter Trails
+    text: >
+      Spring (March - May)A Canvas of Blooming Colors on Quieter Trails
 
       As the snow melts, vibrant wildflowers carpet the alpine meadows, and the
       air is crisp and fresh – perfect for hiking on less-trafficked trails and
@@ -96,8 +95,7 @@ sections:
       the Beaten TrackWitness the mountain transformed into a magical winter
       wonderland, with snow dusting even the lower slopes, creating a truly
       spectacular scene – an experience best savored away from the main tourist
-      areas (note: higher altitudes will be very cold).</div>
-
+      areas (note: higher altitudes will be very cold).
     actions:
       - type: Link
         label: ''
