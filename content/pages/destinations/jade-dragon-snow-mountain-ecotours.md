@@ -84,16 +84,16 @@ sections:
       occasional rain showers are possible, summer brings a vibrant green to the
       lower slopes, offering a refreshing escape from the city heat and stunning
       contrasts against the snow-capped peaks, best experienced in the
-      tranquility of the less-visited areas we explore.##### 
+      tranquility of the less-visited areas we explore.
 
-      **Autumn (September - November)**Crystal-Clear Views and Golden Hues on
-      Hidden Paths: ExampleWith clear, azure skies and comfortable temperatures,
-      autumn is considered the prime time for breathtaking panoramic views of
-      the mountain and its surroundings, particularly spectacular from our
-      carefully chosen, less crowded vantage points.
+      Autumn (September - November)Crystal-Clear Views and Golden Hues on Hidden
+      PathsWith clear, azure skies and comfortable temperatures, autumn is
+      considered the prime time for breathtaking panoramic views of the mountain
+      and its surroundings, particularly spectacular from our carefully chosen,
+      less crowded vantage points.
 
       Winter (December - February)A Winter Wonderland of Snow-Dusted Peaks Off
-      the Beaten Track: Witness the mountain transformed into a magical winter
+      the Beaten TrackWitness the mountain transformed into a magical winter
       wonderland, with snow dusting even the lower slopes, creating a truly
       spectacular scene – an experience best savored away from the main tourist
       areas (note: higher altitudes will be very cold).</div>
