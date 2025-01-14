@@ -36,10 +36,14 @@ sections:
         self:
           textAlign: left
     subtitle: >-
-      Embark on an unforgettable day trip from Lijiang to the legendary Jade
-      Dragon Snow Mountain. Ascend to breathtaking heights via cablecar, witness
-      stunning glacier views, explore pristine alpine meadows, and immerse
-      yourself in the natural beauty of this iconic Yunnan landmark. 
+      Venture beyond the typical
+
+      tourist trails to witness breathtaking glaciers, connect with Yi minority
+
+      culture in secluded villages, and uncover the raw, untouched beauty of
+      this
+
+      sacred peak – all on our expertly guided ecotours departing from Lijiang.
     text: >+
       *   **Duration:** 1 Day (Approximately 8-10 hours)
 
