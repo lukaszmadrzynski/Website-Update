@@ -173,7 +173,9 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Similar Ecotours
+      text: |-
+        Venture Off the Beaten
+        Path: Explore Jade Dragon Snow Mountain with Our Authentic Ecotours
       color: text-dark
       styles:
         self:
