@@ -70,8 +70,33 @@ sections:
         self:
           textAlign: center
     subtitle: Discovering the Dragon's Secrets in Every Season
-    text: |+
-      <div style="text-align: center"></div>
+    text: >+
+      <div style="text-align: center">Spring (March - May)A Canvas of Blooming
+      Colors on Quieter Trails
+
+      As the snow melts, vibrant wildflowers carpet the alpine meadows, and the
+      air is crisp and fresh – perfect for hiking on less-trafficked trails and
+      enjoying the awakening landscape in peace.
+
+      Summer (June - August)
+
+      Lush Greenery and Refreshing Mountain Air in Secluded ValleysWhile
+      occasional rain showers are possible, summer brings a vibrant green to the
+      lower slopes, offering a refreshing escape from the city heat and stunning
+      contrasts against the snow-capped peaks, best experienced in the
+      tranquility of the less-visited areas we explore.##### 
+
+      **Autumn (September - November)**Crystal-Clear Views and Golden Hues on
+      Hidden Paths: ExampleWith clear, azure skies and comfortable temperatures,
+      autumn is considered the prime time for breathtaking panoramic views of
+      the mountain and its surroundings, particularly spectacular from our
+      carefully chosen, less crowded vantage points.
+
+      Winter (December - February)A Winter Wonderland of Snow-Dusted Peaks Off
+      the Beaten Track: Witness the mountain transformed into a magical winter
+      wonderland, with snow dusting even the lower slopes, creating a truly
+      spectacular scene – an experience best savored away from the main tourist
+      areas (note: higher altitudes will be very cold).</div>
 
     actions:
       - type: Link
