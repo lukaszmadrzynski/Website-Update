@@ -94,7 +94,7 @@ sections:
         justifyContent: center
         padding:
           - pt-7
-          - pb-12
+          - pb-9
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
