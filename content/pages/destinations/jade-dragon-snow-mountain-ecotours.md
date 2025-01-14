@@ -27,9 +27,10 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: >-
-        Jade Dragon Snow Mountain Off-the-beaten-path: Biodiversity Conservation
-        Patrol
+      text: |-
+        Escape
+        the Crowds & Discover the Dragon's Secrets: Authentic Jade Dragon Snow
+        Mountain Ecotours
       color: text-dark
       styles:
         self:
