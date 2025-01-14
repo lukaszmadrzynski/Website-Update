@@ -71,7 +71,7 @@ sections:
           textAlign: center
     subtitle: Discovering the Dragon's Secrets in Every Season
     text: >+
-      <div style="text-align: center">Spring (March - May)A Canvas of Blooming
+      <div style="text-align: left">Spring (March - May)A Canvas of Blooming
       Colors on Quieter Trails
 
       As the snow melts, vibrant wildflowers carpet the alpine meadows, and the
