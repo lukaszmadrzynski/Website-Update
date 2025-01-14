@@ -138,38 +138,6 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Ready for the Adventure?
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 700
-    subtitle: ''
-    text: ''
-    actions:
-      - type: Button
-        label: Book Your Ecotour
-        altText: ''
-        url: /contact-us
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: bg-dark-fg-light
-    styles:
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      self:
-        justifyContent: center
-        padding:
-          - pt-12
-          - pb-12
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -324,6 +292,38 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Ready for the Adventure?
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 700
+    subtitle: ''
+    text: ''
+    actions:
+      - type: Button
+        label: Book Your Ecotour
+        altText: ''
+        url: /contact-us
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: bg-dark-fg-light
+    styles:
+      text:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      self:
+        justifyContent: center
+        padding:
+          - pt-12
+          - pb-12
 slug: /destinations/jade-dragon-snow-mountain-ecotours
 seo:
   type: Seo
