@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Jade Dragon Snow Mountain One-Day Ecotour
+title: Jade Dragon Snow Mountain Ecotours
 sections:
   - type: GenericSection
     subtitle: ''
