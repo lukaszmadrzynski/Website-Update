@@ -100,7 +100,7 @@ sections:
   - type: ImageGallerySection
     title:
       type: TitleBlock
-      text: Jade Dragon Snow Mountain Ecotour in Pictures
+      text: Jade Dragon Snow Mountain in Pictures
       color: text-dark
       styles:
         self:
