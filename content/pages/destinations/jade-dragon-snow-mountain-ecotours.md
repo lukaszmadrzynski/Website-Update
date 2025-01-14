@@ -36,14 +36,10 @@ sections:
         self:
           textAlign: left
     subtitle: >-
-      Venture beyond the typical
-
-      tourist trails to witness breathtaking glaciers, connect with Yi minority
-
-      culture in secluded villages, and uncover the raw, untouched beauty of
-      this
-
-      sacred peak – all on our expertly guided ecotours departing from Lijiang.
+      Venture beyond the typical tourist trails to witness breathtaking
+      glaciers, connect with Yi minority culture in secluded villages, and
+      uncover the raw, untouched beauty of this sacred peak – all on our
+      expertly guided ecotours departing from Lijiang. 
     text: >+
       *   **Duration:** 1 Day (Approximately 8-10 hours)
 
