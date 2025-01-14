@@ -242,7 +242,7 @@ sections:
       self:
         padding:
           - pb-16
-          - pt-24
+          - pt-12
           - pl-1
           - pr-1
         justifyContent: center
