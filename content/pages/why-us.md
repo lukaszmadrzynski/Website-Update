@@ -335,7 +335,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Local Experts
+        title: Local Guides
         tagline: ''
         subtitle: ''
         text: >
