@@ -269,7 +269,7 @@ sections:
       type: TitleBlock
       text: Collaboration
       color: text-dark
-    subtitle: Be in good company
+    subtitle: ''
     text: >
       Throughout the years, our team has established deep involvement
        with the local communities, organizations and institutions in Northwest
