@@ -113,13 +113,7 @@ sections:
         title: Sustainable Ecotourism
         tagline: ''
         subtitle: ''
-        text: >
-          We are deeply dedicated to responsible travel practices throughout
-          Yunnan and China. This means minimizing our environmental impact,
-          supporting local economies by partnering with local businesses, and
-          ensuring our tours benefit the communities you visit in Lijiang,
-          Shangri-La, and beyond. We believe in leaving a positive footprint on
-          our beloved Yunnan.
+        text: "We are deeply committed to minimizing our environmental footprint and maximizing our positive impact on local communities throughout\_Yunnan and China. We promote ethical and\_sustainable tourism practices\_in all our\_China tours.\n"
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
