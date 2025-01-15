@@ -41,6 +41,7 @@ sections:
       styles:
         self:
           borderRadius: medium
+      url: /images/banner 3by2.jpg
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
