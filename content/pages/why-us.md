@@ -286,8 +286,12 @@ sections:
         title: Lynne Lyu
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >
+          Lynne's deep connection to Yunnan, her involvement with the Lijiang
+          Conservation and Development Association, and her passion for cultural
+          preservation ensure our tours are culturally sensitive and contribute
+          to the well-being of local communities. She brings invaluable local
+          insights to your China travel adventure.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
