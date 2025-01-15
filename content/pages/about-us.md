@@ -320,7 +320,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: Media
+      label: Media Exposure
       color: text-primary
     colors: bg-light-fg-dark
     styles:
