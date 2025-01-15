@@ -107,8 +107,13 @@ sections:
         title: Sustainable Ecotourism
         tagline: Unwavering Commitment to
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >
+          We are deeply dedicated to responsible travel practices throughout
+          Yunnan and China. This means minimizing our environmental impact,
+          supporting local economies by partnering with local businesses, and
+          ensuring our tours benefit the communities you visit in Lijiang,
+          Shangri-La, and beyond. We believe in leaving a positive footprint on
+          our beloved Yunnan.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
