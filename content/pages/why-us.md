@@ -17,14 +17,8 @@ sections:
       Discover the difference of traveling with a passionate, locally-rooted
       team committed to sustainable ecotourism in Yunnan, China, in the
       captivating regions of Lijiang and Shangri-La.
-    text: >+
-      <div style="text-align: left">**Our Core Difference: Passion, Expertise,
-      and Sustainability in China Travel.**
-
-      At Cloud Mountain Ecotours, we believe your journey, should be more than
-      just a sightseeing trip. It should be an immersive experience that
-      connects you deeply with the nature, the culture, and the people, while
-      contributing positively to their well-being.</div>
+    text: |+
+      <div style="text-align: left"></div>
 
     actions: []
     colors: bg-light-fg-dark
