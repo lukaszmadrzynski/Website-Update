@@ -13,12 +13,9 @@ sections:
           fontWeight: 400
     subtitle: Your Trusted Partner for Sustainable China Travel & Ecotours in Yunnan
     text: >
-      **Meet the Team Behind Cloud Mountain:**
-
-
       Discover our passion, expertise, and unwavering commitment to providing
       exceptional and responsible travel experiences in Northwest Yunnan, China,
-      including the captivating regions of Lijiang and Tibetan Shangri-La. 
+      including the captivating regions of Lijiang and Tibetan Shangri-La.
     actions: []
     colors: bg-dark-fg-light
     styles:
