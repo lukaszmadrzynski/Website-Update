@@ -304,18 +304,18 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      Our Team has led the design and implementation of UNDP-GEF-SGP projects in
-      Northwest Yunnan, including the“Community Wetland and Forest Conservation
-      Project in Wenhai, Lijiang”, the “Comprehensive Demonstration Project of
-      Renewable Energy in Liju Village Community in Three Parallel Rivers
-      Area”as well as other government and non-government funded projects
-      including the“Community Conservation Project in Lashihai”, “Environmental
-      Education Workshop for Primary School Teachers in Shitou Bai Minority
-      Autonomous Township”, “Environmental Education and Ecotourism Training for
-      the Staff of Baima Snow Mountain Nature Reserve in Shangrila Tibetan
-      Autonomous Prefecture”, “Public Nature Education Lectures at Lijiang
-      Municipal Library” and many other sustainability related projects in the
-      region of Northwest Yunnan.
+      Our Team has been actively involved in the design and implementation of
+      UNDP-GEF-SGP projects in Northwest Yunnan, including the“Community Wetland
+      and Forest Conservation Project in Wenhai, Lijiang”, the “Comprehensive
+      Demonstration Project of Renewable Energy in Liju Village Community in
+      Three Parallel Rivers Area”as well as other government and non-government
+      funded projects including the“Community Conservation Project in Lashihai”,
+      “Environmental Education Workshop for Primary School Teachers in Shitou
+      Bai Minority Autonomous Township”, “Environmental Education and Ecotourism
+      Training for the Staff of Baima Snow Mountain Nature Reserve in Shangrila
+      Tibetan Autonomous Prefecture”, “Public Nature Education Lectures at
+      Lijiang Municipal Library” and many other sustainability related projects
+      in the region of Northwest Yunnan.
     actions: []
     media:
       type: ImageBlock
