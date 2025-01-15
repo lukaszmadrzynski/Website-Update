@@ -157,7 +157,7 @@ sections:
       sustainability challenges of the region.
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Minimizing environmental impact
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
