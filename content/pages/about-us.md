@@ -74,7 +74,8 @@ sections:
           textAlign: center
           fontWeight: 400
     subtitle: ''
-    text: "Contact Us to Discuss Your\_China Travel Plans.\n\n"
+    text: |
+      Contact Us to Discuss Your Travel Plans.
     actions:
       - type: Button
         label: Contact Us
