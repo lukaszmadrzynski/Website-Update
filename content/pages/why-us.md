@@ -24,8 +24,7 @@ sections:
       At Cloud Mountain Ecotours, we believe your journey, should be more than
       just a sightseeing trip. It should be an immersive experience that
       connects you deeply with the land, the culture, and the people, while
-      contributing positively to their well-being. Here's what sets us apart for
-      your China travel adventure:</div>
+      contributing positively to their well-being. </div>
 
     actions: []
     colors: bg-light-fg-dark
