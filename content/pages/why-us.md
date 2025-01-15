@@ -116,15 +116,10 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Authentic Cultural Immersion
+        title: Handcrafted Itineraries
         tagline: ''
         subtitle: ''
-        text: >
-          Our ecotours go beyond the typical tourist trails, offering genuine
-          interactions with local communities in Yunnan, including the rich
-          Tibetan culture of Shangri-La. You'll have opportunities to learn
-          about traditions, witness daily life, and gain a deeper appreciation
-          for the diverse cultures of China.
+        text: "Our\_Yunnan ecotour itineraries\_are carefully designed to showcase the best of\_Northwest Yunnan and China, including iconic destinations and unique cultural encounters. We prioritize quality and authentic experiences for your\_travel in China.\n"
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
@@ -144,10 +139,15 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Handcrafted Itineraries
+        title: Authentic Cultural Immersion
         tagline: ''
         subtitle: ''
-        text: "Our\_Yunnan ecotour itineraries\_are carefully designed to showcase the best of\_Northwest Yunnan and China, including iconic destinations and unique cultural encounters. We prioritize quality and authentic experiences for your\_travel in China.\n"
+        text: >
+          Our ecotours go beyond the typical tourist trails, offering genuine
+          interactions with local communities in Yunnan, including the rich
+          Tibetan culture of Shangri-La. You'll have opportunities to learn
+          about traditions, witness daily life, and gain a deeper appreciation
+          for the diverse cultures of China.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
