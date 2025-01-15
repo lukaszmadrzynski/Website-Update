@@ -80,7 +80,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Private Group Adventures
+        title: Private Groups
         tagline: 'A More Meaningful Travel Experience:'
         subtitle: This is the item subtitle
         text: |
