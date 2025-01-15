@@ -402,7 +402,7 @@ sections:
         justifyContent: center
         padding:
           - pt-8
-          - pb-6
+          - pb-4
 slug: /why-us
 isDraft: false
 seo:
