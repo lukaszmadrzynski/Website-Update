@@ -109,7 +109,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Sustainable Ecotourism
-        tagline: Unwavering Commitment to
+        tagline: ''
         subtitle: ''
         text: >
           We are deeply dedicated to responsible travel practices throughout
