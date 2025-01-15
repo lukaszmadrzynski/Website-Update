@@ -33,7 +33,7 @@ sections:
         justifyContent: center
         padding:
           - pt-6
-          - pb-24
+          - pb-36
         flexDirection: col-reverse
     media:
       type: ImageBlock
