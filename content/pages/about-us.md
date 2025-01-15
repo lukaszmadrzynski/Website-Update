@@ -266,7 +266,7 @@ sections:
         justifyContent: center
         padding:
           - pt-8
-          - pb-4
+          - pb-12
   - type: GenericSection
     title:
       type: TitleBlock
