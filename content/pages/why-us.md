@@ -5,7 +5,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: PAGE CONTENTS
+      text: >-
+        Your Authentic China Travel Adventure Starts Here: Why Choose Cloud
+        Mountain Ecotours?
       color: text-dark
       styles:
         self:
