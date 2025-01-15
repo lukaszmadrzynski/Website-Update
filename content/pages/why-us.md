@@ -401,7 +401,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-7
+          - pt-8
           - pb-6
 slug: /why-us
 isDraft: false
