@@ -65,7 +65,7 @@ sections:
     title:
       type: TitleBlock
       text: Inquiry and Booking
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
