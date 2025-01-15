@@ -301,7 +301,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Outreach
       color: text-dark
     subtitle: ''
     text: >
