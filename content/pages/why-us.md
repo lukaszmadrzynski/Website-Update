@@ -144,14 +144,10 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Contributing to Real Conservation Efforts
+        title: Handcrafted Itineraries
         tagline: ''
         subtitle: ''
-        text: >
-          Our team's experience in designing and implementing UNDP-GEF-SGP
-          projects in Northwest Yunnan demonstrates our commitment to
-          on-the-ground conservation. When you travel with us, you're supporting
-          a company actively involved in protecting the natural beauty of China.
+        text: "Our\_Yunnan ecotour itineraries\_are carefully designed to showcase the best of\_Northwest Yunnan and China, including iconic destinations and unique cultural encounters. We prioritize quality and authentic experiences for your\_travel in China.\n"
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
@@ -171,10 +167,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Handcrafted Itineraries
+        title: Contributing to Real Conservation Efforts
         tagline: ''
         subtitle: ''
-        text: "Our\_Yunnan ecotour itineraries\_are carefully designed to showcase the best of\_Northwest Yunnan and China, including iconic destinations and unique cultural encounters. We prioritize quality and authentic experiences for your\_travel in China.\n"
+        text: >
+          Our team's experience in designing and implementing UNDP-GEF-SGP
+          projects in Northwest Yunnan demonstrates our commitment to
+          on-the-ground conservation. When you travel with us, you're supporting
+          a company actively involved in protecting the natural beauty of China.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
