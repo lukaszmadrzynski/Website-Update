@@ -303,7 +303,7 @@ sections:
       type: TitleBlock
       text: Business Consulting
       color: text-dark
-    subtitle: Be in good company
+    subtitle: ''
     text: >
       We believe that showcasing our work and experiences can contribute to
       sustainable development not only in Yunnan but also in other parts of
