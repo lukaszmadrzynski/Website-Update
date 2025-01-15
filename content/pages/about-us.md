@@ -155,7 +155,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Minimizing Environmental Impact
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           We carefully plan our itineraries and encourage responsible behavior
