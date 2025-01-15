@@ -82,7 +82,7 @@ sections:
       - type: FeaturedItem
         title: Private Groups
         tagline: 'A More Meaningful Travel Experience:'
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
