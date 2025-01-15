@@ -34,8 +34,13 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: |+
-      <div style="text-align: center">Get Started!</div>
+    text: >+
+      <div style="text-align: center">Join us on a journey that respects the
+      environment, celebrates local cultures, and creates unforgettable
+      memories. Explore the wonders of Yunnan with Us!
+
+
+      </div>
 
     actions:
       - type: Button
