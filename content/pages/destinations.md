@@ -14,12 +14,6 @@ sections:
       reserves and heritage sites where we have been actively involved in nature
       conservation and sustainable development projects.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
