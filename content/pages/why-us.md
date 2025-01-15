@@ -285,7 +285,7 @@ sections:
       - type: FeaturedItem
         title: Lynne Lyu
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
