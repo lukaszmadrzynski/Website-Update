@@ -59,36 +59,6 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Expert Local Guides
-        tagline: ''
-        subtitle: ''
-        text: >
-          Our guides aren't just tour leaders; they are storytellers,
-          conservation advocates, and passionate locals from the heart of
-          Northwest Yunnan. They possess an unparalleled understanding of the
-          environment, culture (including Tibetan traditions in Shangri-La), and
-          history of the regions you'll explore in China, particularly in
-          Lijiang and Shangri-La. Their insights transform your trip from a
-          visit to a genuine connection.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
         title: Private Groups
         tagline: ''
         subtitle: ''
