@@ -183,8 +183,10 @@ sections:
         title: Supporting Local Communities
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >
+          We partner with local businesses, employ local guides, and ensure that
+          our ecotours directly benefit the people and economies of the regions
+          we visit in China.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
