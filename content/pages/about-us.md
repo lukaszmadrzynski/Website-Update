@@ -28,7 +28,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Begin Your Sustainable Travel Adventure?
+      text: Ready to Begin Your Travel Adventure?
       color: text-dark
       styles:
         self:
