@@ -156,7 +156,7 @@ sections:
       - type: FeaturedItem
         title: Minimizing Environmental Impact
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           We carefully plan our itineraries and encourage responsible behavior
           to protect the natural beauty of destinations around Lijiang and
