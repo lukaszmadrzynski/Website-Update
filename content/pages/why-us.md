@@ -257,7 +257,7 @@ sections:
       - type: FeaturedItem
         title: Lukas Madrzynski
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
