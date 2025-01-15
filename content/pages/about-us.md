@@ -91,7 +91,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-6
+          - pt-12
           - pb-6
 slug: /about-us
 isDraft: false
