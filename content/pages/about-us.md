@@ -38,7 +38,7 @@ sections:
           - pb-12
           - pl-3
           - pr-3
-        flexDirection: col-reverse
+        flexDirection: col
     media:
       type: ImageBlock
       url: /images/banner 3by2.jpg
