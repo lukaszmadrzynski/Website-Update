@@ -3,28 +3,6 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    subtitle: ''
-    text: ''
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        padding:
-          - pt-1
-          - pb-1
-          - pl-1
-          - pr-1
-    media:
-      type: ImageBlock
-      url: /images/hero.jpg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
-  - type: GenericSection
     subtitle: Northwest Yunnan / Southeast Tibet
     text: >
       Immerse yourself in the breathtaking landscapes and vibrant cultures of
