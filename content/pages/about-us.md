@@ -267,7 +267,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: "Throughout the years, our team has established deep involvement\_with the local communities, organizations and institutions in Northwest\_Yunnan, and has earned both trust and appreciation. We have actively\_cooperated and build relationships with multiple stakeholders includ\uFFFEing nature reserves, national parks, forestry and conservation bureaus,\_NGOs and village committees across our project sites."
       color: text-dark
     subtitle: Be in good company
     text: >
