@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Be in good company
+    subtitle: ''
     text: >
       Northwest Yunnan is one of the most culturally and naturally diverse
        regions of China and the world at large. It homes over 20 ethnic minority groups, a multitude of diverse ecosystems and countless species of endemic flora and fauna. All of our ecotour destinations are based in nature
