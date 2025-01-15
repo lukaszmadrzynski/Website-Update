@@ -231,7 +231,7 @@ sections:
       - type: FeaturedItem
         title: Handcrafted Itineraries
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: "Our\_Yunnan ecotour itineraries\_are carefully designed to showcase the best of\_Northwest Yunnan and China, including iconic destinations and unique cultural encounters. We prioritize quality and authentic experiences for your\_travel in China.\n"
         image:
           type: ImageBlock
