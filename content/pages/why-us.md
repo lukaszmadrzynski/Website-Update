@@ -87,20 +87,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Sustainable Ecotourism
+        title: Handcrafted Itineraries
         tagline: ''
         subtitle: ''
-        text: >
-          We are deeply dedicated to responsible travel practices throughout
-          Yunnan and China. This means minimizing our environmental impact,
-          supporting local economies by partnering with local businesses, and
-          ensuring our tours benefit the communities you visit in Lijiang,
-          Shangri-La, and beyond. We believe in leaving a positive footprint on
-          our beloved Yunnan.
+        text: "Our\_Yunnan ecotour itineraries\_are carefully designed to showcase the best of\_Northwest Yunnan and China, including iconic destinations and unique cultural encounters. We prioritize quality and authentic experiences for your\_travel in China.\n"
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
           styles:
             self:
               borderRadius: x-large
@@ -116,14 +110,20 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Handcrafted Itineraries
+        title: Sustainable Ecotourism
         tagline: ''
         subtitle: ''
-        text: "Our\_Yunnan ecotour itineraries\_are carefully designed to showcase the best of\_Northwest Yunnan and China, including iconic destinations and unique cultural encounters. We prioritize quality and authentic experiences for your\_travel in China.\n"
+        text: >
+          We are deeply dedicated to responsible travel practices throughout
+          Yunnan and China. This means minimizing our environmental impact,
+          supporting local economies by partnering with local businesses, and
+          ensuring our tours benefit the communities you visit in Lijiang,
+          Shangri-La, and beyond. We believe in leaving a positive footprint on
+          our beloved Yunnan.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
+          url: /images/abstract-feature2.svg
+          altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
