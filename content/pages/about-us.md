@@ -58,7 +58,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Lynne Lyu
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
