@@ -242,8 +242,13 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      We are immensely proud of the strong relationships we've built with local
+      communities and organizations throughout Yunnan, China. These partnerships
+      are crucial to the authenticity and positive impact of our ecotours. By
+      collaborating with local guides, guesthouses, and community initiatives in
+      destinations like Lijiang and Shangri-La, we ensure that your travel
+      experience directly supports the people who call this remarkable region
+      home.
     actions:
       - type: Button
         label: Get started
