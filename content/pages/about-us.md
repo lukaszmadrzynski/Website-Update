@@ -71,8 +71,7 @@ sections:
           textAlign: center
           fontWeight: 400
     subtitle: We respond within one day!
-    text: |
-      Reach out for more tours, details, special offers and customizations.
+    text: "Contact Us to Discuss Your\_China Travel Plans.\n\n"
     actions:
       - type: Button
         label: Contact Us
