@@ -61,18 +61,18 @@ sections:
       sustainable development.
     items:
       - type: FeaturedItem
-        title: Lukas Madrzynski
+        title: Lynne Lyu
         tagline: ''
         subtitle: ''
         text: >
-          With his extensive background in environmental science and sustainable
-          development (UNEP-Tongji IESD), and his work with organizations like
-          UNESCO-WHITRAP and the IUCN, Lukasz brings a wealth of knowledge and a
-          strong commitment to conservation to every tour. His expertise ensures
-          your China travel experience is both enriching and responsible.
+          Lynne's deep connection to Yunnan, her involvement with the Lijiang
+          Conservation and Development Association, and her passion for cultural
+          preservation ensure our tours are culturally sensitive and contribute
+          to the well-being of local communities. She brings invaluable local
+          insights to your China travel adventure.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/abstract-feature2.svg
           altText: Placeholder image
           styles:
             self:
@@ -89,18 +89,18 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Lynne Lyu
+        title: Lukas Madrzynski
         tagline: ''
         subtitle: ''
         text: >
-          Lynne's deep connection to Yunnan, her involvement with the Lijiang
-          Conservation and Development Association, and her passion for cultural
-          preservation ensure our tours are culturally sensitive and contribute
-          to the well-being of local communities. She brings invaluable local
-          insights to your China travel adventure.
+          With his extensive background in environmental science and sustainable
+          development (UNEP-Tongji IESD), and his work with organizations like
+          UNESCO-WHITRAP and the IUCN, Lukasz brings a wealth of knowledge and a
+          strong commitment to conservation to every tour. His expertise ensures
+          your China travel experience is both enriching and responsible.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/abstract-feature1.svg
           altText: Placeholder image
           styles:
             self:
