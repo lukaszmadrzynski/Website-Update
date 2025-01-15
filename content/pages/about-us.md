@@ -23,7 +23,7 @@ sections:
       dedicated to showcasing the beauty of China through sustainable ecotourism
       practices.
     actions: []
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       text:
         textAlign: center
