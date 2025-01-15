@@ -89,7 +89,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Lukasz Madrzynski
+        title: Lukas Madrzynski
         tagline: ''
         subtitle: Co-founder & Nature Immersion Expert
         text: >
