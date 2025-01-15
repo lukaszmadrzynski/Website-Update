@@ -194,7 +194,7 @@ sections:
       - type: FeaturedItem
         title: Trusted and Recognized
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Our commitment to quality and sustainability has earned us recognition
           from major domestic and international media outlets, including CCTV,
