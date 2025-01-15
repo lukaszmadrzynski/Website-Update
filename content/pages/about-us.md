@@ -5,7 +5,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: PAGE CONTENT
+      text: >-
+        About Us: Your Trusted Partner for Sustainable China Travel & Ecotours
+        in Yunnan
       color: text-dark
       styles:
         self:
