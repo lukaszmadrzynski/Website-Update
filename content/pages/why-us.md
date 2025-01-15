@@ -81,7 +81,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Private Groups
-        tagline: 'A More Meaningful Travel Experience:'
+        tagline: ''
         subtitle: ''
         text: >
           We prioritize small, private groups on our ecotours. This fosters a
