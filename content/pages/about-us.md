@@ -267,7 +267,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Sustainable Development in Action
       color: text-dark
     subtitle: Be in good company
     text: >
