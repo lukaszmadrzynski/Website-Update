@@ -37,7 +37,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Our Ecotourism Destinations
+      text: ''
       color: text-dark
       styles:
         self:
