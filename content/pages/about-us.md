@@ -39,14 +39,6 @@ sections:
           - pl-3
           - pr-3
         flexDirection: col-reverse
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/Hero.jpg
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
