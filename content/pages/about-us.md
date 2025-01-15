@@ -25,7 +25,7 @@ sections:
       unique environment and cultural heritage for generations to come.</div>
 
     actions: []
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     styles:
       text:
         textAlign: center
