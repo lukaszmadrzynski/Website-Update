@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Destinations
+title: Our Ecotourism Destinations
 sections:
   - type: GenericSection
     title:
