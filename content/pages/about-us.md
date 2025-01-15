@@ -157,8 +157,10 @@ sections:
         title: Minimizing Environmental Impact
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >
+          We carefully plan our itineraries and encourage responsible behavior
+          to protect the natural beauty of destinations around Lijiang and
+          Shangri-La
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
