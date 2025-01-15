@@ -140,8 +140,12 @@ sections:
         title: Authentic Cultural Immersion
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Our ecotours go beyond the typical tourist trails, offering genuine
+          interactions with local communities in Yunnan, including the rich
+          Tibetan culture of Shangri-La. You'll have opportunities to learn
+          about traditions, witness daily life, and gain a deeper appreciation
+          for the diverse cultures of China.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
