@@ -255,7 +255,7 @@ sections:
       sustainable development.
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Lukas Madrzynski
         tagline: ''
         subtitle: This is the item subtitle
         text: |
