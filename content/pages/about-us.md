@@ -273,7 +273,7 @@ sections:
     text: >
       Our Team has led the design and implementation of UNDP-GEF-SGP projects in
       Northwest Yunnan, including the“Community Wetland and Forest Conservation
-      Project in Wenhai, Lijiang”, the“Comprehensive Demonstration Project of
+      Project in Wenhai, Lijiang”, the “Comprehensive Demonstration Project of
       Renewable Energy in Liju Village Community in Three Parallel Rivers
       Area”as well as other government and non-government funded projects
       including the“Community Conservation Project in Lashihai”, “Environmental
