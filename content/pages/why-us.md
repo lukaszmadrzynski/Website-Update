@@ -52,7 +52,7 @@ sections:
       - type: FeaturedItem
         title: Expert Local Guides
         tagline: "Your Gateway to Authentic Yunnan & Tibet:\_"
-        subtitle: "Your Gateway to Authentic Yunnan & Tibet:\_"
+        subtitle: ''
         text: >
           Our guides aren't just tour leaders; they are storytellers,
           conservation advocates, and passionate locals from the heart of
