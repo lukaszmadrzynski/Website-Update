@@ -296,6 +296,7 @@ sections:
         flexDirection: row-reverse
         padding:
           - pt-12
+          - pb-12
   - type: GenericSection
     title:
       type: TitleBlock
