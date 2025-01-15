@@ -84,7 +84,7 @@ sections:
       - type: FeaturedItem
         title: Lukasz Madrzynski
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Co-founder & Nature Immersion Expert
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
