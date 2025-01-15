@@ -314,12 +314,6 @@ sections:
       international media outlets, including CCTV, National Geographic and
       Discovery Channel.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
