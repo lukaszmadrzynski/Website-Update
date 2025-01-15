@@ -305,8 +305,14 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      We believe that showcasing our work and experiences can contribute to
+      sustainable development not only in Yunnan but also in other parts of
+
+      the world. Our commitment and achievements have garnered considerable
+      recognition and have been widely reported by major domestic and
+
+      international media outlets, including CCTV, National Geographic and
+      Discovery Channel.
     actions:
       - type: Button
         label: Get started
