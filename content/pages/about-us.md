@@ -41,6 +41,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/17 (2).jpg
   - type: GenericSection
     title:
       type: TitleBlock
