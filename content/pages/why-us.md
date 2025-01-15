@@ -15,8 +15,8 @@ sections:
           fontWeight: 400
     subtitle: >-
       Discover the difference of traveling with a passionate, locally-rooted
-      team committed to sustainable ecotourism in Yunnan, China, especially in
-      the captivating regions of Lijiang and Shangri-La.
+      team committed to sustainable ecotourism in Yunnan, China, in the
+      captivating regions of Lijiang and Shangri-La.
     text: >+
       <div style="text-align: left">Our Core Difference: Passion, Expertise, and
       Sustainability in China Travel:
