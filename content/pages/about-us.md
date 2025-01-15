@@ -277,14 +277,7 @@ sections:
       cooperated and build relationships with wide range of stakeholders
       including nature reserves, national parks, forestry and conservation
       bureaus, NGOs and village committees across our project sites.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero3.svg
