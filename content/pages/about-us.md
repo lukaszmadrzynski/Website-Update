@@ -85,8 +85,16 @@ sections:
         title: Lukasz Madrzynski
         tagline: ''
         subtitle: Co-founder & Nature Immersion Expert
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          Deputy General Secretary at Lijiang Conservation and Development
+          Association, Deputy Chief Editor of < Lijiang Wenhai Ecotourism
+          Guidebook > and < Lijiang Laojun Mountains Climate Change Brochure >. 
+          Graduated from Anqing Normal University with Bachelor of Arts in Art
+          Design. Completed nature education course certified by China Nature
+          Education Network. Former Chief Editor at Enjoy Cambodia expat
+          magazine, English and Art Teacher at Lijiang Voice in Nature Education
+          Co. Ltd., Founder of Lynne玲 Art Studio, 
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
