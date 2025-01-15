@@ -250,12 +250,6 @@ sections:
       experience directly supports the people who call this remarkable region
       home.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
