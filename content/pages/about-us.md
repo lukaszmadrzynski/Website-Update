@@ -61,6 +61,8 @@ sections:
       self:
         alignItems: center
         justifyContent: center
+        padding:
+          - pb-9
   - type: GenericSection
     title:
       type: TitleBlock
