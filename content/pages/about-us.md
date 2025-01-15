@@ -41,7 +41,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Hero.jpg
+      url: /images/banner 3by2.jpg
   - type: GenericSection
     title:
       type: TitleBlock
