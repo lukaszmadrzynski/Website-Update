@@ -193,7 +193,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Trusted and Recognized
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >
           Our commitment to quality and sustainability has earned us recognition
