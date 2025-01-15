@@ -244,7 +244,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Led by Experienced & Passionate Founders
+      text: Led by Experienced & Passionate Team
       color: text-primary
       styles:
         self:
