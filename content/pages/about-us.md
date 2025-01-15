@@ -240,7 +240,7 @@ sections:
       type: TitleBlock
       text: Our Local Partners
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Building Bridges in China
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
