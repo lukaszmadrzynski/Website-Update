@@ -28,7 +28,6 @@ sections:
         flexDirection: col-reverse
     media:
       type: ImageBlock
-      url: /images/17 (2).jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
