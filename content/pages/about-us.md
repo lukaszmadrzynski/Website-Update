@@ -284,7 +284,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: Stakeholders
+      label: Multi-Stakeholders
       color: text-primary
     colors: bg-light-fg-dark
     styles:
