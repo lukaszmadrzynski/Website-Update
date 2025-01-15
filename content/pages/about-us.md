@@ -134,7 +134,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Our Commitment to Sustainable China Travel
       color: text-primary
       styles:
         self:
