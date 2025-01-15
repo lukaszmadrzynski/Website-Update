@@ -92,16 +92,14 @@ sections:
         title: Lukasz Madrzynski
         tagline: ''
         subtitle: Co-founder & Nature Immersion Expert
-        text: >+
-          Deputy General Secretary at Lijiang Conservation and Development
-          Association, Deputy Chief Editor of < Lijiang Wenhai Ecotourism
-          Guidebook > and < Lijiang Laojun Mountains Climate Change Brochure >. 
-          Graduated from Anqing Normal University with Bachelor of Arts in Art
-          Design. Completed nature education course certified by China Nature
-          Education Network. Former Chief Editor at Enjoy Cambodia expat
-          magazine, English and Art Teacher at Lijiang Voice in Nature Education
-          Co. Ltd., Founder of Lynne玲 Art Studio, 
-
+        text: >
+          Master’s and PhD research at UNEP-Tongji Institute of Environment for
+          Sustainable Development. Bachelor‘s degree in Chinese Studies at
+          Warsaw University, Poland. Member of the IUCN Commission on Education
+          and Communication. Heritage Conservation Practitioner at
+          UNESCO-WHITRAP “heritAP”. Senior Consultant at Lijiang Conservation
+          and Development Association. 2024 IUCN-CEC Asia Award Winner.
+          Recipient of Lijiang Municipality Senior Talents Service Green Card.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
