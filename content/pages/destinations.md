@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
+      text: Our Ecotourism Destinations
       color: text-dark
     subtitle: ''
     text: >
