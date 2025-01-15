@@ -18,9 +18,7 @@ sections:
 
       Discover our passion, expertise, and unwavering commitment to providing
       exceptional and responsible travel experiences in Northwest Yunnan, China,
-      including the captivating regions of Lijiang and Tibetan Shangri-La. We're
-      dedicated to showcasing the beauty of China through sustainable ecotourism
-      practices.
+      including the captivating regions of Lijiang and Tibetan Shangri-La. 
     actions: []
     colors: bg-dark-fg-light
     styles:
