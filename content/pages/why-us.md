@@ -53,7 +53,14 @@ sections:
         title: Expert Local Guides
         tagline: ''
         subtitle: ''
-        text: "Your Gateway to Authentic Yunnan & Tibet:\_Our guides aren't just tour leaders; they are storytellers, conservation advocates, and passionate locals from the heart of Northwest Yunnan. They possess an unparalleled understanding of the environment, culture (including Tibetan traditions in Shangri-La), and history of the regions you'll explore in China, particularly in Lijiang and Shangri-La. Their insights transform your trip from a visit to a genuine connection.\n"
+        text: >
+          Our guides aren't just tour leaders; they are storytellers,
+          conservation advocates, and passionate locals from the heart of
+          Northwest Yunnan. They possess an unparalleled understanding of the
+          environment, culture (including Tibetan traditions in Shangri-La), and
+          history of the regions you'll explore in China, particularly in
+          Lijiang and Shangri-La. Their insights transform your trip from a
+          visit to a genuine connection.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
