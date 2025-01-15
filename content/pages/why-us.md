@@ -160,7 +160,12 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: ''
+    subtitle: >-
+      Our Core Difference: Passion, Expertise, and Sustainability in China
+      Travel. At Cloud Mountain Ecotours, we believe your journey, should be
+      more than just a sightseeing trip. It should be an immersive experience
+      that connects you deeply with the nature, the culture, and the people,
+      while contributing positively to their well-being.
     items:
       - type: FeaturedItem
         title: Private Groups
