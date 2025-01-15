@@ -171,15 +171,10 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Trusted and Recognized
+        title: Handcrafted Itineraries
         tagline: ''
         subtitle: ''
-        text: >
-          Our commitment to quality and sustainability has earned us recognition
-          from major domestic and international media outlets, including CCTV,
-          National Geographic, and Discovery Channel. This recognition
-          underscores our dedication to providing exceptional China travel
-          experiences.
+        text: "Our\_Yunnan ecotour itineraries\_are carefully designed to showcase the best of\_Northwest Yunnan and China, including iconic destinations and unique cultural encounters. We prioritize quality and authentic experiences for your\_travel in China.\n"
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
@@ -199,10 +194,15 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Handcrafted Itineraries
+        title: Trusted and Recognized
         tagline: ''
         subtitle: ''
-        text: "Our\_Yunnan ecotour itineraries\_are carefully designed to showcase the best of\_Northwest Yunnan and China, including iconic destinations and unique cultural encounters. We prioritize quality and authentic experiences for your\_travel in China.\n"
+        text: >
+          Our commitment to quality and sustainability has earned us recognition
+          from major domestic and international media outlets, including CCTV,
+          National Geographic, and Discovery Channel. This recognition
+          underscores our dedication to providing exceptional China travel
+          experiences.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
