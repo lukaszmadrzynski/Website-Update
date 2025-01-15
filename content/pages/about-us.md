@@ -211,8 +211,7 @@ sections:
         subtitle: ''
         text: >
           We strive to create meaningful interactions that respect and celebrate
-          the diverse cultures of Yunnan, including the unique traditions found
-          in Lijiang and Tibetan Shangri-La.
+          the diverse cultures of Yunnan.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
