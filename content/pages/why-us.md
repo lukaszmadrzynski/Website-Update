@@ -51,7 +51,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Reasons to Choose Cloud Mountain for Your China Travel
+      text: Key Reasons to Choose Cloud Mountain Ecotours
       color: text-primary
       styles:
         self:
