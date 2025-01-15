@@ -13,10 +13,7 @@ sections:
           fontWeight: 400
     subtitle: Your Trusted Partner for Sustainable China Travel & Ecotours in Yunnan
     text: >
-      **Meet the Team Behind Cloud Mountain:** 
-
-
-      **Pioneering Sustainable Ecotourism and Authentic China Travel in Yunnan**
+      **Meet the Team Behind Cloud Mountain:**
 
 
       Discover our passion, expertise, and unwavering commitment to providing
