@@ -5,9 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: >-
-        About Us: Your Trusted Partner for Sustainable China Travel & Ecotours
-        in Yunnan
+      text: About Cloud Mountain
       color: text-dark
       styles:
         self:
