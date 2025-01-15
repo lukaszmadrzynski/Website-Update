@@ -51,6 +51,117 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
+      text: Led by Experienced & Passionate Team
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    subtitle: >-
+      Cloud Mountain was co-founded by Lukas Madrzynski and Lynne Lyu, a
+      dedicated team with deep roots in Yunnan and a proven track record in
+      sustainable development.
+    items:
+      - type: FeaturedItem
+        title: Lukas Madrzynski
+        tagline: ''
+        subtitle: ''
+        text: >
+          With his extensive background in environmental science and sustainable
+          development (UNEP-Tongji IESD), and his work with organizations like
+          UNESCO-WHITRAP and the IUCN, Lukasz brings a wealth of knowledge and a
+          strong commitment to conservation to every tour. His expertise ensures
+          your China travel experience is both enriching and responsible.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Lynne Lyu
+        tagline: ''
+        subtitle: ''
+        text: >
+          Lynne's deep connection to Yunnan, her involvement with the Lijiang
+          Conservation and Development Association, and her passion for cultural
+          preservation ensure our tours are culturally sensitive and contribute
+          to the well-being of local communities. She brings invaluable local
+          insights to your China travel adventure.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Local Guides
+        tagline: ''
+        subtitle: ''
+        text: >
+          Our guides aren't just tour leaders; they are storytellers,
+          conservation advocates, and passionate locals from the heart of
+          Northwest Yunnan. They possess an unparalleled understanding of the
+          environment, culture, and history of the regions you'll explore in
+          China, particularly in Lijiang and Shangri-La. Their insights
+          transform your trip from a visit to a genuine connection.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature3.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+    actions: []
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-12
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
       text: Key Reasons to Choose Cloud Mountain Ecotours
       color: text-primary
       styles:
@@ -224,117 +335,6 @@ sections:
           - pt-16
           - pl-8
           - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Led by Experienced & Passionate Team
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    subtitle: >-
-      Cloud Mountain was co-founded by Lukas Madrzynski and Lynne Lyu, a
-      dedicated team with deep roots in Yunnan and a proven track record in
-      sustainable development.
-    items:
-      - type: FeaturedItem
-        title: Lukas Madrzynski
-        tagline: ''
-        subtitle: ''
-        text: >
-          With his extensive background in environmental science and sustainable
-          development (UNEP-Tongji IESD), and his work with organizations like
-          UNESCO-WHITRAP and the IUCN, Lukasz brings a wealth of knowledge and a
-          strong commitment to conservation to every tour. His expertise ensures
-          your China travel experience is both enriching and responsible.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: Lynne Lyu
-        tagline: ''
-        subtitle: ''
-        text: >
-          Lynne's deep connection to Yunnan, her involvement with the Lijiang
-          Conservation and Development Association, and her passion for cultural
-          preservation ensure our tours are culturally sensitive and contribute
-          to the well-being of local communities. She brings invaluable local
-          insights to your China travel adventure.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: Local Guides
-        tagline: ''
-        subtitle: ''
-        text: >
-          Our guides aren't just tour leaders; they are storytellers,
-          conservation advocates, and passionate locals from the heart of
-          Northwest Yunnan. They possess an unparalleled understanding of the
-          environment, culture, and history of the regions you'll explore in
-          China, particularly in Lijiang and Shangri-La. Their insights
-          transform your trip from a visit to a genuine connection.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature3.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-    actions: []
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-12
           - pr-8
         justifyContent: center
       subtitle:
