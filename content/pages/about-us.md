@@ -240,7 +240,7 @@ sections:
       type: TitleBlock
       text: Our Local Partners
       color: text-dark
-    subtitle: Building Bridges in China
+    subtitle: ''
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
