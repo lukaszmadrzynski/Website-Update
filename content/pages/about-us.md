@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: About Cloud Mountain
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
