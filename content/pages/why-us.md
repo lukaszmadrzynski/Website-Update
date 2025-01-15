@@ -249,7 +249,10 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: >-
+      Cloud Mountain was co-founded by Lukas Madrzynski and Lynne Lyu, a
+      dedicated team with deep roots in Yunnan and a proven track record in
+      sustainable development.
     items:
       - type: FeaturedItem
         title: Feature Item One
