@@ -300,6 +300,7 @@ sections:
       self:
         alignItems: center
         flexDirection: col-reverse
+        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
