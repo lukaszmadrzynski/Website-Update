@@ -15,14 +15,14 @@ sections:
     text: >+
       <div style="text-align: center">Cloud Mountain emerged from a shared
       passion for the unparalleled natural beauty and rich cultural tapestry of
-      Northwest Yunnan, China. Co-founders Lukas Madrzynski and Lynne Lyu
+      Northwest Yunnan, China. Co-founders Lynne Lyu and Lukasz Madrzynski
       envisioned a travel company that not only offered unforgettable
       experiences but also championed sustainable practices and fostered genuine
       connections with local communities. We believe that travel to China,
       particularly in regions like Lijiang and Shangri-La, should be a force for
       good, enriching both visitors and the places they explore. Our journey
       began with a desire to share the magic of Yunnan while preserving its
-      unique environment and cultural heritage for generations to come.</div>
+      unique natural and cultural heritage for generations to come.</div>
 
     actions: []
     colors: bg-light-fg-dark
