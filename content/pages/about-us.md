@@ -70,7 +70,7 @@ sections:
         self:
           textAlign: center
           fontWeight: 400
-    subtitle: We respond within one day!
+    subtitle: ''
     text: "Contact Us to Discuss Your\_China Travel Plans.\n\n"
     actions:
       - type: Button
