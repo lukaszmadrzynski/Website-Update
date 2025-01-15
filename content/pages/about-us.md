@@ -60,7 +60,7 @@ sections:
       - type: FeaturedItem
         title: Lynne Lyu
         tagline: ''
-        subtitle: Co-founder & Cultural Immersion Expert
+        subtitle: Co-founder & Culture Immersion Expert
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
