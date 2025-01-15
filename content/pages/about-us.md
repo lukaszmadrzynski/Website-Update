@@ -100,17 +100,6 @@ sections:
           UNESCO-WHITRAP “heritAP”. Senior Consultant at Lijiang Conservation
           and Development Association. 2024 IUCN-CEC Asia Award Winner.
           Recipient of Lijiang Municipality Senior Talents Service Green Card.
-
-
-          A seasoned explorer and advocate for sustainable development in China,
-          Lukas brings a wealth of knowledge and experience to Cloud Mountain.
-          His academic background in environmental science and sustainable
-          development, coupled with his deep involvement in conservation
-          initiatives across Yunnan, ensures our ecotours are both educational
-          and impactful. Lukas is passionate about sharing the wonders of China
-          with travelers while upholding the highest standards of responsible
-          tourism. His expertise is invaluable in crafting authentic and
-          enriching experiences throughout Yunnan
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
