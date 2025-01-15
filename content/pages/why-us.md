@@ -139,7 +139,7 @@ sections:
       - type: FeaturedItem
         title: Authentic Cultural Immersion
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Our ecotours go beyond the typical tourist trails, offering genuine
           interactions with local communities in Yunnan, including the rich
