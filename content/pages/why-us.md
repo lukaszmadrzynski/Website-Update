@@ -25,6 +25,7 @@ sections:
         padding:
           - pt-6
           - pb-6
+        flexDirection: col
     media:
       type: ImageBlock
       url: /images/hero2.svg
