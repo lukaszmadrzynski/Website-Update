@@ -82,7 +82,7 @@ sections:
       - type: FeaturedItem
         title: Sustainable Ecotourism
         tagline: Unwavering Commitment to
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
