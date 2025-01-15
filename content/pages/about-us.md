@@ -209,8 +209,10 @@ sections:
         title: Promoting Cultural Preservation
         tagline: ''
         subtitle: ''
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >
+          We strive to create meaningful interactions that respect and celebrate
+          the diverse cultures of Yunnan, including the unique traditions found
+          in Lijiang and Tibetan Shangri-La.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
