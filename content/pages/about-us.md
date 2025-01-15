@@ -39,6 +39,14 @@ sections:
           - pl-3
           - pr-3
         flexDirection: col-reverse
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
