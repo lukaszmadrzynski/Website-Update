@@ -195,8 +195,12 @@ sections:
         title: Trusted and Recognized
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Our commitment to quality and sustainability has earned us recognition
+          from major domestic and international media outlets, including CCTV,
+          National Geographic, and Discovery Channel. This recognition
+          underscores our dedication to providing exceptional China travel
+          experiences.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
