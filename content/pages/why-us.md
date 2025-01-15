@@ -258,8 +258,12 @@ sections:
         title: Lukas Madrzynski
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >
+          With his extensive background in environmental science and sustainable
+          development (UNEP-Tongji IESD), and his work with organizations like
+          UNESCO-WHITRAP and the IUCN, Lukasz brings a wealth of knowledge and a
+          strong commitment to conservation to every tour. His expertise ensures
+          your China travel experience is both enriching and responsible.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
