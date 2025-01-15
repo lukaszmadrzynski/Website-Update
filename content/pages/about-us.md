@@ -34,13 +34,6 @@ sections:
           - pl-3
           - pr-3
         flexDirection: col-reverse
-    media:
-      type: ImageBlock
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
