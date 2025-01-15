@@ -140,18 +140,10 @@ sections:
         self:
           textAlign: center
     subtitle: >-
-      Sustainability is the bedrock of everything we do at Cloud Mountain
-      Ecotourism. We are deeply committed to responsible tourism practices
-      throughout China, particularly in the stunning landscapes of Yunnan.
-      Supporting local communities: We partner with local businesses, employ
-      local guides, and ensure that our ecotours directly benefit the people and
-      economies of the regions we visit in China.Promoting cultural
-      preservation: We strive to create meaningful interactions that respect and
-      celebrate the diverse cultures of Yunnan, including the unique traditions
-      found in Lijiang and Tibetan Shangri-La.Providing educational experiences:
-      We believe that travel is an opportunity to learn and grow. Our ecotours
-      in China are designed to foster a deeper understanding of the environment,
-      culture, and sustainability challenges of the region.
+      Sustainability is the bedrock of everything we do at Cloud Mountain. We
+      are deeply committed to responsible tourism practices and believe that
+      travel is not only an opportunity to learn and grow but also to contribute
+      towards a sustainable development in visited areas.
     items:
       - type: FeaturedItem
         title: Minimizing Environmental Impact
