@@ -12,17 +12,18 @@ sections:
           textAlign: center
           fontWeight: 400
     subtitle: Your Trusted Partner for Sustainable China Travel & Ecotours in Yunnan
-    text: >
-      Cloud Mountain emerged from a shared passion for the unparalleled natural
-      beauty and rich cultural tapestry of Northwest Yunnan, China. Co-founders
-      Lukas Madrzynski and Lynne Lyu envisioned a travel company that not only
-      offered unforgettable experiences but also championed sustainable
-      practices and fostered genuine connections with local communities. We
-      believe that travel to China, particularly in regions like Lijiang and
-      Shangri-La, should be a force for good, enriching both visitors and the
-      places they explore. Our journey began with a desire to share the magic of
-      Yunnan while preserving its unique environment and cultural heritage for
-      generations to come.
+    text: >+
+      <div style="text-align: left">Cloud Mountain emerged from a shared passion
+      for the unparalleled natural beauty and rich cultural tapestry of
+      Northwest Yunnan, China. Co-founders Lukas Madrzynski and Lynne Lyu
+      envisioned a travel company that not only offered unforgettable
+      experiences but also championed sustainable practices and fostered genuine
+      connections with local communities. We believe that travel to China,
+      particularly in regions like Lijiang and Shangri-La, should be a force for
+      good, enriching both visitors and the places they explore. Our journey
+      began with a desire to share the magic of Yunnan while preserving its
+      unique environment and cultural heritage for generations to come.</div>
+
     actions: []
     colors: bg-dark-fg-light
     styles:
