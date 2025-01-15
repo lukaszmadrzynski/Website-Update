@@ -249,14 +249,7 @@ sections:
       destinations like Lijiang and Shangri-La, we ensure that your travel
       experience directly supports the people who call this remarkable region
       home.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero3.svg
