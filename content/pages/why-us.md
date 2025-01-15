@@ -83,8 +83,12 @@ sections:
         title: Private Groups
         tagline: 'A More Meaningful Travel Experience:'
         subtitle: ''
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >
+          We prioritize small, private groups on our ecotours. This fosters a
+          more intimate and personalized experience, allowing for deeper
+          engagement with your surroundings and the local people. It also
+          minimizes our impact on the delicate ecosystems of Yunnan and the
+          Tibetan areas within China.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
