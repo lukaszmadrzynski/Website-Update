@@ -262,7 +262,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: col
+        flexDirection: col-reverse
         justifyContent: center
   - type: GenericSection
     title:
