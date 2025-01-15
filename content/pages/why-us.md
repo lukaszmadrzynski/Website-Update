@@ -338,8 +338,13 @@ sections:
         title: Local Experts
         tagline: ''
         subtitle: ''
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >
+          Our guides aren't just tour leaders; they are storytellers,
+          conservation advocates, and passionate locals from the heart of
+          Northwest Yunnan. They possess an unparalleled understanding of the
+          environment, culture, and history of the regions you'll explore in
+          China, particularly in Lijiang and Shangri-La. Their insights
+          transform your trip from a visit to a genuine connection.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
