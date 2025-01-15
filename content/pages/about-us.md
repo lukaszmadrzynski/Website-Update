@@ -271,8 +271,12 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Throughout the years, our team has established deep involvement
+       with the local communities, organizations and institutions in Northwest
+      Yunnan, and has earned both recognition and trust. We have actively
+      cooperated and build relationships with wide range of stakeholders
+      including nature reserves, national parks, forestry and conservation
+      bureaus, NGOs and village committees across our project sites.
     actions:
       - type: Button
         label: Get started
