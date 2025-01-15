@@ -168,8 +168,11 @@ sections:
         title: Contributing to Real Conservation Efforts
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Our team's experience in designing and implementing UNDP-GEF-SGP
+          projects in Northwest Yunnan demonstrates our commitment to
+          on-the-ground conservation. When you travel with us, you're supporting
+          a company actively involved in protecting the natural beauty of China.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
