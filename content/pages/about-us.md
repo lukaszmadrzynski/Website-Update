@@ -278,12 +278,6 @@ sections:
       including nature reserves, national parks, forestry and conservation
       bureaus, NGOs and village committees across our project sites.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
