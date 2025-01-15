@@ -263,6 +263,7 @@ sections:
       self:
         alignItems: center
         flexDirection: col
+        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
