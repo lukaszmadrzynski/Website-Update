@@ -80,7 +80,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Private Group Adventures
         tagline: 'A More Meaningful China Travel Experience:'
         subtitle: This is the item subtitle
         text: |
