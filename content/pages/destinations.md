@@ -9,8 +9,10 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Northwest Yunnan is one of the most culturally and naturally diverse
+       regions of China and the world at large. It homes over 20 ethnic minority groups, a multitude of diverse ecosystems and countless species of endemic flora and fauna. All of our ecotour destinations are based in nature
+      reserves and heritage sites where we have been actively involved in nature
+      conservation and sustainable development projects.
     actions:
       - type: Button
         label: Get started
