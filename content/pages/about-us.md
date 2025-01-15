@@ -35,7 +35,7 @@ sections:
         justifyContent: center
         padding:
           - pt-7
-          - pb-12
+          - pb-9
           - pl-3
           - pr-3
         flexDirection: col
