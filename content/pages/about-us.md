@@ -102,7 +102,7 @@ sections:
           Recipient of Lijiang Municipality Senior Talents Service Green Card.
         image:
           type: ImageBlock
-          url: /images/Lukas.jpg
+          url: /images/Lukas2.jpg
           altText: Background alt text
           styles:
             self:
