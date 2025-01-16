@@ -130,14 +130,7 @@ sections:
       want to learn more about our commitment to responsible tourism in China,
       we'd love to hear from you!
 
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       altText: Fun feature preview
