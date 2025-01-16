@@ -35,7 +35,7 @@ sections:
         flexDirection: col-reverse
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/Why Us Hero.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
