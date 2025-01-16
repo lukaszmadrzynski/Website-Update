@@ -141,6 +141,8 @@ sections:
         flexDirection: col
         justifyContent: center
         alignItems: center
+        padding:
+          - pt-4
       subtitle:
         textAlign: left
   - type: DividerSection
