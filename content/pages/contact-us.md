@@ -11,12 +11,7 @@ sections:
         self:
           textAlign: center
     subtitle: 'Get in Touch with Cloud Mountain: Your Experts for Yunnan Ecotours'
-    text: >
-      We're here to help you plan your unforgettable and sustainable travel
-      experience in China. Whether you have questions about our Yunnan ecotours,
-      want to explore options for travel to Lijiang or Shangri-La, or simply
-      want to learn more about our commitment to responsible tourism in China,
-      we'd love to hear from you!
+    text: ''
     actions: []
     media:
       type: ImageBlock
