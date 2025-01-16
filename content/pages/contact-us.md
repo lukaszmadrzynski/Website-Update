@@ -121,7 +121,7 @@ sections:
       type: TitleBlock
       text: Follow Our Adventures
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: ''
     text: >+
       Stay up-to-date on our latest ecotours in Yunnan, see stunning photos and
       videos from our China travels, and get inspired for your own adventure by
