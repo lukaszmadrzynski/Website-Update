@@ -130,6 +130,12 @@ sections:
       want to learn more about our commitment to responsible tourism in China,
       we'd love to hear from you!
 
+
+
+
+      For immediate assistance with your Yunnan ecotour inquiries or China
+      travel planning, please don't hesitate to contact our team directly:
+
     actions: []
     media:
       type: ImageBlock
