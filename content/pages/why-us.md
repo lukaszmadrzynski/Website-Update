@@ -179,7 +179,7 @@ sections:
           Tibetan areas within China.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/Private.jpg
           altText: Placeholder image
           styles:
             self:
