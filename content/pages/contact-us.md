@@ -181,7 +181,7 @@ sections:
         justifyContent: center
         flexDirection: col
         padding:
-          - pt-12
+          - pt-7
           - pb-12
 slug: /contact-us
 isDraft: false
