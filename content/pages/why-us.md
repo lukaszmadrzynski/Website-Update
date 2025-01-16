@@ -202,7 +202,7 @@ sections:
         text: "Our\_Yunnan ecotour itineraries\_are carefully designed to showcase the best of\_Northwest Yunnan and China, including off-te-beaten-track destinations and unique cultural encounters. We prioritize quality and authentic experiences for your\_travel in China.\n"
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Handcrafted.jpg
           altText: Placeholder text
           styles:
             self:
