@@ -138,7 +138,6 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/linkedin-logo-2430 (1).png
       altText: Fun feature preview
     badge:
       type: Badge
