@@ -117,7 +117,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Let's Start Planning Your China Travel Adventure!
       color: text-dark
     subtitle: 'Get in Touch with Cloud Mountain: Your Experts for Yunnan Ecotours'
     text: >
