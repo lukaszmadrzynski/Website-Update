@@ -61,13 +61,6 @@ sections:
       want to explore options for travel to Lijiang or Shangri-La, or simply
       want to learn more about our commitment to responsible tourism in China,
       we'd love to hear from you!
-
-
-      For immediate assistance with your Yunnan ecotour inquiries, please don't
-      hesitate to contact our team directly:
-
-
-      **Lynne Lyu** 
     actions: []
     media:
       type: ImageBlock
