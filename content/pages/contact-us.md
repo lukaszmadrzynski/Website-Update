@@ -13,22 +13,12 @@ sections:
           fontWeight: 400
     subtitle: ''
     text: >
-      <div style="text-align: left">## Contact Us: Let's Start Planning Your
-      China Travel Adventure!</div>
-
-
-      **(Hero Section)**
-
-
-      **Headline:** Get in Touch with Cloud Mountain: Your Experts for Yunnan &
-      China Ecotours
-
-
-      **Subheadline:** We're here to help you plan your unforgettable and
-      sustainable travel experience in China. Whether you have questions about
-      our Yunnan ecotours, want to explore options for travel to Lijiang or
-      Shangri-La, or simply want to learn more about our commitment to
-      responsible tourism in China, we'd love to hear from you!
+      <div style="text-align: left">**Subheadline:** We're here to help you plan
+      your unforgettable and sustainable travel experience in China. Whether you
+      have questions about our Yunnan ecotours, want to explore options for
+      travel to Lijiang or Shangri-La, or simply want to learn more about our
+      commitment to responsible tourism in China, we'd love to hear from
+      you!</div>
 
 
       **(Contact Form)**
