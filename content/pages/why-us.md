@@ -302,10 +302,10 @@ sections:
         subtitle: ''
         text: >
           Our commitment to quality and sustainability has earned us recognition
-          from major domestic and international media outlets, including CCTV,
-          National Geographic, and Discovery Channel. This recognition
-          underscores our dedication to providing exceptional China travel
-          experiences.
+          from major domestic and international organizations, including IUCN
+          and UNESCO as well as various media outlets, including CCTV, National
+          Geographic, and Discovery Channel. This recognition underscores our
+          dedication to providing exceptional China travel experiences.
         image:
           type: ImageBlock
           url: /images/Recognized.jpg
