@@ -225,7 +225,7 @@ sections:
         text: "We are deeply committed to minimizing our environmental footprint and maximizing our positive impact on local communities throughout\_Yunnan and China. We promote ethical and\_sustainable tourism practices\_in all our\_China tours.\n"
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/Sustainable.jpg
           altText: Placeholder image
           styles:
             self:
