@@ -401,7 +401,7 @@ sections:
         alignItems: center
         justifyContent: center
         padding:
-          - pb-12
+          - pb-14
           - pt-9
   - type: GenericSection
     title:
