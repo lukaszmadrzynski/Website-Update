@@ -128,7 +128,7 @@ sections:
       - type: FeaturedItem
         title: Lukasz Madrzynski
         tagline: ''
-        subtitle: Co-founder & Nature Immersion Expert
+        subtitle: ''
         text: >
           Master’s and PhD research at UNEP-Tongji Institute of Environment for
           Sustainable Development. Bachelor‘s degree in Chinese Studies at
