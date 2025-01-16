@@ -134,7 +134,7 @@ sections:
         showIcon: true
         icon: instagram
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
     media:
       type: ImageBlock
