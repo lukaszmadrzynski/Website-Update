@@ -160,10 +160,6 @@ sections:
     media:
       type: ImageBlock
       altText: Fun feature preview
-    badge:
-      type: Badge
-      label: Social Media
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
