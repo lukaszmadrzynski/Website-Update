@@ -153,6 +153,8 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: col
+      subtitle:
+        textAlign: center
 slug: /contact-us
 isDraft: false
 seo:
