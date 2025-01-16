@@ -146,6 +146,15 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        label: LinkedIn
+        altText: LinkedIn
+        url: '/https://www.linkedin.com/company/cloud-mountain-sustainability/'
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       altText: Fun feature preview
