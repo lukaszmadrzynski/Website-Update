@@ -46,7 +46,7 @@ sections:
             - pl-0
             - pr-0
           margin:
-            - ml-28
+            - ml-0
             - mr-28
   - type: FeaturedItemsSection
     title:
