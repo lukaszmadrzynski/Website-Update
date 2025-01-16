@@ -148,6 +148,7 @@ sections:
     styles:
       self:
         alignItems: center
+        justifyContent: center
 slug: /contact-us
 isDraft: false
 seo:
