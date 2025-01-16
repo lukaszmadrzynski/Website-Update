@@ -341,12 +341,12 @@ sections:
       We believe that showcasing our work and experiences can contribute to
       sustainable development not only in Yunnan but also in other parts of
 
-      the world. That's why, Cloud Mountain is an official partner for the IUCN
-      Task Force on Nature Education and a member of the global #natureforall
-      initiative. Throughout the years, our commitment and achievements have
-      garnered considerable recognition and have been widely reported by major
-      domestic and international media outlets, including CCTV, National
-      Geographic and Discovery Channel.
+      the world. That's why, Cloud Mountain is honored to be an official partner
+      of the IUCN Task Force on Nature Education and a member of the global
+      #natureforall initiative. Throughout the years, our commitment and
+      achievements have garnered considerable recognition and have been widely
+      reported by major domestic and international media outlets, including
+      CCTV, National Geographic and Discovery Channel.
     actions: []
     media:
       type: ImageBlock
