@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: PAGE CONTENT
+      text: Let's Start Planning Your China Travel Adventure!
       color: text-dark
       styles:
         self:
