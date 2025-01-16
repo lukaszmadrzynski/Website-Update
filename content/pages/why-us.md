@@ -44,7 +44,7 @@ sections:
           borderWidth: 1
           padding:
             - pl-28
-            - pr-20
+            - pr-28
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
