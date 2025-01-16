@@ -102,8 +102,6 @@ sections:
           **Email:** <lynne@cloudmountain.top>
 
           **Tel/WhatsApp/Wechat:** 0086 15913252518
-
-          ****
         image:
           type: ImageBlock
           url: /images/Lynne2.jpg
