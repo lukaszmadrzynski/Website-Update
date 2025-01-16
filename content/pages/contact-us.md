@@ -97,7 +97,7 @@ sections:
       - type: FeaturedItem
         title: Lynne Lyu
         tagline: ''
-        subtitle: Co-founder & Culture Immersion Expert
+        subtitle: ''
         text: >
           Deputy General Secretary at Lijiang Conservation and Development
           Association, Deputy Chief Editor of < Lijiang Wenhai Ecotourism
