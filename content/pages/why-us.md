@@ -403,6 +403,7 @@ sections:
         padding:
           - pt-8
           - pb-4
+          - pl-3
 slug: /why-us
 isDraft: false
 seo:
