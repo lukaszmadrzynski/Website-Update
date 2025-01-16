@@ -136,6 +136,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+        label: Instagram
     media:
       type: ImageBlock
       url: /images/hero2.svg
