@@ -126,14 +126,13 @@ sections:
         title: Lukasz Madrzynski
         tagline: ''
         subtitle: ''
-        text: >
-          Master’s and PhD research at UNEP-Tongji Institute of Environment for
-          Sustainable Development. Bachelor‘s degree in Chinese Studies at
-          Warsaw University, Poland. Member of the IUCN Commission on Education
-          and Communication. Heritage Conservation Practitioner at
-          UNESCO-WHITRAP “heritAP”. Senior Consultant at Lijiang Conservation
-          and Development Association. 2024 IUCN-CEC Asia Award Winner.
-          Recipient of Lijiang Municipality Senior Talents Service Green Card.
+        text: |+
+          **Email:** [lukas@cloudmountain.top](mailto:lynne@cloudmountain.top)
+
+          **Tel/WhatsApp/Wechat:** 0086 18687958551
+
+
+
         image:
           type: ImageBlock
           url: /images/Lukas2.jpg
