@@ -127,22 +127,6 @@ sections:
       videos from our China travels, and get inspired for your own adventure by
       following us on social media:
 
-
-      Links to Your Social Media Profiles
-
-
-      We're Passionate About Helping You Explore China Responsibly
-
-
-      At Cloud Mountain Ecotourism, we believe that travel to China should be an
-      enriching and sustainable experience. We are dedicated to providing
-      exceptional service and expert guidance as you plan your journey to
-      Yunnan, Lijiang, Shangri-La, and beyond. 
-
-
-      Contact us today and let's start creating your unforgettable China travel
-      story!
-
     actions: []
     media:
       type: ImageBlock
