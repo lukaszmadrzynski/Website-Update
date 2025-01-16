@@ -43,7 +43,7 @@ sections:
           borderRadius: medium
           borderWidth: 1
           padding:
-            - pl-12
+            - pl-16
             - pr-12
   - type: FeaturedItemsSection
     title:
