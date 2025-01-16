@@ -127,7 +127,7 @@ sections:
         padding:
           - pt-12
           - pl-12
-          - pb-12
+          - pb-9
           - pr-12
   - type: GenericSection
     title:
