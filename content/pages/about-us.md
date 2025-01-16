@@ -47,6 +47,8 @@ sections:
       styles:
         self:
           borderRadius: medium
+          padding:
+            - pt-7
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
