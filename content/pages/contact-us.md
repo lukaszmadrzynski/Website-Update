@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 'Get in Touch with Cloud Mountain: Your Experts for Yunnan Ecotours'
+    subtitle: ''
     text: ''
     actions: []
     media:
