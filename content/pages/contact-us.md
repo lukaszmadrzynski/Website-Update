@@ -170,6 +170,7 @@ sections:
         flexDirection: col
         padding:
           - pt-12
+          - pb-12
 slug: /contact-us
 isDraft: false
 seo:
