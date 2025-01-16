@@ -119,6 +119,9 @@ sections:
       type: TitleBlock
       text: Let's Start Planning Your China Travel Adventure!
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: 'Get in Touch with Cloud Mountain: Your Experts for Yunnan Ecotours'
     text: >
       A service that helps businesses to manage their social media accounts and
