@@ -127,11 +127,13 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      We're here to help you plan your unforgettable and sustainable travel
+      experience in China. Whether you have questions about our Yunnan ecotours,
+      want to explore options for travel to Lijiang or Shangri-La, or simply
+      want to learn more about our commitment to responsible tourism in China,
+      we'd love to hear from you!
+
     actions: []
     colors: bg-light-fg-dark
     styles:
