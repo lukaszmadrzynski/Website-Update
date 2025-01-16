@@ -206,7 +206,7 @@ sections:
           the diverse cultures of Yunnan.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/Culture.jpg
           altText: Placeholder image
           styles:
             self:
