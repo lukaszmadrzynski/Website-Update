@@ -31,6 +31,11 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: col
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
