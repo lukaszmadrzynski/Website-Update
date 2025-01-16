@@ -123,7 +123,7 @@ sections:
           transform your trip from a visit to a genuine connection.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/Guides 2.jpg
           altText: Placeholder image
           styles:
             self:
