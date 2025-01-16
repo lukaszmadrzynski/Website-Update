@@ -41,6 +41,7 @@ sections:
       styles:
         self:
           borderRadius: medium
+          borderWidth: 1
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
