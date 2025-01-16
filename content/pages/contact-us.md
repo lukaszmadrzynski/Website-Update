@@ -99,11 +99,11 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          **Email:** lynne\@cloudmountain.top
+          **Email:** <lynne@cloudmountain.top>
 
-          **Tel/Wechat:** 0086 15913252518
+          **Tel/WhatsApp/Wechat:** 0086 15913252518
 
-          **Whatsup:** 
+          ****
         image:
           type: ImageBlock
           url: /images/Lynne2.jpg
