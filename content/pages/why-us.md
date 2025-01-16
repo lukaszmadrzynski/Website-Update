@@ -253,7 +253,7 @@ sections:
           for the diverse cultures of China.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Immersion4.jpg
           altText: Placeholder text
           styles:
             self:
