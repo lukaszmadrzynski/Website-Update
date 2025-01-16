@@ -147,7 +147,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: center
+        alignItems: flex-start
         justifyContent: center
         flexDirection: col
 slug: /contact-us
