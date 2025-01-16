@@ -104,6 +104,7 @@ sections:
               - pr-4
             borderRadius: x-large
             flexDirection: col
+            textAlign: center
     actions: []
     variant: two-col-grid
     colors: bg-neutral-fg-dark
