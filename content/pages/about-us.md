@@ -331,6 +331,8 @@ sections:
         alignItems: center
         flexDirection: col-reverse
         justifyContent: center
+        padding:
+          - pb-9
   - type: GenericSection
     title:
       type: TitleBlock
