@@ -143,6 +143,7 @@ sections:
         alignItems: center
         padding:
           - pt-4
+          - pb-4
       subtitle:
         textAlign: left
   - type: DividerSection
