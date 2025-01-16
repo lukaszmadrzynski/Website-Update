@@ -24,6 +24,7 @@ sections:
       altText: ''
       elementId: ''
       type: ImageBlock
+      url: /images/IMG_20210807_105145.jpg
     badge:
       label: Cloud mountain
       color: text-dark
