@@ -94,7 +94,7 @@ sections:
           your China travel experience is both enriching and responsible.
         image:
           type: ImageBlock
-          url: /images/Lukas.jpg
+          url: /images/Lukas3.jpg
           altText: Placeholder image
           styles:
             self:
