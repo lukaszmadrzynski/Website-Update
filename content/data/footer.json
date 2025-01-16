@@ -107,5 +107,12 @@
     ],
     "copyrightText": "© Lijiang Cloud Mountain Education Consulting Co. Ltd.\n",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "styles": {
+        "self": {
+            "padding": [
+                "pb-4"
+            ]
+        }
+    }
 }
