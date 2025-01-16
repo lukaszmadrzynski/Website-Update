@@ -198,6 +198,7 @@ sections:
       self:
         alignItems: center
         justifyContent: center
+        flexDirection: col
 slug: /contact-us
 isDraft: false
 seo:
