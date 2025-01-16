@@ -123,9 +123,13 @@ sections:
         self:
           textAlign: center
     subtitle: 'Get in Touch with Cloud Mountain: Your Experts for Yunnan Ecotours'
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      We're here to help you plan your unforgettable and sustainable travel
+      experience in China. Whether you have questions about our Yunnan ecotours,
+      want to explore options for travel to Lijiang or Shangri-La, or simply
+      want to learn more about our commitment to responsible tourism in China,
+      we'd love to hear from you!
+
     actions:
       - type: Button
         label: Get started
