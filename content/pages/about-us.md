@@ -181,7 +181,7 @@ sections:
           we visit in China.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/Supporting.jpg
           altText: Placeholder image
           styles:
             self:
