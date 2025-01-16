@@ -138,7 +138,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/pngimg.com - instagram_PNG9.png
       altText: Fun feature preview
     badge:
       type: Badge
