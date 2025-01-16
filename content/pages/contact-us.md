@@ -189,14 +189,7 @@ sections:
       Contact us today and let's start creating your unforgettable China travel
       story!
 
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero2.svg
