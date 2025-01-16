@@ -304,8 +304,7 @@ sections:
           Our commitment to quality and sustainability has earned us recognition
           from major domestic and international organizations, including IUCN
           and UNESCO as well as various media outlets, including CCTV, National
-          Geographic, and Discovery Channel. This recognition underscores our
-          dedication to providing exceptional China travel experiences.
+          Geographic, and Discovery Channel. 
         image:
           type: ImageBlock
           url: /images/Recognized.jpg
