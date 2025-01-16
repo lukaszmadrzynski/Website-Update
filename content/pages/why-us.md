@@ -45,6 +45,8 @@ sections:
           padding:
             - pl-0
             - pr-0
+          margin:
+            - ml-28
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
