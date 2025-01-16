@@ -27,7 +27,7 @@ sections:
         justifyContent: center
         flexDirection: col
         padding:
-          - pt-7
+          - pt-9
           - pl-7
           - pb-7
           - pr-7
