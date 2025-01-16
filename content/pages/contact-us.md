@@ -119,7 +119,7 @@ sections:
       type: TitleBlock
       text: Social Media Management
       color: text-dark
-    subtitle: 'Get in Touch with Cloud Mountain: Your Experts for Yunnan & China Ecotours'
+    subtitle: 'Get in Touch with Cloud Mountain: Your Experts for Yunnan Ecotours'
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
