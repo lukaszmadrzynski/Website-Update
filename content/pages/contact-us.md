@@ -42,7 +42,7 @@ sections:
     title:
       type: TitleBlock
       text: Contact Us Directly
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
