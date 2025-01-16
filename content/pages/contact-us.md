@@ -136,15 +136,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-      - type: Button
-        label: Get started
-        altText: ''
-        url: '/https://www.instagram.com/cloud.mountain.sustainability/'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
     media:
       type: ImageBlock
       altText: Fun feature preview
