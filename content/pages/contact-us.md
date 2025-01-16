@@ -118,34 +118,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: ''
-    text: >+
-      We're here to help you plan your unforgettable and sustainable travel
-      experience in China. Whether you have questions about our Yunnan ecotours,
-      want to explore options for travel to Lijiang or Shangri-La, or simply
-      want to learn more about our commitment to responsible tourism in China,
-      we'd love to hear from you!
-
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-        alignItems: center
-        padding:
-          - pt-4
-          - pb-4
-      subtitle:
-        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
