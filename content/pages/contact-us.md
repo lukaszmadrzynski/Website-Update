@@ -10,32 +10,6 @@ sections:
       styles:
         self:
           textAlign: center
-          fontWeight: 400
-    subtitle: ''
-    text: |+
-      <div style="text-align: left">```
-      ```</div>
-
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      self:
-        justifyContent: center
-        padding:
-          - pt-6
-          - pb-6
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Let's Start Planning Your China Travel Adventure!
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     subtitle: 'Get in Touch with Cloud Mountain: Your Experts for Yunnan Ecotours'
     text: >
       We're here to help you plan your unforgettable and sustainable travel
