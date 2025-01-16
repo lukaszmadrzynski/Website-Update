@@ -47,6 +47,7 @@ sections:
             - pr-0
           margin:
             - ml-28
+            - mr-28
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
