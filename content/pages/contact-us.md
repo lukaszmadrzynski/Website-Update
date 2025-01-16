@@ -168,9 +168,27 @@ sections:
       text: Social Media Management
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      Stay up-to-date on our latest ecotours in Yunnan, see stunning photos and
+      videos from our China travels, and get inspired for your own adventure by
+      following us on social media:
+
+
+      Links to Your Social Media Profiles
+
+
+      We're Passionate About Helping You Explore China Responsibly
+
+
+      At Cloud Mountain Ecotourism, we believe that travel to China should be an
+      enriching and sustainable experience. We are dedicated to providing
+      exceptional service and expert guidance as you plan your journey to
+      Yunnan, Lijiang, Shangri-La, and beyond. 
+
+
+      Contact us today and let's start creating your unforgettable China travel
+      story!
+
     actions:
       - type: Button
         label: Get started
