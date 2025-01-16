@@ -155,7 +155,7 @@ sections:
           Shangri-La
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Minimizing.jpg
           altText: Placeholder image
           styles:
             self:
