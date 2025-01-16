@@ -168,6 +168,8 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: col
+        padding:
+          - pt-12
 slug: /contact-us
 isDraft: false
 seo:
