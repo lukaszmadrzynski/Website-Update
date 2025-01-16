@@ -66,7 +66,7 @@ sections:
           insights to your China travel adventure.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/Lynne.jpg
           altText: Placeholder image
           styles:
             self:
