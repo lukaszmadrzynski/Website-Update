@@ -12,67 +12,28 @@ sections:
           textAlign: center
           fontWeight: 400
     subtitle: ''
-    text: >
+    text: >+
       <div style="text-align: left">**Subheadline:** We're here to help you plan
       your unforgettable and sustainable travel experience in China. Whether you
       have questions about our Yunnan ecotours, want to explore options for
       travel to Lijiang or Shangri-La, or simply want to learn more about our
       commitment to responsible tourism in China, we'd love to hear from
-      you!</div>
+      you!*****For immediate assistance with your Yunnan ecotour inquiries or
+      China travel planning, please don't hesitate to contact our team
+      directly:***   **Ecotour & China Travel Inquiries (including Lijiang &
+      General Yunnan):**
 
-
-      ****
-
-
-      **For immediate assistance with your Yunnan ecotour inquiries or China
-      travel planning, please don't hesitate to contact our team directly:**
-
-
-      *   **Ecotour & China Travel Inquiries (including Lijiang & General
-      Yunnan):**
-
-          *   **Lukasz Madrzynski:** 
+          *   **Lukasz Madrzynski:**
 
               *   Tel/WeChat: \[Your Phone Number]
 
               *   Email: \[Your Email Address]
-          *   **Lynne Lyu:** 
+          *   **Lynne Lyu:**
 
               *   Tel/WeChat: \[Your Phone Number]
 
-              *   Email: \[Your Email Address]
+              *   Email: \[Your Email Address]**(Follow Our China Travel Adventures!)**Stay up-to-date on our latest ecotours in Yunnan, see stunning photos and videos from our China travels, and get inspired for your own adventure by following us on social media:\[Links to Your Social Media Profiles]**(We're Passionate About Helping You Explore China Responsibly)**At Cloud Mountain Ecotourism, we believe that travel to China should be an enriching and sustainable experience. We are dedicated to providing exceptional service and expert guidance as you plan your journey to Yunnan, Lijiang, Shangri-La, and beyond. Contact us today and let's start creating your unforgettable China travel story!This optimized "Contact Us" page focuses on making it easy for visitors interested in China travel and Yunnan ecotours to connect. It strategically incorporates keywords like "China travel," "Yunnan ecotours," "Lijiang," "Shangri-La," "Tibet travel," and "sustainable tourism in China" while providing clear and multiple ways to get in touch. The friendly and helpful tone encourages engagement and reinforces your expertise in China travel. Remember to replace the bracketed placeholders with your actual contact information.</div>
 
-
-
-      **(Follow Our China Travel Adventures!)**
-
-
-      Stay up-to-date on our latest ecotours in Yunnan, see stunning photos and
-      videos from our China travels, and get inspired for your own adventure by
-      following us on social media:
-
-
-      \[Links to Your Social Media Profiles]
-
-
-      **(We're Passionate About Helping You Explore China Responsibly)**
-
-
-      At Cloud Mountain Ecotourism, we believe that travel to China should be an
-      enriching and sustainable experience. We are dedicated to providing
-      exceptional service and expert guidance as you plan your journey to
-      Yunnan, Lijiang, Shangri-La, and beyond. Contact us today and let's start
-      creating your unforgettable China travel story!
-
-
-      This optimized "Contact Us" page focuses on making it easy for visitors
-      interested in China travel and Yunnan ecotours to connect. It
-      strategically incorporates keywords like "China travel," "Yunnan
-      ecotours," "Lijiang," "Shangri-La," "Tibet travel," and "sustainable
-      tourism in China" while providing clear and multiple ways to get in touch.
-      The friendly and helpful tone encourages engagement and reinforces your
-      expertise in China travel. Remember to replace the bracketed placeholders
-      with your actual contact information.
     actions: []
     colors: bg-light-fg-dark
     styles:
