@@ -11,7 +11,9 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: ''
+    text: >
+      We're here to help you plan your unforgettable and sustainable travel
+      experience in China. 
     actions: []
     media:
       type: ImageBlock
