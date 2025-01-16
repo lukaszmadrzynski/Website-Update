@@ -139,9 +139,9 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      Stay up-to-date on our latest ecotours in Yunnan, see stunning photos and
-      videos from our China travels, and get inspired for your own adventure by
-      following us on social media:
+      <div style="text-align: center">Stay up-to-date on our latest ecotours in
+      Yunnan, see stunning photos and videos from our China travels, and get
+      inspired for your own adventure by following us on social media:</div>
 
     actions:
       - type: Link
