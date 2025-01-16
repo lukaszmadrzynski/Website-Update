@@ -138,7 +138,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/pngimg.com - instagram_PNG9.png
+      url: /images/linkedin-logo-2430 (1).png
       altText: Fun feature preview
     badge:
       type: Badge
