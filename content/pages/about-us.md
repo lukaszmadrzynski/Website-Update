@@ -440,7 +440,7 @@ sections:
         justifyContent: center
         padding:
           - pt-12
-          - pb-6
+          - pb-12
 slug: /about-us
 isDraft: false
 seo:
