@@ -41,7 +41,7 @@ sections:
       styles:
         self:
           borderRadius: medium
-          borderWidth: 1
+          borderWidth: 0
           padding:
             - pl-28
             - pr-28
