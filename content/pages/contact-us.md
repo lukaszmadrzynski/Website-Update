@@ -127,7 +127,16 @@ sections:
       videos from our China travels, and get inspired for your own adventure by
       following us on social media:
 
-    actions: []
+    actions:
+      - type: Link
+        label: Instagram
+        altText: Instagram
+        url: '/https://www.instagram.com/cloud.mountain.sustainability/'
+        showIcon: true
+        icon: instagram
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       altText: Fun feature preview
