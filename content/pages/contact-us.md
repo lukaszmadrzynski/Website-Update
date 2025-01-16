@@ -87,7 +87,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Meet the Founders
+      text: Contact Us Directly
       color: text-primary
       styles:
         self:
