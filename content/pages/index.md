@@ -101,7 +101,7 @@ sections:
             margin:
               - ml-1
               - mr-1
-        tagline: 108 USD to 422 USD (Per Person)
+        tagline: 108 USD to 422 USD Per Person
       - type: FeaturedItem
         title: Yunnan Snub-nosed Monkey Journey
         subtitle: 2 Days | Wildlife Experience
