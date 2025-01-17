@@ -143,7 +143,7 @@ sections:
             margin:
               - ml-1
               - mr-1
-        tagline: 2 Days | Wildlife Experience
+        tagline: 108 USD to 422 USD Per Person
       - type: FeaturedItem
         title: Ancient Tea & Horse Road
         subtitle: 1 Day | Off-the-beaten-path
