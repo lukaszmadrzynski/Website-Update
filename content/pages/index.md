@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Jade Dragon Snow Mountain Conservation Patrol
-        subtitle: 1 Day | Off-the-beaten-path
+        subtitle: 1 Day | Private Off-the-beaten-path
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
           Mountain near Lijiang, experiencing diverse ecosystems and stunning
