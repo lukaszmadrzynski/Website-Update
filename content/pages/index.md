@@ -104,7 +104,7 @@ sections:
         tagline: 192 to 242 USD Per Person (based on group size)
       - type: FeaturedItem
         title: Yunnan Snub-nosed Monkey Journey
-        subtitle: 2 Days | Wildlife Experience
+        subtitle: 2 Days | Private Wildlife Experience
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
           Mountain near Lijiang, experiencing diverse ecosystems and stunning
