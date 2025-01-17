@@ -143,6 +143,7 @@ sections:
             margin:
               - ml-1
               - mr-1
+        tagline: 2 Days | Wildlife Experience
       - type: FeaturedItem
         title: Ancient Tea & Horse Road
         subtitle: 1 Day | Off-the-beaten-path
