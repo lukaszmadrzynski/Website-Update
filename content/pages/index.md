@@ -146,7 +146,7 @@ sections:
         tagline: 108 USD to 422 USD Per Person
       - type: FeaturedItem
         title: Ancient Tea & Horse Road
-        subtitle: 1 Day | Off-the-beaten-path
+        subtitle: 1 Day | Private Off-the-beaten-path
         text: >+
           <div style="text-align: left">Embark on a challenging yet rewarding
           trek on Jade Dragon Snow Mountain near Lijiang, experiencing diverse
