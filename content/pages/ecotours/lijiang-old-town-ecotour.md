@@ -20,16 +20,22 @@ sections:
       enchanting destinations.
 
 
-
-
       Duration: Half-Day (Approximately 4 hours)
+
+
 
       Location: UNESCO Heritage Sites of Lijiang Dayan Old Town and Black Dragon
       Pool Park
 
-      Activity Level: Mild 
+
+
+      Activity Level: Mild
+
+
 
       Altitudes: 2400 - 2450 m
+
+
 
       Walking Distance: 5 km
     actions:
