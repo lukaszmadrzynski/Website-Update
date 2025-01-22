@@ -470,6 +470,7 @@ sections:
     styles:
       self:
         alignItems: center
+        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
