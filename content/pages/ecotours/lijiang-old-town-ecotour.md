@@ -22,7 +22,7 @@ sections:
       - type: Button
         label: Book Now
         altText: ''
-        url: /
+        url: /contact-us
         showIcon: false
         icon: arrowRight
         iconPosition: right
