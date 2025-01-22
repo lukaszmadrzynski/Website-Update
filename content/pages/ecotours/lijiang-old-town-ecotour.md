@@ -18,6 +18,20 @@ sections:
       Naxi people. This experience beautifully intertwines history, culture, and
       nature, offering an unforgettable glimpse into one of China’s most
       enchanting destinations.
+
+
+
+
+      Duration: Half-Day (Approximately 4 hours)
+
+      Location: UNESCO Heritage Sites of Lijiang Dayan Old Town and Black Dragon
+      Pool Park
+
+      Activity Level: Mild 
+
+      Altitudes: 2400 - 2450 m
+
+      Walking Distance: 5 km
     actions:
       - type: Button
         label: Book Now
