@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Naxi Heritage Trail
       color: text-dark
-    subtitle: Subtitle goes here
+    subtitle: A Cultural Journey Through Lijiang’s Historic Heart
     text: >
       A Netlify website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
