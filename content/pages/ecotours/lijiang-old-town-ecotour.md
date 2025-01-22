@@ -20,7 +20,7 @@ sections:
       enchanting destinations.
     actions:
       - type: Button
-        label: Get started
+        label: Book Now
         altText: ''
         url: /
         showIcon: false
