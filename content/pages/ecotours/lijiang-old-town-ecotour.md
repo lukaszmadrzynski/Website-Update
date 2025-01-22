@@ -83,10 +83,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Discover the rich history and cultural significance of the region at
+          the Lijiang Heritage Museum, where exhibits highlight the traditions
+          and heritage of the Naxi people.
         image:
           type: ImageBlock
           url: /images/Private.jpg
