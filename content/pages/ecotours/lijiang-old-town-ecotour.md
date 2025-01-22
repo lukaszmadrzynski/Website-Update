@@ -82,7 +82,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Discover the rich history and cultural significance of the region at
           the Lijiang Heritage Museum, where exhibits highlight the traditions
