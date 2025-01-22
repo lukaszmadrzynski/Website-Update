@@ -345,16 +345,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
   - type: GenericSection
     title:
       type: TitleBlock
