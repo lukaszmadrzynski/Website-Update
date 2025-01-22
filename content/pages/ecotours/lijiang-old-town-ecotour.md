@@ -374,7 +374,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Good to Know
+      text: Good to Know Before You Go
       color: text-dark
     subtitle: Increase your reach
     text: >
