@@ -168,7 +168,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: LIJIANG OLD TOWN | HALF-DAY ECOTOUR
       color: text-primary
       styles:
         self:
