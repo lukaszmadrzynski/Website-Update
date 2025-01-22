@@ -38,7 +38,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: Lijiang Old town Ecotour | half-day
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
