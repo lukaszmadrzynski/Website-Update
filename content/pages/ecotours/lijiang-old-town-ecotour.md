@@ -377,14 +377,14 @@ sections:
       text: Good to Know Before You Go
       color: text-dark
     subtitle: ''
-    text: >
+    text: >+
       **What’s Included:**
 
 
       *   Round-trip transportation from your Lijiang hotel.
 
 
-      *   Entrance fees to Jade Dragon Snow Mountain National Park.
+      *   Entrance fees to Black dragon Pool Park.
 
 
       *   Cable car tickets (mention which section).
@@ -402,40 +402,62 @@ sections:
       **What’s Not Included:**
 
 
-      Lunch (unless specified).
+      *   Lunch (unless specified).
 
-      Personal expenses (souvenirs, snacks).
 
-      Gratuities for the guide and driver (optional).
+      *   Personal expenses (souvenirs, snacks).
 
-      Travel insurance.
 
-      Duration: Approximately 8-10 hours.
+      *   Gratuities for the guide.
 
-      Departure Time: Typically around 8:00 AM (exact time will be confirmed).
 
-      Return Time: Approximately 5:00 - 6:00 PM.
+      *   Travel insurance.
 
-      What to Bring:
 
-      Comfortable walking shoes.
 
-      Warm layers of clothing (temperature at the top can be significantly
+      **Ecotour Time:** 
+
+
+      *   Morning Sessions starts at 8:00 AM and finish around 1:00 PM. 
+
+
+      *   Afternoon Sessions start at 2:00 PM and finish around 6:00 PM
+
+
+
+      **What to Bring:**
+
+
+      *   Comfortable walking shoes.
+
+
+      *   Warm layers of clothing (temperature at the top can be significantly
       colder).
 
-      Sunscreen, sunglasses, and a hat.
 
-      Camera.
+      *   Sunscreen, sunglasses, and a hat.
 
-      Small backpack.
 
-      Any necessary personal medications.
+      *   Camera.
+
+
+      *   Small backpack.
+
+
+      *   Any necessary personal medications.
+
+
+
+      **Safety Considerations:**
+
 
       Altitude Sickness: The summit is at a high altitude. We recommend taking
-      it easy and staying hydrated. Oxygen canisters are available for purchase
-      (or provided).
+      it easy and staying hydrated. Oxygen canisters are provided.
+
+
 
       Best Time to Visit: (Briefly mention ideal seasons or times of day).
+
     actions: []
     media:
       type: ImageBlock
