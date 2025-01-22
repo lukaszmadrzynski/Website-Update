@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Naxi Heritage Trail: A Cultural Journey Through Lijiang’s Historic Heart'
+      text: Naxi Heritage Trail
       color: text-dark
     subtitle: Subtitle goes here
     text: >
