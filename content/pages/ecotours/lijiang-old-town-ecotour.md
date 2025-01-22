@@ -345,22 +345,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: FeaturedPostsSection
-    posts: []
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
