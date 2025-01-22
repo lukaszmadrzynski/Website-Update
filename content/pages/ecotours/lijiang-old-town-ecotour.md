@@ -85,8 +85,8 @@ sections:
         subtitle: ''
         text: >
           Discover the rich history and cultural significance of the region at
-          the Lijiang Heritage Museum, where exhibits highlight the traditions
-          and heritage of the Naxi people.
+          the **Lijiang Heritage Museum**, where exhibits highlight the
+          traditions and heritage of the Naxi people.
         image:
           type: ImageBlock
           url: /images/Private.jpg
