@@ -81,7 +81,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: ''
         text: >
           Discover the rich history and cultural significance of the region at
