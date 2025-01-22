@@ -8,7 +8,7 @@ sections:
       text: Naxi Heritage Trail
       color: text-dark
     subtitle: A Cultural Journey Through Lijiang’s Historic Heart
-    text: >
+    text: >+
       Embark on a captivating ecotour that immerses you in the rich heritage and
       vibrant culture of Naxi ethnic group. Begin your journey with a convenient
       pick-up, followed by visits to historical sites and serene parks that
@@ -20,24 +20,25 @@ sections:
       enchanting destinations.
 
 
-      Duration: Half-Day (Approximately 4 hours)
+      *   Duration: Half-Day (Approximately 4 hours)
 
 
-
-      Location: UNESCO Heritage Sites of Lijiang Dayan Old Town and Black Dragon
-      Pool Park
-
+      *   Location: UNESCO Heritage Sites of Lijiang Dayan Old Town and Black
+      Dragon Pool Park
 
 
-      Activity Level: Mild
+      *   Activity Level: Mild
 
 
-
-      Altitudes: 2400 - 2450 m
-
+      *   Altitudes: 2400 - 2450 m
 
 
-      Walking Distance: 5 km
+      *   Walking Distance: 5 km
+
+
+      *   Price: **USD68.00 to USD48.00 Per Person** (based on group size of 2
+      to 6 people)
+
     actions:
       - type: Button
         label: Book Now
