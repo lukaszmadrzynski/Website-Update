@@ -9,9 +9,15 @@ sections:
       color: text-dark
     subtitle: A Cultural Journey Through Lijiang’s Historic Heart
     text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Embark on a captivating ecotour that immerses you in the rich heritage and
+      vibrant culture of Naxi ethnic group. Begin your journey with a convenient
+      pick-up, followed by visits to historical sites and serene parks that
+      showcase the region’s biodiveristy and cultural significance. Stroll
+      through lively streets filled with local crafts and flavors, while
+      exploring architectural gems that reflect the unique traditions of the
+      Naxi people. This experience beautifully intertwines history, culture, and
+      nature, offering an unforgettable glimpse into one of China’s most
+      enchanting destinations.
     actions:
       - type: Button
         label: Get started
