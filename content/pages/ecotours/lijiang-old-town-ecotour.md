@@ -377,86 +377,38 @@ sections:
       text: Good to Know Before You Go
       color: text-dark
     subtitle: ''
-    text: >+
+    text: |+
       **What’s Included:**
-
-
-      *   Round-trip transportation from your Lijiang hotel.
-
-
-      *   Entrance fees to Black dragon Pool Park.
-
-
-      *   Cable car tickets (mention which section).
-
 
       *   English-speaking guide.
 
-
-      *   Bottled water.
-
-
-      *   Oxygen canisters (if provided).
-
+      *   Entrance fees to Black dragon Pool Park.
 
       **What’s Not Included:**
 
-
-      *   Lunch (unless specified).
-
-
       *   Personal expenses (souvenirs, snacks).
-
 
       *   Gratuities for the guide.
 
-
       *   Travel insurance.
 
+      **Ecotour Time:**
 
-
-      **Ecotour Time:** 
-
-
-      *   Morning Sessions starts at 8:00 AM and finish around 1:00 PM. 
-
+      *   Morning Sessions starts at 8:00 AM and finish around 1:00 PM.
 
       *   Afternoon Sessions start at 2:00 PM and finish around 6:00 PM
 
-
-
       **What to Bring:**
-
 
       *   Comfortable walking shoes.
 
-
-      *   Warm layers of clothing (temperature at the top can be significantly
-      colder).
-
+      *   Warm layers of clothing.
 
       *   Sunscreen, sunglasses, and a hat.
 
-
-      *   Camera.
-
-
-      *   Small backpack.
-
+      *   Water bottle.
 
       *   Any necessary personal medications.
-
-
-
-      **Safety Considerations:**
-
-
-      Altitude Sickness: The summit is at a high altitude. We recommend taking
-      it easy and staying hydrated. Oxygen canisters are provided.
-
-
-
-      Best Time to Visit: (Briefly mention ideal seasons or times of day).
 
     actions: []
     media:
