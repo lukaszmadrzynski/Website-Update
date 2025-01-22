@@ -377,36 +377,29 @@ sections:
       text: Good to Know Before You Go
       color: text-dark
     subtitle: ''
-    text: >+
+    text: >
       **What’s Included:**
 
 
-      *
-          Round-trip transportation from your Lijiang hotel.
+      *   Round-trip transportation from your Lijiang hotel.
 
 
       *   Entrance fees to Jade Dragon Snow Mountain National Park.
 
 
-
       *   Cable car tickets (mention which section).
-
 
 
       *   English-speaking guide.
 
 
-
       *   Bottled water.
-
 
 
       *   Oxygen canisters (if provided).
 
 
-
       **What’s Not Included:**
-
 
 
       Lunch (unless specified).
@@ -443,9 +436,6 @@ sections:
       (or provided).
 
       Best Time to Visit: (Briefly mention ideal seasons or times of day).
-
-
-
     actions: []
     media:
       type: ImageBlock
