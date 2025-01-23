@@ -24,24 +24,23 @@ sections:
       enchanting destinations.
 
 
-      *   Duration: Half-Day (Approximately 4 hours)
+      *   Duration: One Day (Approximately 11 hours)
 
 
-      *   Location: UNESCO Heritage Sites of Lijiang Dayan Old Town and Black
-      Dragon Pool Park
+      *   Location: Jade Dragon Snow Mountain
 
 
       *   Activity Level: Moderate
 
 
-      *   Altitudes: 2400 - 2450 m
+      *   Altitudes: 2400 - 3300 m
 
 
-      *   Walking Distance: 7-8 km
+      *   Walking Distance: 8-9 km
 
 
-      *   Price: **USD68.00 to USD48.00 Per Person** (based on group size of 2
-      to 6 people)
+      *   Price: **from** **USD242.00 to USD192.00 Per Person** (based on group
+      size of 2 to 6 people)
 
     actions:
       - type: Button
