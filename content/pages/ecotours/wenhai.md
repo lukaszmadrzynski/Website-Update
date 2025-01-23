@@ -119,10 +119,10 @@ sections:
           Explore **Wenhai Wetland Nature Reserve** in the company of a local
           conservationist. Learn about this unique
 
-          alpine wetland ecosystem while observing native birds and flowers,
-          experiencing
+          alpine wetland ecosystem while observing native birds and flowers.
+          Experience
 
-          firsthand the area's rich biodiversity and ways of its conservation.
+          firsthand the area's rich biodiversity and its conservation.
         image:
           type: ImageBlock
           url: /images/Icon2.jpg
