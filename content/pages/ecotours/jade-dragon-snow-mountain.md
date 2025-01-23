@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Jade Dragon Snow Mountain Off-the-Beaten-Path
+title: Jade Dragon's Hidden Trails Ecotour
 sections:
   - type: GenericSection
     title:
