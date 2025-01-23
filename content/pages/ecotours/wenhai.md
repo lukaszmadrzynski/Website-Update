@@ -129,11 +129,8 @@ sections:
           Explore the pristine **Wenhai Wetland Nature Reserve** alongside a
           knowledgeable local
 
-          conservationist. Learn about the delicate alpine wetland ecosystem,
-          observe
-
-          unique birds and flowers native to this environment, and gain insights
-          into
+          conservationist. Learn about the delicate alpine wetland ecosystem and
+          its relationship with the Naxi ethnic Culture. Gain insights into
 
           conservation efforts in this biodiversity hotspot, experiencing nature
 
