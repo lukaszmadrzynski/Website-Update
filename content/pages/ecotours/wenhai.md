@@ -115,21 +115,14 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Explore Wenhai Wetland Nature Reserve in the company of a local
+        text: >
+          Explore **Wenhai Wetland Nature Reserve** in the company of a local
           conservationist. Learn about this unique
 
           alpine wetland ecosystem while observing native birds and flowers,
           experiencing
 
           firsthand the area's rich biodiversity.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/Icon2.jpg
