@@ -16,10 +16,10 @@ sections:
         title: Naxi Heritage Trail
         subtitle: from $48 to $68 per person
         text: >
-          Embark on a challenging yet rewarding trek on Jade Dragon Snow
-          Mountain near Lijiang, experiencing diverse ecosystems and stunning
-          alpine scenery. Discover the unique flora and fauna of this iconic
-          Yunnan peak, a highlight of ecotourism in the region.
+          Experience a private ecotour in Lijiang Old Town, immersing yourself
+          in Naxi culture through historical sites, serene parks, and vibrant
+          streets filled with local crafts, blending history, nature and culture
+          of this exeptional World Heritage Site.
         image:
           type: ImageBlock
           url: /images/Main Icon.jpg
