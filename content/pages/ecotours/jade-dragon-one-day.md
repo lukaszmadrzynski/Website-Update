@@ -36,7 +36,7 @@ sections:
           textAlign: left
     subtitle: "Escape the crowds and\ndiscover the\_real\_Yunnan on\nthis unique ecotour, venturing far beyond the typical tourist hotspots. We\nunveil hidden gems like serene Tibetan temples, pristine wetlands untouched by\nmass tourism, and authentic Yi minority villages where you'll share lunch with\nthe village chief. Experience a truly special conservation patrol hike in an unspoiled\narea of the Jade Dragon Snow Mountain Nature Reserve, learn about local\nbiodiversity in its untouched corners, and explore the ancient Baisha Village.\nThis is an authentic journey for those seeking genuine cultural immersion and\nunspoiled natural beauty, far from the beaten path."
     text: >+
-      *   **Duration:** 1 Day (Approximately 8-10 hours)
+      *   **Duration:** 1 Day (Approximately 10 hours)
 
 
       *   **Location:** [Jade Dragon Snow
@@ -51,11 +51,6 @@ sections:
 
 
       *   **Hiking Distance:** 6km
-
-
-      *   **Highlights:** Fuguo Tibetan Buddhism Temple, Wenhai Wetlands
-      Panorama, Yi Minority Village, Biodiversity Conservation Patrol with Local
-      Ranger
 
 
       <!---->
