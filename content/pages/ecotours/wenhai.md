@@ -173,7 +173,7 @@ sections:
           delicate balance of nature in this pristine setting.
         image:
           type: ImageBlock
-          url: /images/Icon3b.jpg
+          url: /images/Icon3.jpg
           altText: Placeholder image
           elementId: ''
         actions: []
