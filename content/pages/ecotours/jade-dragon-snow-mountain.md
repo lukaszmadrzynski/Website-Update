@@ -321,36 +321,52 @@ sections:
       text: Good to Know Before You Go
       color: text-dark
     subtitle: ''
-    text: |+
+    text: >+
       **What’s Included:**
+
 
       *   English-speaking guide.
 
+
       *   Entrance fees to Black dragon Pool Park.
+
+
+      *   Outdoor travel insurance.
+
 
       **What’s Not Included:**
 
+
       *   Personal expenses (souvenirs, snacks).
+
 
       *   Gratuities for the guide.
 
-      *   Travel insurance.
 
       **Ecotour Time:**
 
-      *   Morning Sessions starts at 8:00 AM and finish around 1:00 PM.
 
-      *   Afternoon Sessions start at 2:00 PM and finish around 6:00 PM
+      *   We will pick you up at your hotel in Lijiang at 9:00 AM.
+
+
+      *   After the ecotour, we will send you back to your hotel at around 8:00
+      PM.
+
 
       **What to Bring:**
 
+
       *   Comfortable walking shoes.
+
 
       *   Warm layers of clothing.
 
+
       *   Sunscreen, sunglasses, and a hat.
 
+
       *   Water bottle.
+
 
       *   Any necessary personal medications.
 
