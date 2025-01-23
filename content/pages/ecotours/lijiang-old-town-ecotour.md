@@ -134,7 +134,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: 200%
+        title: ''
         subtitle: ''
         text: >
           Wander through the ancient streets of **Dayan Old Town**, a UNESCO
