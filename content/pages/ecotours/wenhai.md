@@ -85,12 +85,22 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Discover tranquility with a visit to **Fuguo Tibetan Buddhist
-          Temple**. Immerse yourself in the serene atmosphere of
+        text: >+
+          Discover the peaceful ambiance of **Fuguo Tibetan Buddhist Temple**, a
 
-          this spiritual refuge and appreciate the beauty of Tibetan Buddhist
-          culture.
+          serene refuge offering a genuine spiritual experience. Explore the
+          temple
+
+          grounds, admire the traditional architecture, and immerse yourself in
+          the
+
+          tranquil atmosphere of Tibetan Buddhist practices, a haven of calm
+          away from
+
+          the everyday bustle. 
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon1.jpg
