@@ -9,7 +9,9 @@ sections:
         Jade Dragon's Hidden
         Trails
       color: text-dark
-    subtitle: A Cultural Journey Through Lijiang’s Historic Heart
+    subtitle: |-
+      An Authentic Lijiang
+      Ecotour Beyond the Crowds
     text: >+
       Embark on a captivating private ecotour that immerses you in the rich
       heritage and vibrant culture of Naxi ethnic group. Begin your journey with
