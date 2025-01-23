@@ -319,9 +319,6 @@ sections:
       *   Local guide.
 
 
-      *   Entrance fees to Black dragon Pool Park.
-
-
       *   Outdoor travel insurance.
 
 
