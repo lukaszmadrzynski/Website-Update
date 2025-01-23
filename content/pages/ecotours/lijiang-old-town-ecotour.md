@@ -159,10 +159,10 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Visit the iconic **Big Water Wheel**, a symbol of Lijiang that
+          showcases traditional water management practices and offers
+          picturesque photo opportunities.
         image:
           type: ImageBlock
           url: /images/icon1.svg
