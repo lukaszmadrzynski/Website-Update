@@ -9,7 +9,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Wenhai Sactuary
+      text: Wenhai Sanctuary
       color: text-dark
     subtitle: Nature and Culture along the Ancient Tea & Horse Road
     text: >+
