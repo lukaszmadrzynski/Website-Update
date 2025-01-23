@@ -232,16 +232,22 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Delve into the **rich biodiversity of Lijiang** in its untouched
+        text: >+
+          Embark on an invigorating hike through lush forests leading to the
 
-          corners. Explore these pristine areas to gain a deeper understanding
-          of the
+          magnificent **Tiger Cave**. From this stunning vantage point, enjoy
+          panoramic views
 
-          region's ecology and witness Yunnans's incredible natural heritage in
-          its
+          overlooking the picturesque Wenhai Lake and the charming village
+          below,
 
-          authentic state.
+          capturing breathtaking scenery and experiencing the natural beauty of
+          the
+
+          region. 
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5.jpg
