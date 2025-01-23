@@ -89,7 +89,7 @@ sections:
           traditions and heritage of the Naxi people.
         image:
           type: ImageBlock
-          url: /images/Private.jpg
+          url: /images/Icon.jpg
           altText: Placeholder image
           elementId: ''
           styles:
