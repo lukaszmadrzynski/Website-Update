@@ -58,7 +58,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: JAde dragon snow mountain | one-day Ecotour
+      label: Wenhai Wetlands Nature Reserve | one-day Ecotour
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
