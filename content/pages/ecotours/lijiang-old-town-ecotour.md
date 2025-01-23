@@ -131,7 +131,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-            textAlign: center
+            textAlign: left
             justifyContent: center
       - type: FeaturedItem
         title: 200%
