@@ -298,7 +298,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Engage with local vendors at **Zhongyi Market**, where you can
           discover authentic crafts and sample delicious local delicacies,
