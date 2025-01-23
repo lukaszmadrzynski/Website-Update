@@ -222,10 +222,23 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Explore **Wenchang Palace**, a historical site that reflects Naxi
-          educational traditions, and admire its architectural beauty while
-          learning about its cultural significance.
+        text: >+
+          Delve into the rich biodiversity of Lijiang in its untouched
+
+          corners. Explore these pristine areas to gain a deeper understanding
+          of the
+
+          region's ecology and witness Yunnans's incredible natural heritage in
+          its
+
+          authentic state.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5.jpg
