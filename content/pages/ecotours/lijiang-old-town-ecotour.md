@@ -299,10 +299,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Engage with local vendors at **Zhongyi Market**, where you can
+          discover authentic crafts and sample delicious local delicacies,
+          experiencing the bustling energy of daily life in Lijiang.
         image:
           type: ImageBlock
           url: /images/icon1.svg
