@@ -152,10 +152,23 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Wander through the ancient streets of **Dayan Old Town**, a UNESCO
-          World Heritage site known for its well-preserved architecture and rich
-          cultural tapestry reflecting Naxi, Han, Tibetan, and Bai influences.
+        text: >+
+          Venture to Runangu Village and experience authentic Yi culture
+
+          and hospitality. Enjoy a genuine cultural immersion, sharing a
+          delicious local
+
+          lunch in the village chief's home and connecting with the warm spirit
+          of the Yi
+
+          people.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon3.jpg
