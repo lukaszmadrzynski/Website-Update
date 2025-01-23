@@ -243,10 +243,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Cross the charming **Big Stone Bridge**, adorned with plants,
+          providing a scenic connection between different parts of the old town
+          and enhancing your cultural experience.
         image:
           type: ImageBlock
           url: /images/icon1.svg
