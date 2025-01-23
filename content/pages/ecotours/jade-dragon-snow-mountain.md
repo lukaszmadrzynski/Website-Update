@@ -51,7 +51,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/dayan1.jpg
+      url: /images/DSCN0241.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
