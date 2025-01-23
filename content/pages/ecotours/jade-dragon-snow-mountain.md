@@ -121,10 +121,23 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Stroll through **Black Dragon Pool Park**, known for its stunning
-          views of the Jade Dragon Snow Mountain and its tranquil water
-          features, perfect for relaxation and photography.
+        text: >+
+          Journey to **Wenhai Wetland Nature Reserve** and uncover its
+
+          pristine beauty. This hidden ecological haven allows you to witness
+          authentic
+
+          wetland biodiversity in peaceful solitude, experiencing the unspoiled
+          natural
+
+          wonders of this gem.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon2.jpg
