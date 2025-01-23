@@ -51,7 +51,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/DSCN0241.jpg
+      url: /images/Jade Dragon Hero.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
