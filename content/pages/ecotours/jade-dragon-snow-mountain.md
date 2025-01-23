@@ -40,7 +40,7 @@ sections:
 
 
       *   Price: **from** **USD242.00 to USD192.00 Per Person** (based on group
-      size of 2 to 6 people)
+      sizes of 2 and 6 people)
 
     actions:
       - type: Button
