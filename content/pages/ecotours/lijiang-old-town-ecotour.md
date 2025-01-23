@@ -135,7 +135,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 200%
-        subtitle: Faster
+        subtitle: ''
         text: >
           Wander through the ancient streets of **Dayan Old Town**, a UNESCO
           World Heritage site known for its well-preserved architecture and rich
