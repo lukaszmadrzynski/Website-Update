@@ -17,27 +17,26 @@ sections:
       An Authentic Lijiang
       Ecotour Beyond the Crowds
     text: >+
-      Embark on a captivating private ecotour that immerses you in the rich
-      heritage and vibrant culture of Naxi ethnic group. Begin your journey with
-      a convenient pick-up, followed by visits to historical sites and serene
-      parks that showcase the region’s biodiveristy and cultural significance.
-      Stroll through lively streets filled with local crafts and flavors, while
-      exploring architectural gems that reflect the unique traditions of the
-      Naxi people. This experience beautifully intertwines history, culture, and
-      nature, offering an unforgettable glimpse into one of China’s most
-      enchanting destinations.
+      Embark on an immersive journey to Wenhai Sanctuary, a hidden gem along the
+      historic Tea & Horse Road. Explore pristine wetlands with a local
+      conservationist, discovering unique alpine birds and flowers in this
+      tranquil ecosystem. Immerse yourself in Naxi culture with a village visit
+      and local lunch. Hike to the magnificent Tiger Cave for breathtaking views
+      of Wenhai Lake and village. Uncover the UNESCO heritage of Baisha Village,
+      experiencing Yunnan's rich natural beauty and cultural tapestry.
+
 
 
       *   Duration: One Day (Approximately 11 hours)
 
 
-      *   Location: Jade Dragon Snow Mountain
+      *   Location: Wenhai Wetlands Nature Reserve
 
 
       *   Activity Level: Moderate
 
 
-      *   Altitudes: 2400 - 3300 m
+      *   Altitudes: 2400 - 3250 m
 
 
       *   Walking Distance: 8-9 km
