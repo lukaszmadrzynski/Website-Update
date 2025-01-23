@@ -27,9 +27,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: >-
-        Jade Dragon Snow Mountain Off-the-beaten-path: Biodiversity Conservation
-        Patrol
+      text: "Jade Dragon's Hidden\nTrails: An Authentic Lijiang Ecotour Beyond the Crowds\_Biodiversity Conservation Patrol"
       color: text-dark
       styles:
         self:
