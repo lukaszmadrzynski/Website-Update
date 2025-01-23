@@ -269,7 +269,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: ''
         text: >
           Admire the grandeur of **Mufu Palace** from the outside, an
