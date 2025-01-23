@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Jade Dragon Snow Mountain Conservation Patrol
+        title: Naxi Heritage TrailA Cultural Journey Through Lijiang’s Historic Heart
         subtitle: from $48 to $68 per person
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
