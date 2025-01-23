@@ -216,7 +216,7 @@ sections:
         title: 500k
         subtitle: Numbers Done
         text: >
-          Immerse yourself in the vibrant atmosphere of Square Street, lined
+          Immerse yourself in the vibrant atmosphere of **Square Street**, lined
           with shops, eateries, and traditional Naxi buildings, capturing the
           lively spirit of Dayan Old Town.
         image:
