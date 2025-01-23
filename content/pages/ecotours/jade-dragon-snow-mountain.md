@@ -87,8 +87,8 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Discover the hidden serenity of Fuguo Tibetan Buddhist Temple.
+        text: >
+          Discover the hidden serenity of **Fuguo Tibetan Buddhist Temple**.
 
           This secluded sanctuary offers an authentic spiritual experience,
           inviting you
@@ -97,13 +97,6 @@ sections:
           Tibetan
 
           Buddhism.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/Icon.jpg
