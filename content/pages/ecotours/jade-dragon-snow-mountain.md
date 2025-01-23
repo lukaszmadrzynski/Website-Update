@@ -87,10 +87,24 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Discover the rich history and cultural significance of the region at
-          the **Lijiang Heritage Museum**, where exhibits highlight the
-          traditions and heritage of the Naxi people.
+        text: >+
+          Escape the typical tourist trail and discover the hidden serenity of
+          Fuguo Tibetan
+
+          Buddhist Temple. This secluded sanctuary offers a truly authentic
+          spiritual
+
+          experience, allowing you to find tranquility away from the usual
+          temple crowds
+
+          and immerse yourself in the peaceful atmosphere of Tibetan Buddhism.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon.jpg
