@@ -251,7 +251,7 @@ sections:
         title: Ancient Tea & Horse Road
         subtitle: 1 Day | Off-the-beaten-path
         text: >+
-          <div style="text-align: left">Journey to Wenhai Sanctuary, nestled
+          <div style="text-align: left">Journey to Wenhai sanctuary, nestled
           along the ancient Tea & Horse Road. Explore pristine wetlands and
           learn from a local conservationist, witness unique biodiversity, and
           immerse yourself in Naxi culture. Hike, discover heritage, and
