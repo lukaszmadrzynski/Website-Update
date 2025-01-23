@@ -214,7 +214,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Immerse yourself in the vibrant atmosphere of **Square Street**, lined
           with shops, eateries, and traditional Naxi buildings, capturing the
