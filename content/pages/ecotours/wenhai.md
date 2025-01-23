@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
       text: Wenhai Sactuary
       color: text-dark
-    subtitle: Nature and Culture Along the Ancient Tea & Horse Road
+    subtitle: Nature and Culture along the Ancient Tea & Horse Road
     text: >+
       Embark on an immersive journey to Wenhai Sanctuary, a hidden gem along the
       historic Tea & Horse Road. Explore pristine wetlands with a local
