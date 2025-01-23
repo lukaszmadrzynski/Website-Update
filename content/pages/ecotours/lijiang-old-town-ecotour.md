@@ -215,10 +215,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Immerse yourself in the vibrant atmosphere of Square Street, lined
+          with shops, eateries, and traditional Naxi buildings, capturing the
+          lively spirit of Dayan Old Town.
         image:
           type: ImageBlock
           url: /images/icon1.svg
