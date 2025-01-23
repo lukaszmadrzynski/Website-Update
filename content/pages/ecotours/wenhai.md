@@ -137,7 +137,7 @@ sections:
           firsthand.
         image:
           type: ImageBlock
-          url: /images/Icon2b.jpg
+          url: /images/Icon2.jpg
           altText: Placeholder image
           elementId: ''
         actions: []
