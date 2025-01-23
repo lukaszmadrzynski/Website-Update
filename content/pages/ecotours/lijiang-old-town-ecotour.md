@@ -213,7 +213,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: ''
         text: >
           Immerse yourself in the vibrant atmosphere of **Square Street**, lined
