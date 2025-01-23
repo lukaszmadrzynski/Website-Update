@@ -27,13 +27,13 @@ sections:
       Dragon Pool Park
 
 
-      *   Activity Level: Mild
+      *   Activity Level: Moderate
 
 
       *   Altitudes: 2400 - 2450 m
 
 
-      *   Walking Distance: 5 km
+      *   Walking Distance: 7-8 km
 
 
       *   Price: **USD68.00 to USD48.00 Per Person** (based on group size of 2
