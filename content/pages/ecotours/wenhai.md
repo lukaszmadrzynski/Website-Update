@@ -225,22 +225,17 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
+        text: >
           Embark on an invigorating hike through lush forests leading to the
 
           magnificent **Tiger Cave**. From this stunning vantage point, enjoy
           panoramic views
 
           overlooking the picturesque Wenhai Lake and the charming village
-          below,
+          below. 
 
-          capturing breathtaking scenery and experiencing the natural beauty of
-          the
-
-          region. 
-
-
-
+          Hear stories and learn more about this important stop at the ancient
+          Tea & Horse Road.
         image:
           type: ImageBlock
           url: /images/Icon5.jpg
