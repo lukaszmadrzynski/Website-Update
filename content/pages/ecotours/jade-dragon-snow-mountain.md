@@ -121,8 +121,8 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Journey to **Wenhai Wetland Nature Reserve** and uncover its
+        text: >
+          Stop by at the **Wenhai Wetland Nature Reserve** and uncover its
 
           pristine beauty. This hidden ecological haven allows you to witness
           authentic
@@ -131,13 +131,6 @@ sections:
           natural
 
           wonders of this gem.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/Icon2.jpg
