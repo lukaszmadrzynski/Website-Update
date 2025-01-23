@@ -115,16 +115,21 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Stop by at the **Wenhai Wetland Nature Reserve** and uncover its
+        text: >+
+          Explore Wenhai Wetland Nature Reserve in the company of a local
+          conservationist. Learn about this unique
 
-          pristine beauty. This hidden ecological haven allows you to witness
-          authentic
+          alpine wetland ecosystem while observing native birds and flowers,
+          experiencing
 
-          wetland biodiversity in peaceful solitude, experiencing the unspoiled
-          natural
+          firsthand the area's rich biodiversity.
 
-          wonders of this gem.
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon2.jpg
