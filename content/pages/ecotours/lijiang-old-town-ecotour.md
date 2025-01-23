@@ -305,7 +305,7 @@ sections:
           experiencing the bustling energy of daily life in Lijiang.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/Icon9.jpg
           altText: Placeholder text
           elementId: ''
           styles:
