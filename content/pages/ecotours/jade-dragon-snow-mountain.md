@@ -294,34 +294,6 @@ sections:
             flexDirection: col
             justifyContent: center
             textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: >
-          Engage with local vendors at **Zhongyi Market**, where you can
-          discover authentic crafts and sample delicious local delicacies,
-          experiencing the bustling energy of daily life in Lijiang.
-        image:
-          type: ImageBlock
-          url: /images/Icon9.jpg
-          altText: Placeholder text
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-            textAlign: left
     actions: []
     badge:
       type: Badge
