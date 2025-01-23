@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: 'Lijiang Old Town Ecotour: Naxi Heritage Trail'
+title: 'Naxi Heritage Trail: Lijiang Old Town Ecotour'
 sections:
   - type: GenericSection
     title:
