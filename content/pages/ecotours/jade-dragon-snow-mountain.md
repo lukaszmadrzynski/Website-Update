@@ -386,7 +386,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Explore the Lijiang Old Town?
+      text: Ready to Explore the Jade Dragon Snow Mountain?
       color: text-dark
       styles:
         self:
