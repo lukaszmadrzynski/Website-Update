@@ -182,10 +182,22 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Visit the iconic **Big Water Wheel**, a symbol of Lijiang that
-          showcases traditional water management practices and offers
-          picturesque photo opportunities.
+        text: >+
+          Embark on an exclusive **conservation patrol hike** in a secluded
+
+          area of Jade Dragon Snow Mountain Nature Reserve. This unique
+          experience allows
+
+          you to witness the raw beauty of the mountain in a quieter setting and
+
+          contribute to its preservation in a meaningful way.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon4.jpg
