@@ -251,11 +251,11 @@ sections:
         title: Ancient Tea & Horse Road
         subtitle: 1 Day | Off-the-beaten-path
         text: >+
-          <div style="text-align: left">Embark on a challenging yet rewarding
-          trek on Jade Dragon Snow Mountain near Lijiang, experiencing diverse
-          ecosystems and stunning alpine scenery. Discover the unique flora and
-          fauna of this iconic Yunnan peak, a highlight of ecotourism in the
-          region.</div>
+          <div style="text-align: left">Journey Wenhai Sanctuary, nestled along
+          the ancient Tea & Horse Road. Explore pristine wetlands and learn from
+          a local conservationist, witness unique biodiversity, and immerse
+          yourself in Naxi culture. Hike, discover heritage, and experience
+          Yunnan's hidden gem!</div>
 
         image:
           type: ImageBlock
