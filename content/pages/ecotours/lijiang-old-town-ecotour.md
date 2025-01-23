@@ -430,7 +430,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: 2025 Featured Ecotours
+      text: Other Ecotours
       color: text-dark
       styles:
         self:
