@@ -324,7 +324,10 @@ sections:
       **What’s Included:**
 
 
-      *   English-speaking guide.
+      *   English-speaking guide (Lynne Lyu or Lukasz Madrzynski).
+
+
+      *   Local guide.
 
 
       *   Entrance fees to Black dragon Pool Park.
@@ -339,7 +342,7 @@ sections:
       *   Personal expenses (souvenirs, snacks).
 
 
-      *   Gratuities for the guide.
+      *   Gratuities for the guide(s).
 
 
       **Ecotour Time:**
