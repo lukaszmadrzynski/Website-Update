@@ -242,7 +242,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Cross the charming **Big Stone Bridge**, adorned with plants,
           providing a scenic connection between different parts of the old town
