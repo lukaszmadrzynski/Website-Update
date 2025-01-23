@@ -298,34 +298,6 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Admire the grandeur of **Mufu Palace** from the outside, an
-          architectural gem that showcases Naxi influences and serves as a
-          reminder of Lijiang’s royal heritage.
-        image:
-          type: ImageBlock
-          url: /images/Icon8.jpg
-          altText: Placeholder text
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-            textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: >
           Engage with local vendors at **Zhongyi Market**, where you can
           discover authentic crafts and sample delicious local delicacies,
           experiencing the bustling energy of daily life in Lijiang.
