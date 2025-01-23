@@ -296,7 +296,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: LIJIANG OLD TOWN | HALF-DAY ECOTOUR
+      label: JADE DRAGON SNOW MOUNTAIN | ONE-DAY ECOTOUR
       color: text-primary
       styles:
         self:
