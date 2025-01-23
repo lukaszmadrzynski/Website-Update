@@ -9,9 +9,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: |-
-        Jade Dragon's Hidden
-        Trails
+      text: Wenhai Sactuary
       color: text-dark
     subtitle: |-
       An Authentic Lijiang
