@@ -165,7 +165,7 @@ sections:
           picturesque photo opportunities.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/Icon4.jpg
           altText: Placeholder text
           elementId: ''
           styles:
