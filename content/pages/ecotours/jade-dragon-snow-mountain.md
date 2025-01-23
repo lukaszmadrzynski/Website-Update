@@ -5,7 +5,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Naxi Heritage Stroll
+      text: |-
+        Jade Dragon's Hidden
+        Trails
       color: text-dark
     subtitle: A Cultural Journey Through Lijiang’s Historic Heart
     text: >+
