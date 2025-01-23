@@ -297,7 +297,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: ''
         text: >
           Engage with local vendors at **Zhongyi Market**, where you can
