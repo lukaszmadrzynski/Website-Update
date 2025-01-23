@@ -402,6 +402,9 @@ sections:
       type: TitleBlock
       text: Ready to Explore the Lijiang Old Town?
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
     text: ''
     actions:
