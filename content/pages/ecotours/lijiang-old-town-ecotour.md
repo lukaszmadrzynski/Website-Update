@@ -241,7 +241,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: ''
         text: >
           Cross the charming **Big Stone Bridge**, adorned with plants,
