@@ -164,7 +164,7 @@ sections:
           people.
         image:
           type: ImageBlock
-          url: /images/Icon3.jpg
+          url: /images/Icon3b.jpg
           altText: Placeholder image
           elementId: ''
         actions: []
