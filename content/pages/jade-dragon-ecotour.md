@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: 'Lijiang Old Town Ecotour: Naxi Heritage Trail'
+title: Jade Dragon Snow Mountain Off-the-Beaten-Path
 sections:
   - type: GenericSection
     title:
