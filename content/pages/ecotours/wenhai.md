@@ -272,23 +272,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Discover the **UNESCO Heritage site of Baisha Village** and explore
-
-          its authentic heritage in an intimate way. Experience the true essence
-          of this
-
-          historical village and appreciate its cultural significance in a
-          peaceful and
-
-          unhurried setting.
-
-
-
-
-
-
-
+        text: "Discover the rich history and cultural significance of **Baisha\nVillage**, a part of UNESCO Heritage site. Explore the ancient village, admire\nits traditional architecture, and delve into its fascinating past, appreciating\nthe enduring legacy of this historically important location and its unique\nplace in the region's heritage.\n\n\n\n\n\n\_\n\n\n\n\n\n\n\n"
         image:
           type: ImageBlock
           url: /images/Icon6.jpg
