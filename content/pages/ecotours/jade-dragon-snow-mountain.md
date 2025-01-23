@@ -589,7 +589,7 @@ sections:
           - pl-7
           - pb-7
           - pr-7
-slug: /ecotours/jade-dragon-ecotour
+slug: /ecotours/jade-dragon-snow-mountain
 seo:
   type: Seo
   metaTitle: Home - Demo site
