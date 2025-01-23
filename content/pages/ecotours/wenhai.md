@@ -285,7 +285,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: JADE DRAGON SNOW MOUNTAIN | ONE-DAY ECOTOUR
+      label: WENHAI WETLANDS NATURE RESERVE | ONE-DAY ECOTOUR
       color: text-primary
       styles:
         self:
