@@ -159,11 +159,10 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
+        text: >
           Immerse yourself in the vibrant biodiversity of Wenhai Wetland,
 
-          specifically observing the **unique birds and flowers** that thrive in
-          this alpine
+          observing the **unique birds and flowers** that thrive in this alpine
 
           ecosystem. Discover the specialized adaptations of these species to
           the wetland
@@ -171,10 +170,7 @@ sections:
           environment, learning about their ecological roles and appreciating
           the
 
-          delicate balance of nature in this pristine setting. 
-
-
-
+          delicate balance of nature in this pristine setting.
         image:
           type: ImageBlock
           url: /images/Icon3b.jpg
