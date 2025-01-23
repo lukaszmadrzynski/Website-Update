@@ -142,7 +142,7 @@ sections:
           cultural tapestry reflecting Naxi, Han, Tibetan, and Bai influences.
         image:
           type: ImageBlock
-          url: /images/icon3.svg
+          url: /images/Icon3.jpg
           altText: Placeholder image
           elementId: ''
         actions: []
