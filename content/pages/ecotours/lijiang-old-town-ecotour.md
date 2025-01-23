@@ -186,7 +186,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Explore **Wenchang Palace**, a historical site that reflects Naxi
           educational traditions, and admire its architectural beauty while
