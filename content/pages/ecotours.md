@@ -53,7 +53,7 @@ sections:
             margin:
               - ml-1
               - mr-1
-        tagline: Half-Day | Off-the-beaten-path
+        tagline: Half-Day | Cultural Heritage
       - type: FeaturedItem
         title: Yunnan Snub-nosed Monkey Journey
         subtitle: 2 Days | Wildlife Experience
