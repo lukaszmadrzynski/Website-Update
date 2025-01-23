@@ -185,7 +185,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/jade-dragon-ecotour
+            url: /ecotours/jade-dragon-snow-mountain
             showIcon: false
             icon: arrowRight
             iconPosition: right
