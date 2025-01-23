@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Naxi Heritage TrailA Cultural Journey Through Lijiang’s Historic Heart
+        title: Naxi Heritage Trail
         subtitle: from $48 to $68 per person
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
