@@ -89,7 +89,7 @@ sections:
           Discover tranquility with a visit to **Fuguo Tibetan Buddhist
           Temple**. Immerse yourself in the serene atmosphere of
 
-          this spiritual sanctuary and appreciate the beauty of Tibetan Buddhist
+          this spiritual refuge and appreciate the beauty of Tibetan Buddhist
           culture.
         image:
           type: ImageBlock
