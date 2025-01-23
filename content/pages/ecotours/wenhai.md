@@ -195,18 +195,16 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Embark on an exclusive **conservation patrol hike** in a secluded
+          Experience the warm hospitality of the Naxi people with a visit to
 
-          area of Jade Dragon Snow Mountain Nature Reserve. This unique
-          experience allows
+          **Wenhai village**. Enjoy a delicious and authentic local lunch at a
+          traditional
 
-          you to witness the raw beauty of the mountain in a quieter setting and
+          fish farm, savoring regional flavors and learning about Naxi culture
+          and
 
-          contribute to its preservation in a meaningful way.
-
-
-
-
+          sustainable practices directly from the community in a welcoming
+          setting. 
 
 
 
