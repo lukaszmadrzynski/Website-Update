@@ -408,7 +408,7 @@ sections:
       businesses.
     actions:
       - type: Button
-        label: Get started
+        label: Book this Ecotour now!
         url: /contact-us
         icon: arrowRight
         iconPosition: right
