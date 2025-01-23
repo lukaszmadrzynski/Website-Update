@@ -222,8 +222,8 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Delve into the rich biodiversity of Lijiang in its untouched
+        text: >
+          Delve into the **rich biodiversity of Lijiang** in its untouched
 
           corners. Explore these pristine areas to gain a deeper understanding
           of the
@@ -232,13 +232,6 @@ sections:
           its
 
           authentic state.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/Icon5.jpg
