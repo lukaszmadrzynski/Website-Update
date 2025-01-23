@@ -111,10 +111,10 @@ sections:
       - type: FeaturedItem
         title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Stroll through **Black Dragon Pool Park**, known for its stunning
+          views of the Jade Dragon Snow Mountain and its tranquil water
+          features, perfect for relaxation and photography.
         image:
           type: ImageBlock
           url: /images/icon2.svg
