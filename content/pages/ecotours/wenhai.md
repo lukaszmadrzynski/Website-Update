@@ -1,6 +1,10 @@
 ---
 type: PageLayout
-title: Jade Dragon's Hidden Trails Ecotour
+title: >-
+  Journey Wenhai Sanctuary, nestled along the ancient Tea & Horse Road. Explore
+  pristine wetlands and learn from a local conservationist, witness unique
+  biodiversity, and immerse yourself in Naxi culture. Hike, discover heritage,
+  and experience Yunnan's hidden gem!
 sections:
   - type: GenericSection
     title:
