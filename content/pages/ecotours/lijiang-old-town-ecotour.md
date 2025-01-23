@@ -270,7 +270,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Admire the grandeur of **Mufu Palace** from the outside, an
           architectural gem that showcases Naxi influences and serves as a
