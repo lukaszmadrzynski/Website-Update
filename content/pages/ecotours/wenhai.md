@@ -374,7 +374,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Explore the Jade Dragon Snow Mountain?
+      text: Ready to Explore Wenhai?
       color: text-dark
       styles:
         self:
