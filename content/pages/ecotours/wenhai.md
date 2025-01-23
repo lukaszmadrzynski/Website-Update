@@ -122,7 +122,7 @@ sections:
           alpine wetland ecosystem while observing native birds and flowers,
           experiencing
 
-          firsthand the area's rich biodiversity.
+          firsthand the area's rich biodiversity and ways of its conservation.
         image:
           type: ImageBlock
           url: /images/Icon2.jpg
