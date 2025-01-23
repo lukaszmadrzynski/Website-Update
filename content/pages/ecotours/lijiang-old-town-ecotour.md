@@ -109,7 +109,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 20x
+        title: ''
         subtitle: ''
         text: >
           Stroll through **Black Dragon Pool Park**, known for its stunning
