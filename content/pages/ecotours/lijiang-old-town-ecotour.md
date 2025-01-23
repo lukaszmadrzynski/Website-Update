@@ -187,10 +187,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Explore **Wenchang Palace**, a historical site that reflects Naxi
+          educational traditions, and admire its architectural beauty while
+          learning about its cultural significance.
         image:
           type: ImageBlock
           url: /images/icon1.svg
