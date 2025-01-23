@@ -256,10 +256,23 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Immerse yourself in the vibrant atmosphere of **Square Street**, lined
-          with shops, eateries, and traditional Naxi buildings, capturing the
-          lively spirit of Dayan Old Town.
+        text: >+
+          Discover the **UNESCO Heritage site of Baisha Village** and explore
+
+          its authentic heritage in an intimate way. Experience the true essence
+          of this
+
+          historical village and appreciate its cultural significance in a
+          peaceful and
+
+          unhurried setting.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon6.jpg
