@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Jade Dragon Snow Mountain Ecotours
+title: 'Jade Dragon Snow Mountain '
 sections:
   - type: GenericSection
     subtitle: ''
