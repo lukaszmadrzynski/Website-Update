@@ -271,10 +271,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Admire the grandeur of **Mufu Palace** from the outside, an
+          architectural gem that showcases Naxi influences and serves as a
+          reminder of Lijiang’s royal heritage.
         image:
           type: ImageBlock
           url: /images/icon1.svg
