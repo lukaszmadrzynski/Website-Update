@@ -185,7 +185,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: Numbers Done
         text: >
           Explore **Wenchang Palace**, a historical site that reflects Naxi
