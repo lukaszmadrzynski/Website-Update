@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Jade Dragon Snow Mountain Conservation Patrol
-        subtitle: '218 USD per person (based on 2 people) '
+        subtitle: from 48 USD to 68 USD
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
           Mountain near Lijiang, experiencing diverse ecosystems and stunning
