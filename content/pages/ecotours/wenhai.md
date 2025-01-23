@@ -115,14 +115,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Explore **Wenhai Wetland Nature Reserve** in the company of a local
-          conservationist. Learn about this unique
-
-          alpine wetland ecosystem while observing native birds and flowers.
-          Experience
-
-          firsthand the area's rich biodiversity and its conservation.
+        text: "**Visit Wenhai Wetland Nature Reserve with a local conservationist:**\_Explore\nthe pristine Wenhai Wetland Nature Reserve alongside a knowledgeable local\nconservationist. Learn about the delicate alpine wetland ecosystem, observe\nunique birds and flowers native to this environment, and gain insights into\nconservation efforts in this biodiversity hotspot, experiencing nature\nfirsthand. \n\n\n\n\n\n\n\n"
         image:
           type: ImageBlock
           url: /images/Icon2.jpg
