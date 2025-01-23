@@ -110,7 +110,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 20x
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >
           Stroll through **Black Dragon Pool Park**, known for its stunning
           views of the Jade Dragon Snow Mountain and its tranquil water
