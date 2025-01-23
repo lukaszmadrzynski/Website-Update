@@ -152,8 +152,9 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Venture to Runangu Village and experience authentic Yi culture
+        text: >
+          Venture to Runangu Village and **experience** **authentic Yi minority
+          culture**
 
           and hospitality. Enjoy a genuine cultural immersion, sharing a
           delicious local
@@ -162,13 +163,6 @@ sections:
           of the Yi
 
           people.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/Icon3.jpg
