@@ -88,16 +88,15 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Escape the typical tourist trail and discover the hidden serenity of
-          Fuguo Tibetan
+          Discover the hidden serenity of Fuguo Tibetan Buddhist Temple.
 
-          Buddhist Temple. This secluded sanctuary offers a truly authentic
-          spiritual
+          This secluded sanctuary offers an authentic spiritual experience,
+          inviting you
 
-          experience, allowing you to find tranquility away from the usual
-          temple crowds
+          to find tranquility and immerse yourself in the peaceful atmosphere of
+          Tibetan
 
-          and immerse yourself in the peaceful atmosphere of Tibetan Buddhism.
+          Buddhism.
 
 
 
