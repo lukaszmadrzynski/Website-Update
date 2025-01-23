@@ -53,7 +53,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/Jade Dragon Hero.jpg
+      url: /images/wenhai banner.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
