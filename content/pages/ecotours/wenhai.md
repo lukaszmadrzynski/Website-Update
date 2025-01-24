@@ -225,21 +225,14 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
+        text: >
           Venture into pristine forests and spot some of the **world's rarest
-          birds** at our local
+          birds** a local
 
           bird watching station. Learn from passionate conservationists about
           their vital
 
           work protecting these endangered species in this serene bird refuge.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
