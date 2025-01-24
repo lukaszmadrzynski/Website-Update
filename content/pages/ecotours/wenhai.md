@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Wenhai Sanctuary
+title: Wenhai Sanctuary Ecotour
 sections:
   - type: GenericSection
     title:
