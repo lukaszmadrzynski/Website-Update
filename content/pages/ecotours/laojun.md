@@ -168,37 +168,6 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Step back in time in charming **Shigu Town**, a cultural gem of the
-          Naxi minority.
-
-          Discover the historic relict of Stone Drum, wander through local
-          market, and immerse
-
-          yourself in the unique history of this quaint little town that played
-          a big role during the revolutionary Long March.
-        image:
-          type: ImageBlock
-          url: /images/Icon3.jpg
-          altText: Placeholder image
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
         text: >+
           Step back in time in charming **Shigu Town**, a cultural gem of the
           Naxi minority.
