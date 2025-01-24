@@ -459,7 +459,7 @@ sections:
               - mr-1
       - type: FeaturedItem
         title: Forever Walk
-        tagline: 2 Days | Endangered Species Conservation
+        tagline: 3 Days | Multiple-day Hike Experience
         subtitle: from $192 to $242 per person
         text: >+
           Discover the wonders of Lashi Wetlands and the surrounding landscapes.
