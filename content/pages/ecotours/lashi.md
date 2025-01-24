@@ -1,6 +1,8 @@
 ---
 type: PageLayout
-title: 'Wenhai Sanctuary: Along the Ancient Tea & Horse Road'
+title: >-
+  Living Waters of Lashi: An Ecotour of Biodiversity Conservation & Ethnic
+  Culture
 sections:
   - type: GenericSection
     title:
