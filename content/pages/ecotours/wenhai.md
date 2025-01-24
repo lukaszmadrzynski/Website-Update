@@ -30,7 +30,7 @@ sections:
       *   Duration: One Day (Approximately 11 hours)
 
 
-      *   Location: Lashi Wetlands Nature Reserve
+      *   Location: Wenhai Wetlands Nature Reserve
 
 
       *   Activity Level: Moderate
@@ -42,8 +42,8 @@ sections:
       *   Walking Distance: 7-8 km
 
 
-      *   Price: **from** **USD251.00 to USD199.00 Per Person** (based on group
-      sizes of 2 to 6 people)
+      *   Price: **from** **USD242.00 to USD192.00 Per Person** (based on group
+      sizes of 2 and 6 people)
 
     actions:
       - type: Button
