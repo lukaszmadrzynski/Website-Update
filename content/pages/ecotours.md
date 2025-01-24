@@ -346,7 +346,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Jade Dragon's Hidden Trails
+        title: Laojun's Wild Heart
         tagline: 1 Day | Off-the-beaten-path
         subtitle: from $192 to $242 per person
         text: >
