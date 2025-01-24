@@ -225,17 +225,21 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Embark on an invigorating hike through lush forests leading to the
+        text: >+
+          Venture into pristine forests and spot some of the **world's rarest
+          birds** at our local
 
-          magnificent **Tiger Cave**. From this stunning vantage point, enjoy
-          panoramic views
+          bird watching station. Learn from passionate conservationists about
+          their vital
 
-          overlooking the picturesque Wenhai Lake and the charming village
-          below. 
+          work protecting these endangered species in this serene bird refuge.
 
-          Hear stories and learn more about this important stop at the ancient
-          Tea & Horse Road.
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
