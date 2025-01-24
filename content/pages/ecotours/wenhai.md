@@ -433,21 +433,14 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Immerse yourself in the authentic **daily life of the Lisu minority**
-          in Liju village.
+        text: >
+          Experience the authentic **daily life of the Lisu minority** in Liju
+          village.
 
-          Experience their warm hospitality, learn about their sustainable way
-          of living,
+          Feel their warm hospitality, learn about their sustainable way of
+          living,
 
           and gain insights into a culture deeply connected to nature.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
