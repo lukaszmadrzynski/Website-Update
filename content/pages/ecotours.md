@@ -168,7 +168,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Jade Dragon Snow Mountain Conservation Patrol
+        title: Jade Dragon's Hidden Trails
         subtitle: 1 Day | Off-the-beaten-path
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
