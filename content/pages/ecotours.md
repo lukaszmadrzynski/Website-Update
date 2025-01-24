@@ -169,7 +169,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Jade Dragon's Hidden Trails
-        subtitle: 1 Day | Off-the-beaten-path
+        subtitle: from $192 to $242 per person
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
           Mountain near Lijiang, experiencing diverse ecosystems and stunning
