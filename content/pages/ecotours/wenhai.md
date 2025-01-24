@@ -128,13 +128,15 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Embark on a short hike to a spectacular viewpoint overlooking the
-          First Bend of the Yangtze
+          Stand in awe at the panoramic grandeur of the **Yangtze's First
+          Bend**. Discover the
 
-          River, an unforgettable panorama showcasing the immense scale and
-          dramatic
+          unique geography shaping this iconic river and capture unforgettable
+          views from
 
-          beauty of this natural landmark.
+          this dramatic vantage point. Understand the cultural and geographical
+
+          importance of this breathtaking natural wonder.
 
 
 
