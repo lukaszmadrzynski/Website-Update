@@ -281,7 +281,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: WENHAI WETLANDS NATURE RESERVE | ONE-DAY ECOTOUR
+      label: Lashi WETLANDS NATURE RESERVE | ONE-DAY ECOTOUR
       color: text-primary
       styles:
         self:
