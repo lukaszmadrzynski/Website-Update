@@ -348,7 +348,7 @@ sections:
       - type: FeaturedItem
         title: Laojun's Wild Heart
         tagline: 1 Day | Off-the-beaten-path
-        subtitle: from $192 to $242 per person
+        subtitle: from $313 to $458 per person
         text: >
           Escape the tourist crowds in Yunnan on this ecotour, discovering
           hidden gems like Tibetan temples and untouched wetlands. Immerse
