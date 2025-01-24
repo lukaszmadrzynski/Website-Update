@@ -347,7 +347,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Laojun's Wild Heart
-        tagline: 1 Day | Off-the-beaten-path
+        tagline: 1 Day | Deep Into Wilderness
         subtitle: from $313 to $458 per person
         text: >+
           Unleash your adventurous spirit in Laojun Mountains! Unveil stunning
