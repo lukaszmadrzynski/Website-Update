@@ -394,14 +394,21 @@ sections:
       - type: FeaturedItem
         title: uiyo
         subtitle: ''
-        text: >
-          Venture into pristine forests and spot some of the **world's rarest
-          birds** a local
+        text: >+
+          Embark on a rewarding hike with a local conservationist, following a
+          pristine forest
 
-          bird watching station. Learn from passionate conservationists about
-          their vital
+          stream to a stunning alpine meadow. Be captivated by **panoramic views
+          of Laojun
 
-          work protecting these endangered species in this serene bird refuge.
+          Mountains' peaks** and learn about the unique alpine ecosystem.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
