@@ -431,7 +431,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: gfdf
+        title: ''
         subtitle: ''
         text: >+
           Immerse yourself in the authentic **daily life of the Lisu minority**
