@@ -256,17 +256,18 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Undertake a short but memorable trek through the forests to the
-          dramatic **Luoma Cliffs**,
+          Embark on an invigorating hike through lush forests leading to
 
-          where sweeping views of the surrounding landscape await. Enriched by
-          insights
+          the magnificent **Tiger Cave**. From this stunning vantage point,
+          enjoy panoramic
 
-          into local forest biodiversity and conservation, this hike also serves
-          as an
+          views overlooking the picturesque Wenhai Lake and the charming village
+          below,
 
-          opportunity to witness the powerful forces of nature shaping the
-          region.
+          capturing breathtaking scenery and experiencing the natural beauty of
+          the
+
+          region. 
 
 
 
