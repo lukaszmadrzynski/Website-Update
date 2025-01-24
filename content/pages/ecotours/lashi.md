@@ -1,8 +1,6 @@
 ---
 type: PageLayout
-title: >-
-  Living Waters of Lashi: An Ecotour of Biodiversity Conservation & Ethnic
-  Culture
+title: Living Waters of Lashi Ecotour
 sections:
   - type: GenericSection
     title:
