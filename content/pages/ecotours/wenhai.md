@@ -1,10 +1,6 @@
 ---
 type: PageLayout
-title: >-
-  Journey Wenhai Sanctuary, nestled along the ancient Tea & Horse Road. Explore
-  pristine wetlands and learn from a local conservationist, witness unique
-  biodiversity, and immerse yourself in Naxi culture. Hike, discover heritage,
-  and experience Yunnan's hidden gem!
+title: 'Wenhai Sanctuary: Along the Ancient Tea & Horse Road'
 sections:
   - type: GenericSection
     title:
