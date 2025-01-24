@@ -232,7 +232,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon3.jpg
+          url: /images/WHicon3.jpg
           altText: Placeholder text
           styles:
             self:
