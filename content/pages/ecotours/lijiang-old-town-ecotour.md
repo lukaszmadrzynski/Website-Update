@@ -358,12 +358,13 @@ sections:
 
       *   Tickets to Black Dragon Pool Park.
 
-      *   Travel insurance.
+      *   Local snacks.
 
+      *   Travel insurance.
 
       **What’s Not Included:**
 
-      *   Personal expenses (souvenirs, snacks).
+      *   Personal expenses (souvenirs, etc.).
 
       *   Gratuities for the guide.
 
