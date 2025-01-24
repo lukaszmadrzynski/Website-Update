@@ -358,7 +358,7 @@ sections:
 
       *   Tickets to Black Dragon Pool Park.
 
-      *   Local snacks.
+      *   Local traditional snacks.
 
       *   Travel insurance.
 
