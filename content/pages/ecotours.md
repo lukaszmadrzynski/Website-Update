@@ -208,7 +208,7 @@ sections:
               - mr-1
       - type: FeaturedItem
         title: Laojun's Wild Heart
-        subtitle: 1 Days | Wildernes Experience
+        subtitle: 1 Day |
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
           Mountain near Lijiang, experiencing diverse ecosystems and stunning
