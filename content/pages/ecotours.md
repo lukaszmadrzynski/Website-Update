@@ -210,7 +210,7 @@ sections:
               - mr-1
         tagline: 1 Day | Off-the-beaten-path
       - type: FeaturedItem
-        title: Wenhai's Tea & Horse Road
+        title: Wenhai Tea & Horse Road
         subtitle: 1 Day | Off-the-beaten-path
         text: >+
           <div style="text-align: left">Journey to Wenhai sanctuary, nestled
