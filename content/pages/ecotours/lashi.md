@@ -257,9 +257,9 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Conclude your day with a visit to Boduoluo Yi minority village, and
-          enjoy
+        text: >
+          Conclude your day with a visit to **Boduoluo Yi minority village**,
+          and enjoy
 
           a traditional dinner with the locals. Experience the local Yi culture,
           enjoy
@@ -268,13 +268,6 @@ sections:
           authentic and
 
           memorable cultural exchange experience.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/Icon6.jpg
