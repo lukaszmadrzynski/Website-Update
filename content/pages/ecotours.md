@@ -248,7 +248,7 @@ sections:
               - ml-1
               - mr-1
       - type: FeaturedItem
-        title: Ancient Tea & Horse Road
+        title: Wenhai
         subtitle: 1 Day | Off-the-beaten-path
         text: >+
           <div style="text-align: left">Journey to Wenhai sanctuary, nestled
