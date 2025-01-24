@@ -199,14 +199,16 @@ sections:
       - type: FeaturedItem
         title: Shigu
         subtitle: ''
-        text: >
-          Venture into pristine forests and spot some of the **world's rarest
-          birds** a local
+        text: >+
+          Step back in time in charming **Shigu Town**, a cultural gem of the
+          Naxi minority.
 
-          bird watching station. Learn from passionate conservationists about
-          their vital
+          Discover the historic relict of Stone Drum, wander through local
+          market, and immerse
 
-          work protecting these endangered species in this serene bird refuge.
+          yourself in the unique history of this quaint little town that played
+          a big role during the revolutionary Long March.
+
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
