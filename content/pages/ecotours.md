@@ -55,7 +55,7 @@ sections:
               - mr-1
         tagline: Half-Day | Cultural Heritage
       - type: FeaturedItem
-        title: Yunnan Snub-nosed Monkey Journey
+        title: Elephant Hill Biodiversity
         subtitle: 2 Days | Wildlife Experience
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
