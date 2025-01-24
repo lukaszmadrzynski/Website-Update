@@ -180,7 +180,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon3.jpg
+          url: /images/LJ-icon3.jpg
           altText: Placeholder text
           elementId: ''
           styles:
