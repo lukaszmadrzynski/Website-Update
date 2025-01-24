@@ -286,7 +286,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/baima2.jpg
+          url: /images/Banner Icon2.jpg
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
