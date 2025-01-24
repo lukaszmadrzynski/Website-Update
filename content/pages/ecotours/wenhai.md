@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Laojun's Wild Heart
       color: text-dark
-    subtitle: Nature and Culture along the Ancient Tea & Horse Road
+    subtitle: Where Rivers Meet Mountains
     text: >+
       Embark on an immersive journey to Wenhai Sanctuary, a hidden gem along the
       historic Tea & Horse Road. Explore pristine wetlands with a local
