@@ -210,48 +210,6 @@ sections:
               - mr-1
         tagline: 1 Day | Off-the-beaten-path
       - type: FeaturedItem
-        title: Wenhai Sanctuary
-        subtitle: 1 Day |
-        text: >
-          Embark on a challenging yet rewarding trek on Jade Dragon Snow
-          Mountain near Lijiang, experiencing diverse ecosystems and stunning
-          alpine scenery. Discover the unique flora and fauna of this iconic
-          Yunnan peak, a highlight of ecotourism in the region.
-        image:
-          type: ImageBlock
-          url: /images/baima2.jpg
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Learn More
-            altText: ''
-            url: /ecotours/laojun
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-            textAlign: left
-            margin:
-              - ml-1
-              - mr-1
-        tagline: 1 Day | Off-the-beaten-path
-      - type: FeaturedItem
         title: Wenhai
         subtitle: 1 Day | Off-the-beaten-path
         text: >+
@@ -294,6 +252,48 @@ sections:
             margin:
               - ml-1
               - mr-1
+      - type: FeaturedItem
+        title: Wenhai Sanctuary
+        subtitle: 1 Day |
+        text: >
+          Embark on a challenging yet rewarding trek on Jade Dragon Snow
+          Mountain near Lijiang, experiencing diverse ecosystems and stunning
+          alpine scenery. Discover the unique flora and fauna of this iconic
+          Yunnan peak, a highlight of ecotourism in the region.
+        image:
+          type: ImageBlock
+          url: /images/baima2.jpg
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /ecotours/laojun
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
+            margin:
+              - ml-1
+              - mr-1
+        tagline: 1 Day | Off-the-beaten-path
     actions: []
     elementId: ''
     variant: three-col-grid
