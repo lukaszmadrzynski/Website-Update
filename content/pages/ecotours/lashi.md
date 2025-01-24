@@ -235,7 +235,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon5.jpg
+          url: /images/LS-icon5.jpg
           altText: Placeholder text
           elementId: ''
           styles:
