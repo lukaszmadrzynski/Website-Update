@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Living Waters of Lashi
       color: text-dark
-    subtitle: An Ecotour of Biodiversity Conservation & Culture
+    subtitle: An Ecotour of Biodiversity Conservation & Ethnic Culture
     text: >+
       Embark on an immersive journey to Wenhai Sanctuary, a hidden gem along the
       historic Tea & Horse Road. Explore pristine wetlands with a local
