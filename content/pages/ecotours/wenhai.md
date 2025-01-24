@@ -9,13 +9,14 @@ sections:
       color: text-dark
     subtitle: Where Rivers Meet Mountains
     text: >+
-      Embark on an immersive journey to Wenhai Sanctuary, a hidden gem along the
-      historic Tea & Horse Road. Explore pristine wetlands with a local
-      conservationist, discovering unique alpine birds and flowers in this
-      tranquil ecosystem. Immerse yourself in Naxi culture with a village visit
-      and local lunch. Hike to the magnificent Tiger Cave for breathtaking views
-      of Wenhai Lake and village. Uncover the UNESCO heritage of Baisha Village,
-      experiencing Yunnan's rich natural beauty and cultural tapestry.
+      Venture into the wild heart of Laojun Mountain, where rivers carve their
+      paths through ancient forests and peaks pierce the sky. This journey takes
+      you from the mighty Yangtze's bend to the hidden valleys and alpine
+      meadows of Laojun. Immerse yourself in the vibrant cultures of the Naxi,
+      Bai, and Lisu people, discover rare birds with expert guides, and learn
+      about the vital conservation efforts that protect this precious landscape.
+      This is more than a tour; it's an unforgettable expedition into the soul
+      of Yunnan.
 
 
       *   Duration: Two Days
