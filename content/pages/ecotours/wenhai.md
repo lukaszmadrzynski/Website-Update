@@ -173,7 +173,7 @@ sections:
           market, and immerse
 
           yourself in the unique history of this quaint little town that played
-          a big role during the Long March .
+          a big role during the revolutionary Long March.
         image:
           type: ImageBlock
           url: /images/Icon3.jpg
