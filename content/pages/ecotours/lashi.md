@@ -156,9 +156,8 @@ sections:
         title: ''
         subtitle: ''
         text: >
-
-          Venture into the Lashi Wetland Nature Reserve, experiencing its rich
-          tapestry of wildlife and
+          Venture into the **Lashi Wetland Nature Reserve**, experiencing its
+          rich tapestry of wildlife and
 
           flora. Learn to identify unique bird species and native plants,
           understanding
@@ -166,12 +165,6 @@ sections:
           their vital role within this fragile ecosystem, and the importance of
 
           preserving this natural treasure.
-
-
-
-
-
-
 
 
           .
