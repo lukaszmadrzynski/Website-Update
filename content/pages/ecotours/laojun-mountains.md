@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Living Waters of Lashi Ecotour
+title: Wenhai Sanctuary
 sections:
   - type: GenericSection
     title:
