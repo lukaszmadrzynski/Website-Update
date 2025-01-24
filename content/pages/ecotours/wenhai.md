@@ -470,7 +470,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: gfdf
+        title: ''
         subtitle: ''
         text: >+
           Marvel at an **immense spruce tree**, a natural wonder steeped in
