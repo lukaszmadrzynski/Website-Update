@@ -98,7 +98,7 @@ sections:
           Buddhism.
         image:
           type: ImageBlock
-          url: /images/Icon1.jpg
+          url: /images/YL-icon1.jpg
           altText: Placeholder image
           elementId: ''
           styles:
