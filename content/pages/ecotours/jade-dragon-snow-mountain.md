@@ -233,7 +233,7 @@ sections:
           authentic state.
         image:
           type: ImageBlock
-          url: /images/Icon5.jpg
+          url: /images/YL-icon5.jpg
           altText: Placeholder text
           elementId: ''
           styles:
