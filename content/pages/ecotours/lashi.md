@@ -315,6 +315,12 @@ sections:
       *   Local guide.
 
 
+      *   Private Transportation.
+
+
+      *   Local Lunch and Dinner.
+
+
       *   Outdoor travel insurance.
 
 
