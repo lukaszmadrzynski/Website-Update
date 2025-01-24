@@ -194,16 +194,17 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Experience the warm hospitality of the Naxi people with a visit to
+          Discover the idyllic beauty of Taohua, a traditional Bai ethnic group
+          village. Admire the elegant
 
-          **Wenhai village**. Enjoy a delicious and authentic local lunch at a
-          traditional
+          white pagodas and a historic stone bridge. Immerse yourself in the
+          peaceful
 
-          fish farm, savoring regional flavors and learning about Naxi culture
-          and
+          rhythm of rural life and the rich cultural tapestry of the Bai people.
 
-          sustainable practices directly from the community in a welcoming
-          setting. 
+
+
+
 
 
 
