@@ -27,20 +27,19 @@ sections:
       Village, experiencing Yunnan's rich natural beauty and cultural tapestry.
 
 
-
       *   Duration: One Day (Approximately 11 hours)
 
 
       *   Location: Lashi Wetlands Nature Reserve
 
 
-      *   Activity Level: Mild
+      *   Activity Level: Moderate
 
 
       *   Altitudes: 2400 - 3250 m
 
 
-      *   Walking Distance: 5-6 km
+      *   Walking Distance: 7-8 km
 
 
       *   Price: **from** **USD251.00 to USD199.00 Per Person** (based on group
