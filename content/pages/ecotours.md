@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Naxi Heritage Trail
+        title: Naxi Heritage Walk
         subtitle: from $48 to $68 per person
         text: >
           Experience a private ecotour in Lijiang Old Town, immersing yourself
