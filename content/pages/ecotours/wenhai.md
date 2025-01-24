@@ -282,21 +282,14 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
+        text: >
           Immerse yourself in the vibrant culture of the Lisu minority through
-          an unforgettable bonfire dance
+          an unforgettable **bonfire dance
 
-          and music experience. Join in the festivities, connect with local
+          and music experience**. Join in the festivities, connect with local
           traditions,
 
           and create lasting memories of cultural exchange under the stars.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
