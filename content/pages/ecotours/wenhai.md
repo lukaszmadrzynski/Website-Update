@@ -135,18 +135,17 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Gain exclusive insights into wetland conservation at the **Lashi
+          Explore the pristine **Wenhai Wetland Nature Reserve** alongside a
 
-          Wetland Conservation Bureau**. Meet with conservationists, learn about
-          their
+          knowledgeable local conservationist. Learn about the delicate alpine
+          wetland
 
-          ongoing projects, and understand the challenges and strategies
-          involved in
+          ecosystem, observe unique birds and flowers native to this
+          environment, and
 
-          preserving this crucial ecosystem, contributing to the understanding
-          of
+          gain insights into conservation efforts in this biodiversity hotspot,
 
-          environmental stewardship.
+          experiencing nature firsthand. 
 
 
 
