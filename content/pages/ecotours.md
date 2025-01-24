@@ -379,7 +379,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/jade-dragon-snow-mountain
+            url: /ecotours/laojun
             showIcon: false
             icon: arrowRight
             iconPosition: right
