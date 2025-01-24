@@ -174,16 +174,26 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Venture into the **Lashi Wetland Nature Reserve**, experiencing its
-          rich tapestry of wildlife and
+        text: >+
+          Immerse yourself in the vibrant biodiversity of Wenhai Wetland,
 
-          flora. Learn to identify unique bird species and native plants,
-          understanding
+          specifically observing the **unique birds and flowers** that thrive in
+          this alpine
 
-          their vital role within this fragile ecosystem, and the importance of
+          ecosystem. Discover the specialized adaptations of these species to
+          the wetland
 
-          preserving this natural treasure.
+          environment, learning about their ecological roles and appreciating
+          the delicate
+
+          balance of nature in this pristine setting. 
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon3C.jpg
