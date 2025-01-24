@@ -97,7 +97,7 @@ sections:
               - mr-1
         tagline: Half-Day | Biodiversity Hike
       - type: FeaturedItem
-        title: Migratory Birds of Zhongji
+        title: "Zhongji\_Migratory Birds"
         subtitle: 1 Day | Off-the-beaten-path
         text: >+
           <div style="text-align: left">Embark on a challenging yet rewarding
