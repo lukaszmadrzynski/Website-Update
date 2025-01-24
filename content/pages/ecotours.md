@@ -139,6 +139,7 @@ sections:
             margin:
               - ml-1
               - mr-1
+        tagline: Half-Day | Biodiversity Hike
     actions: []
     elementId: ''
     variant: three-col-grid
