@@ -9,33 +9,33 @@ sections:
       color: text-dark
     subtitle: An Ecotour of Biodiversity Conservation & Ethnic Culture
     text: >+
-      Embark on an immersive journey to Wenhai Sanctuary, a hidden gem along the
-      historic Tea & Horse Road. Explore pristine wetlands with a local
-      conservationist, discovering unique alpine birds and flowers in this
-      tranquil ecosystem. Immerse yourself in Naxi culture with a village visit
-      and local lunch. Hike to the magnificent Tiger Cave for breathtaking views
-      of Wenhai Lake and village. Uncover the UNESCO heritage of Baisha Village,
-      experiencing Yunnan's rich natural beauty and cultural tapestry.
+      Embark on a captivating journey to the Lashi Wetlands, a crucial ecosystem
+      in Yunnan. Explore the wetland park and conservation bureau, understanding
+      the importance of wetland preservation. Observe unique biodiversity in the
+      Lashi Wetland Reserve and immerse yourself in the rich cultural traditions
+      of local Naxi and Yi minorities. Hike to breathtaking Luoma Cliffs for
+      panoramic views and enjoy genuine village experiences with local cuisine,
+      connecting with the region's unique natural beauty and cultural heritage.
 
 
 
       *   Duration: One Day (Approximately 11 hours)
 
 
-      *   Location: Wenhai Wetlands Nature Reserve
+      *   Location: Lashi Wetlands Nature Reserve
 
 
-      *   Activity Level: Moderate
+      *   Activity Level: Mild
 
 
       *   Altitudes: 2400 - 3250 m
 
 
-      *   Walking Distance: 8-9 km
+      *   Walking Distance: 5-6 km
 
 
-      *   Price: **from** **USD242.00 to USD192.00 Per Person** (based on group
-      sizes of 2 and 6 people)
+      *   Price: **from** **USD251.00 to USD199.00 Per Person** (based on group
+      sizes of 2 to 6 people)
 
     actions:
       - type: Button
