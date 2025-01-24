@@ -340,7 +340,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Feature Item One
+        title: ''
         tagline: ''
         subtitle: This is the item subtitle
         text: |
