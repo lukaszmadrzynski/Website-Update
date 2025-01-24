@@ -401,7 +401,7 @@ sections:
               - ml-1
               - mr-1
       - type: FeaturedItem
-        title: Tacheng
+        title: Yunnan Snub-nosed Monkey
         tagline: 1 Day | Off-the-beaten-path
         subtitle: from $192 to $242 per person
         text: >+
