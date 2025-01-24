@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: ''
+    subtitle: 'One Day | '
     items:
       - type: FeaturedItem
         title: Naxi Heritage Trail
