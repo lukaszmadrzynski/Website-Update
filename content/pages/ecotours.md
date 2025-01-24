@@ -458,7 +458,7 @@ sections:
               - ml-1
               - mr-1
       - type: FeaturedItem
-        title: The Living Waters of Lashi
+        title: Forever Walk
         tagline: 1 Day | Off-the-beaten-path
         subtitle: from $192 to $242 per person
         text: >+
