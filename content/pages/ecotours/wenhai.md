@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Wenhai Sanctuary
       color: text-dark
-    subtitle: An Ecotour of Biodiversity Conservation & Ethnic Culture
+    subtitle: Along the Ancient Tea & Horse Road
     text: >+
       Embark on a captivating journey to the Lashi Wetlands, a crucial ecosystem
       in Yunnan. Explore the wetland park and conservation bureau, understanding
