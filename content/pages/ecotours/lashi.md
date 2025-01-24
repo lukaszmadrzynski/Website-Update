@@ -114,16 +114,26 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Explore the pristine **Wenhai Wetland Nature Reserve** alongside a
-          knowledgeable local
+        text: >+
+          Gain exclusive insights into wetland conservation at the **Lashi
 
-          conservationist. Learn about the delicate alpine wetland ecosystem and
-          its relationship with the Naxi ethnic Culture. Gain insights into
+          Wetland Conservation Bureau**. Meet with conservationists, learn about
+          their
 
-          conservation efforts in this biodiversity hotspot, experiencing nature
+          ongoing projects, and understand the challenges and strategies
+          involved in
 
-          firsthand.
+          preserving this crucial ecosystem, contributing to the understanding
+          of
+
+          environmental stewardship.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon2.jpg
