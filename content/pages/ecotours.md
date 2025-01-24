@@ -170,11 +170,13 @@ sections:
       - type: FeaturedItem
         title: Jade Dragon's Hidden Trails
         subtitle: from $192 to $242 per person
-        text: >
-          Embark on a challenging yet rewarding trek on Jade Dragon Snow
-          Mountain near Lijiang, experiencing diverse ecosystems and stunning
-          alpine scenery. Discover the unique flora and fauna of this iconic
-          Yunnan peak, a highlight of ecotourism in the region.
+        text: >+
+          Escape the tourist crowds in Yunnan on this ecotour, discovering
+          hidden gems like Tibetan temples and untouched wetlands. Immerse
+          yourself in Yi villages, hike in Jade Dragon Snow Mountain Nature
+          Reserve, and explore Baisha Village. Experience authentic culture and
+          unspoiled nature far from the beaten path.
+
         image:
           type: ImageBlock
           url: /images/yulong2.jpg
