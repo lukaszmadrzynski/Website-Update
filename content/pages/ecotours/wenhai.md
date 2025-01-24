@@ -9,7 +9,7 @@ sections:
       color: text-dark
     subtitle: Where Rivers Meet Mountains
     text: >+
-      Venture into the wild heart of Laojun Mountain, where rivers carve their
+      Venture into the wild heart of Laojun Mountains, where rivers carve their
       paths through ancient forests and peaks pierce the sky. This journey takes
       you from the mighty Yangtze's bend to the hidden valleys and alpine
       meadows of Laojun. Immerse yourself in the vibrant cultures of the Naxi,
