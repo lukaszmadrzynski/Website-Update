@@ -257,7 +257,24 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: "Discover the rich history and cultural significance of **Baisha\nVillage**, a part of UNESCO Heritage site. Explore the ancient village, admire\nits traditional architecture, and delve into its fascinating past, appreciating\nthe enduring legacy of this historically important location and its unique\nplace in the region's heritage.\n\n\n\n\n\n\_\n\n\n\n\n\n\n\n"
+        text: >+
+          Conclude your day with a visit to Boduoluo Yi minority village, and
+          enjoy
+
+          a traditional dinner with the locals. Experience the local Yi culture,
+          enjoy
+
+          regional cuisine, and interact with the community in a genuinely
+          authentic and
+
+          memorable cultural exchange experience.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon6.jpg
