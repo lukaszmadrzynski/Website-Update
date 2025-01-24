@@ -504,7 +504,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: WENHAI WETLANDS NATURE RESERVE | ONE-DAY ECOTOUR
+      label: LAOJUN MOUNTAINS UNESCO SITE | TWO-DAY ECOTOUR
       color: text-primary
       styles:
         self:
