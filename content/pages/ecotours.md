@@ -208,7 +208,7 @@ sections:
             margin:
               - ml-1
               - mr-1
-        tagline: '1 Day | '
+        tagline: 1 Day | Off-the-beaten-path
       - type: FeaturedItem
         title: Wenhai Sanctuary
         subtitle: 1 Day |
