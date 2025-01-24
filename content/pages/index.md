@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Laojun's Wild Heart Ecotour
 slug: /
 sections:
   - type: GenericSection
