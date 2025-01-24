@@ -256,11 +256,20 @@ sections:
       - type: FeaturedItem
         title: The Living Waters of Lashi
         subtitle: from $192 to $242 per person
-        text: >
-          Embark on a challenging yet rewarding trek on Jade Dragon Snow
-          Mountain near Lijiang, experiencing diverse ecosystems and stunning
-          alpine scenery. Discover the unique flora and fauna of this iconic
-          Yunnan peak, a highlight of ecotourism in the region.
+        text: >+
+          Discover the wonders of Lashi Wetlands and the surrounding landscapes.
+          Explore vital ecosystems, learn
+
+          about conservation efforts, observe unique biodiversity, and immerse
+          yourself
+
+          in local Naxi and Yi cultures. Enjoy stunning cliff hikes and
+          authentic village
+
+          experiences, making it a memorable ecotour of Yunnan.
+
+
+
         image:
           type: ImageBlock
           url: /images/baima2.jpg
