@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Wenhai Sanctuary
+      text: Laojun's Wild Heart
       color: text-dark
     subtitle: Nature and Culture along the Ancient Tea & Horse Road
     text: >+
