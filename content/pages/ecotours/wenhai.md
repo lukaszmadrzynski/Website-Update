@@ -299,17 +299,26 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Conclude your day with a visit to **Boduoluo Yi minority village**,
-          and enjoy
+        text: >+
+          Discover the rich history and cultural significance of **Baisha
 
-          a traditional dinner with the locals. Experience the local Yi culture,
-          enjoy
+          Village**, a designated UNESCO Heritage site. Explore the ancient
+          village, admire
 
-          local flavors, and interact with the community in a genuinely
-          authentic and
+          its traditional architecture, and delve into its fascinating past,
+          appreciating
 
-          memorable cultural exchange experience.
+          the enduring legacy of this historically important location and its
+          unique
+
+          place in the region's heritage.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon6b.jpg
