@@ -54,7 +54,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: Wenhai Wetlands Nature Reserve | one-day Ecotour
+      label: Laojun Mountains UNESCO SIte | one-day Ecotour
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
