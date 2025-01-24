@@ -94,7 +94,7 @@ sections:
           critical habitat and its importance to the global biodiversity.
         image:
           type: ImageBlock
-          url: /images/Icon1.jpg
+          url: /images/Icon1C.jpg
           altText: Placeholder image
           elementId: ''
           styles:
