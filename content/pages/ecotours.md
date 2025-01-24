@@ -235,7 +235,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/wenhai2.jpg
+          url: /images/Icon5.jpg
           altText: ''
           elementId: ''
           styles:
