@@ -392,7 +392,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: uiyo
+        title: ''
         subtitle: ''
         text: >+
           Embark on a rewarding hike with a local conservationist, following a
