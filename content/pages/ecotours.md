@@ -335,6 +335,184 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: One-Day Ecotours
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Jade Dragon's Hidden Trails
+        tagline: 1 Day | Off-the-beaten-path
+        subtitle: from $192 to $242 per person
+        text: >
+          Escape the tourist crowds in Yunnan on this ecotour, discovering
+          hidden gems like Tibetan temples and untouched wetlands. Immerse
+          yourself in Yi villages, hike in Jade Dragon Snow Mountain Nature
+          Reserve, and explore Baisha Village. Experience authentic culture and
+          unspoiled nature far away from the beaten path.
+        image:
+          type: ImageBlock
+          url: /images/yulong2.jpg
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /ecotours/jade-dragon-snow-mountain
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
+            margin:
+              - ml-1
+              - mr-1
+      - type: FeaturedItem
+        title: Wenhai Tea & Horse Road
+        tagline: 1 Day | Off-the-beaten-path
+        subtitle: from $192 to $242 per person
+        text: >+
+          <div style="text-align: left">Escape to Wenhai
+
+          Sanctuary and discover its hidden beauty. Explore pristine wetlands
+          with a
+
+          conservationist, observe unique alpine biodiversity, and immerse
+          yourself in
+
+          Naxi culture. Hike to Tiger Cave for stunning views and explore the
+          UNESCO heritage
+
+          of Baisha Village. An enriching eco-cultural adventure awaits in
+          Yunnan!
+
+
+
+
+          </div>
+
+        image:
+          type: ImageBlock
+          url: /images/wenhai2.jpg
+          altText: ''
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /ecotours/wenhai
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
+            margin:
+              - ml-1
+              - mr-1
+      - type: FeaturedItem
+        title: The Living Waters of Lashi
+        tagline: 1 Day | Off-the-beaten-path
+        subtitle: from $192 to $242 per person
+        text: >+
+          Discover the wonders of Lashi Wetlands and the surrounding landscapes.
+          Explore vital ecosystems, learn
+
+          about conservation efforts, observe unique biodiversity, and immerse
+          yourself
+
+          in local Naxi and Yi cultures. Enjoy stunning cliff hikes and
+          authentic village
+
+          experiences, making it a memorable ecotour of Yunnan.
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/baima2.jpg
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /ecotours/lashi
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
+            margin:
+              - ml-1
+              - mr-1
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-1
+          - pr-1
+        justifyContent: center
+        margin:
+          - mt-0
+      subtitle:
+        textAlign: center
+        fontWeight: 700
   - type: GenericSection
     title:
       type: TitleBlock
