@@ -269,7 +269,7 @@ sections:
         text: "Delve into the fascinating world of **Himalayan bee-keeping**, a unique local tradition.\nDiscover sustainable practices, learn about the bees' vital role, and savor the\nexquisite taste of pure, locally sourced honey.\n\n\n\n\n\n\n\n\n\n\_\n"
         image:
           type: ImageBlock
-          url: /images/Icon6.jpg
+          url: /images/LJ-icon7.jpg
           altText: Placeholder text
           elementId: ''
           styles:
