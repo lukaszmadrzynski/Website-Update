@@ -165,7 +165,7 @@ sections:
           picturesque photo opportunities.
         image:
           type: ImageBlock
-          url: /images/Icon4.jpg
+          url: /images/DY-icon4.jpg
           altText: Placeholder text
           elementId: ''
           styles:
