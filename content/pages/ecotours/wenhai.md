@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Wenhai Sanctuary Ecotour
+title: Laojun's Wild Heart Ecotour
 sections:
   - type: GenericSection
     title:
