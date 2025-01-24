@@ -433,14 +433,21 @@ sections:
       - type: FeaturedItem
         title: gfdf
         subtitle: ''
-        text: >
-          Venture into pristine forests and spot some of the **world's rarest
-          birds** a local
+        text: >+
+          Immerse yourself in the authentic **daily life of the Lisu minority**
+          in Liju village.
 
-          bird watching station. Learn from passionate conservationists about
-          their vital
+          Experience their warm hospitality, learn about their sustainable way
+          of living,
 
-          work protecting these endangered species in this serene bird refuge.
+          and gain insights into a culture deeply connected to nature.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
