@@ -608,7 +608,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Go Deep into Mountains?
+      text: Ready to Go Deep into the Mountains?
       color: text-dark
       styles:
         self:
