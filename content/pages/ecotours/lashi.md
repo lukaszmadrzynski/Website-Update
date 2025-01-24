@@ -192,7 +192,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon4.jpg
+          url: /images/LS-icon4.jpg
           altText: Placeholder text
           elementId: ''
           styles:
