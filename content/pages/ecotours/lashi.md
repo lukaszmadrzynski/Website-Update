@@ -155,24 +155,26 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Immerse yourself in the natural beauty of the Lashi Wetland
+        text: >
 
-          Reserve, observing the diverse array of life that flourishes there.
-          Identify
+          Venture into the Lashi Wetland Nature Reserve, experiencing its rich
+          tapestry of wildlife and
 
-          unique **birds, plants, and other wildlife**, and understand the
-          importance of
+          flora. Learn to identify unique bird species and native plants,
+          understanding
 
-          protecting this biodiversity hotspot through a firsthand experience of
-          nature.
+          their vital role within this fragile ecosystem, and the importance of
 
-
+          preserving this natural treasure.
 
 
 
 
 
+
+
+
+          .
         image:
           type: ImageBlock
           url: /images/Icon3.jpg
