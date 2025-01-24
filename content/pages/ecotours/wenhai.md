@@ -576,7 +576,7 @@ sections:
           - pl-7
           - pb-7
           - pr-7
-slug: /ecotours/laojun-mountains
+slug: /ecotours/wenhai
 seo:
   type: Seo
   metaTitle: Home - Demo site
