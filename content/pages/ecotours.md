@@ -213,11 +213,24 @@ sections:
         title: Wenhai Tea & Horse Road
         subtitle: from $192 to $242 per person
         text: >+
-          <div style="text-align: left">Journey to Wenhai sanctuary, nestled
-          along the ancient Tea & Horse Road. Explore pristine wetlands and
-          learn from a local conservationist, witness unique biodiversity, and
-          immerse yourself in Naxi culture. Hike, discover heritage, and
-          experience Yunnan's hidden gem!</div>
+          <div style="text-align: left">Escape to Wenhai
+
+          Sanctuary and discover its hidden beauty. Explore pristine wetlands
+          with a
+
+          conservationist, observe unique alpine biodiversity, and immerse
+          yourself in
+
+          Naxi culture. Hike to Tiger Cave for stunning views and explore the
+          UNESCO heritage
+
+          of Baisha Village. An enriching eco-cultural adventure awaits in
+          Yunnan!
+
+
+
+
+          </div>
 
         image:
           type: ImageBlock
