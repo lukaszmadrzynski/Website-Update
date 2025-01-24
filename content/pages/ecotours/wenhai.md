@@ -343,8 +343,20 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Immerse yourself in the vibrant biodiversity of Wenhai Wetland,
+
+          specifically observing the **unique birds and flowers** that thrive in
+          this alpine
+
+          ecosystem. Discover the specialized adaptations of these species to
+          the wetland
+
+          environment, learning about their ecological roles and appreciating
+          the delicate
+
+          balance of nature in this pristine setting.
+
         image:
           type: ImageBlock
           url: /images/Icon3.jpg
