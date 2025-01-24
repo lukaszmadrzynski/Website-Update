@@ -54,7 +54,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: Lashi Wetlands Nature Reserve | one-day Ecotour
+      label: Wenhai Wetlands Nature Reserve | one-day Ecotour
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
