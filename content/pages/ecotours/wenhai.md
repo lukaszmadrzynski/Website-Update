@@ -107,7 +107,7 @@ sections:
           wetland landscape.
         image:
           type: ImageBlock
-          url: /images/Icon1.jpg
+          url: /images/banner 1.jpg
           altText: Placeholder image
           elementId: ''
           styles:
