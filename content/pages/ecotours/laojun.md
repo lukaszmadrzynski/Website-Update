@@ -452,7 +452,7 @@ sections:
           and gain insights into a culture deeply connected to nature.
         image:
           type: ImageBlock
-          url: /images/Icon11.jpg
+          url: /images/LJ-icon11.jpg
           altText: Placeholder text
           elementId: ''
           styles:
