@@ -53,7 +53,7 @@ sections:
             margin:
               - ml-1
               - mr-1
-        tagline: Half-Day | Cultural Heritage
+        tagline: Half-Day | Cultural Heritage Walk
       - type: FeaturedItem
         title: Elephant Hill Treasures
         subtitle: from $38 to $58 per person
