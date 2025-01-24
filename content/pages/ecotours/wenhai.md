@@ -312,7 +312,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: tyfh
+        title: ''
         subtitle: ''
         text: >
           Venture into pristine forests and spot some of the **world's rarest
