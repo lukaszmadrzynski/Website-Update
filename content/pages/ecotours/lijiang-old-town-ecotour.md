@@ -249,7 +249,7 @@ sections:
           and enhancing your cultural experience.
         image:
           type: ImageBlock
-          url: /images/Icon7.jpg
+          url: /images/DY-icon7.jpg
           altText: Placeholder text
           elementId: ''
           styles:
