@@ -1,5 +1,5 @@
 ---
-title: Laojun's Wild Heart Ecotour
+title: Cloud Mountain Ecotours
 slug: /
 sections:
   - type: GenericSection
