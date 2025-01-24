@@ -266,7 +266,7 @@ sections:
           a traditional dinner with the locals. Experience the local Yi culture,
           enjoy
 
-          regional cuisine, and interact with the community in a genuinely
+          local flavors, and interact with the community in a genuinely
           authentic and
 
           memorable cultural exchange experience.
