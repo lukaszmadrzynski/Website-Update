@@ -9,14 +9,26 @@ sections:
       color: text-dark
     subtitle: Where Rivers Meet Mountains
     text: >+
-      Venture into the wild heart of Laojun Mountains, where rivers carve their
-      paths through ancient forests and peaks pierce the sky. This journey takes
-      you from the mighty Yangtze's bend to the hidden valleys and alpine
-      meadows of Laojun. Immerse yourself in the vibrant cultures of the Naxi,
-      Bai, and Lisu people, discover rare birds with expert guides, and learn
-      about the vital conservation efforts that protect this precious landscape.
-      This is more than a tour; it's an unforgettable expedition into the soul
-      of Yunnan.
+      Escape the city and discover the untamed wild beauty of Laojun Mountains.
+      Journey
+
+      through diverse ecosystems, from vibrant wetlands teeming with birdlife to
+
+      ancient forests echoing with local culture. Witness the majestic Yangtze
+
+      River's First Bend, immerse yourself in Naxi, Bai and Lisu minority
+      traditions,
+
+      and learn about local nature conservation efforts. Hike to breathtaking
+      alpine
+
+      meadows, experience a traditional bonfire dance, and taste pure Himalayan
+      honey.
+
+      This immersive adventure offers an authentic connection with nature and
+      culture
+
+      in a stunning corner of China.
 
 
       *   Duration: Two Days
