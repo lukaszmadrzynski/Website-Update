@@ -165,22 +165,15 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Step back in time in charming Shigu Town, a cultural gem of the Naxi
-          minority.
+        text: >
+          Step back in time in charming **Shigu Town**, a cultural gem of the
+          Naxi minority.
 
-          Explore traditional architecture, wander through local markets, and
-          immerse
+          Explore ancient relict of Stone Drum, wander through local markets,
+          and immerse
 
           yourself in the unique customs and heritage of this welcoming
           community.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/Icon3.jpg
