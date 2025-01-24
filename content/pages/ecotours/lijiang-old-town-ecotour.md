@@ -221,7 +221,7 @@ sections:
           lively spirit of Dayan Old Town.
         image:
           type: ImageBlock
-          url: /images/Icon6.jpg
+          url: /images/DY-icon6b.jpg
           altText: Placeholder text
           elementId: ''
           styles:
