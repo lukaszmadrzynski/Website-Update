@@ -117,7 +117,7 @@ sections:
           features, perfect for relaxation and photography.
         image:
           type: ImageBlock
-          url: /images/Icon2.jpg
+          url: /images/DY-icon2b.jpg
           altText: Placeholder image
           elementId: ''
         actions: []
