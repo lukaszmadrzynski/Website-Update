@@ -426,7 +426,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/wenhai2.jpg
+          url: /images/baima2.jpg
           altText: ''
           elementId: ''
           styles:
