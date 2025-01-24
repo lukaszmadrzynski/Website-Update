@@ -146,7 +146,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon1.jpg
+          url: /images/DY-icon2b.jpg
           altText: Placeholder image
           elementId: ''
           styles:
