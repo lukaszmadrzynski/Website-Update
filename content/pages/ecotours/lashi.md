@@ -193,24 +193,10 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Experience the authentic Naxi way of life with a visit to **Nanyao
-
-          Village**, and savor a delicious, locally-sourced lunch at a
-          traditional fish
-
-          farm. Enjoy regional cuisine, interact with the community, and learn
-          about
-
-          sustainable farming practices in a culturally enriching environment,
-          gaining
-
-          insight into local life.
-
-
-
-
-
-
+          Connect with the local Naxi community during a visit to **Nanyao
+          Village**, relishing the authentic flavours of a traditional fish farm
+          lunch. Share in a taste of their culture, their sustainable practices,
+          and the warm hospitality that has been their hallmark for generations.
 
         image:
           type: ImageBlock
