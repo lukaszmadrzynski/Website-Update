@@ -273,7 +273,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/laojun
+            url: /ecotours/lashi
             showIcon: false
             icon: arrowRight
             iconPosition: right
