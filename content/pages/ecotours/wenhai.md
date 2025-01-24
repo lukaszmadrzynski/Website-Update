@@ -93,9 +93,9 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Witness a breathtaking spectacle of nature at Lashi Wetlands Nature
-          Reserve, a vital haven for diverse
+        text: >
+          Witness a breathtaking spectacle of nature at **Lashi Wetlands Nature
+          Reserve**, a vital haven for diverse
 
           waterbirds. Explore this protected reserve, learn about its ecological
 
@@ -103,13 +103,6 @@ sections:
           stunning
 
           wetland landscape.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/Icon1.jpg
