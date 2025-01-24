@@ -82,18 +82,13 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Discover the peaceful ambiance of **Fuguo Tibetan Buddhist Temple**, a
+          Begin your journey by exploring the Lashi Wetlands Nature Reserve, a
+          haven for various water bird
 
-          serene refuge offering a genuine spiritual experience. Explore the
-          temple
+          species. Enjoy the sight of these elegant creatures in their natural
+          habitat,
 
-          grounds, admire the traditional architecture, and immerse yourself in
-          the
-
-          tranquil atmosphere of Tibetan Buddhist practices, a haven of calm
-          away from
-
-          the everyday bustle. 
+          learning about their importance to this delicate ecosystem.
 
 
 
