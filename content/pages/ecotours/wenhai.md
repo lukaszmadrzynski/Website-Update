@@ -280,7 +280,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: fff
+        title: ''
         subtitle: ''
         text: >
           Venture into pristine forests and spot some of the **world's rarest
