@@ -81,8 +81,8 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Visit the Lashi Wetland Park and delve into the heart of its
+        text: >
+          Visit the **Lashi Wetland Park** and delve into the heart of its
 
           ecosystem. Learn about the intricate relationships within the wetland
 
@@ -90,13 +90,6 @@ sections:
           this
 
           critical habitat and its importance to the global biodiversity.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/Icon1.jpg
