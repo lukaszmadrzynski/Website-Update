@@ -193,7 +193,7 @@ sections:
           learning about its cultural significance.
         image:
           type: ImageBlock
-          url: /images/Icon5.jpg
+          url: /images/DY-icon5.jpg
           altText: Placeholder text
           elementId: ''
           styles:
