@@ -194,8 +194,8 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Discover the idyllic beauty of Taohua, a **traditional Bai ethnic
-          group village**. Admire the elegant
+          Discover the idyllic beauty of Taohua, a traditional **Bai ethnic
+          minority village**. Admire the elegant
 
           white pagodas and a historic stone bridge. Immerse yourself in the
           peaceful
