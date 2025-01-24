@@ -241,7 +241,7 @@ sections:
           work protecting these endangered species in this serene bird refuge.
         image:
           type: ImageBlock
-          url: /images/Icon5b.jpg
+          url: /images/Icon5.jpg
           altText: Placeholder text
           elementId: ''
           styles:
