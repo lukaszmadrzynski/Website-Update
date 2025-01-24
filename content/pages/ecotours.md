@@ -477,7 +477,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/baima2.jpg
+          url: /images/img-placeholder.svg
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
