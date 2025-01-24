@@ -7,7 +7,9 @@ sections:
       type: TitleBlock
       text: Laojun's Wild Heart
       color: text-dark
-    subtitle: Where Rivers Meet Mountains
+    subtitle: |-
+      Nature & Culture Deep
+      in the Mountains
     text: >+
       Escape the city and discover the untamed wild beauty of Laojun Mountains.
       Journey
