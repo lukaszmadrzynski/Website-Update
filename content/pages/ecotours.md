@@ -211,7 +211,7 @@ sections:
         tagline: 1 Day | Off-the-beaten-path
       - type: FeaturedItem
         title: Wenhai Tea & Horse Road
-        subtitle: 1 Day | Off-the-beaten-path
+        subtitle: from $192 to $242 per person
         text: >+
           <div style="text-align: left">Journey to Wenhai sanctuary, nestled
           along the ancient Tea & Horse Road. Explore pristine wetlands and
