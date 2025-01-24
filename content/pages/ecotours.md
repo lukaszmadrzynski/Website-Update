@@ -207,7 +207,7 @@ sections:
               - ml-1
               - mr-1
       - type: FeaturedItem
-        title: Laojun's Wild Heart
+        title: Wenhai Sanctuary
         subtitle: 1 Day |
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
