@@ -387,7 +387,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Explore Wenhai?
+      text: Ready to Explore Lashi?
       color: text-dark
       styles:
         self:
