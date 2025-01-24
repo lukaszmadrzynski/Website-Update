@@ -274,7 +274,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon6.jpg
+          url: /images/YL-icon6.jpg
           altText: Placeholder text
           elementId: ''
           styles:
