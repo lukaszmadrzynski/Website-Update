@@ -214,10 +214,22 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Connect with the local Naxi community during a visit to **Nanyao
-          Village**, relishing the authentic flavours of a traditional fish farm
-          lunch. Share in a taste of their culture, their sustainable practices,
-          and the warm hospitality that has been their hallmark for generations.
+          Experience the warm hospitality of the Naxi people with a visit
+
+          to **Wenhai village**. Enjoy a delicious and authentic local lunch at
+          a traditional
+
+          fish farm, savoring regional flavors and learning about Naxi culture
+          and
+
+          sustainable practices directly from the community in a welcoming
+          setting. 
+
+
+
+
+
+
 
         image:
           type: ImageBlock
