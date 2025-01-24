@@ -270,7 +270,7 @@ sections:
           memorable cultural exchange experience.
         image:
           type: ImageBlock
-          url: /images/Icon6b.jpg
+          url: /images/LS-icon6b.jpg
           altText: Placeholder text
           elementId: ''
           styles:
