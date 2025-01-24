@@ -54,7 +54,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: Laojun Mountains UNESCO SIte | one-day Ecotour
+      label: Laojun Mountains UNESCO SIte | Two-day Ecotour
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
