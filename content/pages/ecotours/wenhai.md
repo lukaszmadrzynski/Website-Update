@@ -9,13 +9,22 @@ sections:
       color: text-dark
     subtitle: Along the Ancient Tea & Horse Road
     text: >+
-      Embark on a captivating journey to the Lashi Wetlands, a crucial ecosystem
-      in Yunnan. Explore the wetland park and conservation bureau, understanding
-      the importance of wetland preservation. Observe unique biodiversity in the
-      Lashi Wetland Reserve and immerse yourself in the rich cultural traditions
-      of local Naxi and Yi minorities. Hike to breathtaking Luoma Cliffs for
-      panoramic views and enjoy genuine village experiences with local cuisine,
-      connecting with the region's unique natural beauty and cultural heritage.
+      Embark on an immersive journey to Wenhai
+
+      Sanctuary, a hidden gem along the historic Tea & Horse Road. Explore
+
+      pristine wetlands with a local conservationist, discovering unique alpine
+      birds
+
+      and flowers in this tranquil ecosystem. Immerse yourself in Naxi culture
+      with a
+
+      village visit and local lunch. Hike to the magnificent Tiger Cave for
+
+      breathtaking views of Wenhai Lake and village. Uncover the UNESCO heritage
+      of Baisha
+
+      Village, experiencing Yunnan's rich natural beauty and cultural tapestry.
 
 
 
