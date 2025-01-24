@@ -257,7 +257,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: "Discover the rich history and cultural significance of **Baisha\nVillage**, a part of UNESCO Heritage site. Explore the ancient village, admire\nits traditional architecture, and delve into its fascinating past, appreciating\nthe enduring legacy of this historically important location and its unique\nplace in the region's heritage.\n\n\n\n\n\n\_\n\n\n\n\n\n\n\n"
+        text: "Delve into the fascinating world of **Himalayan bee-keeping**, a unique local tradition.\nDiscover sustainable practices, learn about the bees' vital role, and savor the\nexquisite taste of pure, locally sourced honey.\n\n\n\n\n\n\n\n\n\n\_\n"
         image:
           type: ImageBlock
           url: /images/Icon6.jpg
