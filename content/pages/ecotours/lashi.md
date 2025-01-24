@@ -169,7 +169,7 @@ sections:
           preserving this natural treasure.
         image:
           type: ImageBlock
-          url: /images/Icon3B.jpg
+          url: /images/Icon3C.jpg
           altText: Placeholder image
           elementId: ''
         actions: []
