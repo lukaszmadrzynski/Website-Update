@@ -250,6 +250,7 @@ sections:
             margin:
               - ml-1
               - mr-1
+        tagline: 1 Day | Off-the-beaten-path
       - type: FeaturedItem
         title: Wenhai
         subtitle: 1 Day | Off-the-beaten-path
