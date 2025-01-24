@@ -178,7 +178,7 @@ sections:
           unspoiled nature far away from the beaten path.
         image:
           type: ImageBlock
-          url: /images/yulong2.jpg
+          url: /images/Banner Icon.jpg
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
