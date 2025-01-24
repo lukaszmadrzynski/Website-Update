@@ -154,7 +154,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon2b.jpg
+          url: /images/Banner Icon.jpg
           altText: Placeholder image
           elementId: ''
         actions: []
