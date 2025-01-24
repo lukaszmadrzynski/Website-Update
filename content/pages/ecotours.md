@@ -56,7 +56,7 @@ sections:
         tagline: Half-Day | Cultural Heritage
       - type: FeaturedItem
         title: Elephant Hill Treasures
-        subtitle: 2 Days | Wildlife Experience
+        subtitle: from $38 to $58 per person
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
           Mountain near Lijiang, experiencing diverse ecosystems and stunning
