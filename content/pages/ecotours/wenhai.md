@@ -437,7 +437,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Explore?
+      text: Ready to Visit Wenhai?
       color: text-dark
       styles:
         self:
