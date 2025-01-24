@@ -165,9 +165,6 @@ sections:
           their vital role within this fragile ecosystem, and the importance of
 
           preserving this natural treasure.
-
-
-          .
         image:
           type: ImageBlock
           url: /images/Icon3.jpg
