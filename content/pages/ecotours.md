@@ -254,7 +254,7 @@ sections:
               - mr-1
         tagline: 1 Day | Off-the-beaten-path
       - type: FeaturedItem
-        title: Wenhai Sanctuary
+        title: Living Waters of Lashi
         subtitle: 1 Day |
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
