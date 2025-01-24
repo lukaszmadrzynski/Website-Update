@@ -352,14 +352,24 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Venture into pristine forests and spot some of the **world's rarest
-          birds** a local
+        text: >+
+          Become a citizen scientist! Learn about cutting-edge **biodiversity
+          monitoring**
 
-          bird watching station. Learn from passionate conservationists about
-          their vital
+          techniques, including infrared cameras, and understand vital
+          conservation
 
-          work protecting these endangered species in this serene bird refuge.
+          efforts. Gain hands-on experience and contribute to protecting this
+          unique
+
+          ecosystem.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
