@@ -247,7 +247,7 @@ sections:
               - pr-4
             borderRadius: x-large
             flexDirection: col
-            justifyContent: flex-start
+            justifyContent: center
             textAlign: left
             margin:
               - ml-1
