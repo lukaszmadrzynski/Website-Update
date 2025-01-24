@@ -349,12 +349,24 @@ sections:
         title: Laojun's Wild Heart
         tagline: 1 Day | Off-the-beaten-path
         subtitle: from $313 to $458 per person
-        text: >
-          Escape the tourist crowds in Yunnan on this ecotour, discovering
-          hidden gems like Tibetan temples and untouched wetlands. Immerse
-          yourself in Yi villages, hike in Jade Dragon Snow Mountain Nature
-          Reserve, and explore Baisha Village. Experience authentic culture and
-          unspoiled nature far away from the beaten path.
+        text: >+
+          Unleash your adventurous spirit in Laojun Mountains! Unveil stunning
+          landscapes, rare
+
+          birds, and unique minority cultures. Hike through pristine nature,
+          witness
+
+          iconic views of the Yangtze, and experience authentic local
+          traditions.
+
+          Discover China's wild beauty and contribute to responsible travel.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/yulong2.jpg
