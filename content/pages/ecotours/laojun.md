@@ -298,7 +298,7 @@ sections:
           and create lasting memories of cultural exchange under the stars.
         image:
           type: ImageBlock
-          url: /images/Icon5b.jpg
+          url: /images/Icon7.jpg
           altText: Placeholder text
           elementId: ''
           styles:
