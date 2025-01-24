@@ -420,7 +420,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon10a.jpg
+          url: /images/LJ-icon10a.jpg
           altText: Placeholder text
           elementId: ''
           styles:
