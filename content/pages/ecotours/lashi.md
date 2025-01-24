@@ -214,17 +214,25 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Embark on an invigorating hike through lush forests leading to the
+        text: >+
+          Undertake a short but memorable trek through the forests to the
+          dramatic **Luoma Cliffs**,
 
-          magnificent **Tiger Cave**. From this stunning vantage point, enjoy
-          panoramic views
+          where sweeping views of the surrounding landscape await. Enriched by
+          insights
 
-          overlooking the picturesque Wenhai Lake and the charming village
-          below. 
+          into local forest biodiversity and conservation, this hike also serves
+          as an
 
-          Hear stories and learn more about this important stop at the ancient
-          Tea & Horse Road.
+          opportunity to witness the powerful forces of nature shaping the
+          region.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
