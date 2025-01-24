@@ -96,7 +96,7 @@ sections:
               - ml-1
               - mr-1
       - type: FeaturedItem
-        title: Ancient Tea & Horse Road
+        title: Migratory Birds of Zhongji
         subtitle: 1 Day | Off-the-beaten-path
         text: >+
           <div style="text-align: left">Embark on a challenging yet rewarding
