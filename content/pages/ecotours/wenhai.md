@@ -314,14 +314,20 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Venture into pristine forests and spot some of the **world's rarest
-          birds** a local
+        text: >+
+          Awaken your senses on an enchanting **night walk through a primeval
+          forest**. Discover the
 
-          bird watching station. Learn from passionate conservationists about
-          their vital
+          hidden wonders of nocturnal wildlife, experience the forest's mystical
 
-          work protecting these endangered species in this serene bird refuge.
+          ambiance, and connect with nature in a unique and thrilling way.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
