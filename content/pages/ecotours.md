@@ -248,7 +248,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
             justifyContent: flex-start
-            textAlign: center
+            textAlign: left
             margin:
               - ml-1
               - mr-1
