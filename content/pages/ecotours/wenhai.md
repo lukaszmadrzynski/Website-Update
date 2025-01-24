@@ -18,23 +18,22 @@ sections:
       experiencing Yunnan's rich natural beauty and cultural tapestry.
 
 
+      *   Duration: Two Days
 
-      *   Duration: One Day (Approximately 11 hours)
 
-
-      *   Location: Wenhai Wetlands Nature Reserve
+      *   Location: Laojun Mountains UNESCO Natural Heritage Site
 
 
       *   Activity Level: Moderate
 
 
-      *   Altitudes: 2400 - 3250 m
+      *   Altitudes: 2400 - 3100 m
 
 
-      *   Walking Distance: 8-9 km
+      *   Hiking Distance: no more than 8-9 km per day
 
 
-      *   Price: **from** **USD242.00 to USD192.00 Per Person** (based on group
+      *   Price: **from** **USD458.00 to USD313.00 Per Person** (based on group
       sizes of 2 and 6 people)
 
     actions:
