@@ -197,7 +197,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Shigu
+        title: ''
         subtitle: ''
         text: >+
           Step back in time in charming **Shigu Town**, a cultural gem of the
