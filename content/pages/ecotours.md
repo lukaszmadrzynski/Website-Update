@@ -254,7 +254,7 @@ sections:
               - mr-1
         tagline: 1 Day | Off-the-beaten-path
       - type: FeaturedItem
-        title: Living Waters of Lashi
+        title: The Living Waters of Lashi
         subtitle: from $192 to $242 per person
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
