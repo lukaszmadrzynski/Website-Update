@@ -207,7 +207,7 @@ sections:
               - ml-1
               - mr-1
       - type: FeaturedItem
-        title: Laojun
+        title: Laojun's Wild Heart
         subtitle: 2 Days | Wildlife Experience
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
