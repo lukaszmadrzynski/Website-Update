@@ -8,7 +8,7 @@ sections:
       text: Laojun's Wild Heart
       color: text-dark
     subtitle: |-
-      Nature & Culture Deep
+      Unique Nature & Culture Deep
       in the Mountains
     text: >+
       Escape the city and discover the untamed wild beauty of Laojun Mountains.
