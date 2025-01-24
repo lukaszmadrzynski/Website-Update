@@ -282,14 +282,21 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Venture into pristine forests and spot some of the **world's rarest
-          birds** a local
+        text: >+
+          Immerse yourself in the vibrant culture of the Lisu minority through
+          an unforgettable bonfire dance
 
-          bird watching station. Learn from passionate conservationists about
-          their vital
+          and music experience. Join in the festivities, connect with local
+          traditions,
 
-          work protecting these endangered species in this serene bird refuge.
+          and create lasting memories of cultural exchange under the stars.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
