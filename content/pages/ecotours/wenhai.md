@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Living Waters of Lashi
+      text: Wenhai Sanctuary
       color: text-dark
     subtitle: An Ecotour of Biodiversity Conservation & Ethnic Culture
     text: >+
