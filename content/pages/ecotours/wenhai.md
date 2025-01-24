@@ -321,7 +321,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon6b.jpg
+          url: /images/Icon6.jpg
           altText: Placeholder text
           elementId: ''
           styles:
