@@ -369,7 +369,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/yulong2.jpg
+          url: /images/banner2.jpg
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
