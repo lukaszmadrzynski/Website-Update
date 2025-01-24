@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: 'Wenhai Sanctuary: Along the Ancient Tea & Horse Road'
+title: Wenhai Sanctuary Ecotour
 sections:
   - type: GenericSection
     title:
