@@ -356,15 +356,16 @@ sections:
 
       *   English-speaking guide.
 
-      *   Entrance fees to Black dragon Pool Park.
+      *   Tickets to Black Dragon Pool Park.
+
+      *   Travel insurance.
+
 
       **What’s Not Included:**
 
       *   Personal expenses (souvenirs, snacks).
 
       *   Gratuities for the guide.
-
-      *   Travel insurance.
 
       **Ecotour Time:**
 
