@@ -465,14 +465,21 @@ sections:
       - type: FeaturedItem
         title: gfdf
         subtitle: ''
-        text: >
-          Venture into pristine forests and spot some of the **world's rarest
-          birds** a local
+        text: >+
+          Marvel at an **immense spruce tree**, a natural wonder steeped in
+          local lore. Walk inside its
 
-          bird watching station. Learn from passionate conservationists about
-          their vital
+          hollow trunk, discover its cultural significance, and capture a truly
+          unique
 
-          work protecting these endangered species in this serene bird refuge.
+          photo opportunity within this ancient giant.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
