@@ -535,7 +535,16 @@ sections:
       *   English-speaking guide (Lynne Lyu or Lukasz Madrzynski).
 
 
-      *   Local guide.
+      *   Local guides.
+
+
+      *   Local traditional food.
+
+
+      *   Comfortable accomodation.
+
+
+      *   Private transportation.
 
 
       *   Outdoor travel insurance.
