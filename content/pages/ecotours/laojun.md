@@ -149,6 +149,9 @@ sections:
           url: /images/Icon1.jpg
           altText: Placeholder image
           elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
