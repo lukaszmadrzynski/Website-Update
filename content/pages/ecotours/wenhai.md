@@ -81,14 +81,24 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Begin your journey by exploring the **Lashi Wetlands Nature Reserve**,
-          a haven for various water bird
+        text: >+
+          Begin your journey at the **Lashi Wetlands Nature Reserve**, a crucial
+          habitat for
 
-          species. Enjoy the sight of these elegant creatures in their natural
-          habitat,
+          diverse water bird species. Observe these elegant creatures in their
+          natural
 
-          learning about their importance to this delicate ecosystem.
+          environment, learning about their importance to this delicate and
+          thriving
+
+          ecosystem.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon1.jpg
