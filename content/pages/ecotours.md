@@ -98,7 +98,7 @@ sections:
         tagline: Half-Day | Biodiversity Hike
       - type: FeaturedItem
         title: "Zhongji\_Migratory Birds"
-        subtitle: 1 Day | Off-the-beaten-path
+        subtitle: from $38 to $58 per person
         text: >+
           <div style="text-align: left">Embark on a challenging yet rewarding
           trek on Jade Dragon Snow Mountain near Lijiang, experiencing diverse
