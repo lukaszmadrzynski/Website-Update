@@ -402,7 +402,7 @@ sections:
               - mr-1
       - type: FeaturedItem
         title: Yunnan Snub-nosed Monkey
-        tagline: 1 Day | Off-the-beaten-path
+        tagline: 2 Days | Endangered Species Conservation
         subtitle: from $192 to $242 per person
         text: >+
           <div style="text-align: left">Escape to Wenhai
