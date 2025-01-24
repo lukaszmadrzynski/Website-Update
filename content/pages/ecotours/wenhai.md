@@ -123,16 +123,21 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Explore the pristine **Wenhai Wetland Nature Reserve** alongside a
-          knowledgeable local
+        text: >+
+          Embark on a short hike to a spectacular viewpoint overlooking the
+          First Bend of the Yangtze
 
-          conservationist. Learn about the delicate alpine wetland ecosystem and
-          its relationship with the Naxi ethnic Culture. Gain insights into
+          River, an unforgettable panorama showcasing the immense scale and
+          dramatic
 
-          conservation efforts in this biodiversity hotspot, experiencing nature
+          beauty of this natural landmark.
 
-          firsthand.
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon2.jpg
