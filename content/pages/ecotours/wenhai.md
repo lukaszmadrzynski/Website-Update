@@ -169,11 +169,11 @@ sections:
           Step back in time in charming **Shigu Town**, a cultural gem of the
           Naxi minority.
 
-          Explore ancient relict of Stone Drum, wander through local markets,
-          and immerse
+          Discover the ancient relict of Stone Drum, wander through local
+          market, and immerse
 
-          yourself in the unique customs and heritage of this welcoming
-          community.
+          yourself in the unique history of this quaint little town that played
+          a big role during the Long March .
         image:
           type: ImageBlock
           url: /images/Icon3.jpg
