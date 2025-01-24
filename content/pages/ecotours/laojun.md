@@ -571,8 +571,8 @@ sections:
       *   We will pick you up at your hotel in Lijiang at 9:00 AM.
 
 
-      *   After the ecotour, we will send you back to your hotel at around 8:00
-      PM.
+      *   After the ecotour, we will send you back to your Lijiang hotel at
+      around 8:00 PM.
 
 
       **What to Bring:**
