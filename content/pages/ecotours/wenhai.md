@@ -174,45 +174,6 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Immerse yourself in the vibrant biodiversity of Wenhai Wetland,
-
-          specifically observing the **unique birds and flowers** that thrive in
-          this alpine
-
-          ecosystem. Discover the specialized adaptations of these species to
-          the wetland
-
-          environment, learning about their ecological roles and appreciating
-          the delicate
-
-          balance of nature in this pristine setting. 
-
-
-
-
-
-
-
-        image:
-          type: ImageBlock
-          url: /images/Icon3.jpg
-          altText: Placeholder image
-          elementId: ''
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: >+
           Experience the warm hospitality of the Naxi people with a visit
 
           to **Wenhai village**. Enjoy a delicious and authentic local lunch at
