@@ -82,18 +82,18 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Discover the peaceful ambiance of **Fuguo Tibetan Buddhist Temple**, a
+          Visit the Lashi Wetland Park and delve into the heart of its
 
-          serene refuge offering a genuine spiritual experience. Explore the
-          temple
+          ecosystem. Learn about the intricate relationships within the wetland
 
-          grounds, admire the traditional architecture, and immerse yourself in
-          the
+          environment, understanding the delicate balance of flora and fauna in
+          this
 
-          tranquil atmosphere of Tibetan Buddhist practices, a haven of calm
-          away from
+          critical habitat and its importance to the global biodiversity.
 
-          the everyday bustle. 
+
+
+
 
 
 
