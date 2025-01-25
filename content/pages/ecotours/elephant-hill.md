@@ -189,7 +189,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/DY-icon3.jpg
+          url: /images/XS-Icon3.jpg
           altText: Placeholder image
           elementId: ''
         actions: []
