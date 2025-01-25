@@ -394,10 +394,21 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Engage with local vendors at **Zhongyi Market**, where you can
-          discover authentic crafts and sample delicious local delicacies,
-          experiencing the bustling energy of daily life in Lijiang.
+        text: >+
+          Enter the **miniature world of insects**, a realm of hidden wonders!
+          Observe delicate butterflies, busy beetles
+
+          and countless other fascinating invertebrates that play vital roles in
+          this
+
+          thriving ecosystem.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/DY-icon9.jpg
