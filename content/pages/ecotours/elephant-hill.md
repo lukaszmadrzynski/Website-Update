@@ -9,15 +9,27 @@ sections:
       color: text-dark
     subtitle: A Cultural Walk Through Lijiang’s Historic Heart
     text: >+
-      Embark on a captivating private ecotour that immerses you in the rich
-      heritage and vibrant culture of Naxi ethnic group. Begin your journey with
-      a convenient pick-up, followed by visits to historical sites and serene
-      parks that showcase the region’s biodiveristy and cultural significance.
-      Stroll through lively streets filled with local crafts and flavors, while
-      exploring architectural gems that reflect the unique traditions of the
-      Naxi people. This experience beautifully intertwines history, culture, and
-      nature, offering an unforgettable glimpse into one of China’s most
-      enchanting destinations.
+      Escape the crowds and immerse yourself in pristine nature just outside
+      Lijiang! Our ecotour unveils a peaceful
+
+      haven of biodiversity, a protected water source. Discover rare orchids,
+      unique
+
+      plants like Ghost Pipes, and vibrant birdlife including pheasants and
+
+      woodpeckers. Spot cute squirrels and maybe even a muntjac! Explore Naxi
+
+      minority tombs, learn about medicinal plants and fungi with a local
+      expert.
+
+      Reach the Top Pagoda for stunning Lijiang and Jade Dragon Snow Mountain
+      views,
+
+      and conclude at the iconic Black Dragon Pool Park. An unforgettable nature
+      experience
+
+      awaits!
+
 
 
       *   Duration: Half-Day (Approximately 4 hours)
