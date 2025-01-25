@@ -207,11 +207,17 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Unlock nature's ancient remedies! Explore plants with time-honored
-          medicinal secrets, used by locals
+          Encounter nature's curiosities. Marvel at **bizarre and intriguing
+          plants** like the ghostly Ghost Pipes, sticky
 
-          for generations. Your guide will reveal their fascinating stories and
-          connect you to this **living herbal pharmacy**.
+          Shield Sundew, and elusive Chamaegastrodia. Prepare to be amazed by
+          the
+
+          ingenuity of the plant kingdom.
+
+
+
+
 
 
 
