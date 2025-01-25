@@ -245,11 +245,21 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          **Let birdsongs be your soundtrack.** Listen closely and you might
-          hear a striking Grey Woodpecker. Look carefully and you might glimpse
-          the colorful Lady Amherst's Pheasant. Nature's symphony and vibrant
-          beauty await the sensitive ear and observant eye.
+        text: >+
+          Unlock the secrets of **nature's pharmacy**. Explore plants
+          traditionally used for healing and well-being. Your
+
+          guide will reveal fascinating stories and local knowledge of these
+          time-honored
+
+          medicinal treasures.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/DY-icon5.jpg
