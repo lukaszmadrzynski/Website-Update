@@ -355,10 +355,21 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Admire the grandeur of **Mufu Palace** from the outside, an
-          architectural gem that showcases Naxi influences and serves as a
-          reminder of Lijiang’s royal heritage.
+        text: >+
+          Step back in time amongst old Naxi minority tombs nestled within the
+          tranquil forest. Connect with **local
+
+          history and culture** as you discover these intriguing relics hidden
+          in nature's
+
+          embrace.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/DY-icon8.jpg
