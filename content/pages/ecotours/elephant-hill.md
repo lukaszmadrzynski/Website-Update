@@ -591,7 +591,17 @@ sections:
 
       *   Morning Sessions starts at 8:00 AM and finish around 1:00 PM.
 
-      *   Afternoon Sessions start at 2:00 PM and finish around 6:00 PM
+      *   Afternoon Sessions start at 2:00 PM and finish around 6:00 PM.
+
+
+
+
+
+
+
+
+
+
 
 
 
