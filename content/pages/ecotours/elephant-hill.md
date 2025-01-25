@@ -99,13 +99,12 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Leave the city stress behind and breathe deeply in the forest.
-          **Stroll through peaceful woods**, maybe share a
+          Escape the crowds and reconnect
 
-          smile with local herders and mushroom hunters, and feel the simple joy
-          of
+          with nature on a **peaceful forest walk**. Breathe fresh air and
+          occasionally meet
 
-          nature and human connection. 
+          friendly locals foraging for mushrooms or pasturing their animals.
 
 
 
