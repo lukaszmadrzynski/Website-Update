@@ -431,7 +431,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: fgf
+        title: ''
         subtitle: ''
         text: >+
           Reach the summit and be rewarded with **breathtaking panoramic
