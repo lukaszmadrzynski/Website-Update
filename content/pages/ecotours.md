@@ -178,7 +178,7 @@ sections:
           unspoiled nature far away from the beaten path.
         image:
           type: ImageBlock
-          url: /images/LS-Banner Icon1.jpg
+          url: /images/YL-Banner Icon 5.jpg
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
