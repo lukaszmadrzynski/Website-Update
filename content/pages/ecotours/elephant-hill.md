@@ -342,7 +342,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: LIJIANG OLD TOWN | HALF-DAY ECOTOUR
+      label: ELEPHANT HILL | HALF-DAY ECOTOUR
       color: text-primary
       styles:
         self:
