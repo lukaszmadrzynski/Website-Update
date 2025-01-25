@@ -173,13 +173,13 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          **Discover nature's quirky side!** Meet the Ghost Pipes, like
-          something from a fairy tale, the sticky Shield
+          Enhance your hike with the insights of a passionate **local
+          biodiversity exper**t. Gain in-depth knowledge
 
-          Sundew, and the mysterious Chamaegastrodia. These aren't your everyday
-          plants –
+          about the ecosystem, making your nature walk both educational and
+          deeply
 
-          prepare to be amazed by nature's ingenuity!
+          enriching.
 
 
 
