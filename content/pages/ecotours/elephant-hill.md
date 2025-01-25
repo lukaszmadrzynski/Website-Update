@@ -316,10 +316,21 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Cross the charming **Big Stone Bridge**, adorned with plants,
-          providing a scenic connection between different parts of the old town
-          and enhancing your cultural experience.
+        text: >+
+          Keep your eyes peeled for **adorable forest residents.** Playful
+          squirrels dart through trees, while curious
+
+          treeshrews may peek out. With luck, you might even glimpse a shy
+          muntjac deer
+
+          in its natural habitat.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/DY-icon7.jpg
