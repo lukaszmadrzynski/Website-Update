@@ -207,10 +207,15 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Visit the iconic **Big Water Wheel**, a symbol of Lijiang that
-          showcases traditional water management practices and offers
-          picturesque photo opportunities.
+        text: >+
+          Unlock nature's ancient remedies! Explore plants with time-honored
+          medicinal secrets, used by locals
+
+          for generations. Your guide will reveal their fascinating stories and
+          connect you to this **living herbal pharmacy**.
+
+
+
         image:
           type: ImageBlock
           url: /images/DY-icon4.jpg
