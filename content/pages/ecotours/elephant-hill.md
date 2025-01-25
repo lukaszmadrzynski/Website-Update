@@ -5,7 +5,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Elephant Hill Biodiveristy Hike
+      text: |-
+        Forgotten Forest of Elephant
+        Hill
       color: text-dark
     subtitle: A Cultural Walk Through Lijiang’s Historic Heart
     text: >+
