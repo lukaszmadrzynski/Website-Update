@@ -502,14 +502,21 @@ sections:
       - type: FeaturedItem
         title: jhfdj
         subtitle: ''
-        text: >
-          Venture into pristine forests and spot some of the **world's rarest
-          birds** a local
+        text: >+
+          Conclude your nature immersion with a serene stroll through **Black
+          Dragon Pool Park**. Reflect on your forest
 
-          bird watching station. Learn from passionate conservationists about
-          their vital
+          discoveries amidst classic Chinese gardens and tranquil waters, a
+          perfect
 
-          work protecting these endangered species in this serene bird refuge.
+          peaceful ending.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
