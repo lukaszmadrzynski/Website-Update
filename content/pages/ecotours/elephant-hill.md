@@ -262,7 +262,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/DY-icon5.jpg
+          url: /images/XS-Icon5.jpg
           altText: Placeholder text
           elementId: ''
           styles:
