@@ -368,7 +368,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/XS-Icon8.jpg
+          url: /images/XS-Icon8b.jpg
           altText: Placeholder text
           elementId: ''
           styles:
