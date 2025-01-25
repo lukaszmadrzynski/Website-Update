@@ -56,7 +56,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: Lijiang Old town | half-day Ecotour
+      label: Elephant Hill | half-day Ecotour
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
