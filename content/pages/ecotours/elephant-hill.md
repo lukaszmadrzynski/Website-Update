@@ -284,10 +284,21 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Immerse yourself in the vibrant atmosphere of **Square Street**, lined
-          with shops, eateries, and traditional Naxi buildings, capturing the
-          lively spirit of Dayan Old Town.
+        text: >+
+          Let birdsongs be your guide as you spot flashes of vibrant colour.
+          Listen for the distinctive sounds of Grey Woodpeckers
+
+          and look out for the striking plumage of Lady Amherst's pheasant. A
+          real treat for bird lovers
+
+          and nature enthusiasts.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/DY-icon6b.jpg
