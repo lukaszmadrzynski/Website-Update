@@ -289,9 +289,7 @@ sections:
           Listen for the distinctive sounds of Grey Woodpeckers
 
           and look out for the striking plumage of Lady Amherst's pheasant. A
-          **real treat for bird lovers**
-
-          and nature enthusiasts.
+          **real treat for bird lovers**.
         image:
           type: ImageBlock
           url: /images/XS-Icon6.jpg
