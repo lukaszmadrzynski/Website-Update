@@ -446,7 +446,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/DY-icon9.jpg
+          url: /images/XS-Icon10.jpg
           altText: Placeholder text
           elementId: ''
           styles:
