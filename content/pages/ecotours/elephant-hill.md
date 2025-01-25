@@ -356,13 +356,11 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Step back in time amongst old Naxi minority tombs nestled within the
-          tranquil forest. Connect with **local
+          Reach the summit and be rewarded with **breathtaking panoramic
+          views**! Gaze upon Lijiang city
 
-          history and culture** as you discover these intriguing relics hidden
-          in nature's
-
-          embrace.
+          sprawling below, framed by the majestic, snow-capped Jade Dragon Snow
+          Mountain.
 
 
 
@@ -372,7 +370,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/DY-icon8.jpg
+          url: /images/Icon5b.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -395,11 +393,13 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Reach the summit and be rewarded with **breathtaking panoramic
-          views**! Gaze upon Lijiang city
+          Step back in time amongst old Naxi minority tombs nestled within the
+          tranquil forest. Connect with **local
 
-          sprawling below, framed by the majestic, snow-capped Jade Dragon Snow
-          Mountain.
+          history and culture** as you discover these intriguing relics hidden
+          in nature's
+
+          embrace.
 
 
 
@@ -409,7 +409,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon5b.jpg
+          url: /images/DY-icon8.jpg
           altText: Placeholder text
           elementId: ''
           styles:
