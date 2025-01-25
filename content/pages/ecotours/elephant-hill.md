@@ -333,7 +333,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/DY-icon7.jpg
+          url: /images/XS-Icon7.jpg
           altText: Placeholder text
           elementId: ''
           styles:
