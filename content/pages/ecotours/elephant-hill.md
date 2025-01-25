@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Naxi Heritage Trail
+      text: Elephant Hill Biodiveristy Hike
       color: text-dark
     subtitle: A Cultural Walk Through Lijiang’s Historic Heart
     text: >+
