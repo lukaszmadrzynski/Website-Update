@@ -223,7 +223,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/DY-icon4.jpg
+          url: /images/XS-Icon4.jpg
           altText: Placeholder text
           elementId: ''
           styles:
