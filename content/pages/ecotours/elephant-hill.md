@@ -241,9 +241,10 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Explore **Wenchang Palace**, a historical site that reflects Naxi
-          educational traditions, and admire its architectural beauty while
-          learning about its cultural significance.
+          **Let birdsongs be your soundtrack.** Listen closely and you might
+          hear a striking Grey Woodpecker. Look carefully and you might glimpse
+          the colorful Lady Amherst's Pheasant. Nature's symphony and vibrant
+          beauty await the sensitive ear and observant eye.
         image:
           type: ImageBlock
           url: /images/DY-icon5.jpg
