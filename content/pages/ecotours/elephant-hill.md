@@ -433,14 +433,19 @@ sections:
       - type: FeaturedItem
         title: fgf
         subtitle: ''
-        text: >
-          Venture into pristine forests and spot some of the **world's rarest
-          birds** a local
+        text: >+
+          Reach the summit and be rewarded with **breathtaking panoramic
+          views**! Gaze upon Lijiang city
 
-          bird watching station. Learn from passionate conservationists about
-          their vital
+          sprawling below, framed by the majestic, snow-capped Jade Dragon Snow
+          Mountain.
 
-          work protecting these endangered species in this serene bird refuge.
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
