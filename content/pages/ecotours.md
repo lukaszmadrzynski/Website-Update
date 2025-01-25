@@ -64,7 +64,7 @@ sections:
           Yunnan peak, a highlight of ecotourism in the region.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/XS-Banner Icon.jpg
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
