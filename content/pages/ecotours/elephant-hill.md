@@ -173,10 +173,21 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Wander through the ancient streets of **Dayan Old Town**, a UNESCO
-          World Heritage site known for its well-preserved architecture and rich
-          cultural tapestry reflecting Naxi, Han, Tibetan, and Bai influences.
+        text: >+
+          **Discover nature's quirky side!** Meet the Ghost Pipes, like
+          something from a fairy tale, the sticky Shield
+
+          Sundew, and the mysterious Chamaegastrodia. These aren't your everyday
+          plants –
+
+          prepare to be amazed by nature's ingenuity!
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/DY-icon3.jpg
