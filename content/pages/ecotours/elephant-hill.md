@@ -470,14 +470,19 @@ sections:
       - type: FeaturedItem
         title: rye
         subtitle: ''
-        text: >
-          Venture into pristine forests and spot some of the **world's rarest
-          birds** a local
+        text: >+
+          Venture into a **hidden kingdom of fungi**, a world of diverse shapes
+          and colours! Explore the amazing variety of
 
-          bird watching station. Learn from passionate conservationists about
-          their vital
+          mushrooms and toadstools, and learn about their crucial role in forest
+          health.
 
-          work protecting these endangered species in this serene bird refuge.
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
