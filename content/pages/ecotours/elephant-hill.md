@@ -621,7 +621,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Explore the Lijiang Old Town?
+      text: Ready to Explore the Forgotten Forest?
       color: text-dark
       styles:
         self:
