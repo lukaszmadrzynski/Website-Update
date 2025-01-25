@@ -395,6 +395,43 @@ sections:
         title: ''
         subtitle: ''
         text: >+
+          Reach the summit and be rewarded with **breathtaking panoramic
+          views**! Gaze upon Lijiang city
+
+          sprawling below, framed by the majestic, snow-capped Jade Dragon Snow
+          Mountain.
+
+
+
+
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/Icon5b.jpg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: >+
           Enter the **miniature world of insects**, a realm of hidden wonders!
           Observe delicate butterflies, busy beetles
 
@@ -434,43 +471,6 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Reach the summit and be rewarded with **breathtaking panoramic
-          views**! Gaze upon Lijiang city
-
-          sprawling below, framed by the majestic, snow-capped Jade Dragon Snow
-          Mountain.
-
-
-
-
-
-
-
-        image:
-          type: ImageBlock
-          url: /images/Icon5b.jpg
-          altText: Placeholder text
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-            textAlign: left
-      - type: FeaturedItem
-        title: rye
-        subtitle: ''
-        text: >+
           Venture into a **hidden kingdom of fungi**, a world of diverse shapes
           and colours! Explore the amazing variety of
 
@@ -505,7 +505,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: jhfdj
+        title: ''
         subtitle: ''
         text: >+
           Conclude your nature immersion with a serene stroll through **Black
