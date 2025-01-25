@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: 'Naxi Heritage Trail: Lijiang Old Town Ecotour'
+title: Elephant Hill Ecotour
 sections:
   - type: GenericSection
     title:
