@@ -55,7 +55,7 @@ sections:
               - mr-1
         tagline: Half-Day | Cultural Heritage Walk
       - type: FeaturedItem
-        title: Elephant Hill Treasures
+        title: Forgotten Forest of Elephant Hill
         subtitle: from $38 to $58 per person
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
