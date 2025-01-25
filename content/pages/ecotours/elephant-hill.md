@@ -575,7 +575,7 @@ sections:
 
       *   English-speaking guide.
 
-      *   Tickets to Black Dragon Pool Park.
+      *   Entrance to Black Dragon Pool Park.
 
       *   Local traditional snacks.
 
@@ -593,17 +593,7 @@ sections:
 
       *   Afternoon Sessions start at 2:00 PM and finish around 6:00 PM
 
-      **What to Bring:**
 
-      *   Comfortable walking shoes.
-
-      *   Warm layers of clothing.
-
-      *   Sunscreen, sunglasses, and a hat.
-
-      *   Water bottle.
-
-      *   Any necessary personal medications.
 
     actions: []
     media:
