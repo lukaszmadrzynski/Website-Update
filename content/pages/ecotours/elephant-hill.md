@@ -153,7 +153,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/DY-icon2b.jpg
+          url: /images/XS-Icon2.jpg
           altText: Placeholder image
           elementId: ''
         actions: []
