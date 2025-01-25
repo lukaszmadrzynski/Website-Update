@@ -137,13 +137,13 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Step into a **secret garden of wildflowers**! Imagine wandering
-          through a vibrant tapestry of rare blooms,
+          Discover a **secret garden of wildflowers**. Be captivated by a
+          vibrant display of rare blooms, including many
 
-          including many wild species of orchids. It's a feast for your eyes and
-          soul, a chance to
+          wild orchid species. A stunning visual feast and perfect photo
+          opportunity in
 
-          connect with nature's artistry in a truly special place.
+          this unique natural sanctuary.
 
 
 
