@@ -137,10 +137,21 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Stroll through **Black Dragon Pool Park**, known for its stunning
-          views of the Jade Dragon Snow Mountain and its tranquil water
-          features, perfect for relaxation and photography.
+        text: >+
+          Step into a **secret garden of wildflowers**! Imagine wandering
+          through a vibrant tapestry of rare blooms,
+
+          including many wild species of orchids. It's a feast for your eyes and
+          soul, a chance to
+
+          connect with nature's artistry in a truly special place.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/DY-icon2b.jpg
