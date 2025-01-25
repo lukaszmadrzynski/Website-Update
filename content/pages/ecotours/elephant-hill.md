@@ -294,7 +294,7 @@ sections:
           and nature enthusiasts.
         image:
           type: ImageBlock
-          url: /images/DY-icon6b.jpg
+          url: /images/XS-Icon6.jpg
           altText: Placeholder text
           elementId: ''
           styles:
