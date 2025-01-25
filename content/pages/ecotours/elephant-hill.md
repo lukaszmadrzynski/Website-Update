@@ -621,7 +621,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Explore the Forgotten Forest?
+      text: Ready to Hike Through the Forgotten Forest?
       color: text-dark
       styles:
         self:
