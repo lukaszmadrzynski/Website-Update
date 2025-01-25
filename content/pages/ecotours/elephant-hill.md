@@ -9,7 +9,9 @@ sections:
         Forgotten Forest of Elephant
         Hill
       color: text-dark
-    subtitle: A Cultural Walk Through Lijiang’s Historic Heart
+    subtitle: |-
+      A
+      Wild Biodiversity Hotspot in the Heart of Lijiang
     text: >+
       Escape the crowds and immerse yourself in pristine nature just outside
       Lijiang! Our ecotour unveils a peaceful
