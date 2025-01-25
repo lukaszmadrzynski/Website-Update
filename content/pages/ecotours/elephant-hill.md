@@ -14,7 +14,7 @@ sections:
       Wild Biodiversity Hotspot in the Heart of Lijiang
     text: >+
       Escape the crowds and immerse yourself in pristine nature just outside
-      Lijiang! Our ecotour unveils a peaceful
+      Lijiang Old Town! Our ecotour unveils a peaceful
 
       haven of biodiversity, a protected water source. Discover rare orchids,
       unique
