@@ -31,25 +31,24 @@ sections:
       awaits!
 
 
-
       *   Duration: Half-Day (Approximately 4 hours)
 
 
-      *   Location: UNESCO Heritage Sites of Lijiang Dayan Old Town and Black
-      Dragon Pool Park
+      *   Location: Elephant Hill in Black Dragon Pool Water Source Protected
+      Area
 
 
       *   Activity Level: Moderate
 
 
-      *   Altitudes: 2400 - 2450 m
+      *   Altitudes: 2400 - 2700 m
 
 
-      *   Walking Distance: 7-8 km
+      *   Walking Distance: 5-6 km
 
 
-      *   Price: **USD68.00 to USD48.00 Per Person** (based on group size of 2
-      to 6 people)
+      *   Price: **USD58.00 to USD38.00 Per Person** (based on group sizes of 2
+      and 6 people)
 
     actions:
       - type: Button
