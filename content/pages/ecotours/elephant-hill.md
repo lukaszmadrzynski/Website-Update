@@ -573,7 +573,7 @@ sections:
     text: |+
       **What’s Included:**
 
-      *   English-speaking guide.
+      *   English-speaking guides (Lynne and Lukas).
 
       *   Entrance to Black Dragon Pool Park.
 
@@ -585,25 +585,13 @@ sections:
 
       *   Personal expenses (souvenirs, etc.).
 
-      *   Gratuities for the guide.
+      *   Gratuities for the guides.
 
       **Ecotour Time:**
 
       *   Morning Sessions starts at 8:00 AM and finish around 1:00 PM.
 
       *   Afternoon Sessions start at 2:00 PM and finish around 6:00 PM.
-
-
-
-
-
-
-
-
-
-
-
-
 
     actions: []
     media:
