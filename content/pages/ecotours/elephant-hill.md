@@ -98,10 +98,21 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Discover the rich history and cultural significance of the region at
-          the **Lijiang Heritage Museum**, where exhibits highlight the
-          traditions and heritage of the Naxi people.
+        text: >+
+          Leave the city stress behind and breathe deeply in the forest.
+          **Stroll through peaceful woods**, maybe share a
+
+          smile with local herders and mushroom hunters, and feel the simple joy
+          of
+
+          nature and human connection. 
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon.jpg
