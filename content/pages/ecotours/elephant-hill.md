@@ -66,7 +66,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/dayan1.jpg
+      url: /images/XS-Banner.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
