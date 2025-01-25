@@ -54,7 +54,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/Jade Dragon Hero.jpg
+      url: /images/YL-Banner 5.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
