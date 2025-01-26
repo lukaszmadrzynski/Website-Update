@@ -428,7 +428,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/wenhai
+            url: /ecotours/shangri-la
             showIcon: false
             icon: arrowRight
             iconPosition: right
