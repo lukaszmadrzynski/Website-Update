@@ -517,7 +517,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Shangrila Baima Snow Mountain Nature Reserve | TWO-DAY ECOTOUR
+      label: Shangrila Baima Snow Mountain Nature Reserve | TWO-DAY Ecojourney
       color: text-primary
       styles:
         self:
