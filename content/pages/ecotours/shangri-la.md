@@ -399,41 +399,6 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Gain exclusive, behind-the-scenes insights into local conservation
-          efforts with a
-
-          visit to the **Baima Snow Mountain Nature Conservation Bureau**. Learn
-          about the vital and
-
-          multifaceted work being done to protect the rich biodiversity of Baima
-          Snow
-
-          Mountain Nature Reserve and its fragile surrounding ecosystems.
-        image:
-          type: ImageBlock
-          url: /images/LJ-icon9.jpg
-          altText: Placeholder text
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-            textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
         text: >+
           Immerse yourself in the **authentic and traditional countryside
           lifestyle** of local ethnic
@@ -455,6 +420,41 @@ sections:
         image:
           type: ImageBlock
           url: /images/LJ-icon11.jpg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: >
+          Gain exclusive, behind-the-scenes insights into local conservation
+          efforts with a
+
+          visit to the **Baima Snow Mountain Nature Conservation Bureau**. Learn
+          about the vital and
+
+          multifaceted work being done to protect the rich biodiversity of Baima
+          Snow
+
+          Mountain Nature Reserve and its fragile surrounding ecosystems.
+        image:
+          type: ImageBlock
+          url: /images/LJ-icon9.jpg
           altText: Placeholder text
           elementId: ''
           styles:
