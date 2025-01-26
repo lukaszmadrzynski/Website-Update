@@ -511,13 +511,16 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Marvel at an **immense spruce tree**, a natural wonder steeped in
-          local lore. Walk inside its
+          Embark on an unforgettable hike through the ancient **primeval forests
+          of Baima Snow
 
-          hollow trunk, discover its cultural significance, and capture a truly
-          unique
+          Mountain Nature Reserve**. Explore an astonishing wealth of
+          biodiversity,
 
-          photo opportunity within this ancient giant.
+          discover rare and endemic plant and animal species, and immerse
+          yourself in the
+
+          raw, untouched beauty of Yunnan's wilderness.
 
 
 
