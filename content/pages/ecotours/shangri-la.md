@@ -636,7 +636,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Discover Shangri-La?
+      text: Ready to Discover the Tibetan Shangri-La?
       color: text-dark
       styles:
         self:
