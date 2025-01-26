@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Laojun's Wild Heart
       color: text-dark
-    subtitle: Duelve Deeper into the Yunnan Mountains
+    subtitle: Duelve Deeper into the Ancient Mountains of Yunnan
     text: >+
       Escape the city and discover the untamed wild beauty of Laojun Mountains.
       Journey
