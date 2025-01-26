@@ -469,19 +469,18 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Immerse yourself in the **authentic and traditional countryside
-          lifestyle** of local
+          Benefit from the expertise of a knowledgeable English-speaking guide
+          throughout your
 
-          villagers. Observe and learn about their time-honored farming and
-          pasturing practices, gaining
+          ecotour. Enjoy the unique opportunity to meet and **interact with
+          passionate
 
-          a deeper appreciation for their intimate connection to the land and
-          the rhythms
+          conservation professionals**, learning firsthand about their crucial
 
-          of nature in rural Yunnan.
+          on-the-ground work in this region.
         image:
           type: ImageBlock
-          url: /images/LJ-icon11.jpg
+          url: /images/LJ-icon10a.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -504,18 +503,19 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Benefit from the expertise of a knowledgeable English-speaking guide
-          throughout your
+          Immerse yourself in the **authentic and traditional countryside
+          lifestyle** of local
 
-          ecotour. Enjoy the unique opportunity to meet and **interact with
-          passionate
+          villagers. Observe and learn about their time-honored farming and
+          pasturing practices, gaining
 
-          conservation professionals**, learning firsthand about their crucial
+          a deeper appreciation for their intimate connection to the land and
+          the rhythms
 
-          on-the-ground work in this region.
+          of nature in rural Yunnan.
         image:
           type: ImageBlock
-          url: /images/LJ-icon10a.jpg
+          url: /images/LJ-icon11.jpg
           altText: Placeholder text
           elementId: ''
           styles:
