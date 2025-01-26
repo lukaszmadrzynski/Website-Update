@@ -309,7 +309,7 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Experience the magic of observing Yunnan Snub-nosed **Monkeys in their
+          Experience the magic of observing **Yunnan Snub-nosed Monkeys in their
           pristine natural
 
           mountain habitat**. Witness their daily life unfold, learn about their
