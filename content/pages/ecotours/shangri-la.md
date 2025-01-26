@@ -315,26 +315,20 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Gain a comprehensive introduction to the **endangered and captivating
-          Yunnan snub-nosed
+        text: >
+          Gain exclusive, behind-the-scenes insights into local conservation
+          efforts with a
 
-          monkey** at a dedicated exhibition. Learn about their unique physical
+          visit to the **Baima Snow Mountain Nature Conservation Bureau**. Learn
+          about the vital and
 
-          characteristics, their fascinating social behaviors, and the critical
+          multifaceted work being done to protect the rich biodiversity of Baima
+          Snow
 
-          importance of conservation initiatives to safeguard this iconic
-          primate.
-
-
-
-
-
-
-
+          Mountain Nature Reserve and its fragile surrounding ecosystems.
         image:
           type: ImageBlock
-          url: /images/LJ-icon6.jpg
+          url: /images/LJ-icon9.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -356,20 +350,26 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Gain exclusive, behind-the-scenes insights into local conservation
-          efforts with a
+        text: >+
+          Gain a comprehensive introduction to the **endangered and captivating
+          Yunnan snub-nosed
 
-          visit to the **Baima Snow Mountain Nature Conservation Bureau**. Learn
-          about the vital and
+          monkey** at a dedicated exhibition. Learn about their unique physical
 
-          multifaceted work being done to protect the rich biodiversity of Baima
-          Snow
+          characteristics, their fascinating social behaviors, and the critical
 
-          Mountain Nature Reserve and its fragile surrounding ecosystems.
+          importance of conservation initiatives to safeguard this iconic
+          primate.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
-          url: /images/LJ-icon9.jpg
+          url: /images/LJ-icon6.jpg
           altText: Placeholder text
           elementId: ''
           styles:
