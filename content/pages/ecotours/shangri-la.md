@@ -167,23 +167,18 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Immerse yourself in the vibrant atmosphere of **Shigu Naxi Minority
-          Town**'s bustling market. Browse
+        text: >
+          Experience the vibrant and diverse cultures of the **Tibetan and
 
-          colorful stalls overflowing with fresh, natural produce brought by
-          villagers
+          Lisu ethnic minorities**. Explore their unique customs, admire their
 
-          from the surrounding Laojun Mountains, and uncover Ming Dynasty
-          history etched
+          distinctive traditional architecture, feel their warm hospitality, and
+          savor the authentic and flavorful
 
-          into an ancient stone monument. 
-
-
-
+          dishes of their local cuisine.
         image:
           type: ImageBlock
-          url: /images/LJ-icon3.jpg
+          url: /images/LJ-icon8.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -205,18 +200,23 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Experience the vibrant and diverse cultures of the **Tibetan and
+        text: >+
+          Immerse yourself in the vibrant atmosphere of **Shigu Naxi Minority
+          Town**'s bustling market. Browse
 
-          Lisu ethnic minorities**. Explore their unique customs, admire their
+          colorful stalls overflowing with fresh, natural produce brought by
+          villagers
 
-          distinctive traditional architecture, feel their warm hospitality, and
-          savor the authentic and flavorful
+          from the surrounding Laojun Mountains, and uncover Ming Dynasty
+          history etched
 
-          dishes of their local cuisine.
+          into an ancient stone monument. 
+
+
+
         image:
           type: ImageBlock
-          url: /images/LJ-icon8.jpg
+          url: /images/LJ-icon3.jpg
           altText: Placeholder text
           elementId: ''
           styles:
