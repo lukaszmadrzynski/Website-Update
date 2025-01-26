@@ -70,7 +70,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: "Shangri-La Baima Snow Mountain Nature Reserve\_ | Two-day Ecotour"
+      label: "Shangri-La Baima Snow Mountain Nature Reserve\_ | Two-day Ecojourney"
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
