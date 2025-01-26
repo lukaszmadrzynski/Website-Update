@@ -100,7 +100,8 @@ sections:
         text: >
           Experience the vibrant and diverse cultures of the **Tibetan and
 
-          Lisu ethnic minorities**. Explore their unique customs, admire their
+          Lisu ethnic minorities** in their quaint villages and picturesque
+          hamlets. Explore unique customs, admire their
 
           distinctive traditional architecture, feel their warm hospitality, and
           savor the authentic and flavorful
