@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Laojun's Wild Heart
+      text: Yunnan Snub-nosed Monkey Ecojourney
       color: text-dark
     subtitle: Duelve Deeper into the Ancient Mountains of Yunnan
     text: >+
