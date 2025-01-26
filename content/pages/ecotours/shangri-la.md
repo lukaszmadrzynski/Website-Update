@@ -206,19 +206,17 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Visit a **Himalayan bee farm** and meet a passionate local beekeeper.
-          Delve
+          Experience the vibrant and diverse cultures of the **Tibetan and
 
-          into the fascinating world of these unique bees, learn about
-          traditional
+          Lisu ethnic minorities**. Explore their unique customs, admire their
 
-          beekeeping practices, and understand the vital link between nature
-          conservation
+          distinctive traditional architecture, feel their warm hospitality, and
+          savor the authentic and flavorful
 
-          and the sustainable development of local communities.
+          dishes of their local cuisine.
         image:
           type: ImageBlock
-          url: /images/LJ-icon4.jpg
+          url: /images/LJ-icon8.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -241,17 +239,19 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Experience the vibrant and diverse cultures of the **Tibetan and
+          Visit a **Himalayan bee farm** and meet a passionate local beekeeper.
+          Delve
 
-          Lisu ethnic minorities**. Explore their unique customs, admire their
+          into the fascinating world of these unique bees, learn about
+          traditional
 
-          distinctive traditional architecture, feel their warm hospitality, and
-          savor the authentic and flavorful
+          beekeeping practices, and understand the vital link between nature
+          conservation
 
-          dishes of their local cuisine.
+          and the sustainable development of local communities.
         image:
           type: ImageBlock
-          url: /images/LJ-icon8.jpg
+          url: /images/LJ-icon4.jpg
           altText: Placeholder text
           elementId: ''
           styles:
