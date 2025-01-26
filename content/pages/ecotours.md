@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Half-Day Ecotours
+      text: Half-Day Ecotrips
       color: text-dark
       styles:
         self:
