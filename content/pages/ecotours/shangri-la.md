@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Yunnan Snub-nosed Monkey Ecojourney
+      text: Yunnan Snub-nosed Monkey EcoJourney
       color: text-dark
     subtitle: Duelve Deeper into the Ancient Mountains of Yunnan
     text: >+
