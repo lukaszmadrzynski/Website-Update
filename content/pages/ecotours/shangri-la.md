@@ -428,10 +428,10 @@ sections:
         subtitle: ''
         text: >
           Immerse yourself in the **authentic and traditional countryside
-          lifestyle** of local Tibetan and Lisu ethnic
+          lifestyle** of local
 
-          minorities. Observe their time-honored farming and pasturing
-          practices, gaining
+          villagers. Observe their time-honored farming and pasturing practices,
+          gaining
 
           a deeper appreciation for their intimate connection to the land and
           the rhythms
