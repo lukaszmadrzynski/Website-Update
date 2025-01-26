@@ -516,7 +516,7 @@ sections:
           of nature in rural Yunnan.
         image:
           type: ImageBlock
-          url: /images/TC-Icon10.jpg
+          url: /images/TC-Icon1.jpg
           altText: Placeholder text
           elementId: ''
           styles:
