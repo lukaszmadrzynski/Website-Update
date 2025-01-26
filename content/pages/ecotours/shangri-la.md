@@ -403,8 +403,8 @@ sections:
           Gain exclusive, behind-the-scenes insights into local conservation
           efforts with a
 
-          visit to the **Baima Snow Mountain Nature Reserve Conservation
-          Bureau**. Learn about the vital and
+          visit to the **Baima Snow Mountain Nature Conservation Bureau**. Learn
+          about the vital and
 
           multifaceted work being done to protect the rich biodiversity of Baima
           Snow
