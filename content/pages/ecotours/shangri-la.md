@@ -400,16 +400,15 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Become a citizen scientist! Learn about cutting-edge **biodiversity
-          monitoring**
+          Gain exclusive, behind-the-scenes insights into local conservation
+          efforts with a
 
-          techniques, including infrared cameras, and understand vital
-          conservation
+          visit to the Tacheng Conservation Bureau. Learn about the vital and
 
-          efforts. Gain hands-on experience and contribute to protecting this
-          unique
+          multifaceted work being done to protect the rich biodiversity of Baima
+          Snow
 
-          ecosystem.
+          Mountain Nature Reserve and its fragile surrounding ecosystems.
 
 
 
