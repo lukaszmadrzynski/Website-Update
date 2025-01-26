@@ -468,14 +468,24 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Experience the authentic **daily life of the Lisu minority** in Liju
-          village.
+        text: >+
+          Immerse yourself in the **authentic and traditional countryside
+          lifestyle** of local ethnic
 
-          Feel their warm hospitality, learn about their sustainable way of
-          living,
+          minorities. Observe their time-honored farming and pasturing
+          practices, gaining
 
-          and gain insights into a culture deeply connected to nature.
+          a deeper appreciation for their intimate connection to the land and
+          the rhythms
+
+          of nature in rural Yunnan.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/LJ-icon11.jpg
