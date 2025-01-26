@@ -132,24 +132,17 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
+        text: >
           Embark on a rewarding short hike to panoramic viewpoints overlooking
-          the legendary First
+          the legendary **First
 
-          Bend of the Yangtze River and the picturesque Shigu town nestled
+          Bend of the Yangtze River** and the picturesque Shigu town nestled
           below. Capture
 
           iconic photographs and immerse yourself in the dramatic beauty of
           Yunnan's most
 
           breathtaking and geographically significant landscapes.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/LJ-icon2.jpg
