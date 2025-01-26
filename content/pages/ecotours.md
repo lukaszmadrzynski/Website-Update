@@ -269,7 +269,7 @@ sections:
         tagline: 1 Day | Off-the-beaten-path
       - type: FeaturedItem
         title: The Living Waters of Lashi
-        subtitle: from $199 to $242 per person
+        subtitle: from $199 to $251 per person
         text: >+
           Discover the wonders of Lashi Wetlands and the surrounding landscapes.
           Explore vital ecosystems, learn
