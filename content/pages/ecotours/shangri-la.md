@@ -249,7 +249,7 @@ sections:
           breathtaking and geographically significant landscapes.
         image:
           type: ImageBlock
-          url: /images/LJ-icon2.jpg
+          url: /images/TC-Icon7b.jpg
           altText: Placeholder image
           elementId: ''
           styles:
