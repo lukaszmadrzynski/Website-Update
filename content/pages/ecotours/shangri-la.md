@@ -615,7 +615,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Go Deep into the Mountains?
+      text: Ready to Discover Shangri-La?
       color: text-dark
       styles:
         self:
