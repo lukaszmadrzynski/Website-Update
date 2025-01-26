@@ -34,7 +34,6 @@ sections:
       creating lasting memories and supporting sustainable tourism.
 
 
-
       *   Duration: Two Days
 
 
@@ -50,11 +49,9 @@ sections:
       *   Hiking Distance: no more than 8-9 km per day
 
 
-      *   Price: **from** **USD469.00 to USD340.00 Per Person\*** 
-
-
-      \*Based on group sizes of 2 and 6 people. Please [Contact Us](/contact-us)
-      for an exact quote.
+      *   Price: **from** **USD469.00 to USD340.00 Per Person** (Based on group
+      sizes of 2 and 6 people. Please [Contact Us](/contact-us) for an exact
+      quote.)
 
     actions:
       - type: Button
