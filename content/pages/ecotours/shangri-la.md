@@ -205,14 +205,26 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Discover the idyllic beauty of Taohua, a traditional **Bai ethnic
-          minority village**. Admire the elegant
+        text: >+
+          Visit a
 
-          white pagodas and a historic stone bridge. Immerse yourself in the
-          peaceful
+          **traditional Himalayan bee farm** and meet a passionate local
+          beekeeper. Delve
 
-          rhythm of rural life and the rich cultural tapestry of the Bai people.
+          into the fascinating world of these unique bees, learn about
+          traditional
+
+          beekeeping practices, and understand the vital link between nature
+          conservation
+
+          and the sustainable development of local communities.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/LJ-icon4.jpg
