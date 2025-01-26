@@ -426,9 +426,9 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
+        text: >
           Immerse yourself in the **authentic and traditional countryside
-          lifestyle** of local ethnic
+          lifestyle** of local Tibetan and Lisu ethnic
 
           minorities. Observe their time-honored farming and pasturing
           practices, gaining
@@ -437,13 +437,6 @@ sections:
           the rhythms
 
           of nature in rural Yunnan.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/LJ-icon11.jpg
