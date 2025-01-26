@@ -9,45 +9,52 @@ sections:
       color: text-dark
     subtitle: 'Discovering Nature and Culture of the Tibetan Shangri-La '
     text: >+
-      Escape the city and discover the untamed wild beauty of Laojun Mountains.
-      Journey
+      Embark on an unforgettable
 
-      through diverse ecosystems, from vibrant wetlands teeming with birdlife to
+      journey into Shangri-La's pristine wilderness! Discover breathtaking
+      landscapes
 
-      ancient forests echoing with local culture. Witness the majestic Yangtze
+      from vibrant wetlands to ancient forests, and immerse yourself in the rich
 
-      River's First Bend, immerse yourself in Naxi, Bai and Lisu minority
-      traditions,
+      cultures of Tibetan and Lisu minorities. Witness rare Yunnan Snub-nosed
+      Monkeys in their
 
-      and learn about local nature conservation efforts. Hike to breathtaking
-      alpine
+      natural habitat, learn about biodiversity conservation with expert guides,
+      and
 
-      meadows, experience a traditional bonfire dance, and taste pure Himalayan
-      honey.
+      experience authentic countryside life. Hike scenic trails, encounter
+      unique
 
-      This immersive adventure offers an authentic connection with nature and
-      culture
+      wildlife, and explore charming villages. Perfect for families and adult
+      groups
 
-      in a stunning corner of China.
+      alike, this ecotour offers a unique blend of adventure, culture, and
+      nature,
+
+      creating lasting memories and supporting sustainable tourism.
+
 
 
       *   Duration: Two Days
 
 
-      *   Location: Laojun Mountains UNESCO Natural Heritage Site
+      *   Location: Shangri-La Yunnan Snub-nosed Monkey National Park
 
 
       *   Activity Level: Moderate
 
 
-      *   Altitudes: 2400 - 3100 m
+      *   Altitudes: 1800 - 2800 m
 
 
       *   Hiking Distance: no more than 8-9 km per day
 
 
-      *   Price: **from** **USD458.00 to USD313.00 Per Person** (based on group
-      sizes of 2 and 6 people)
+      *   Price: **from** **USD469.00 to USD340.00 Per Person\*** 
+
+
+      \*Based on group sizes of 2 and 6 people. Please [Contact Us](/contact-us)
+      for an exact quote.
 
     actions:
       - type: Button
