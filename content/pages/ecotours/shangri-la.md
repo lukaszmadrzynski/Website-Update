@@ -430,8 +430,8 @@ sections:
           Immerse yourself in the **authentic and traditional countryside
           lifestyle** of local
 
-          villagers. Observe their time-honored farming and pasturing practices,
-          gaining
+          villagers. Observe and learn about their time-honored farming and
+          pasturing practices, gaining
 
           a deeper appreciation for their intimate connection to the land and
           the rhythms
