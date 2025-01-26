@@ -434,23 +434,16 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
+        text: >
           Benefit from the expertise of a knowledgeable English-speaking guide
           throughout your
 
-          ecotour. Enjoy the unique opportunity to meet and interact with
+          ecotour. Enjoy the unique opportunity to meet and **interact with
           passionate
 
-          conservation professionals, learning firsthand about their crucial
+          conservation professionals**, learning firsthand about their crucial
 
           on-the-ground work in this region.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/LJ-icon10a.jpg
