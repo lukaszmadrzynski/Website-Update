@@ -166,41 +166,6 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Embark on a rewarding short hike to panoramic viewpoints overlooking
-          the legendary **First
-
-          Bend of the Yangtze River** and the picturesque Shigu town nestled
-          below. Capture
-
-          iconic photographs and immerse yourself in the dramatic beauty of
-          Yunnan's most
-
-          breathtaking and geographically significant landscapes.
-        image:
-          type: ImageBlock
-          url: /images/LJ-icon2.jpg
-          altText: Placeholder image
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            textAlign: left
-            justifyContent: center
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: >
           Gain exclusive, behind-the-scenes insights into local conservation
           efforts with a
 
@@ -232,6 +197,41 @@ sections:
             flexDirection: col
             justifyContent: center
             textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: >
+          Embark on a rewarding short hike to panoramic viewpoints overlooking
+          the legendary **First
+
+          Bend of the Yangtze River** and the picturesque Shigu town nestled
+          below. Capture
+
+          iconic photographs and immerse yourself in the dramatic beauty of
+          Yunnan's most
+
+          breathtaking and geographically significant landscapes.
+        image:
+          type: ImageBlock
+          url: /images/LJ-icon2.jpg
+          altText: Placeholder image
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            textAlign: left
+            justifyContent: center
       - type: FeaturedItem
         title: ''
         subtitle: ''
