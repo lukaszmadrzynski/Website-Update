@@ -273,27 +273,20 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Become a citizen scientist and wildlife explorer! Learn to use
-          state-of-the-art infrared
+        text: >
+          Gain exclusive, behind-the-scenes insights into local conservation
+          efforts with a
 
-          cameras for **biodiversity monitoring** and actively participate in
-          setting them up
+          visit to the **Baima Snow Mountain Nature Conservation Bureau**. Learn
+          about the vital and
 
-          in a nearby forest. Anticipate the thrill of checking back to see if
-          you've
+          multifaceted work being done to protect the rich biodiversity of Baima
+          Snow
 
-          captured images of elusive local nocturnal animals.
-
-
-
-
-
-
-
+          Mountain Nature Reserve and its fragile surrounding ecosystems.
         image:
           type: ImageBlock
-          url: /images/LJ-icon5.jpg
+          url: /images/LJ-icon9.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -315,20 +308,27 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Gain exclusive, behind-the-scenes insights into local conservation
-          efforts with a
+        text: >+
+          Become a citizen scientist and wildlife explorer! Learn to use
+          state-of-the-art infrared
 
-          visit to the **Baima Snow Mountain Nature Conservation Bureau**. Learn
-          about the vital and
+          cameras for **biodiversity monitoring** and actively participate in
+          setting them up
 
-          multifaceted work being done to protect the rich biodiversity of Baima
-          Snow
+          in a nearby forest. Anticipate the thrill of checking back to see if
+          you've
 
-          Mountain Nature Reserve and its fragile surrounding ecosystems.
+          captured images of elusive local nocturnal animals.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
-          url: /images/LJ-icon9.jpg
+          url: /images/LJ-icon5.jpg
           altText: Placeholder text
           elementId: ''
           styles:
