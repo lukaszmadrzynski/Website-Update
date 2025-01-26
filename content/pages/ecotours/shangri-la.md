@@ -37,7 +37,7 @@ sections:
       *   Duration: Two Days
 
 
-      *   Location: Shangri-La Yunnan Snub-nosed Monkey National Park
+      *   Location: Shangri-La Baima Snow Mountain Nature Reserve
 
 
       *   Activity Level: Moderate
