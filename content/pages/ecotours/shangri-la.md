@@ -399,23 +399,17 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
+        text: >
           Gain exclusive, behind-the-scenes insights into local conservation
           efforts with a
 
-          visit to the Tacheng Conservation Bureau. Learn about the vital and
+          visit to the **Baima Snow Mountain Nature Reserve Conservation
+          Bureau**. Learn about the vital and
 
           multifaceted work being done to protect the rich biodiversity of Baima
           Snow
 
           Mountain Nature Reserve and its fragile surrounding ecosystems.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/LJ-icon9.jpg
