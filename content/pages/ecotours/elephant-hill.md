@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: |-
-        Forgotten Forest of Elephant
+        Lijiang's Forgotten Forest of Elephant
         Hill
       color: text-dark
     subtitle: |-
