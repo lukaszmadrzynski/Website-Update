@@ -447,7 +447,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/LJ-icon5.jpg
+          url: /images/TC-Icon12.jpg
           altText: Placeholder text
           elementId: ''
           styles:
