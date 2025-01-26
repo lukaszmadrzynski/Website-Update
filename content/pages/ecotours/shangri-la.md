@@ -308,27 +308,20 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Become a citizen scientist and wildlife explorer! Learn to use
-          state-of-the-art infrared
+        text: >
+          Experience the magic of observing Yunnan Snub-nosed **Monkeys in their
+          pristine natural
 
-          cameras for **biodiversity monitoring** and actively participate in
-          setting them up
+          mountain habitat**. Witness their daily life unfold, learn about their
+          complex
 
-          in a nearby forest. Anticipate the thrill of checking back to see if
-          you've
+          social dynamics, and gain insights into the dedicated work of the
+          conservation
 
-          captured images of elusive local nocturnal animals.
-
-
-
-
-
-
-
+          rangers who protect these incredible primates.
         image:
           type: ImageBlock
-          url: /images/LJ-icon5.jpg
+          url: /images/LJ-icon7.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -350,20 +343,27 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Experience the magic of observing Yunnan Snub-nosed **Monkeys in their
-          pristine natural
+        text: >+
+          Become a citizen scientist and wildlife explorer! Learn to use
+          state-of-the-art infrared
 
-          mountain habitat**. Witness their daily life unfold, learn about their
-          complex
+          cameras for **biodiversity monitoring** and actively participate in
+          setting them up
 
-          social dynamics, and gain insights into the dedicated work of the
-          conservation
+          in a nearby forest. Anticipate the thrill of checking back to see if
+          you've
 
-          rangers who protect these incredible primates.
+          captured images of elusive local nocturnal animals.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
-          url: /images/LJ-icon7.jpg
+          url: /images/LJ-icon5.jpg
           altText: Placeholder text
           elementId: ''
           styles:
