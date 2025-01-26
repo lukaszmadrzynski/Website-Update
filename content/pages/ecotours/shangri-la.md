@@ -70,7 +70,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: "Shangri-La Yunnan Snub-nosed Monkey National Park\_ | Two-day Ecotour"
+      label: "Shangri-La Baima Snow Mountain Nature Reserve\_ | Two-day Ecotour"
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
