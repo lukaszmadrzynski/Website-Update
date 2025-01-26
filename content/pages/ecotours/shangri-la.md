@@ -235,23 +235,20 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Immerse yourself in the vibrant atmosphere of **Shigu Naxi Minority
-          Town**'s bustling market. Browse
+        text: >
+          Experience the magic of observing **Yunnan Snub-nosed Monkeys in their
+          pristine natural
 
-          colorful stalls overflowing with fresh, natural produce brought by
-          villagers
+          mountain habitat**. Witness their daily life unfold, learn about their
+          complex
 
-          from the surrounding Laojun Mountains, and uncover Ming Dynasty
-          history etched
+          social dynamics, and gain insights into the dedicated work of the
+          conservation
 
-          into an ancient stone monument. 
-
-
-
+          rangers who protect these incredible primates.
         image:
           type: ImageBlock
-          url: /images/LJ-icon3.jpg
+          url: /images/LJ-icon7.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -273,20 +270,23 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Experience the magic of observing **Yunnan Snub-nosed Monkeys in their
-          pristine natural
+        text: >+
+          Immerse yourself in the vibrant atmosphere of **Shigu Naxi Minority
+          Town**'s bustling market. Browse
 
-          mountain habitat**. Witness their daily life unfold, learn about their
-          complex
+          colorful stalls overflowing with fresh, natural produce brought by
+          villagers
 
-          social dynamics, and gain insights into the dedicated work of the
-          conservation
+          from the surrounding Laojun Mountains, and uncover Ming Dynasty
+          history etched
 
-          rangers who protect these incredible primates.
+          into an ancient stone monument. 
+
+
+
         image:
           type: ImageBlock
-          url: /images/LJ-icon7.jpg
+          url: /images/LJ-icon3.jpg
           altText: Placeholder text
           elementId: ''
           styles:
