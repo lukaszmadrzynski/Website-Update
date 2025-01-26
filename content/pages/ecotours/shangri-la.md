@@ -97,7 +97,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
+        text: >
           Discover a breathtaking haven for migratory waterbirds at **Lashi
           Wetlands Nature Reserve**.
 
@@ -107,15 +107,7 @@ sections:
           biodiversity and the crucial conservation efforts underway to protect
           this
 
-          precious environment. Perfect for birdwatching enthusiasts and nature
-          lovers.
-
-
-
-
-
-
-
+          precious environment. Perfect spot for birdwatching enthusiasts.
         image:
           type: ImageBlock
           url: /images/LJ-icon1.jpg
