@@ -133,6 +133,39 @@ sections:
         title: ''
         subtitle: ''
         text: >
+          Experience the vibrant and diverse cultures of the **Tibetan and
+
+          Lisu ethnic minorities**. Explore their unique customs, admire their
+
+          distinctive traditional architecture, feel their warm hospitality, and
+          savor the authentic and flavorful
+
+          dishes of their local cuisine.
+        image:
+          type: ImageBlock
+          url: /images/LJ-icon8.jpg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: >
           Embark on a rewarding short hike to panoramic viewpoints overlooking
           the legendary **First
 
@@ -164,39 +197,6 @@ sections:
             flexDirection: col
             textAlign: left
             justifyContent: center
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: >
-          Experience the vibrant and diverse cultures of the **Tibetan and
-
-          Lisu ethnic minorities**. Explore their unique customs, admire their
-
-          distinctive traditional architecture, feel their warm hospitality, and
-          savor the authentic and flavorful
-
-          dishes of their local cuisine.
-        image:
-          type: ImageBlock
-          url: /images/LJ-icon8.jpg
-          altText: Placeholder text
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-            textAlign: left
       - type: FeaturedItem
         title: ''
         subtitle: ''
