@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Yunnan Snub-nosed Monkey EcoJourney
       color: text-dark
-    subtitle: 'Discovering Nature and Culture of Tibetan Shangri-La '
+    subtitle: 'Discovering Nature and Culture of the Tibetan Shangri-La '
     text: >+
       Escape the city and discover the untamed wild beauty of Laojun Mountains.
       Journey
