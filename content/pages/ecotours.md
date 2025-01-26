@@ -426,7 +426,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/TC-Banner Icon.jpg
           altText: ''
           elementId: ''
           styles:
