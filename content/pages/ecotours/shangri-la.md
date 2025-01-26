@@ -435,13 +435,15 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Embark on a rewarding hike with a local conservationist, following a
-          pristine forest
+          Benefit from the expertise of a knowledgeable English-speaking guide
+          throughout your
 
-          stream to a stunning alpine meadow. Be captivated by **panoramic views
-          of Laojun
+          ecotour. Enjoy the unique opportunity to meet and interact with
+          passionate
 
-          Mountains' peaks** and learn about the unique alpine ecosystem.
+          conservation professionals, learning firsthand about their crucial
+
+          on-the-ground work in this region.
 
 
 
