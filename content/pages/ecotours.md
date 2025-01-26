@@ -549,7 +549,7 @@ sections:
         justifyContent: center
         padding:
           - pt-6
-          - pb-10
+          - pb-14
 slug: /ecotours
 isDraft: false
 seo:
