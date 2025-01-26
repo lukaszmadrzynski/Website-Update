@@ -131,11 +131,11 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Discover a breathtaking haven for migratory waterbirds at **Lashi
-          Wetlands Nature Reserve**.
+          Discover a breathtaking haven for migratory waterbirds at Lashi
+          Wetlands Nature Reserve.
 
-          Explore this rare and vital alpine wetland ecosystem, learning about
-          its unique
+          Explore this **rare and vital alpine wetland ecosystem**, learning
+          about its unique
 
           biodiversity and the crucial conservation efforts underway to protect
           this
