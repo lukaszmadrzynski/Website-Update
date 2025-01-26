@@ -274,19 +274,19 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Visit a **Himalayan bee farm** and meet a passionate local beekeeper.
-          Delve
+          Experience the magic of observing **Yunnan Snub-nosed Monkeys in their
+          pristine natural
 
-          into the fascinating world of these unique bees, learn about
-          traditional
+          mountain habitat**. Witness their daily life unfold, learn about their
+          complex
 
-          beekeeping practices, and understand the vital link between nature
+          social dynamics, and gain insights into the dedicated work of the
           conservation
 
-          and the sustainable development of local communities.
+          rangers who protect these incredible primates.
         image:
           type: ImageBlock
-          url: /images/LJ-icon4.jpg
+          url: /images/LJ-icon7.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -309,19 +309,19 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Experience the magic of observing **Yunnan Snub-nosed Monkeys in their
-          pristine natural
+          Visit a **Himalayan bee farm** and meet a passionate local beekeeper.
+          Delve
 
-          mountain habitat**. Witness their daily life unfold, learn about their
-          complex
+          into the fascinating world of these unique bees, learn about
+          traditional
 
-          social dynamics, and gain insights into the dedicated work of the
+          beekeeping practices, and understand the vital link between nature
           conservation
 
-          rangers who protect these incredible primates.
+          and the sustainable development of local communities.
         image:
           type: ImageBlock
-          url: /images/LJ-icon7.jpg
+          url: /images/LJ-icon4.jpg
           altText: Placeholder text
           elementId: ''
           styles:
