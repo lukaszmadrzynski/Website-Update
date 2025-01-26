@@ -287,7 +287,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/TC-Icon5.jpg
+          url: /images/TC-Icon5b.jpg
           altText: Placeholder text
           elementId: ''
           styles:
