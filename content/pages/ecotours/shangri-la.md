@@ -65,7 +65,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/banner2.jpg
+      url: /images/TC-Banner.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
