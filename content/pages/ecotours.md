@@ -450,7 +450,7 @@ sections:
               - ml-1
               - mr-1
       - type: FeaturedItem
-        title: Forever Walk
+        title: NatGeo's "Forever Walk"
         tagline: 3 Days | Multiple-day Hike Experience
         subtitle: from $192 to $242 per person
         text: >+
