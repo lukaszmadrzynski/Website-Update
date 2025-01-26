@@ -109,7 +109,7 @@ sections:
           dishes of their local cuisine.
         image:
           type: ImageBlock
-          url: /images/TC-Icon1.jpg
+          url: /images/TC-Icon1c.jpg
           altText: Placeholder text
           elementId: ''
           styles:
