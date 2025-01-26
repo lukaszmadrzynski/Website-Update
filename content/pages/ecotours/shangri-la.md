@@ -205,41 +205,6 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Visit a **Himalayan bee farm** and meet a passionate local beekeeper.
-          Delve
-
-          into the fascinating world of these unique bees, learn about
-          traditional
-
-          beekeeping practices, and understand the vital link between nature
-          conservation
-
-          and the sustainable development of local communities.
-        image:
-          type: ImageBlock
-          url: /images/LJ-icon4.jpg
-          altText: Placeholder text
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-            textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
         text: >+
           Become a citizen scientist and wildlife explorer! Learn to use
           state-of-the-art infrared
@@ -261,6 +226,41 @@ sections:
         image:
           type: ImageBlock
           url: /images/LJ-icon5.jpg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: >
+          Visit a **Himalayan bee farm** and meet a passionate local beekeeper.
+          Delve
+
+          into the fascinating world of these unique bees, learn about
+          traditional
+
+          beekeeping practices, and understand the vital link between nature
+          conservation
+
+          and the sustainable development of local communities.
+        image:
+          type: ImageBlock
+          url: /images/LJ-icon4.jpg
           altText: Placeholder text
           elementId: ''
           styles:
