@@ -385,16 +385,16 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Become a citizen scientist and wildlife explorer! Learn to use
-          state-of-the-art infrared
+          Embark on an unforgettable hike through the ancient **primeval forests
+          of Baima Snow
 
-          cameras for **biodiversity monitoring** and actively participate in
-          setting them up
+          Mountain Nature Reserve**. Explore an astonishing wealth of
+          biodiversity,
 
-          in a nearby forest. Anticipate the thrill of checking back to see if
-          you've
+          discover rare and endemic plant and animal species, and immerse
+          yourself in the
 
-          captured images of elusive local nocturnal animals.
+          raw, untouched beauty of Yunnan's wilderness.
 
 
 
@@ -404,7 +404,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/LJ-icon5.jpg
+          url: /images/LJ-icon12.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -427,16 +427,16 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Embark on an unforgettable hike through the ancient **primeval forests
-          of Baima Snow
+          Become a citizen scientist and wildlife explorer! Learn to use
+          state-of-the-art infrared
 
-          Mountain Nature Reserve**. Explore an astonishing wealth of
-          biodiversity,
+          cameras for **biodiversity monitoring** and actively participate in
+          setting them up
 
-          discover rare and endemic plant and animal species, and immerse
-          yourself in the
+          in a nearby forest. Anticipate the thrill of checking back to see if
+          you've
 
-          raw, untouched beauty of Yunnan's wilderness.
+          captured images of elusive local nocturnal animals.
 
 
 
@@ -446,7 +446,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/LJ-icon12.jpg
+          url: /images/LJ-icon5.jpg
           altText: Placeholder text
           elementId: ''
           styles:
