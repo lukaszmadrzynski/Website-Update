@@ -350,26 +350,20 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Gain a comprehensive introduction to the **endangered and captivating
-          Yunnan snub-nosed
+        text: >
+          Experience the magic of observing Yunnan Snub-nosed **Monkeys in their
+          pristine natural
 
-          monkey** at a dedicated exhibition. Learn about their unique physical
+          mountain habitat**. Witness their daily life unfold, learn about their
+          complex
 
-          characteristics, their fascinating social behaviors, and the critical
+          social dynamics, and gain insights into the dedicated work of the
+          conservation
 
-          importance of conservation initiatives to safeguard this iconic
-          primate.
-
-
-
-
-
-
-
+          rangers who protect these incredible primates.
         image:
           type: ImageBlock
-          url: /images/LJ-icon6.jpg
+          url: /images/LJ-icon7.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -391,20 +385,26 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Experience the magic of observing Yunnan Snub-nosed **Monkeys in their
-          pristine natural
+        text: >+
+          Gain a comprehensive introduction to the **endangered and captivating
+          Yunnan snub-nosed
 
-          mountain habitat**. Witness their daily life unfold, learn about their
-          complex
+          monkey** at a dedicated exhibition. Learn about their unique physical
 
-          social dynamics, and gain insights into the dedicated work of the
-          conservation
+          characteristics, their fascinating social behaviors, and the critical
 
-          rangers who protect these incredible primates.
+          importance of conservation initiatives to safeguard this iconic
+          primate.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
-          url: /images/LJ-icon7.jpg
+          url: /images/LJ-icon6.jpg
           altText: Placeholder text
           elementId: ''
           styles:
