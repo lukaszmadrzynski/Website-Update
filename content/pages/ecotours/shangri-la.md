@@ -426,41 +426,6 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Immerse yourself in the **authentic and traditional countryside
-          lifestyle** of local
-
-          villagers. Observe and learn about their time-honored farming and
-          pasturing practices, gaining
-
-          a deeper appreciation for their intimate connection to the land and
-          the rhythms
-
-          of nature in rural Yunnan.
-        image:
-          type: ImageBlock
-          url: /images/LJ-icon11.jpg
-          altText: Placeholder text
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-            textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
         text: >+
           Embark on an unforgettable hike through the ancient **primeval forests
           of Baima Snow
@@ -482,6 +447,41 @@ sections:
         image:
           type: ImageBlock
           url: /images/LJ-icon12.jpg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: >
+          Immerse yourself in the **authentic and traditional countryside
+          lifestyle** of local
+
+          villagers. Observe and learn about their time-honored farming and
+          pasturing practices, gaining
+
+          a deeper appreciation for their intimate connection to the land and
+          the rhythms
+
+          of nature in rural Yunnan.
+        image:
+          type: ImageBlock
+          url: /images/LJ-icon11.jpg
           altText: Placeholder text
           elementId: ''
           styles:
