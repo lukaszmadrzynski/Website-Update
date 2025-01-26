@@ -179,7 +179,7 @@ sections:
           Mountain Nature Reserve and its fragile surrounding ecosystems.
         image:
           type: ImageBlock
-          url: /images/LJ-icon9.jpg
+          url: /images/TC-Icon6.jpg
           altText: Placeholder text
           elementId: ''
           styles:
