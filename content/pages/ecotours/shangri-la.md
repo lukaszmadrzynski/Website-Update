@@ -240,27 +240,18 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Become a citizen scientist and wildlife explorer! Learn to use
-          state-of-the-art infrared
+        text: >
+          Experience the vibrant and diverse cultures of the **Tibetan and
 
-          cameras for **biodiversity monitoring** and actively participate in
-          setting them up
+          Lisu ethnic minorities**. Explore their unique customs, admire their
 
-          in a nearby forest. Anticipate the thrill of checking back to see if
-          you've
+          distinctive traditional architecture, feel their warm hospitality, and
+          savor the authentic and flavorful
 
-          captured images of elusive local nocturnal animals.
-
-
-
-
-
-
-
+          dishes of their local cuisine.
         image:
           type: ImageBlock
-          url: /images/LJ-icon5.jpg
+          url: /images/LJ-icon8.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -282,18 +273,27 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Experience the vibrant and diverse cultures of the **Tibetan and
+        text: >+
+          Become a citizen scientist and wildlife explorer! Learn to use
+          state-of-the-art infrared
 
-          Lisu ethnic minorities**. Explore their unique customs, admire their
+          cameras for **biodiversity monitoring** and actively participate in
+          setting them up
 
-          distinctive traditional architecture, feel their warm hospitality, and
-          savor the authentic and flavorful
+          in a nearby forest. Anticipate the thrill of checking back to see if
+          you've
 
-          dishes of their local cuisine.
+          captured images of elusive local nocturnal animals.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
-          url: /images/LJ-icon8.jpg
+          url: /images/LJ-icon5.jpg
           altText: Placeholder text
           elementId: ''
           styles:
