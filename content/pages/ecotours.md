@@ -225,49 +225,6 @@ sections:
               - mr-1
         tagline: 1 Day | Off-the-beaten-path
       - type: FeaturedItem
-        title: Jade Dragon's Hidden Trails
-        subtitle: from $192 to $242 per person
-        text: >
-          Escape the tourist crowds in Yunnan on this ecotour, discovering
-          hidden gems like Tibetan temples and untouched wetlands. Immerse
-          yourself in Yi villages, hike in Jade Dragon Snow Mountain Nature
-          Reserve, and explore Baisha Village. Experience authentic culture and
-          unspoiled nature far away from the beaten path.
-        image:
-          type: ImageBlock
-          url: /images/YL-Banner Icon 5.jpg
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Learn More
-            altText: ''
-            url: /ecotours/jade-dragon-snow-mountain
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-            textAlign: left
-            margin:
-              - ml-1
-              - mr-1
-        tagline: 1 Day | Off-the-beaten-path
-      - type: FeaturedItem
         title: The Living Waters of Lashi
         subtitle: from $199 to $251 per person
         text: >+
@@ -297,6 +254,49 @@ sections:
             label: Learn More
             altText: ''
             url: /ecotours/lashi
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
+            margin:
+              - ml-1
+              - mr-1
+        tagline: 1 Day | Off-the-beaten-path
+      - type: FeaturedItem
+        title: Jade Dragon's Hidden Trails
+        subtitle: from $192 to $242 per person
+        text: >
+          Escape the tourist crowds in Yunnan on this ecotour, discovering
+          hidden gems like Tibetan temples and untouched wetlands. Immerse
+          yourself in Yi villages, hike in Jade Dragon Snow Mountain Nature
+          Reserve, and explore Baisha Village. Experience authentic culture and
+          unspoiled nature far away from the beaten path.
+        image:
+          type: ImageBlock
+          url: /images/YL-Banner Icon 5.jpg
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /ecotours/jade-dragon-snow-mountain
             showIcon: false
             icon: arrowRight
             iconPosition: right
