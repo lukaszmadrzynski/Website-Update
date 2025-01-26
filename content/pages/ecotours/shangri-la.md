@@ -328,7 +328,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/LJ-icon6.jpg
+          url: /images/TC-Icon8.jpg
           altText: Placeholder text
           elementId: ''
           styles:
