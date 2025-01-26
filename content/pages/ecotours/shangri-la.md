@@ -323,8 +323,8 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Experience the magic of observing **Yunnan snub-nosed monkeys in their
+        text: >
+          Experience the magic of observing Yunnan Snub-nosed **Monkeys in their
           pristine natural
 
           mountain habitat**. Witness their daily life unfold, learn about their
@@ -334,13 +334,6 @@ sections:
           conservation
 
           rangers who protect these incredible primates.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/LJ-icon7.jpg
