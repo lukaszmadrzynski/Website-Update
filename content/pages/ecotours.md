@@ -402,7 +402,7 @@ sections:
               - mr-1
       - type: FeaturedItem
         title: Yunnan Monkey Journey
-        tagline: 2 Days | Endangered Species Conservation
+        tagline: 2 Days | Tibetan Nature and Culture
         subtitle: from $340 to $469 per person
         text: >+
           <div style="text-align: left">Explore Yunnan's natural wonders and
