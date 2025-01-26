@@ -55,7 +55,7 @@ sections:
               - mr-1
         tagline: Half-Day | Cultural Heritage Walk
       - type: FeaturedItem
-        title: Forgotten Forest of Elephant Hill
+        title: Lijiang's Forgotten Forest
         subtitle: from $38 to $58 per person
         text: >
           Embark on a challenging yet rewarding trek on Jade Dragon Snow
