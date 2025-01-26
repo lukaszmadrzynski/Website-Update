@@ -357,19 +357,19 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Experience the magic of observing Yunnan Snub-nosed **Monkeys in their
-          pristine natural
+          Gain exclusive, behind-the-scenes insights into local conservation
+          efforts with a
 
-          mountain habitat**. Witness their daily life unfold, learn about their
-          complex
+          visit to the **Baima Snow Mountain Nature Conservation Bureau**. Learn
+          about the vital and
 
-          social dynamics, and gain insights into the dedicated work of the
-          conservation
+          multifaceted work being done to protect the rich biodiversity of Baima
+          Snow
 
-          rangers who protect these incredible primates.
+          Mountain Nature Reserve and its fragile surrounding ecosystems.
         image:
           type: ImageBlock
-          url: /images/LJ-icon7.jpg
+          url: /images/LJ-icon9.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -392,19 +392,19 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Gain exclusive, behind-the-scenes insights into local conservation
-          efforts with a
+          Experience the magic of observing Yunnan Snub-nosed **Monkeys in their
+          pristine natural
 
-          visit to the **Baima Snow Mountain Nature Conservation Bureau**. Learn
-          about the vital and
+          mountain habitat**. Witness their daily life unfold, learn about their
+          complex
 
-          multifaceted work being done to protect the rich biodiversity of Baima
-          Snow
+          social dynamics, and gain insights into the dedicated work of the
+          conservation
 
-          Mountain Nature Reserve and its fragile surrounding ecosystems.
+          rangers who protect these incredible primates.
         image:
           type: ImageBlock
-          url: /images/LJ-icon9.jpg
+          url: /images/LJ-icon7.jpg
           altText: Placeholder text
           elementId: ''
           styles:
