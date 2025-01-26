@@ -200,23 +200,20 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Immerse yourself in the vibrant atmosphere of **Shigu Naxi Minority
-          Town**'s bustling market. Browse
+        text: >
+          Gain exclusive, behind-the-scenes insights into local conservation
+          efforts with a
 
-          colorful stalls overflowing with fresh, natural produce brought by
-          villagers
+          visit to the **Baima Snow Mountain Nature Conservation Bureau**. Learn
+          about the vital and
 
-          from the surrounding Laojun Mountains, and uncover Ming Dynasty
-          history etched
+          multifaceted work being done to protect the rich biodiversity of Baima
+          Snow
 
-          into an ancient stone monument. 
-
-
-
+          Mountain Nature Reserve and its fragile surrounding ecosystems.
         image:
           type: ImageBlock
-          url: /images/LJ-icon3.jpg
+          url: /images/LJ-icon9.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -238,20 +235,23 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Gain exclusive, behind-the-scenes insights into local conservation
-          efforts with a
+        text: >+
+          Immerse yourself in the vibrant atmosphere of **Shigu Naxi Minority
+          Town**'s bustling market. Browse
 
-          visit to the **Baima Snow Mountain Nature Conservation Bureau**. Learn
-          about the vital and
+          colorful stalls overflowing with fresh, natural produce brought by
+          villagers
 
-          multifaceted work being done to protect the rich biodiversity of Baima
-          Snow
+          from the surrounding Laojun Mountains, and uncover Ming Dynasty
+          history etched
 
-          Mountain Nature Reserve and its fragile surrounding ecosystems.
+          into an ancient stone monument. 
+
+
+
         image:
           type: ImageBlock
-          url: /images/LJ-icon9.jpg
+          url: /images/LJ-icon3.jpg
           altText: Placeholder text
           elementId: ''
           styles:
