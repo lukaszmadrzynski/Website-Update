@@ -363,7 +363,7 @@ sections:
           and the sustainable development of local communities.
         image:
           type: ImageBlock
-          url: /images/LJ-icon4.jpg
+          url: /images/TC-Icon11.jpg
           altText: Placeholder text
           elementId: ''
           styles:
