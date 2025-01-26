@@ -37,7 +37,7 @@ sections:
       *   Duration: Two Days
 
 
-      *   Location: Shangri-La Baima Snow Mountain Nature Reserve
+      *   Location: Shangrila Baima Snow Mountain Nature Reserve
 
 
       *   Activity Level: Moderate
