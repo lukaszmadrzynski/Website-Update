@@ -414,17 +414,7 @@ sections:
 
           experiences, and create unforgettable memories in China's beautiful
 
-          countryside. Perfect for families and groups seeking adventure and
-          cultural
-
-          immersion.
-
-
-
-
-
-
-          </div>
+          countryside.</div>
 
         image:
           type: ImageBlock
