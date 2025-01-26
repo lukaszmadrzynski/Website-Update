@@ -98,20 +98,18 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Discover a breathtaking haven for migratory waterbirds at **Lashi
-          Wetlands Nature Reserve**.
+          Experience the vibrant and diverse cultures of the **Tibetan and
 
-          Explore this rare and vital alpine wetland ecosystem, learning about
-          its unique
+          Lisu ethnic minorities**. Explore their unique customs, admire their
 
-          biodiversity and the crucial conservation efforts underway to protect
-          this
+          distinctive traditional architecture, feel their warm hospitality, and
+          savor the authentic and flavorful
 
-          precious environment. Perfect spot for birdwatching enthusiasts.
+          dishes of their local cuisine.
         image:
           type: ImageBlock
-          url: /images/LJ-icon1.jpg
-          altText: Placeholder image
+          url: /images/LJ-icon8.jpg
+          altText: Placeholder text
           elementId: ''
           styles:
             self:
@@ -133,18 +131,20 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Experience the vibrant and diverse cultures of the **Tibetan and
+          Discover a breathtaking haven for migratory waterbirds at **Lashi
+          Wetlands Nature Reserve**.
 
-          Lisu ethnic minorities**. Explore their unique customs, admire their
+          Explore this rare and vital alpine wetland ecosystem, learning about
+          its unique
 
-          distinctive traditional architecture, feel their warm hospitality, and
-          savor the authentic and flavorful
+          biodiversity and the crucial conservation efforts underway to protect
+          this
 
-          dishes of their local cuisine.
+          precious environment. Perfect spot for birdwatching enthusiasts.
         image:
           type: ImageBlock
-          url: /images/LJ-icon8.jpg
-          altText: Placeholder text
+          url: /images/LJ-icon1.jpg
+          altText: Placeholder image
           elementId: ''
           styles:
             self:
