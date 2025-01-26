@@ -359,12 +359,15 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Awaken your senses on an enchanting **night walk through a primeval
-          forest**. Discover the
+          Enrich your journey by experiencing the vibrant and diverse cultures
+          of the **Tibetan and
 
-          hidden wonders of nocturnal wildlife, experience the forest's mystical
+          Lisu ethnic minorities**. Explore their unique customs, admire their
 
-          ambiance, and connect with nature in a unique and thrilling way.
+          distinctive traditional architecture, experience their warm
+          hospitality, and savor the authentic and flavorful
+
+          dishes of their local cuisine.
 
 
 
