@@ -338,7 +338,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: 2-3 Day Ecotours
+      text: Two-Three Day EcoJourneys
       color: text-dark
       styles:
         self:
