@@ -358,23 +358,15 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Enrich your journey by experiencing the vibrant and diverse cultures
-          of the **Tibetan and
+        text: >
+          Experience the vibrant and diverse cultures of the **Tibetan and
 
           Lisu ethnic minorities**. Explore their unique customs, admire their
 
-          distinctive traditional architecture, experience their warm
-          hospitality, and savor the authentic and flavorful
+          distinctive traditional architecture, feel their warm hospitality, and
+          savor the authentic and flavorful
 
           dishes of their local cuisine.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/LJ-icon8.jpg
