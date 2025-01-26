@@ -308,20 +308,26 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Visit a **Himalayan bee farm** and meet a passionate local beekeeper.
-          Delve
+        text: >+
+          Gain a comprehensive introduction to the **endangered and captivating
+          Yunnan snub-nosed
 
-          into the fascinating world of these unique bees, learn about
-          traditional
+          monkey** at a dedicated exhibition. Learn about their unique physical
 
-          beekeeping practices, and understand the vital link between nature
-          conservation
+          characteristics, their fascinating social behaviors, and the critical
 
-          and the sustainable development of local communities.
+          importance of conservation initiatives to safeguard this iconic
+          primate.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
-          url: /images/LJ-icon4.jpg
+          url: /images/LJ-icon6.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -343,26 +349,20 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Gain a comprehensive introduction to the **endangered and captivating
-          Yunnan snub-nosed
+        text: >
+          Visit a **Himalayan bee farm** and meet a passionate local beekeeper.
+          Delve
 
-          monkey** at a dedicated exhibition. Learn about their unique physical
+          into the fascinating world of these unique bees, learn about
+          traditional
 
-          characteristics, their fascinating social behaviors, and the critical
+          beekeeping practices, and understand the vital link between nature
+          conservation
 
-          importance of conservation initiatives to safeguard this iconic
-          primate.
-
-
-
-
-
-
-
+          and the sustainable development of local communities.
         image:
           type: ImageBlock
-          url: /images/LJ-icon6.jpg
+          url: /images/LJ-icon4.jpg
           altText: Placeholder text
           elementId: ''
           styles:
