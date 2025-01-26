@@ -572,7 +572,7 @@ sections:
       *   Local guides.
 
 
-      *   Entrance fees to the National Park.
+      *   Entrance fees to the national park.
 
 
       *   Local traditional food.
