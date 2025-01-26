@@ -405,19 +405,21 @@ sections:
         tagline: 2 Days | Endangered Species Conservation
         subtitle: from $192 to $242 per person
         text: >+
-          <div style="text-align: left">Escape to Wenhai
+          <div style="text-align: left">Explore Yunnan's natural wonders and
+          Tibetan cultural treasures! Spot rare, endangered monkeys, hike
+          stunning landscapes, and
 
-          Sanctuary and discover its hidden beauty. Explore pristine wetlands
-          with a
+          discover local minority cultures. Learn about conservation, enjoy
+          authentic
 
-          conservationist, observe unique alpine biodiversity, and immerse
-          yourself in
+          experiences, and create unforgettable memories in China's beautiful
 
-          Naxi culture. Hike to Tiger Cave for stunning views and explore the
-          UNESCO heritage
+          countryside. Perfect for families and groups seeking adventure and
+          cultural
 
-          of Baisha Village. An enriching eco-cultural adventure awaits in
-          Yunnan!
+          immersion.
+
+
 
 
 
