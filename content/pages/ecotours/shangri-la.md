@@ -282,26 +282,18 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Gain a comprehensive introduction to the **endangered and captivating
-          Yunnan snub-nosed
+        text: >
+          Experience the vibrant and diverse cultures of the **Tibetan and
 
-          monkey** at a dedicated exhibition. Learn about their unique physical
+          Lisu ethnic minorities**. Explore their unique customs, admire their
 
-          characteristics, their fascinating social behaviors, and the critical
+          distinctive traditional architecture, feel their warm hospitality, and
+          savor the authentic and flavorful
 
-          importance of conservation initiatives to safeguard this iconic
-          primate.
-
-
-
-
-
-
-
+          dishes of their local cuisine.
         image:
           type: ImageBlock
-          url: /images/LJ-icon6.jpg
+          url: /images/LJ-icon8.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -323,18 +315,26 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Experience the vibrant and diverse cultures of the **Tibetan and
+        text: >+
+          Gain a comprehensive introduction to the **endangered and captivating
+          Yunnan snub-nosed
 
-          Lisu ethnic minorities**. Explore their unique customs, admire their
+          monkey** at a dedicated exhibition. Learn about their unique physical
 
-          distinctive traditional architecture, feel their warm hospitality, and
-          savor the authentic and flavorful
+          characteristics, their fascinating social behaviors, and the critical
 
-          dishes of their local cuisine.
+          importance of conservation initiatives to safeguard this iconic
+          primate.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
-          url: /images/LJ-icon8.jpg
+          url: /images/LJ-icon6.jpg
           altText: Placeholder text
           elementId: ''
           styles:
