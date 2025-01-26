@@ -323,14 +323,24 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Immerse yourself in the vibrant culture of the Lisu minority through
-          an unforgettable **bonfire dance
+        text: >+
+          Experience the magic of observing **Yunnan snub-nosed monkeys in their
+          pristine natural
 
-          and music experience**. Join in the festivities, connect with local
-          traditions,
+          mountain habitat**. Witness their daily life unfold, learn about their
+          complex
 
-          and create lasting memories of cultural exchange under the stars.
+          social dynamics, and gain insights into the dedicated work of the
+          conservation
+
+          rangers who protect these incredible primates.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/LJ-icon7.jpg
