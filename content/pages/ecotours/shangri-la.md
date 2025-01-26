@@ -206,10 +206,8 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Visit a
-
-          traditional **Himalayan bee farm** and meet a passionate local
-          beekeeper. Delve
+          Visit a **Himalayan bee farm** and meet a passionate local beekeeper.
+          Delve
 
           into the fascinating world of these unique bees, learn about
           traditional
