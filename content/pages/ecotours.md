@@ -401,7 +401,7 @@ sections:
               - ml-1
               - mr-1
       - type: FeaturedItem
-        title: Yunnan Snub-nosed Monkey Journey
+        title: Yunnan Monkey Journey
         tagline: 2 Days | Endangered Species Conservation
         subtitle: from $340 to $469 per person
         text: >+
