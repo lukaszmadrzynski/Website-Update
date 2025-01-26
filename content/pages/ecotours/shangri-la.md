@@ -391,27 +391,20 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Immerse yourself in the **authentic and traditional countryside
-          lifestyle** of local ethnic
+        text: >
+          Gain exclusive, behind-the-scenes insights into local conservation
+          efforts with a
 
-          minorities. Observe their time-honored farming and pasturing
-          practices, gaining
+          visit to the **Baima Snow Mountain Nature Conservation Bureau**. Learn
+          about the vital and
 
-          a deeper appreciation for their intimate connection to the land and
-          the rhythms
+          multifaceted work being done to protect the rich biodiversity of Baima
+          Snow
 
-          of nature in rural Yunnan.
-
-
-
-
-
-
-
+          Mountain Nature Reserve and its fragile surrounding ecosystems.
         image:
           type: ImageBlock
-          url: /images/LJ-icon11.jpg
+          url: /images/LJ-icon9.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -433,20 +426,27 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Gain exclusive, behind-the-scenes insights into local conservation
-          efforts with a
+        text: >+
+          Immerse yourself in the **authentic and traditional countryside
+          lifestyle** of local ethnic
 
-          visit to the **Baima Snow Mountain Nature Conservation Bureau**. Learn
-          about the vital and
+          minorities. Observe their time-honored farming and pasturing
+          practices, gaining
 
-          multifaceted work being done to protect the rich biodiversity of Baima
-          Snow
+          a deeper appreciation for their intimate connection to the land and
+          the rhythms
 
-          Mountain Nature Reserve and its fragile surrounding ecosystems.
+          of nature in rural Yunnan.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
-          url: /images/LJ-icon9.jpg
+          url: /images/LJ-icon11.jpg
           altText: Placeholder text
           elementId: ''
           styles:
