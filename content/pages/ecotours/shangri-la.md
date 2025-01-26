@@ -324,19 +324,17 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Experience the magic of observing Yunnan Snub-nosed **Monkeys in their
-          pristine natural
+          Experience the vibrant and diverse cultures of the **Tibetan and
 
-          mountain habitat**. Witness their daily life unfold, learn about their
-          complex
+          Lisu ethnic minorities**. Explore their unique customs, admire their
 
-          social dynamics, and gain insights into the dedicated work of the
-          conservation
+          distinctive traditional architecture, feel their warm hospitality, and
+          savor the authentic and flavorful
 
-          rangers who protect these incredible primates.
+          dishes of their local cuisine.
         image:
           type: ImageBlock
-          url: /images/LJ-icon7.jpg
+          url: /images/LJ-icon8.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -359,17 +357,19 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Experience the vibrant and diverse cultures of the **Tibetan and
+          Experience the magic of observing Yunnan Snub-nosed **Monkeys in their
+          pristine natural
 
-          Lisu ethnic minorities**. Explore their unique customs, admire their
+          mountain habitat**. Witness their daily life unfold, learn about their
+          complex
 
-          distinctive traditional architecture, feel their warm hospitality, and
-          savor the authentic and flavorful
+          social dynamics, and gain insights into the dedicated work of the
+          conservation
 
-          dishes of their local cuisine.
+          rangers who protect these incredible primates.
         image:
           type: ImageBlock
-          url: /images/LJ-icon8.jpg
+          url: /images/LJ-icon7.jpg
           altText: Placeholder text
           elementId: ''
           styles:
