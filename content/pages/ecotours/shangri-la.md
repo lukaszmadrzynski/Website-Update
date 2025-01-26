@@ -344,16 +344,15 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Become a citizen scientist and wildlife explorer! Learn to use
-          state-of-the-art infrared
+          Gain a comprehensive introduction to the **endangered and captivating
+          Yunnan snub-nosed
 
-          cameras for **biodiversity monitoring** and actively participate in
-          setting them up
+          monkey** at a dedicated exhibition. Learn about their unique physical
 
-          in a nearby forest. Anticipate the thrill of checking back to see if
-          you've
+          characteristics, their fascinating social behaviors, and the critical
 
-          captured images of elusive local nocturnal animals.
+          importance of conservation initiatives to safeguard this iconic
+          primate.
 
 
 
@@ -363,7 +362,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/LJ-icon5.jpg
+          url: /images/LJ-icon6.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -386,15 +385,16 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Gain a comprehensive introduction to the **endangered and captivating
-          Yunnan snub-nosed
+          Become a citizen scientist and wildlife explorer! Learn to use
+          state-of-the-art infrared
 
-          monkey** at a dedicated exhibition. Learn about their unique physical
+          cameras for **biodiversity monitoring** and actively participate in
+          setting them up
 
-          characteristics, their fascinating social behaviors, and the critical
+          in a nearby forest. Anticipate the thrill of checking back to see if
+          you've
 
-          importance of conservation initiatives to safeguard this iconic
-          primate.
+          captured images of elusive local nocturnal animals.
 
 
 
@@ -404,7 +404,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/LJ-icon6.jpg
+          url: /images/LJ-icon5.jpg
           altText: Placeholder text
           elementId: ''
           styles:
