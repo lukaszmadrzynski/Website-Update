@@ -205,10 +205,10 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
+        text: >
           Visit a
 
-          **traditional Himalayan bee farm** and meet a passionate local
+          traditional **Himalayan bee farm** and meet a passionate local
           beekeeper. Delve
 
           into the fascinating world of these unique bees, learn about
@@ -218,13 +218,6 @@ sections:
           conservation
 
           and the sustainable development of local communities.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/LJ-icon4.jpg
