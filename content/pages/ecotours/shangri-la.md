@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Laojun's Wild Heart Ecotour
+title: Yunnan Snub-nosed Monkey Ecotour
 sections:
   - type: GenericSection
     title:
