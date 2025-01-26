@@ -481,7 +481,7 @@ sections:
           on-the-ground work in this region.
         image:
           type: ImageBlock
-          url: /images/LJ-icon10a.jpg
+          url: /images/TC-Icon4.jpg
           altText: Placeholder text
           elementId: ''
           styles:
