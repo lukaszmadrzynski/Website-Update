@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Yunnan Snub-nosed Monkey Ecotour
+title: Yunnan Snub-nosed Monkey EcoJourney
 sections:
   - type: GenericSection
     title:
