@@ -282,7 +282,23 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: "Delve into the fascinating world of **Himalayan bee-keeping**, a unique local tradition.\nDiscover sustainable practices, learn about the bees' vital role, and savor the\nexquisite taste of pure, locally sourced honey.\n\n\n\n\n\n\n\n\n\n\_\n"
+        text: >+
+          Gain a comprehensive introduction to the **endangered and captivating
+          Yunnan snub-nosed
+
+          monkey** at a dedicated exhibition. Learn about their unique physical
+
+          characteristics, their fascinating social behaviors, and the critical
+
+          importance of conservation initiatives to safeguard this iconic
+          primate.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/LJ-icon6.jpg
