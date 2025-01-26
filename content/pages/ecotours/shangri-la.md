@@ -434,40 +434,6 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Benefit from the expertise of a knowledgeable English-speaking guide
-          throughout your
-
-          ecotour. Enjoy the unique opportunity to meet and **interact with
-          passionate
-
-          conservation professionals**, learning firsthand about their crucial
-
-          on-the-ground work in this region.
-        image:
-          type: ImageBlock
-          url: /images/LJ-icon10a.jpg
-          altText: Placeholder text
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-            textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
         text: >+
           Immerse yourself in the **authentic and traditional countryside
           lifestyle** of local ethnic
@@ -489,6 +455,40 @@ sections:
         image:
           type: ImageBlock
           url: /images/LJ-icon11.jpg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: >
+          Benefit from the expertise of a knowledgeable English-speaking guide
+          throughout your
+
+          ecotour. Enjoy the unique opportunity to meet and **interact with
+          passionate
+
+          conservation professionals**, learning firsthand about their crucial
+
+          on-the-ground work in this region.
+        image:
+          type: ImageBlock
+          url: /images/LJ-icon10a.jpg
           altText: Placeholder text
           elementId: ''
           styles:
