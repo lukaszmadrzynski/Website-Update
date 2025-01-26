@@ -240,14 +240,24 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Venture into pristine forests and spot some of the **world's rarest
-          birds** a local
+        text: >+
+          Become a citizen scientist and wildlife explorer! Learn to use
+          state-of-the-art infrared
 
-          bird watching station. Learn from passionate conservationists about
-          their vital
+          cameras for **biodiversity monitoring** and actively participate in
+          setting them up
 
-          work protecting these endangered species in this serene bird refuge.
+          in a nearby forest. Anticipate the thrill of checking back to see if
+          you've
+
+          captured images of elusive local nocturnal animals.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/LJ-icon5.jpg
