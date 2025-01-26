@@ -517,7 +517,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: LAOJUN MOUNTAINS UNESCO SITE | TWO-DAY ECOTOUR
+      label: Shangri-La Baima Snow Mountain Nature Reserve | TWO-DAY ECOTOUR
       color: text-primary
       styles:
         self:
