@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Yunnan Snub-nosed Monkey EcoJourney
       color: text-dark
-    subtitle: 'Discovering Nature and Culture of the Tibetan Shangri-La '
+    subtitle: 'Discovering Nature and Culture of the Tibetan Shangrila '
     text: >+
       Embark on an unforgettable
 
