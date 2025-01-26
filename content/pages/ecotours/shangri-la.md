@@ -239,19 +239,19 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Visit a **Himalayan bee farm** and meet a passionate local beekeeper.
-          Delve
+          Gain exclusive, behind-the-scenes insights into local conservation
+          efforts with a
 
-          into the fascinating world of these unique bees, learn about
-          traditional
+          visit to the **Baima Snow Mountain Nature Conservation Bureau**. Learn
+          about the vital and
 
-          beekeeping practices, and understand the vital link between nature
-          conservation
+          multifaceted work being done to protect the rich biodiversity of Baima
+          Snow
 
-          and the sustainable development of local communities.
+          Mountain Nature Reserve and its fragile surrounding ecosystems.
         image:
           type: ImageBlock
-          url: /images/LJ-icon4.jpg
+          url: /images/LJ-icon9.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -274,19 +274,19 @@ sections:
         title: ''
         subtitle: ''
         text: >
-          Gain exclusive, behind-the-scenes insights into local conservation
-          efforts with a
+          Visit a **Himalayan bee farm** and meet a passionate local beekeeper.
+          Delve
 
-          visit to the **Baima Snow Mountain Nature Conservation Bureau**. Learn
-          about the vital and
+          into the fascinating world of these unique bees, learn about
+          traditional
 
-          multifaceted work being done to protect the rich biodiversity of Baima
-          Snow
+          beekeeping practices, and understand the vital link between nature
+          conservation
 
-          Mountain Nature Reserve and its fragile surrounding ecosystems.
+          and the sustainable development of local communities.
         image:
           type: ImageBlock
-          url: /images/LJ-icon9.jpg
+          url: /images/LJ-icon4.jpg
           altText: Placeholder text
           elementId: ''
           styles:
