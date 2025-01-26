@@ -168,14 +168,18 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Step back in time in charming **Shigu Town**, a cultural gem of the
-          Naxi minority.
+          Immerse yourself in the vibrant atmosphere of **Shigu Naxi Minority
+          Town**'s bustling market. Browse
 
-          Discover the historic relict of Stone Drum, wander through local
-          market, and immerse
+          colorful stalls overflowing with fresh, natural produce brought by
+          villagers
 
-          yourself in the unique history of this quaint little town that played
-          a big role during the revolutionary Long March.
+          from the surrounding Laojun Mountains, and uncover Ming Dynasty
+          history etched
+
+          into an ancient stone monument. 
+
+
 
         image:
           type: ImageBlock
