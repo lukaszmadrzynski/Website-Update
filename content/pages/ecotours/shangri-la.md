@@ -205,27 +205,20 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Become a citizen scientist and wildlife explorer! Learn to use
-          state-of-the-art infrared
+        text: >
+          Visit a **Himalayan bee farm** and meet a passionate local beekeeper.
+          Delve
 
-          cameras for **biodiversity monitoring** and actively participate in
-          setting them up
+          into the fascinating world of these unique bees, learn about
+          traditional
 
-          in a nearby forest. Anticipate the thrill of checking back to see if
-          you've
+          beekeeping practices, and understand the vital link between nature
+          conservation
 
-          captured images of elusive local nocturnal animals.
-
-
-
-
-
-
-
+          and the sustainable development of local communities.
         image:
           type: ImageBlock
-          url: /images/LJ-icon5.jpg
+          url: /images/LJ-icon4.jpg
           altText: Placeholder text
           elementId: ''
           styles:
@@ -247,20 +240,27 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Visit a **Himalayan bee farm** and meet a passionate local beekeeper.
-          Delve
+        text: >+
+          Become a citizen scientist and wildlife explorer! Learn to use
+          state-of-the-art infrared
 
-          into the fascinating world of these unique bees, learn about
-          traditional
+          cameras for **biodiversity monitoring** and actively participate in
+          setting them up
 
-          beekeeping practices, and understand the vital link between nature
-          conservation
+          in a nearby forest. Anticipate the thrill of checking back to see if
+          you've
 
-          and the sustainable development of local communities.
+          captured images of elusive local nocturnal animals.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
-          url: /images/LJ-icon4.jpg
+          url: /images/LJ-icon5.jpg
           altText: Placeholder text
           elementId: ''
           styles:
