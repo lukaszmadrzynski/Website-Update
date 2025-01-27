@@ -520,7 +520,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Longer EcoExpeditions
+      text: Extend Your Ecotour Experience!
       color: text-dark
     subtitle: Increase your reach
     text: >
