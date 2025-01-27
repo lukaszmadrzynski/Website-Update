@@ -452,7 +452,7 @@ sections:
       - type: FeaturedItem
         title: NatGeo's "Forever Walk"
         tagline: 3 Days | Multiple-day Hike Experience
-        subtitle: from $192 to $242 per person
+        subtitle: from $506 to $687 per person
         text: >+
           Discover the wonders of Lashi Wetlands and the surrounding landscapes.
           Explore vital ecosystems, learn
