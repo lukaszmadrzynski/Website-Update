@@ -62,7 +62,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: Wenhai Wetlands And Jade Dragon Nature Reserves | one-day Ecotour
+      label: Wenhai Wetlands And Jade Dragon Nature Reserves | Three-day Ecotour
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
