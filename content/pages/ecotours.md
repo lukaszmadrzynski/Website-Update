@@ -530,7 +530,7 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: /
+        url: /contact-us
         icon: arrowRight
         iconPosition: right
         style: secondary
