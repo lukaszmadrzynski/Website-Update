@@ -57,7 +57,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/wenhai banner3.jpg
+      url: /images/FW-Banner.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
