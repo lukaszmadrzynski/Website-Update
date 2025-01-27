@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Wenhai Sanctuary Ecotour
+title: NatGeo's Forever Walk
 sections:
   - type: GenericSection
     title:
