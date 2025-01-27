@@ -522,7 +522,7 @@ sections:
       type: TitleBlock
       text: Extend Your Ecotour Experience!
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Extend Your Ecotour Experience!
     text: >+
       Interested in a longer, more immersive itinerary? Please contact us to
       discuss creating a custom adventure tailored just for you.
