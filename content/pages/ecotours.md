@@ -523,9 +523,10 @@ sections:
       text: Extend Your Ecotour Experience!
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      Interested in a longer, more immersive itinerary? Please contact us to
+      discuss creating a custom adventure tailored just for you.
+
     actions:
       - type: Button
         label: Get started
