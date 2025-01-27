@@ -479,7 +479,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/lashi
+            url: /ecotours/forever-walk
             showIcon: false
             icon: arrowRight
             iconPosition: right
