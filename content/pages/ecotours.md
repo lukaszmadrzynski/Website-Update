@@ -469,7 +469,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/FW-Banner Icon.jpg
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
