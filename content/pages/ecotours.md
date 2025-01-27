@@ -520,7 +520,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Longer Ecoexpeditions
       color: text-dark
     subtitle: Increase your reach
     text: >
