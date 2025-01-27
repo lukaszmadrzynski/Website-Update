@@ -540,7 +540,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: Want more?
+      label: Want to see more?
       color: text-primary
     colors: bg-light-fg-dark
     styles:
