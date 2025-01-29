@@ -27,22 +27,22 @@ sections:
       Village, experiencing Yunnan's rich natural beauty and cultural tapestry.
 
 
-      *   Duration: One Day (Approximately 11 hours)
+      *   Duration: Three Days 
 
 
-      *   Location: Wenhai Wetlands Nature Reserve
+      *   Location: Jade Dragon and Wenhai Wetlands Nature Reserves
 
 
-      *   Activity Level: Moderate
+      *   Activity Level: HIgh
 
 
       *   Altitudes: 2400 - 3250 m
 
 
-      *   Walking Distance: 7-8 km
+      *   Daily Walking Distance: up to 18 km
 
 
-      *   Price: **from** **USD242.00 to USD192.00 Per Person** (based on group
+      *   Price: **from** **USD687.00 to USD506.00 Per Person** (based on group
       sizes of 2 and 6 people)
 
     actions:
