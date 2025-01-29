@@ -9,25 +9,31 @@ sections:
       color: text-dark
     subtitle: Along the Ancient Tea & Horse Road
     text: >+
-      Embark on an immersive journey to Wenhai
+      Embark on an extraordinary ecotour inspired by Paul Salopek's epic
 
-      Sanctuary, a hidden gem along the historic Tea & Horse Road. Explore
+      "Out of Eden Walk" and National Geographic's "Forever Walk:
 
-      pristine wetlands with a local conservationist, discovering unique alpine
-      birds
+      China." Trek the very paths walked by Salopek and documented in the
 
-      and flowers in this tranquil ecosystem. Immerse yourself in Naxi culture
-      with a
+      acclaimed series. Explore stunning landscapes at Jade Dragon Snow Mountain
+      and
 
-      village visit and local lunch. Hike to the magnificent Tiger Cave for
+      Wenhai Wetlands, discovering rich biodiversity alongside local experts.
+      Immerse
 
-      breathtaking views of Wenhai Lake and village. Uncover the UNESCO heritage
-      of Baisha
+      yourself in authentic Naxi and Yi cultures with village stays, sharing
+      meals
 
-      Village, experiencing Yunnan's rich natural beauty and cultural tapestry.
+      and bonfires with locals. Experience the profound journey of slow travel,
+
+      connect deeply with nature and culture, and witness the breathtaking
+      beauty of
+
+      Yunnan
 
 
-      *   Duration: Three Days 
+
+      *   Duration: Three Days
 
 
       *   Location: Jade Dragon and Wenhai Wetlands Nature Reserves
