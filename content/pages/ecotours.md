@@ -453,7 +453,7 @@ sections:
         title: NatGeo's "Forever Walk"
         tagline: 3 Days | Multiple-day Hike Experience
         subtitle: from $506 to $687 per person
-        text: "Relive \"Forever Walk: China\"! Join\_guides featured in the NatGeo documentary\_on this Yunnan ecotour. Explore nature, culture, villages, following our path with Paul Salopek. Discover authentic Yunnan at a slow pace on this unique experience.\n\n"
+        text: "Relive \"Forever Walk: China\"! Join\_guides featured in the National Geographic's documentary\_on this Yunnan ecotour. Explore nature, culture, villages, following our path with Paul Salopek. Discover authentic Yunnan at a slow pace on this unique experience.\n"
         image:
           type: ImageBlock
           url: /images/FW-Banner Icon.jpg
