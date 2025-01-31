@@ -289,18 +289,13 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Discover the rich history and cultural significance of **Baisha
+          Journey through **charming minority villages** and tranquil hamlets,
+          each with its own unique
 
-          Village**, a designated UNESCO Heritage site. Explore the ancient
-          village, admire
+          character. Observe diverse architectural styles, local traditions, and
+          the
 
-          its traditional architecture, and delve into its fascinating past,
-          appreciating
-
-          the enduring legacy of this historically important location and its
-          unique
-
-          place in the region's heritage.
+          peaceful rhythm of rural life in Yunnan's diverse communities.
 
 
 
