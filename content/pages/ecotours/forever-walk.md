@@ -138,17 +138,13 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Explore the pristine **Wenhai Wetland Nature Reserve** alongside a
+          Follow a part of Pulitzer Prize winner **Paul Salopek's epic global
+          walk**. Reflect on humanity and
 
-          knowledgeable local conservationist. Learn about the delicate alpine
-          wetland
+          our planet as you trace his path through culturally rich Yunnan,
+          connecting
 
-          ecosystem, observe unique birds and flowers native to this
-          environment, and
-
-          gain insights into conservation efforts in this biodiversity hotspot,
-
-          experiencing nature firsthand. 
+          with the world through mindful exploration on foot.
 
 
 
