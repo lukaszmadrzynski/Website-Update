@@ -522,7 +522,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: s
+        title: ''
         subtitle: ''
         text: >
           Venture into pristine forests and spot some of the **world's rarest
