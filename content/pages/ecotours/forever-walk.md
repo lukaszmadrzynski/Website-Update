@@ -364,7 +364,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: fd
+        title: ''
         subtitle: ''
         text: >+
           Immerse yourself in Yi culture with an **overnight stay in Runangu
