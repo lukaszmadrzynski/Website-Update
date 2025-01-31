@@ -96,18 +96,16 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Discover the peaceful ambiance of **Fuguo Tibetan Buddhist Temple**,
+          Walk a renowned section of the "Forever Walk: China" trail, as
+          **documented by National
 
-          a serene sanctuary offering a genuine spiritual experience. Explore
-          the temple
+          Geographic**. Immerse yourself in the very landscapes and cultural
+          encounters
 
-          grounds, admire the traditional architecture, and immerse yourself in
-          the
+          that captivated the world in this celebrated documentary series,
+          experiencing
 
-          tranquil atmosphere of Tibetan Buddhist practices, a haven of calm
-          away from
-
-          the everyday bustle. 
+          China's beauty firsthand.
 
 
 
