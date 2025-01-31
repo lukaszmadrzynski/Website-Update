@@ -174,16 +174,13 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Experience the warm hospitality of the Naxi people with a visit
+          Experience ****genuine Naxi hospitality with an **overnight stay in
+          Wenhai village**. Share in local
 
-          to **Wenhai village**. Enjoy a delicious and authentic local lunch at
-          a traditional
+          customs, observe daily life, and connect with the warm community,
+          gaining
 
-          fish farm, savoring regional flavors and learning about Naxi culture
-          and
-
-          sustainable practices directly from the community in a welcoming
-          setting. 
+          unique insights into their traditions and way of living.
 
 
 
