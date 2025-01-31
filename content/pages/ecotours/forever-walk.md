@@ -172,6 +172,43 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
+        tagline: ''
+        subtitle: ''
+        text: >+
+          Discover the remarkable **biodiversity of Wenhai Wetlands** alongside
+          a local conservationist.
+
+          Learn about unique species and delicate ecosystems, witnessing
+          firsthand the
+
+          importance of conservation efforts in this stunning natural haven.
+
+
+
+
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/WHicon3.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: ''
         subtitle: ''
         text: >+
           Experience ****genuine Naxi hospitality with an **overnight stay in
@@ -209,43 +246,6 @@ sections:
             flexDirection: col
             justifyContent: center
             textAlign: left
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: >+
-          Discover the remarkable **biodiversity of Wenhai Wetlands** alongside
-          a local conservationist.
-
-          Learn about unique species and delicate ecosystems, witnessing
-          firsthand the
-
-          importance of conservation efforts in this stunning natural haven.
-
-
-
-
-
-
-
-        image:
-          type: ImageBlock
-          url: /images/WHicon3.jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
       - type: FeaturedItem
         title: ''
         subtitle: ''
