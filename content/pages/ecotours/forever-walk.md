@@ -591,16 +591,16 @@ sections:
       **What’s Included:**
 
 
-      *   English-speaking guide (Lynne Lyu or Lukasz Madrzynski).
+      *   English-speaking guide (Lukasz Madrzynski).
 
 
-      *   Local guide.
+      *   Local guides.
 
 
       *   Private Transportation.
 
 
-      *   Local Lunch and Dinner.
+      *   Breakfasts, Lunches, Dinners and snacks.
 
 
       *   Outdoor travel insurance.
@@ -609,7 +609,7 @@ sections:
       **What’s Not Included:**
 
 
-      *   Personal expenses (souvenirs, snacks).
+      *   Personal expenses (souvenirs).
 
 
       *   Gratuities for the guide(s).
