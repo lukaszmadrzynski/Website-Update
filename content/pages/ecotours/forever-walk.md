@@ -524,14 +524,21 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Venture into pristine forests and spot some of the **world's rarest
-          birds** a local
+        text: >+
+          Savor the **authentic and delicious flavors** of traditional Yunnan
+          cuisine. Enjoy home-cooked meals
 
-          bird watching station. Learn from passionate conservationists about
-          their vital
+          featuring fresh, local ingredients and discover the rich culinary
+          heritage of
 
-          work protecting these endangered species in this serene bird refuge.
+          the diverse minority cultures you encounter on your journey.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
