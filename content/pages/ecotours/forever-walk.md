@@ -444,7 +444,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: f
+        title: ''
         subtitle: ''
         text: >+
           Gather around a cozy bonfire with local villagers for an evening of
