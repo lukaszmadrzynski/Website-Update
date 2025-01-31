@@ -214,18 +214,19 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          Immerse yourself in the vibrant biodiversity of Wenhai Wetland,
+          Discover the remarkable **biodiversity of Wenhai Wetlands** alongside
+          a local conservationist.
 
-          specifically observing the **unique birds and flowers** that thrive in
-          this alpine
+          Learn about unique species and delicate ecosystems, witnessing
+          firsthand the
 
-          ecosystem. Discover the specialized adaptations of these species to
-          the wetland
+          importance of conservation efforts in this stunning natural haven.
 
-          environment, learning about their ecological roles and appreciating
-          the delicate
 
-          balance of nature in this pristine setting.
+
+
+
+
 
         image:
           type: ImageBlock
