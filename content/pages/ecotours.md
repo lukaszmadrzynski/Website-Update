@@ -453,20 +453,7 @@ sections:
         title: NatGeo's "Forever Walk"
         tagline: 3 Days | Multiple-day Hike Experience
         subtitle: from $506 to $687 per person
-        text: >+
-          Discover the wonders of Lashi Wetlands and the surrounding landscapes.
-          Explore vital ecosystems, learn
-
-          about conservation efforts, observe unique biodiversity, and immerse
-          yourself
-
-          in local Naxi and Yi cultures. Enjoy stunning cliff hikes and
-          authentic village
-
-          experiences, making it a memorable ecotour of Yunnan.
-
-
-
+        text: "Relive \"Forever Walk: China\"! Join\_guides featured in the NatGeo documentary\_on this Yunnan ecotour. Explore nature, culture, villages, following our path with Paul Salopek. Discover authentic Yunnan at a slow pace on this unique experience.\n\n"
         image:
           type: ImageBlock
           url: /images/FW-Banner Icon.jpg
