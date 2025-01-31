@@ -405,14 +405,23 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Venture into pristine forests and spot some of the **world's rarest
-          birds** a local
+        text: >+
+          Witness the **extraordinary biodiversity of ancient forests** within
+          Jade Dragon Snow Mountain.
 
-          bird watching station. Learn from passionate conservationists about
-          their vital
+          Discover a rich tapestry of plant and animal life, appreciating the
+          ecological
 
-          work protecting these endangered species in this serene bird refuge.
+          significance of Yunnan's primeval forests and their vital role in the
+
+          ecosystem.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
