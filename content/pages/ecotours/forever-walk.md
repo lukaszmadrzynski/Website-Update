@@ -483,7 +483,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: d
+        title: ''
         subtitle: ''
         text: >+
           Stand in awe of the majestic Jade Dragon Snow Mountain, its towering
