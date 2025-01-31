@@ -446,14 +446,21 @@ sections:
       - type: FeaturedItem
         title: f
         subtitle: ''
-        text: >
-          Venture into pristine forests and spot some of the **world's rarest
-          birds** a local
+        text: >+
+          Gather around a cozy bonfire with local villagers for an evening of
+          cultural connection. Share
 
-          bird watching station. Learn from passionate conservationists about
-          their vital
+          stories, laughter, and warmth under the **starry Yunnan sky**, forging
+          memorable
 
-          work protecting these endangered species in this serene bird refuge.
+          bonds and experiencing genuine local hospitality.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
