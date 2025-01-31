@@ -327,14 +327,21 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >
-          Venture into pristine forests and spot some of the **world's rarest
-          birds** a local
+        text: >+
+          Hike through the **untouched wilderness** of Jade Dragon Snow Mountain
+          Nature Reserve accompanied by
 
-          bird watching station. Learn from passionate conservationists about
-          their vital
+          a local forest ranger. Explore pristine landscapes, learn about the
+          region’s
 
-          work protecting these endangered species in this serene bird refuge.
+          ecology, and experience the raw beauty of protected nature.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
