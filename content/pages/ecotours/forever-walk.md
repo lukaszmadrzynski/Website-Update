@@ -250,18 +250,13 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Embark on an invigorating hike through lush forests leading to
+          Uncover the mysteries of Tiger Cave, a fascinating local **geological
+          wonder**. Explore its intriguing
 
-          the magnificent **Tiger Cave**. From this stunning vantage point,
-          enjoy panoramic
+          rock formations and delve into the legends surrounding this natural
+          site,
 
-          views overlooking the picturesque Wenhai Lake and the charming village
-          below,
-
-          capturing breathtaking scenery and experiencing the natural beauty of
-          the
-
-          region. 
+          adding an element of adventure to your ecotour.
 
 
 
