@@ -366,14 +366,21 @@ sections:
       - type: FeaturedItem
         title: fd
         subtitle: ''
-        text: >
-          Venture into pristine forests and spot some of the **world's rarest
-          birds** a local
+        text: >+
+          Immerse yourself in Yi culture with an **overnight stay in Runangu
+          village**. Engage with welcoming
 
-          bird watching station. Learn from passionate conservationists about
-          their vital
+          villagers, learn about their distinct customs, and participate in
+          daily life,
 
-          work protecting these endangered species in this serene bird refuge.
+          fostering genuine cultural exchange and understanding.
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
