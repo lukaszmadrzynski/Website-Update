@@ -9,11 +9,12 @@ sections:
       color: text-dark
     subtitle: Along the Ancient Tea & Horse Road
     text: >+
-      Embark on an extraordinary ecotour inspired by Paul Salopek's epic
+      Embark on an extraordinary ecotour inspired by our experience with Paul
+      Salopek's epic
 
       "Out of Eden Walk" and National Geographic's "Forever Walk:
 
-      China." Trek the very paths walked by Salopek and documented in the
+      China." Trek the very paths we walked and documented in the
 
       acclaimed series. Explore stunning landscapes at Jade Dragon Snow Mountain
       and
@@ -29,8 +30,7 @@ sections:
       connect deeply with nature and culture, and witness the breathtaking
       beauty of
 
-      Yunnan
-
+      Yunnan.
 
 
       *   Duration: Three Days
