@@ -514,7 +514,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: "Journey alongside\_**renowned conservation and ecotourism experts**\_deeply rooted in Yunnan’s landscapes. Their expertise ensures safety, while their passion for preserving ecosystems and sharing cultural stories turns every trail and homestay into an enriching, unforgettable adventure brimming with trust, insight, and heartfelt connections.\n\n"
+        text: "Journey alongside\_**renowned conservation and ecotourism experts**\_deeply rooted in Yunnan’s landscapes. Their expertise ensures safety, while their passion for preserving ecosystems and sharing cultural stories turns the journey into an enriching, unforgettable adventure.\n"
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
