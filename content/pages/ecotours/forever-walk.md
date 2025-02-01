@@ -9,8 +9,8 @@ sections:
       color: text-dark
     subtitle: Along the Ancient Tea & Horse Road
     text: >+
-      Embark on an extraordinary ecotour inspired by our experience with Paul
-      Salopek's epic
+      Embark on an extraordinary, muliti-day hike inspired by our experience
+      with Paul Salopek's epic
 
       "Out of Eden Walk" and National Geographic's "Forever Walk:
 
