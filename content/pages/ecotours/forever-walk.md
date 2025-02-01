@@ -102,10 +102,9 @@ sections:
           Geographic**. Immerse yourself in the very landscapes and cultural
           encounters
 
-          that captivated the world in this celebrated documentary series,
-          experiencing
-
-          China's beauty firsthand.
+          that captivated the world in this celebrated documentary series.
+          Experience China's beauty firsthand on this unforgettable journey
+          through Yunnan's stunning natural and cultural wonders.
 
 
 
