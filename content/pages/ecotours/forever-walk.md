@@ -181,7 +181,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/WHicon3.jpg
+          url: /images/FW-Icon11.jpg
           altText: Placeholder text
           styles:
             self:
