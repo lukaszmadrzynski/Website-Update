@@ -517,7 +517,7 @@ sections:
         text: "Journey alongside\_**renowned conservation and ecotourism experts**\_deeply rooted in Yunnan’s landscapes. Their expertise ensures safety, while their passion for preserving ecosystems and sharing cultural stories turns the journey into an enriching, unforgettable adventure.\n"
         image:
           type: ImageBlock
-          url: /images/Icon5b.jpg
+          url: /images/FW-Icon1.jpg
           altText: Placeholder text
           elementId: ''
           styles:
