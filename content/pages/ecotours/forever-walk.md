@@ -514,7 +514,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: "From conservationists to cultural experts, our team\n     ensures an enriching, safe, and unforgettable experience.\_Enjoy\n     expert coordination and local guides\_who bring the journey to\n     life with their deep knowledge, passion, and dedication to sharing\n     Yunnan's treasures.\n\n\n\n\n\n\n\n"
+        text: "From conservationists to cultural experts, our team\nensures an enriching, safe, and unforgettable experience.\_Enjoy\n**expert coordination and local guides**\_who bring the journey to\nlife with their deep knowledge, passion, and dedication to sharing\nYunnan's treasures.\n"
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
