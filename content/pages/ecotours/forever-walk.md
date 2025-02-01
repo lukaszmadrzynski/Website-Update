@@ -95,23 +95,14 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
+        text: >
           Walk a renowned section of the "Forever Walk: China" trail, as
           **documented by National
 
           Geographic**. Immerse yourself in the very landscapes and cultural
           encounters
 
-          that captivated the world in this celebrated documentary series.
-          Experience China's beauty firsthand on this unforgettable journey
-          through Yunnan's stunning natural and cultural wonders.
-
-
-
-
-
-
-
+          that captivated the world in this celebrated documentary series. 
         image:
           type: ImageBlock
           url: /images/FW-Icon3.jpg
