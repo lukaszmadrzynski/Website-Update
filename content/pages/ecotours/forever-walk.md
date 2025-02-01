@@ -453,7 +453,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon5b.jpg
+          url: /images/FW-Icon13.jpg
           altText: Placeholder text
           elementId: ''
           styles:
