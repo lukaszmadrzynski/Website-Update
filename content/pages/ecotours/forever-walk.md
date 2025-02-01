@@ -39,7 +39,7 @@ sections:
       *   Location: Jade Dragon and Wenhai Wetlands Nature Reserves
 
 
-      *   Activity Level: HIgh
+      *   Activity Level: High
 
 
       *   Altitudes: 2400 - 3250 m
