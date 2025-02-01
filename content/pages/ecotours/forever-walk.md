@@ -514,21 +514,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          Savor the **authentic and delicious flavors** of traditional Yunnan
-          cuisine. Enjoy home-cooked meals
-
-          featuring fresh, local ingredients and discover the rich culinary
-          heritage of
-
-          the diverse minority cultures you encounter on your journey.
-
-
-
-
-
-
-
+        text: "From conservationists to cultural experts, our team\n     ensures an enriching, safe, and unforgettable experience.\_Enjoy\n     expert coordination and local guides\_who bring the journey to\n     life with their deep knowledge, passion, and dedication to sharing\n     Yunnan's treasures.\n\n\n\n\n\n\n\n"
         image:
           type: ImageBlock
           url: /images/Icon5b.jpg
