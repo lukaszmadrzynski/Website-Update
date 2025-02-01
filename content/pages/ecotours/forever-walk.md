@@ -217,7 +217,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon4.jpg
+          url: /images/FW-Icon15.jpg
           altText: Placeholder text
           elementId: ''
           styles:
