@@ -1,0 +1,53 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "our guides",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "ddd"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Expert Local Guides",
+                "tagline": "",
+                "subtitle": "",
+                "text": "Our passionate and knowledgeable guides have been actively involved in nature conservation and sustainble development around Northwest Yunnan and Southeast Tibet, offering unique insights and ensuring an authentic ecotourism experience.\n",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/Guides.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Placeholder Image",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "borderRadius": "x-large"
+                        }
+                    }
+                },
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-dark-fg-light",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-8",
+                            "pl-8",
+                            "pb-8",
+                            "pr-8"
+                        ],
+                        "borderRadius": "x-large",
+                        "flexDirection": "col"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-our-guides-e2ed.png"
+        }
+    ]
+}
