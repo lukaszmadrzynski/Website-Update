@@ -1,0 +1,54 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "dest",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "ddd"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "Our Ecotourism Destinations",
+                    "color": "text-dark",
+                    "styles": null
+                },
+                "subtitle": "",
+                "text": "Northwest Yunnan is one of the most culturally and naturally diverse\n regions of China and the world at large. It homes over 20 ethnic minority groups, a multitude of diverse ecosystems and countless species of endemic flora and fauna. All of our ecotour destinations are based in nature\nreserves and heritage sites where we have been actively involved in nature conservation and sustainable development projects.\n",
+                "actions": [],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/hero3.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Dope design preview",
+                    "elementId": null,
+                    "styles": null
+                },
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "",
+                    "color": "text-primary",
+                    "styles": null
+                },
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "flexDirection": "row-reverse"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-dest-c211.png"
+        }
+    ]
+}
