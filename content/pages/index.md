@@ -145,6 +145,55 @@ sections:
             margin:
               - ml-1
               - mr-1
+      - type: FeaturedItem
+        title: Yunnan Monkey Journey
+        tagline: 2 Days | Tibetan Nature and Culture
+        subtitle: from $340 to $469 per person
+        text: >+
+          <div style="text-align: left">Explore Yunnan's natural wonders and
+          Tibetan cultural treasures! Spot rare, endangered monkeys, hike
+          stunning landscapes, and
+
+          discover local minority cultures. Learn about conservation, enjoy
+          authentic
+
+          experiences, and create unforgettable memories in China's beautiful
+
+          countryside.</div>
+
+        image:
+          type: ImageBlock
+          url: /images/TC-Banner Icon.jpg
+          altText: ''
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /ecotours/shangri-la
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
+            margin:
+              - ml-1
+              - mr-1
     actions: []
     elementId: ''
     variant: three-col-grid
