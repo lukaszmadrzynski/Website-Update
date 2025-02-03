@@ -318,7 +318,7 @@ sections:
             margin:
               - ml-1
               - mr-1
-        tagline: 1 Day | Off-the-beaten-path
+        tagline: One Day | Off-the-beaten-path
     actions: []
     elementId: ''
     variant: three-col-grid
