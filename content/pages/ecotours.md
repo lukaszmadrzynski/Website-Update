@@ -224,7 +224,7 @@ sections:
             margin:
               - ml-1
               - mr-1
-        tagline: 1 Day | Off-the-beaten-path
+        tagline: One Day | Off-the-beaten-path
       - type: FeaturedItem
         title: Living Waters of Lashi
         subtitle: from $199 to $251 per person
