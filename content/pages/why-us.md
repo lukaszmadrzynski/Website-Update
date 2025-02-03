@@ -394,7 +394,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Explore?
+      text: Join Us!
       color: text-dark
       styles:
         self:
