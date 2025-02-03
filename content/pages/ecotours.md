@@ -95,7 +95,7 @@ sections:
             margin:
               - ml-1
               - mr-1
-        tagline: Half-Day | Biodiversity Hike (only
+        tagline: Half-Day | Biodiversity Hike (only July to September)
       - type: FeaturedItem
         title: "Zhongji\_Migratory Birds"
         subtitle: from $38 to $58 per person
