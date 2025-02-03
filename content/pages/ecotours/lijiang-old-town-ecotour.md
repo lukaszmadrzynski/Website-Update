@@ -27,8 +27,7 @@ sections:
 
       architecture and picturesque bridges. Experience Lijiang's rich history,
 
-      vibrant culture, and stunning natural beauty, creating unforgettable
-      memories.
+      vibrant culture, and stunning natural beauty.
 
 
       *   Duration: Half-Day (Approximately 4 hours)
