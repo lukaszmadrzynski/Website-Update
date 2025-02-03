@@ -350,7 +350,7 @@ sections:
         Exclusive
         Insights
       color: text-dark
-    subtitle: Discover Yunnan's Hidden Gems – Our Conservation Project Sites
+    subtitle: Discover Hidden Gems – Our Project Sites
     text: >+
 
 
