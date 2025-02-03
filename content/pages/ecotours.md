@@ -401,7 +401,7 @@ sections:
               - ml-1
               - mr-1
       - type: FeaturedItem
-        title: Yunnan Monkey Journey
+        title: Shangri-La Monkey Journey
         tagline: 2 Days | Tibetan Nature and Culture
         subtitle: from $340 to $469 per person
         text: >+
