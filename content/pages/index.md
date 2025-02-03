@@ -145,49 +145,6 @@ sections:
             margin:
               - ml-1
               - mr-1
-      - type: FeaturedItem
-        title: Ancient Tea & Horse Road
-        subtitle: 1 Day | Private Off-the-beaten-path
-        text: >+
-          <div style="text-align: left">Embark on a challenging yet rewarding
-          trek on Jade Dragon Snow Mountain near Lijiang, experiencing diverse
-          ecosystems and stunning alpine scenery. Discover the unique flora and
-          fauna of this iconic Yunnan peak, a highlight of ecotourism in the
-          region.</div>
-
-        image:
-          type: ImageBlock
-          url: /images/wenhai2.jpg
-          altText: ''
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Learn More
-            altText: ''
-            url: /ecotours
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-            textAlign: center
-            margin:
-              - ml-1
-              - mr-1
     actions: []
     elementId: ''
     variant: three-col-grid
