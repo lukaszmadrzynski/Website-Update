@@ -240,32 +240,6 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Expert Local Guides
-        tagline: ''
-        subtitle: ''
-        text: >
-          Our passionate and knowledgeable guides have been actively involved in
-          nature conservation and sustainble development around Northwest Yunnan
-          and Southeast Tibet, offering unique insights and ensuring an
-          authentic ecotourism experience.
-        image:
-          url: /images/Guides.jpg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
       - type: FeaturedItem
         title: Authentic & Off-the-beaten-path
         tagline: ''
