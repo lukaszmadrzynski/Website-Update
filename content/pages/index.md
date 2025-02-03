@@ -496,39 +496,6 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Inquiry and Booking
-      color: text-dark
-      type: TitleBlock
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 400
-    subtitle: We respond within one day!
-    text: |
-      Reach out for more tours, details, special offers and customizations.
-    colors: bg-light-fg-dark
-    type: GenericSection
-    styles:
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      self:
-        justifyContent: center
-        padding:
-          - pt-6
-          - pb-6
-    actions:
-      - type: Button
-        label: Contact Us
-        altText: ''
-        url: /contact-us
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-  - title:
       text: Cloud Mountain Ecotours
       color: text-dark
       type: TitleBlock
@@ -565,6 +532,39 @@ sections:
           - pr-2
         justifyContent: center
     type: GenericSection
+  - title:
+      text: Inquiry and Booking
+      color: text-dark
+      type: TitleBlock
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 400
+    subtitle: We respond within one day!
+    text: |
+      Reach out for more tours, details, special offers and customizations.
+    colors: bg-light-fg-dark
+    type: GenericSection
+    styles:
+      text:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      self:
+        justifyContent: center
+        padding:
+          - pt-6
+          - pb-6
+    actions:
+      - type: Button
+        label: Contact Us
+        altText: ''
+        url: /contact-us
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
 seo:
   metaTitle: 'Authentic Yunnan Ecotours: Explore Lijiang & Shangri-La, China Travel.'
   metaDescription: >-
