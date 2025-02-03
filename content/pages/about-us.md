@@ -319,7 +319,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Sustainability2.jpg
+      url: /images/Sustainability2-2.jpg
       altText: Dope design preview
     badge:
       type: Badge
