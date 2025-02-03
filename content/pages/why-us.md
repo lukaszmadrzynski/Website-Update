@@ -346,7 +346,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Our Ecotourism Destinations
+      text: |-
+        Exclusive
+        Insights
       color: text-dark
     subtitle: ''
     text: >
