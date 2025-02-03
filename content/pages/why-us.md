@@ -350,7 +350,7 @@ sections:
         Exclusive
         Insights
       color: text-dark
-    subtitle: Discover Hidden Gems – Our Project Sites
+    subtitle: Our Project Sites
     text: >+
 
 
