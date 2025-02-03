@@ -9,15 +9,26 @@ sections:
       color: text-dark
     subtitle: A Cultural Journey Through Lijiang’s Historic Heart
     text: >+
-      Embark on a captivating private ecotour that immerses you in the rich
-      heritage and vibrant culture of Naxi ethnic group. Begin your journey with
-      a convenient pick-up, followed by visits to historical sites and serene
-      parks that showcase the region’s biodiveristy and cultural significance.
-      Stroll through lively streets filled with local crafts and flavors, while
-      exploring architectural gems that reflect the unique traditions of the
-      Naxi people. This experience beautifully intertwines history, culture, and
-      nature, offering an unforgettable glimpse into one of China’s most
-      enchanting destinations.
+      Step back in time in Lijiang's
+
+      enchanting UNESCO-listed Old Town. Wander its ancient streets, absorbing
+      the
+
+      unique blend of cultures. Find tranquility in a beautiful park with
+
+      breathtaking mountain views. Discover local traditions at historic sites
+      and witness
+
+      iconic landmarks. Immerse yourself in the lively atmosphere of bustling
+      markets
+
+      and squares, tasting local flavors and finding unique crafts. Admire
+      stunning
+
+      architecture and picturesque bridges. Experience Lijiang's rich history,
+
+      vibrant culture, and stunning natural beauty, creating unforgettable
+      memories.
 
 
       *   Duration: Half-Day (Approximately 4 hours)
