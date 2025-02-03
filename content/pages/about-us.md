@@ -39,7 +39,7 @@ sections:
         flexDirection: row
     media:
       type: ImageBlock
-      url: /images/banner 3by2.jpg
+      url: /images/About-Us Banner.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
