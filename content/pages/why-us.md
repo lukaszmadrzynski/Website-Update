@@ -346,6 +346,31 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: Our Ecotourism Destinations
+      color: text-dark
+    subtitle: ''
+    text: >
+      Northwest Yunnan is one of the most culturally and naturally diverse
+       regions of China and the world at large. It homes over 20 ethnic minority groups, a multitude of diverse ecosystems and countless species of endemic flora and fauna. All of our ecotour destinations are based in nature
+      reserves and heritage sites where we have been actively involved in nature
+      conservation and sustainable development projects.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/hero3.svg
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: Ready to Explore?
       color: text-dark
       styles:
