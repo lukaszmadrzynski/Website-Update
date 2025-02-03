@@ -104,7 +104,7 @@ sections:
               - mr-1
       - type: FeaturedItem
         title: Jade Dragon's Hidden Trails
-        tagline: 1 Day | Off-the-beaten-path
+        tagline: One Day | Off-the-beaten-path
         subtitle: from $192 to $242 per person
         text: >
           Escape the tourist crowds in Yunnan on this ecotour, discovering
