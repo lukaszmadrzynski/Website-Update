@@ -252,7 +252,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Guides.jpg
+      url: /images/Guides-7.jpg
       altText: Dope design preview
     badge:
       type: Badge
