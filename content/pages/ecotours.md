@@ -109,7 +109,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/ZH-Banner Icon.jpg
           altText: ''
           elementId: ''
           styles:
