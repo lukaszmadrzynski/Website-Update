@@ -485,6 +485,16 @@ sections:
         padding:
           - pt-10
           - pb-16
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - title:
       text: Inquiry and Booking
       color: text-dark
@@ -518,16 +528,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
       text: Cloud Mountain Ecotours
       color: text-dark
