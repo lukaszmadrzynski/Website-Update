@@ -61,7 +61,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Naxi Heritage Trail
+        title: Naxi Heritage Walking Tour
         tagline: Half-Day | Cultural Heritage Walk
         subtitle: from $48 to $68 per person
         text: >
