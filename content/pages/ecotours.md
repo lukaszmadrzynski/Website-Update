@@ -101,11 +101,11 @@ sections:
         title: "Zhongji\_Migratory Birds"
         subtitle: from $38 to $58 per person
         text: >+
-          <div style="text-align: left">Embark on a challenging yet rewarding
-          trek on Jade Dragon Snow Mountain near Lijiang, experiencing diverse
-          ecosystems and stunning alpine scenery. Discover the unique flora and
-          fauna of this iconic Yunnan peak, a highlight of ecotourism in the
-          region.</div>
+          <div style="text-align: left">**(Only from November to February)**
+          Embark on a challenging yet rewarding trek on Jade Dragon Snow
+          Mountain near Lijiang, experiencing diverse ecosystems and stunning
+          alpine scenery. Discover the unique flora and fauna of this iconic
+          Yunnan peak, a highlight of ecotourism in the region.</div>
 
         image:
           type: ImageBlock
