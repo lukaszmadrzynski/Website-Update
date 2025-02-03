@@ -20,9 +20,7 @@ sections:
       experiences but also championed sustainable practices and fostered genuine
       connections with local communities. We believe that travel to China,
       particularly in regions like Lijiang and Shangri-La, should be a force for
-      good, enriching both visitors and the places they explore. Our journey
-      began with a desire to share the magic of Yunnan while preserving its
-      unique natural and cultural heritage for generations to come.</div>
+      good, enriching both visitors and the places they explore. </div>
 
     actions: []
     colors: bg-light-fg-dark
