@@ -168,7 +168,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Wenhai Tea & Horse Road
+        title: Tea & Horse Road
         subtitle: from $192 to $242 per person
         text: >+
           <div style="text-align: left">Escape to Wenhai
