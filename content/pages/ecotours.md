@@ -202,12 +202,7 @@ sections:
           UNESCO heritage
 
           of Baisha Village. An enriching eco-cultural adventure awaits in
-          Yunnan!
-
-
-
-
-          </div>
+          Yunnan!</div>
 
         image:
           type: ImageBlock
