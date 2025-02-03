@@ -58,10 +58,11 @@ sections:
         title: Lijiang's Forgotten Forest
         subtitle: from $38 to $58 per person
         text: >
-          Embark on a challenging yet rewarding trek on Jade Dragon Snow
-          Mountain near Lijiang, experiencing diverse ecosystems and stunning
-          alpine scenery. Discover the unique flora and fauna of this iconic
-          Yunnan peak, a highlight of ecotourism in the region.
+          **(Only from July to September)** Embark on a challenging yet
+          rewarding trek on Jade Dragon Snow Mountain near Lijiang, experiencing
+          diverse ecosystems and stunning alpine scenery. Discover the unique
+          flora and fauna of this iconic Yunnan peak, a highlight of ecotourism
+          in the region.
         image:
           type: ImageBlock
           url: /images/XS-Banner Icon.jpg
