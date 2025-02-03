@@ -275,7 +275,7 @@ sections:
             margin:
               - ml-1
               - mr-1
-        tagline: 1 Day | Off-the-beaten-path
+        tagline: One Day | Off-the-beaten-path
       - type: FeaturedItem
         title: Hidden Jade Dragon
         subtitle: from $192 to $242 per person
