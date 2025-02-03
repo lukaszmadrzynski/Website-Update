@@ -400,8 +400,9 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: |+
-      <div style="text-align: center">Get Started!</div>
+    text: >+
+      <div style="text-align: center">Start your exclusive, insider journey
+      now.</div>
 
     actions:
       - type: Button
