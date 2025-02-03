@@ -346,7 +346,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Laojun's Wild Heart
+        title: Lijiang's Wild Heart
         tagline: 2 Days | Deep Into Wilderness
         subtitle: from $313 to $458 per person
         text: >+
