@@ -296,19 +296,16 @@ sections:
       - type: FeaturedItem
         title: Hidden Jade Dragon
         subtitle: from $192 to $242 per person
-        text: >+
+        text: >
           Escape the crowds on an
 
           authentic Lijiang ecotour! Explore hidden temples, pristine wetlands
-          and local
+          and secluded minority
 
           villages. Hike with a ranger in the Jade Dragon Snow Mountain Nature
           Reserve and
 
           share a meal with the Yi people. An unforgettable adventure awaits!
-
-
-
         image:
           type: ImageBlock
           url: /images/YL-Banner Icon 5.jpg
