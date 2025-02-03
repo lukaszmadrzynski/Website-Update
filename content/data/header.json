@@ -31,15 +31,6 @@
             "type": "Link"
         },
         {
-            "label": "Destinations",
-            "altText": "Destinations page",
-            "url": "/destinations",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "About Us",
             "altText": "About Us page",
