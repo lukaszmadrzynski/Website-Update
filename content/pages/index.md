@@ -103,7 +103,7 @@ sections:
               - ml-1
               - mr-1
       - type: FeaturedItem
-        title: Jade Dragon's Hidden Trails
+        title: "Hidden\_Jade Dragon"
         tagline: One Day | Off-the-beaten-path
         subtitle: from $192 to $242 per person
         text: >
