@@ -57,11 +57,29 @@ sections:
       - type: FeaturedItem
         title: Lijiang's Forgotten Forest
         subtitle: from $38 to $58 per person
-        text: >
-          **(Only from July to September)** Embark on a challenging yet
-          rewarding trek on Jade Dragon Snow Mountain near Lijiang, experiencing
-          diverse ecosystems and stunning alpine scenery. Discover the unique
-          flora and fauna of this iconic Yunnan peak.
+        text: >+
+          **(Only from July to September)** 
+
+          Discover Lijiang's hidden natural gem! Explore a protected area
+          teeming with rare orchids, unique plants, and
+
+          diverse wildlife. Hike with a local expert, discover Naxi culture, and
+          enjoy
+
+          breathtaking panoramic views of Lijiang and Jade Dragon Snow Mountain.
+          Finish
+
+          your adventure at the famous Black Dragon Pool Park. An easy escape
+          into
+
+          stunning nature!
+
+
+
+
+
+
+
         image:
           type: ImageBlock
           url: /images/XS-Banner Icon.jpg
