@@ -33,6 +33,7 @@ sections:
           - pl-2
           - pr-2
         flexDirection: col-reverse
+        alignItems: center
     media:
       type: ImageBlock
       url: /images/Why Us Hero.jpg
