@@ -60,6 +60,9 @@ sections:
       url: /images/wenhai banner3.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
+      styles:
+        self:
+          borderRadius: x-large
     badge:
       type: Badge
       label: Wenhai Wetlands Nature Reserve | one-day Ecotour
