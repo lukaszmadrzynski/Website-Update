@@ -340,7 +340,7 @@ sections:
     type: FeaturedItemsSection
     actions:
       - type: Button
-        label: Why Us
+        label: Go to Why Us page
         altText: ''
         url: /why-us
         showIcon: false
