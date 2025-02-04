@@ -91,7 +91,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Lukasz Madrzynski
+        title: Lukas Madrzynski
         tagline: ''
         subtitle: ''
         text: >
