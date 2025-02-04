@@ -259,7 +259,7 @@ sections:
                 - pt-0
                 - pl-0
               margin:
-                - mt-3
+                - mt-0
                 - mr-3
                 - ml-3
           type: ImageBlock
