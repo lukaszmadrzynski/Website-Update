@@ -205,7 +205,16 @@ sections:
             margin:
               - ml-1
               - mr-1
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /ecotours
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
