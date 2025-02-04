@@ -379,7 +379,7 @@ sections:
         flexDirection: row-reverse
         padding:
           - pb-12
-          - pt-12
+          - pt-8
           - pl-3
           - pr-3
   - type: GenericSection
