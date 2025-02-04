@@ -298,8 +298,10 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         padding:
-          - pt-12
-          - pb-12
+          - pt-3
+          - pb-3
+          - pl-3
+          - pr-3
   - type: GenericSection
     title:
       type: TitleBlock
