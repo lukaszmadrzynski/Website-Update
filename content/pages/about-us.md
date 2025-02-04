@@ -341,7 +341,7 @@ sections:
         justifyContent: center
         padding:
           - pb-3
-          - pt-3
+          - pt-8
           - pl-3
           - pr-3
   - type: GenericSection
