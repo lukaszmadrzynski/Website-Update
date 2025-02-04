@@ -258,6 +258,8 @@ sections:
               padding:
                 - pt-0
                 - pl-0
+              margin:
+                - mt-3
           type: ImageBlock
         colors: bg-dark-fg-light
         styles:
