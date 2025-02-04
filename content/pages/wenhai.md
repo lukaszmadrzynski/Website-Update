@@ -353,10 +353,10 @@ sections:
     styles:
       self:
         padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
+          - pb-3
+          - pt-3
+          - pl-3
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
