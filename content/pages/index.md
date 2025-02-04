@@ -11,7 +11,7 @@ sections:
       Lijiang to Shangri-La, with expert local guides, supporting community
       tourism and making a positive impact through ecotourism.
     actions:
-      - label: View our Ecotours
+      - label: View All Ecotours
         altText: ''
         url: /ecotours
         showIcon: false
