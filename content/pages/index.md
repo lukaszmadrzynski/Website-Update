@@ -417,7 +417,12 @@ sections:
       - title: ''
         tagline: ''
         subtitle: ''
-        text: ''
+        text: >+
+          #### *"The expertise and knowledge of the guides go far beyond what we
+          experienced. The topic of sustainability will continue indefinitely,
+          and seeds of love have already been planted in the hearts of our
+          children."*
+
         image:
           altText: Maria Walters
           styles:
