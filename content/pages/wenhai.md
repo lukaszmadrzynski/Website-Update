@@ -76,7 +76,7 @@ sections:
         padding:
           - pt-3
           - pl-3
-          - pb-9
+          - pb-12
           - pr-3
         justifyContent: center
   - type: FeaturedItemsSection
