@@ -53,6 +53,9 @@ sections:
       type: TitleBlock
       text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
       color: text-dark
+      styles:
+        self:
+          fontWeight: 400
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
