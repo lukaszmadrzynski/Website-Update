@@ -162,7 +162,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Reasons to Choose Cloud Mountain Ecotours
+      text: Key Reasons to Choose Us
       color: text-primary
       styles:
         self:
