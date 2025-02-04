@@ -382,10 +382,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “Kids love Lukas, he is very rational, patient and kind. He is very
-          knowledgeable in introducing local flora and fauna, highly
-          experienced, and familiar with the terrain.”
+      - title: ''
         tagline: ''
         subtitle: ''
         text: >+
