@@ -334,7 +334,10 @@ sections:
           “Through six days of close interaction, the kids have been exploring
           the rules of getting along with others while uncovering the mysteries
           of the world! Truly an experience with profound educational value.”
-        subtitle: ''
+        subtitle: >-
+          “Through six days of close interaction, the kids have been exploring
+          the rules of getting along with others while uncovering the mysteries
+          of the world! Truly an experience with profound educational value.”
         text: ''
         image:
           altText: Maria Walters
