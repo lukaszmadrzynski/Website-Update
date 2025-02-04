@@ -338,6 +338,16 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /why-us
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - type: CarouselSection
     title: null
     subtitle: Hear from our Eco-travellers
