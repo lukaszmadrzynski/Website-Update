@@ -414,11 +414,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "The expertise and knowledge of the guides go far beyond what we
-          experienced. The topic of sustainability will continue indefinitely,
-          and seeds of love have already been planted in the hearts of our
-          children."
+      - title: ''
         tagline: ''
         subtitle: ''
         text: ''
