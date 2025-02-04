@@ -558,7 +558,7 @@ sections:
           - pb-16
           - pt-16
           - pl-2
-          - pr-16
+          - pr-2
         justifyContent: center
       subtitle:
         textAlign: center
