@@ -74,10 +74,10 @@ sections:
         alignItems: center
         flexDirection: col-reverse
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-4
+          - pl-4
+          - pb-4
+          - pr-4
         justifyContent: center
   - type: FeaturedItemsSection
     title:
