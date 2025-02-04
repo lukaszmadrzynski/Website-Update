@@ -336,14 +336,10 @@ sections:
           the rules of getting along with others while uncovering the mysteries
           of the world! Truly an experience with profound educational value.”
         text: >+
-          ## *“Through six days of close interaction, the kids have been
+          #### *“Through six days of close interaction, the kids have been
           exploring the rules of getting along with others while uncovering the
           mysteries of the world! Truly an experience with profound educational
           value.”*
-
-
-
-
 
         image:
           altText: Maria Walters
