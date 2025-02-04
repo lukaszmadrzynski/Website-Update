@@ -3,7 +3,7 @@ title: Cloud Mountain Ecotours
 slug: /
 sections:
   - type: GenericSection
-    subtitle: Lijiang and Shangri-la
+    subtitle: Northwest Yunnan | Southeast Tibet
     text: >
       Immerse yourself in the breathtaking landscapes and vibrant cultures of
       Northwest Yunnan and Southeast Tibet on our immersive and sustainable
