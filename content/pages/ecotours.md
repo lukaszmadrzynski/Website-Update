@@ -563,7 +563,7 @@ sections:
           - pt-3
           - pb-3
           - pl-3
-          - pr-2
+          - pr-3
         flexDirection: ''
   - type: GenericSection
     title:
