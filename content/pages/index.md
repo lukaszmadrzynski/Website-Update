@@ -207,7 +207,7 @@ sections:
               - mr-1
     actions:
       - type: Button
-        label: Get started
+        label: View All Ecotours
         altText: ''
         url: /ecotours
         showIcon: false
