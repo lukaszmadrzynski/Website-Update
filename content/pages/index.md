@@ -51,7 +51,7 @@ sections:
         textAlign: justify
     title:
       type: TitleBlock
-      text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
+      text: Authentic Ecotourism Adventures in Yunnan
       color: text-dark
       styles:
         self:
