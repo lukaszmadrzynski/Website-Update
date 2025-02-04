@@ -56,106 +56,6 @@ sections:
       styles:
         self:
           fontWeight: 400
-  - title:
-      text: |-
-        Why
-        Choose Us
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    items:
-      - title: Private & Customized
-        tagline: ''
-        subtitle: ''
-        text: >
-          Enjoy a private and personalized experience on our ecotours in
-          Northwest Yunnan and Southeast Tibet. Foster a deeper connections with
-          local nature and culture.
-        image:
-          url: /images/Private.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - type: FeaturedItem
-        title: Authentic & Off-the-beaten-path
-        tagline: ''
-        subtitle: ''
-        text: >
-          Go beyond the typical tourist attractions and engage directly with
-          local communities, experiencing the unique cultures of Lijiang,
-          Shangri-La, and beyond on our authentic ecotourism trips.
-        image:
-          type: ImageBlock
-          url: /images/Off the beaten path3.jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - title: Sustainable & Responsible
-        tagline: ''
-        subtitle: ''
-        text: >
-          We are deeply committed to minimizing our environmental impact and
-          supporting local communities through ethical and sustainable tourism
-          practices.
-        image:
-          url: /images/Sustainable.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -322,6 +222,106 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
+  - title:
+      text: |-
+        Why
+        Choose Us
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: ''
+    items:
+      - title: Private & Customized
+        tagline: ''
+        subtitle: ''
+        text: >
+          Enjoy a private and personalized experience on our ecotours in
+          Northwest Yunnan and Southeast Tibet. Foster a deeper connections with
+          local nature and culture.
+        image:
+          url: /images/Private.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - type: FeaturedItem
+        title: Authentic & Off-the-beaten-path
+        tagline: ''
+        subtitle: ''
+        text: >
+          Go beyond the typical tourist attractions and engage directly with
+          local communities, experiencing the unique cultures of Lijiang,
+          Shangri-La, and beyond on our authentic ecotourism trips.
+        image:
+          type: ImageBlock
+          url: /images/Off the beaten path3.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - title: Sustainable & Responsible
+        tagline: ''
+        subtitle: ''
+        text: >
+          We are deeply committed to minimizing our environmental impact and
+          supporting local communities through ethical and sustainable tourism
+          practices.
+        image:
+          url: /images/Sustainable.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: FeaturedItemsSection
   - type: CarouselSection
     title: null
     subtitle: Hear from our Eco-travellers
