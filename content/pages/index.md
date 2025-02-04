@@ -358,7 +358,10 @@ sections:
       - title: ''
         tagline: ''
         subtitle: ''
-        text: ''
+        text: >+
+          #### *"Lynne is so sweet and helpful. She’s very thoughtful, patient,
+          knowledgeable, and experienced in communicating with children."*
+
         image:
           altText: John Doe
           styles:
