@@ -220,7 +220,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/wenhai
+            url: /wenhai
             showIcon: false
             icon: arrowRight
             iconPosition: right
