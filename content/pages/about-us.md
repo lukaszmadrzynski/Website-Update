@@ -288,6 +288,9 @@ sections:
       type: ImageBlock
       url: /images/Collaboration.jpg
       altText: Dope design preview
+      styles:
+        self:
+          borderRadius: x-large
     badge:
       type: Badge
       label: Multi-Stakeholders
