@@ -460,7 +460,7 @@ sections:
         flexDirection: row-reverse
         justifyContent: center
         padding:
-          - pt-3
+          - pt-9
           - pl-3
           - pb-3
           - pr-3
