@@ -192,7 +192,7 @@ sections:
             self:
               borderRadius: x-large
               margin:
-                - ml-1
+                - ml-0
                 - mr-0
         actions: []
         colors: bg-light-fg-dark
