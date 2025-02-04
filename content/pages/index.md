@@ -443,13 +443,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "This is the second time coming to Yunnan to join ecotour
-
-          with Lukas and Lynne. The things we’ve seen here, the mountains,
-          waters,
-
-          people, animals, and plants - have left an even deeper impression."
+      - title: ''
         tagline: ''
         subtitle: ''
         text: ''
