@@ -329,6 +329,9 @@ sections:
       type: ImageBlock
       url: /images/Sustainability2-2.jpg
       altText: Dope design preview
+      styles:
+        self:
+          borderRadius: x-large
     badge:
       type: Badge
       label: Our Expertise
