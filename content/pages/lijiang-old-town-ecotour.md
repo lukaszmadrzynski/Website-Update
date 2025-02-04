@@ -2,7 +2,7 @@
 type: PageLayout
 title: Lijiang Old Town Ecotour
 sections: []
-slug: /ecotours/lijiang-old-town-ecotour
+slug: /lijiang-old-town-ecotour
 isDraft: false
 seo:
   type: Seo
