@@ -33,7 +33,7 @@ sections:
           - pt-6
           - pb-6
           - pl-2
-          - pr-1
+          - pr-2
         flexDirection: col-reverse
     media:
       type: ImageBlock
