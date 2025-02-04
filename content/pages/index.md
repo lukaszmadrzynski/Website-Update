@@ -467,6 +467,7 @@ sections:
         padding:
           - pb-14
           - pl-2
+          - pr-2
       subtitle:
         textAlign: center
         fontWeight: 700
