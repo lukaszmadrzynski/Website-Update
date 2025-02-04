@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Elephant Hill Ecotour
+title: Zhongji Migratory Birds
 sections:
   - type: GenericSection
     title:
