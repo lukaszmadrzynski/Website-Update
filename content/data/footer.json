@@ -69,13 +69,6 @@
             "url": "/",
             "icon": "linkedin",
             "type": "Social"
-        },
-        {
-            "type": "Social",
-            "altText": "Email link",
-            "url": "\"lukas@cloudmountain.top\"",
-            "icon": "mail",
-            "elementId": ""
         }
     ],
     "legalLinks": [
