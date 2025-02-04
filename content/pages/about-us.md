@@ -252,6 +252,9 @@ sections:
       type: ImageBlock
       url: /images/Guides-7.jpg
       altText: Dope design preview
+      styles:
+        self:
+          borderRadius: x-large
     badge:
       type: Badge
       label: Building Bridges
