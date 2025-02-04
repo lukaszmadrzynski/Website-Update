@@ -27,15 +27,6 @@
                 "altText": "Why Us page"
             },
             {
-                "label": "Destinations",
-                "url": "/destinations",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link",
-                "altText": "Destinations page"
-            },
-            {
                 "type": "Link",
                 "label": "About Us",
                 "altText": "About Us page",
