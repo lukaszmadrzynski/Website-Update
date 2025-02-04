@@ -466,6 +466,7 @@ sections:
         justifyContent: center
         padding:
           - pb-14
+          - pl-2
       subtitle:
         textAlign: center
         fontWeight: 700
