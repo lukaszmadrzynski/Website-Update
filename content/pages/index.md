@@ -7,9 +7,9 @@ sections:
     text: >
       Immerse yourself in the breathtaking landscapes and vibrant cultures of
       Northwest Yunnan and Southeast Tibet on our immersive and sustainable
-      ecotours. Explore the wonders of the ancient Tea and Horse Road, from
-      Lijiang to Shangri-La, with expert local guides, supporting community
-      tourism and making a positive impact through ecotourism.
+      ecotours. Explore the wonders of the ancient Tea and Horse Road, from Naxi
+      Lijiang to Tibetan Shangri-La, with expert local guides, supporting
+      community tourism and making a positive impact through ecotourism.
     actions:
       - label: View All Ecotours
         altText: ''
