@@ -32,7 +32,7 @@ sections:
         padding:
           - pt-6
           - pb-6
-          - pl-1
+          - pl-2
           - pr-1
         flexDirection: col-reverse
     media:
