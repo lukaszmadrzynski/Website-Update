@@ -1,29 +1,7 @@
 ---
-title: Home
+title: Cloud Mountain Ecotours
 slug: /
 sections:
-  - type: GenericSection
-    subtitle: ''
-    text: ''
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        padding:
-          - pt-1
-          - pb-1
-          - pl-1
-          - pr-1
-    media:
-      type: ImageBlock
-      url: /images/hero.jpg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
   - type: GenericSection
     subtitle: Northwest Yunnan / Southeast Tibet
     text: >
@@ -39,31 +17,33 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
         type: Button
     media:
       altText: ''
       elementId: ''
       type: ImageBlock
+      url: /images/Main Page - Hero4-2.jpg
     badge:
       label: Cloud mountain
-      color: text-primary
+      color: text-dark
       type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
-        flexDirection: row
+        flexDirection: col-reverse
         padding:
           - pt-5
-          - pl-2
+          - pl-3
           - pb-2
-          - pr-2
+          - pr-3
         justifyContent: center
         margin:
           - ml-0
+          - mr-0
       text:
         textAlign: justify
     title:
@@ -77,165 +57,191 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: left
+          textAlign: center
+    subtitle: ''
     items:
       - type: FeaturedItem
-        title: Jade Dragon Snow Mountain
-        subtitle: Lakes and Forests Off-the-beaten-path
+        title: Naxi Heritage Walk
+        tagline: Half-Day | Cultural Heritage Walk
+        subtitle: from $48 to $68 per person
+        text: >
+          Experience a private ecotour in Lijiang Old Town, immersing yourself
+          in Naxi culture through historical sites, serene parks, and vibrant
+          streets filled with local crafts, blending history, nature and culture
+          of this exeptional World Heritage Site.
         image:
           type: ImageBlock
-          url: /images/DSCN0241.jpg
-          altText: Faux Fur Throw
+          url: /images/Main Icon.jpg
+          altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
             self:
-              borderRadius: medium
+              borderRadius: x-large
         actions:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours-yulong
+            url: /ecotours/lijiang-old-town-ecotour/
             showIcon: false
             icon: arrowRight
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
+            borderRadius: x-large
             flexDirection: col
             justifyContent: center
-        text: >
-          Embark on a challenging yet rewarding trek on Jade Dragon Snow
-          Mountain near Lijiang, experiencing diverse ecosystems and stunning
-          alpine scenery. Discover the unique flora and fauna of this iconic
-          Yunnan peak, a highlight of ecotourism in the region.
+            textAlign: left
+            margin:
+              - ml-1
+              - mr-1
       - type: FeaturedItem
-        title: Cotton Knit Throws
-        subtitle: $ 44.99 – $ 90
+        title: "Hidden\_Jade Dragon"
+        tagline: One Day | Off-the-beaten-path
+        subtitle: from $192 to $242 per person
+        text: >+
+          Escape the crowds on an
+
+          authentic Lijiang ecotour! Explore hidden temples, pristine wetlands
+          and secluded minority
+
+          villages. Hike with a ranger in the Jade Dragon Snow Mountain Nature
+          Reserve and
+
+          share a meal with the Yi people. An unforgettable adventure awaits!
+
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Cotton Knit Throws
+          url: /images/YL-Banner Icon 5.jpg
+          altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
             self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /ecotours/jade-dragon-snow-mountain
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
+            margin:
+              - ml-1
+              - mr-1
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
-        subtitle: $117
+        title: Shangri-La Monkey Trip
+        tagline: Two Days | Tibetan Nature and Culture
+        subtitle: from $340 to $469 per person
+        text: >+
+          <div style="text-align: left">Explore Yunnan's natural wonders and
+          Tibetan cultural treasures! Spot rare, endangered monkeys, hike
+          stunning landscapes, and
+
+          discover local minority cultures. Learn about conservation, enjoy
+          authentic
+
+          experiences, and create unforgettable memories in China's beautiful
+
+          countryside.</div>
+
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Chunky Cotton Knit Throw
+          url: /images/TC-Banner Icon.jpg
+          altText: ''
           elementId: ''
           styles:
             self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /ecotours/shangri-la
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
+            margin:
+              - ml-1
+              - mr-1
     actions: []
     elementId: ''
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
+          - pb-16
           - pt-16
-          - pl-8
-          - pb-8
-          - pr-8
-        justifyContent: flex-start
+          - pl-1
+          - pr-1
+        justifyContent: center
+        margin:
+          - mt-0
       subtitle:
         textAlign: center
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+        fontWeight: 700
   - title:
-      text: List of features here
-      color: text-primary
+      text: |-
+        Why
+        Choose Us
+      color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Private & Customized
+        tagline: ''
+        subtitle: ''
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          Enjoy a private and personalized experience on our ecotours in
+          Northwest Yunnan and Southeast Tibet. Foster a deeper connections with
+          local nature and culture.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Private.jpg
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
           type: ImageBlock
-        colors: bg-light-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -247,20 +253,22 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - type: FeaturedItem
-        title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        title: Authentic & Off-the-beaten-path
+        tagline: ''
+        subtitle: ''
+        text: >
+          Go beyond the typical tourist attractions and engage directly with
+          local communities, experiencing the unique cultures of Lijiang,
+          Shangri-La, and beyond on our authentic ecotourism trips.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Off the beaten path3.jpg
           altText: Placeholder text
           styles:
             self:
               borderRadius: x-large
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -270,6 +278,31 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+      - title: Sustainable & Responsible
+        tagline: ''
+        subtitle: ''
+        text: >
+          We are deeply committed to minimizing our environmental impact and
+          supporting local communities through ethical and sustainable tourism
+          practices.
+        image:
+          url: /images/Sustainable.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
@@ -285,19 +318,16 @@ sections:
     type: FeaturedItemsSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Hear from our Eco-travellers
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          “Through six days of close interaction, the kids have been exploring
+          the rules of getting along with others while uncovering the mysteries
+          of the world! Truly an experience with profound educational value.”
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
           altText: Maria Walters
           styles:
             self:
@@ -318,16 +348,12 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "Lynne is so sweet and helpful. She’s very thoughtful, patient,
+          knowledgeable, and experienced in communicating with children."
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
           altText: John Doe
           styles:
             self:
@@ -348,16 +374,13 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          “Kids love Lukas, he is very rational, patient and kind. He is very
+          knowledgeable in introducing local flora and fauna, highly
+          experienced, and familiar with the terrain.”
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
           altText: Maria Walters
           styles:
             self:
@@ -378,16 +401,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "The expertise and knowledge of the guides go far beyond what we
+          experienced. The topic of sustainability will continue indefinitely,
+          and seeds of love have already been planted in the hearts of our
+          children."
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
           altText: Maria Walters
           styles:
             self:
@@ -408,53 +429,17 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
+          "This is the second time coming to Yunnan to join ecotour
+
+          with Lukas and Lynne. The things we’ve seen here, the mountains,
+          waters,
+
+          people, animals, and plants - have left an even deeper impression."
+        tagline: ''
+        subtitle: ''
+        text: ''
         actions: []
         colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -473,112 +458,128 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pb-14
       subtitle:
         textAlign: center
-  - title:
-      text: Generic Section With A Form
-      color: text-dark
+        fontWeight: 700
+  - type: GenericSection
+    title:
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
+      text: Ready to Explore?
+      color: text-dark
       styles:
         self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
+          textAlign: center
+    subtitle: ''
+    text: |+
+      <div style="text-align: center">Get Started!</div>
+
+    actions:
+      - type: Button
+        label: Choose Your Ecotour!
+        altText: ''
+        url: /ecotours
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: null
+        elementId: ''
     badge:
-      label: Contact Us
-      color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
-  - title: Divider
+      label: ''
+      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
+        alignItems: center
+        justifyContent: center
         padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+          - pt-10
+          - pb-16
   - title:
-      text: |-
-        About
-        Cloud Mountain and Our Commitment to Yunnan
+      text: Cloud Mountain Ecotours
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      We are dedicated to providing exceptional ecotourism experiences that
+      support local communities and sustainable development in some of the most
+      vulnerable areas of Yunnan province, China. Learn more about our mission
+      and team.
     actions:
       - label: About Us
-        url: /aboutus
+        url: /about-us
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
     media:
-      url: /images/hero3.svg
-      altText: Dope design preview
+      url: /images/17 (2).jpg
+      altText: About us photo
       type: ImageBlock
     badge:
-      label: This is a badge
-      color: text-primary
+      label: About Us
+      color: text-dark
       type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - pt-8
+          - pb-8
+          - pl-2
+          - pr-2
+        justifyContent: center
     type: GenericSection
+  - title:
+      text: Inquiry and Booking
+      color: text-dark
+      type: TitleBlock
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 400
+    subtitle: We respond within one day!
+    text: |
+      Reach out for more tours, details, special offers and customizations.
+    colors: bg-light-fg-dark
+    type: GenericSection
+    styles:
+      text:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      self:
+        justifyContent: center
+        padding:
+          - pt-6
+          - pb-12
+    actions:
+      - type: Button
+        label: Contact Us
+        altText: ''
+        url: /contact-us
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: 'Authentic Yunnan Ecotours: Explore Lijiang & Shangri-La, China Travel.'
+  metaDescription: >-
+    Discover unforgettable ecotours in Yunnan, China. Explore the natural and
+    cultural wonders of Lijiang and Tibetan Shangri-La. Experience sustainable
+    travel with expert local guides. Book your China adventure today!
   socialImage: /images/main-hero.jpg
   type: Seo
+  metaTags:
+    - type: MetaTag
+      content: >-
+        yunnan ecotours, china ecotours, lijiang travel, shangri-la tours, tibet
+        travel china, yunnan travel, sustainable tourism china, yunnan tours,
+        hiking china, adventure travel china
 type: PageLayout
 ---

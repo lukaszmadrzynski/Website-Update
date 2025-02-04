@@ -31,26 +31,6 @@
             "type": "Link"
         },
         {
-            "label": "Camps",
-            "altText": "Camps page",
-            "url": "/camps",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "type": "Link",
-            "label": "Consulting",
-            "altText": "Consulting page",
-            "url": "/consulting",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        },
-        {
             "type": "Link",
             "label": "About Us",
             "altText": "About Us page",
@@ -58,17 +38,28 @@
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Contact Us",
+            "altText": "",
+            "url": "/contact-us",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
             "elementId": ""
         }
     ],
     "secondaryLinks": [
         {
-            "label": "Contact Us",
+            "label": "Book Now",
             "url": "/contact-us",
             "icon": "mail",
             "iconPosition": "right",
-            "style": "secondary",
+            "style": "primary",
             "type": "Button",
             "showIcon": false,
             "altText": "Contact Us page"
@@ -76,5 +67,15 @@
     ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-0",
+                "pb-0",
+                "pl-0",
+                "pr-0"
+            ]
+        }
+    }
 }

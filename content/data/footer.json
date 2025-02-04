@@ -1,12 +1,12 @@
 {
     "logo": {
-        "url": "/images/Logo.png",
+        "url": "/images/LOGO GREEN.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "Cloud Mountain\n",
+    "text": "",
     "primaryLinks": {
-        "title": "Services",
+        "title": "",
         "links": [
             {
                 "label": "Ecotours",
@@ -18,46 +18,33 @@
                 "type": "Link"
             },
             {
-                "label": "Camps",
-                "url": "/camps",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link",
-                "altText": "Camps page"
-            },
-            {
-                "label": "Consulting",
-                "url": "/consulting",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link",
-                "altText": "Consulting page"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
                 "label": "Why Us",
-                "altText": "Why Us page",
                 "url": "/why-us",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Why Us page"
             },
             {
-                "label": "About Us",
-                "url": "/about-us",
+                "label": "Destinations",
+                "url": "/destinations",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link",
-                "altText": "About Us page"
+                "altText": "Destinations page"
+            },
+            {
+                "type": "Link",
+                "label": "About Us",
+                "altText": "About Us page",
+                "url": "/about-us",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             },
             {
                 "type": "Link",
@@ -120,5 +107,15 @@
     ],
     "copyrightText": "© Lijiang Cloud Mountain Education Consulting Co. Ltd.\n",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "styles": {
+        "self": {
+            "padding": [
+                "pb-4",
+                "pt-5",
+                "pl-3",
+                "pr-3"
+            ]
+        }
+    }
 }
