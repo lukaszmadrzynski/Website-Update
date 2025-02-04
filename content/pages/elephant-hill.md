@@ -81,9 +81,9 @@ sections:
         flexDirection: col-reverse
         padding:
           - pt-16
-          - pl-16
+          - pl-2
           - pb-16
-          - pr-16
+          - pr-2
         justifyContent: center
   - type: FeaturedItemsSection
     title:
@@ -557,8 +557,8 @@ sections:
         padding:
           - pb-16
           - pt-16
-          - pl-16
-          - pr-16
+          - pl-2
+          - pr-2
         justifyContent: center
       subtitle:
         textAlign: center
