@@ -25,6 +25,9 @@ sections:
       elementId: ''
       type: ImageBlock
       url: /images/Main Page - Hero4-2.jpg
+      styles:
+        self:
+          borderRadius: x-small
     badge:
       label: Cloud mountain
       color: text-dark
