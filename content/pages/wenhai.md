@@ -459,6 +459,11 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         justifyContent: center
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
