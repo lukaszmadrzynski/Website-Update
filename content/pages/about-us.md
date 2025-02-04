@@ -382,6 +382,7 @@ sections:
           - pt-9
           - pl-3
           - pr-3
+        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
