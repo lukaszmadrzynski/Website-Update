@@ -160,6 +160,9 @@ sections:
           url: /images/Icon2b.jpg
           altText: Placeholder image
           elementId: ''
+          styles:
+            self:
+              borderRadius: large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
