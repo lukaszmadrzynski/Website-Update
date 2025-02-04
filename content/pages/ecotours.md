@@ -547,6 +547,9 @@ sections:
       type: ImageBlock
       url: /images/expeditions banner.jpg
       altText: Fun feature preview
+      styles:
+        self:
+          borderRadius: x-large
     badge:
       type: Badge
       label: Want to see more?
