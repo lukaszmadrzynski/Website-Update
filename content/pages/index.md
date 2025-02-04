@@ -326,10 +326,7 @@ sections:
     title: null
     subtitle: Hear from our Eco-travellers
     items:
-      - title: >-
-          “Through six days of close interaction, the kids have been exploring
-          the rules of getting along with others while uncovering the mysteries
-          of the world! Truly an experience with profound educational value.”
+      - title: ''
         tagline: >-
           “Through six days of close interaction, the kids have been exploring
           the rules of getting along with others while uncovering the mysteries
