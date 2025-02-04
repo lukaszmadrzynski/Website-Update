@@ -559,6 +559,7 @@ sections:
         padding:
           - pt-3
           - pb-3
+          - pl-2
         flexDirection: ''
   - type: GenericSection
     title:
