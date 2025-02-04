@@ -385,6 +385,9 @@ sections:
       type: ImageBlock
       url: /images/exclusive.jpg
       altText: Dope design preview
+      styles:
+        self:
+          borderRadius: x-large
     badge:
       type: Badge
       label: ''
