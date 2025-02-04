@@ -55,7 +55,7 @@ sections:
       color: text-dark
       styles:
         self:
-          fontWeight: 400
+          fontWeight: 700
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
