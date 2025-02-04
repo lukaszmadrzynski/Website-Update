@@ -355,9 +355,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Lynne is so sweet and helpful. She’s very thoughtful, patient,
-          knowledgeable, and experienced in communicating with children."
+      - title: ''
         tagline: ''
         subtitle: ''
         text: ''
