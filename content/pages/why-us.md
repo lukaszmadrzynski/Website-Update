@@ -32,6 +32,7 @@ sections:
         padding:
           - pt-6
           - pb-6
+          - pl-1
         flexDirection: col-reverse
     media:
       type: ImageBlock
