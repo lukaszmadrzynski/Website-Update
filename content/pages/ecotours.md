@@ -100,7 +100,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/elephant-hill
+            url: /elephant-hill
             showIcon: false
             icon: arrowRight
             iconPosition: right
