@@ -317,7 +317,7 @@ sections:
           - pt-16
           - pl-2
           - pb-16
-          - pr-8
+          - pr-2
         justifyContent: center
       subtitle:
         textAlign: center
