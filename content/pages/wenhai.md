@@ -623,7 +623,7 @@ sections:
           - pl-7
           - pb-7
           - pr-7
-slug: /ecotours/wenhai
+slug: /wenhai
 seo:
   type: Seo
   metaTitle: Home - Demo site
