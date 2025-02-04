@@ -599,6 +599,7 @@ sections:
           - pt-9
           - pb-12
           - pl-2
+          - pr-2
 slug: /ecotours
 isDraft: false
 seo:
