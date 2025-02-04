@@ -243,6 +243,11 @@ sections:
           styles:
             self:
               borderRadius: x-large
+              padding:
+                - pt-3
+                - pl-3
+                - pb-3
+                - pr-3
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
