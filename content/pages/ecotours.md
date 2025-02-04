@@ -559,7 +559,7 @@ sections:
         padding:
           - pt-3
           - pb-3
-        flexDirection: '-reverse'
+        flexDirection: ''
   - type: GenericSection
     title:
       type: TitleBlock
