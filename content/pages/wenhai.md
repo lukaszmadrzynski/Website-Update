@@ -425,7 +425,7 @@ sections:
         alignItems: center
         justifyContent: center
         padding:
-          - pt-3
+          - pt-8
           - pl-3
           - pb-3
           - pr-3
