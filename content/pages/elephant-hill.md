@@ -83,7 +83,7 @@ sections:
           - pt-16
           - pl-2
           - pb-16
-          - pr-16
+          - pr-2
         justifyContent: center
   - type: FeaturedItemsSection
     title:
