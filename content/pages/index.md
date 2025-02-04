@@ -260,7 +260,7 @@ sections:
                 - pl-0
               margin:
                 - mt-0
-                - mr-3
+                - mr-0
                 - ml-0
           type: ImageBlock
         colors: bg-dark-fg-light
