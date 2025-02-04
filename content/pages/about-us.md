@@ -423,6 +423,7 @@ sections:
           - pb-14
           - pt-12
           - pl-3
+          - pr-3
   - type: GenericSection
     title:
       type: TitleBlock
