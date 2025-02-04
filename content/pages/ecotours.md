@@ -590,7 +590,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-6
+          - pt-9
           - pb-20
 slug: /ecotours
 isDraft: false
