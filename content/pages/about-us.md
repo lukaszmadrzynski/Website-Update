@@ -266,8 +266,10 @@ sections:
         flexDirection: col-reverse
         justifyContent: center
         padding:
-          - pt-8
-          - pb-12
+          - pt-3
+          - pb-3
+          - pl-3
+          - pr-3
   - type: GenericSection
     title:
       type: TitleBlock
