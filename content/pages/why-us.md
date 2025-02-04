@@ -399,6 +399,7 @@ sections:
         flexDirection: row
         padding:
           - pt-4
+          - pl-3
   - type: GenericSection
     title:
       type: TitleBlock
