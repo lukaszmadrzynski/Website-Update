@@ -27,7 +27,7 @@ sections:
       url: /images/Main Page - Hero4-2.jpg
       styles:
         self:
-          borderRadius: large
+          borderRadius: x-large
     badge:
       label: Cloud mountain
       color: text-dark
