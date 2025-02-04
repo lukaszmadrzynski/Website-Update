@@ -446,7 +446,14 @@ sections:
       - title: ''
         tagline: ''
         subtitle: ''
-        text: ''
+        text: >+
+          #### *"This is the second time coming to Yunnan to join ecotour
+
+          with Lukas and Lynne. The things we’ve seen here, the mountains,
+          waters,
+
+          people, animals, and plants - have left an even deeper impression."*
+
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
