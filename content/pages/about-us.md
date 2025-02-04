@@ -32,7 +32,7 @@ sections:
         padding:
           - pt-7
           - pb-9
-          - pl-3
+          - pl-2
           - pr-3
         flexDirection: row
     media:
