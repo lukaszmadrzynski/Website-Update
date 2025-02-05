@@ -270,6 +270,8 @@ sections:
           - pb-9
           - pl-3
           - pr-3
+      text:
+        textAlign: justify
   - type: GenericSection
     title:
       type: TitleBlock
