@@ -12,7 +12,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/XS-Banner.jpg
+      url: /images/ZH-Banner.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       styles:
