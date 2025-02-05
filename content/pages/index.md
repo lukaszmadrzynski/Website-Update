@@ -184,7 +184,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/shangri-la
+            url: /shangri-la
             showIcon: false
             icon: arrowRight
             iconPosition: right
