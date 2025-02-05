@@ -7,9 +7,7 @@ sections:
       type: TitleBlock
       text: Zhongji Migratory Birds
       color: text-dark
-    subtitle: |-
-      A
-      Wild Biodiversity Hotspot in the Heart of Lijiang
+    subtitle: ''
     text: ''
     actions: []
     media:
