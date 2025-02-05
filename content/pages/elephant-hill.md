@@ -73,7 +73,7 @@ sections:
           padding:
             - pb-0
           margin:
-            - mt-1
+            - mt-0
             - mb-0
     badge:
       type: Badge
