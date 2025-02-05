@@ -56,7 +56,7 @@ sections:
       community tourism and making a positive impact through ecotourism.
     actions:
       - type: Button
-        label: Book Now
+        label: Check Our Ecotours
         url: /contact-us
         icon: arrowRight
         iconPosition: right
