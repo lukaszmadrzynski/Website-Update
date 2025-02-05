@@ -61,7 +61,7 @@ sections:
       type: TitleBlock
       text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
       color: text-dark
-    subtitle: A Wild Biodiversity Hotspot in the Heart of Lijiang
+    subtitle: Northwest Yunnan | Southeast Tibet
     text: >+
       Escape the crowds and immerse yourself in pristine nature just outside
       Lijiang Old Town! Our ecotour unveils a peaceful
