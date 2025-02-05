@@ -625,7 +625,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Hike Through the Forgotten Forest?
+      text: Ready to See Some Migratory Birds?
       color: text-dark
       styles:
         self:
