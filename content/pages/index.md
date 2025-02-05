@@ -37,7 +37,7 @@ sections:
         textAlign: justify
     title:
       type: TitleBlock
-      text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
+      text: ''
       color: text-dark
       styles:
         self:
