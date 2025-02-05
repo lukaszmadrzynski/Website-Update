@@ -575,7 +575,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: ELEPHANT HILL | HALF-DAY ECOTOUR
+      label: ''
       color: text-primary
       styles:
         self:
