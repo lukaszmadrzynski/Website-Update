@@ -62,8 +62,8 @@ sections:
       Reach the Top Pagoda for stunning Lijiang and Jade Dragon Snow Mountain
       views,
 
-      and conclude at the iconic Black Dragon Pool Park. A real treat for
-      biodiversity enthusiasts!
+      and conclude at the iconic Black Dragon Pool Park. This ecotour is a real
+      treat for biodiversity enthusiasts!
 
 
       *   Duration: Half-Day (Approximately 4 hours)
