@@ -96,7 +96,7 @@ sections:
       type: TitleBlock
       text: Lijiang's Forgotten Forest
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: A Wild Biodiversity Hotspot in the Heart of Lijiang
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
