@@ -576,7 +576,7 @@ sections:
           - pl-7
           - pb-7
           - pr-7
-slug: /ecotours/lashi
+slug: /lashi
 seo:
   type: Seo
   metaTitle: Home - Demo site
