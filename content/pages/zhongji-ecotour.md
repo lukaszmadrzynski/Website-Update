@@ -15,6 +15,9 @@ sections:
       url: /images/ZH-Banner.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
+      styles:
+        self:
+          borderRadius: x-large
     badge:
       type: Badge
       label: Elephant Hill | half-day Ecotour
