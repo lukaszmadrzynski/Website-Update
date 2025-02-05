@@ -811,7 +811,7 @@ sections:
           - pl-7
           - pb-7
           - pr-7
-slug: /ecotours/zhongji-migratory-birds
+slug: /zhongji-ecotour
 seo:
   type: Seo
   metaTitle: Home - Demo site
