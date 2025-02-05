@@ -174,7 +174,7 @@ sections:
           - pt-16
           - pl-1
           - pr-1
-        justifyContent: center
+        justifyContent: flex-start
         margin:
           - mt-0
       subtitle:
