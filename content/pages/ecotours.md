@@ -401,7 +401,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/laojun
+            url: /laojun
             showIcon: false
             icon: arrowRight
             iconPosition: right
