@@ -40,7 +40,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /lijiang-old-town
+            url: /lijiang-old-town-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
