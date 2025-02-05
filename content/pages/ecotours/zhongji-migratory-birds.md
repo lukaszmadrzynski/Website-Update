@@ -5,9 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: |-
-        Lijiang's Forgotten Forest of Elephant
-        Hill
+      text: Zhongji Migratory Birds Ecotour
       color: text-dark
     subtitle: |-
       A
