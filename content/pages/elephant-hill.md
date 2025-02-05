@@ -471,7 +471,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
-            textAlign: left
+            textAlign: center
       - type: FeaturedItem
         title: ''
         subtitle: ''
