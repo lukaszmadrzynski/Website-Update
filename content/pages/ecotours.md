@@ -488,7 +488,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/forever-walk
+            url: /forever-walk
             showIcon: false
             icon: arrowRight
             iconPosition: right
