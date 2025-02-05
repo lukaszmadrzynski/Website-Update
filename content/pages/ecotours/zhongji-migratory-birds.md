@@ -93,7 +93,7 @@ sections:
       Escape the crowds and immerse yourself in pristine nature just outside
       Lijiang Old Town! Our ecotour unveils a peaceful
 
-      haven of biodiversity, a protected water source. Discover rare orchids,
+      haven of **biodiversity, a protected water source. Discover rare orchids,
       unique
 
       plants like Ghost Pipes, and vibrant birdlife including pheasants and
@@ -103,7 +103,7 @@ sections:
       minority tombs, learn about medicinal plants and fungi with a local
       expert.
 
-      Reach the Top Pagoda for stunning Lijiang and Jade Dragon Snow Mountain
+      Reach the Top Pagoda for stunning Lijiang and** Jade Dragon Snow Mountain
       views,
 
       and conclude at the iconic Black Dragon Pool Park. An unforgettable nature
@@ -130,8 +130,6 @@ sections:
 
       *   Price: **USD58.00 to USD38.00 Per Person** (based on group sizes of 2
       and 6 people)
-
-
 
     actions:
       - type: Button
