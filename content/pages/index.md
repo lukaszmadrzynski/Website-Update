@@ -26,7 +26,7 @@ sections:
         flexDirection: col-reverse
         padding:
           - pt-3
-          - pl-2
+          - pl-0
           - pb-2
           - pr-2
         justifyContent: center
