@@ -62,10 +62,8 @@ sections:
       Reach the Top Pagoda for stunning Lijiang and Jade Dragon Snow Mountain
       views,
 
-      and conclude at the iconic Black Dragon Pool Park. An unforgettable nature
-      experience
-
-      awaits!
+      and conclude at the iconic Black Dragon Pool Park. A real treat for
+      biodiversity enthusiasts!
 
 
       *   Duration: Half-Day (Approximately 4 hours)
@@ -86,8 +84,6 @@ sections:
 
       *   Price: **USD58.00 to USD38.00 Per Person** (based on group sizes of 2
       and 6 people)
-
-
 
     actions:
       - type: Button
