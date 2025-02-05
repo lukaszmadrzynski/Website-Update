@@ -1,0 +1,66 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "description",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "ww"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "Lijiang's Forgotten Forest",
+                    "color": "text-dark",
+                    "styles": null
+                },
+                "subtitle": "A Wild Biodiversity Hotspot in the Heart of Lijiang",
+                "text": "Escape the crowds and immerse yourself in pristine nature just outside Lijiang Old Town! Our ecotour unveils a peaceful\nhaven of biodiversity, a protected water source. Discover rare orchids, unique\nplants like Ghost Pipes, and vibrant birdlife including pheasants and\nwoodpeckers. Spot cute squirrels and maybe even a muntjac! Explore Naxi\nminority tombs, learn about medicinal plants and fungi with a local expert.\nReach the Top Pagoda for stunning Lijiang and Jade Dragon Snow Mountain views,\nand conclude at the iconic Black Dragon Pool Park. An unforgettable nature experience\nawaits!\n\n*   Duration: Half-Day (Approximately 4 hours)\n\n*   Location: Elephant Hill in Black Dragon Pool Water Source Protected Area\n\n*   Activity Level: Moderate\n\n*   Altitudes: 2400 - 2700 m\n\n*   Walking Distance: 5-6 km\n\n*   Price: **USD58.00 to USD38.00 Per Person** (based on group sizes of 2 and 6 people)\n\n\n\n",
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Book Now",
+                        "altText": null,
+                        "url": "/contact-us",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": null
+                    }
+                ],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": null,
+                    "altText": "Fun feature preview",
+                    "elementId": null,
+                    "styles": null
+                },
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "ELEPHANT HILL | HALF-DAY ECOTOUR",
+                    "color": "text-primary",
+                    "styles": null
+                },
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "padding": [
+                            "pt-3"
+                        ]
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-description-3a59.png"
+        }
+    ]
+}
