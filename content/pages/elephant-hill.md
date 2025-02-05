@@ -5,9 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: |-
-        Lijiang's Forgotten Forest of Elephant
-        Hill
+      text: Lijiang's Forgotten Forest
       color: text-dark
     subtitle: |-
       A
