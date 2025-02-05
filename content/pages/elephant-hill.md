@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Lijiang's Forgotten Forest
+      text: ''
       color: text-dark
     subtitle: ''
     text: ''
