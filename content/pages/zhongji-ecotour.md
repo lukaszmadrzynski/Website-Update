@@ -622,36 +622,6 @@ sections:
       self:
         alignItems: center
         justifyContent: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Ready to Hike Through the Forgotten Forest?
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    text: ''
-    actions:
-      - type: Button
-        label: Book this Ecotour now!
-        url: /contact-us
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        justifyContent: center
 slug: /zhongji-ecotour
 seo:
   type: Seo
