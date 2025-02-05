@@ -24,7 +24,7 @@ sections:
       altText: ''
       elementId: ''
       type: ImageBlock
-      url: /images/Main Page Hero.webp
+      url: /images/Main Page - Hero4.jpg
       styles:
         self:
           borderRadius: x-large
