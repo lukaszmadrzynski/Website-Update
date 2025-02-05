@@ -801,16 +801,6 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
-  - type: DividerSection
-    title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
 slug: /elephant-hill
 seo:
   type: Seo
