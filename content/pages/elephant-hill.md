@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Elephant Hill Ecotour
+title: Lijiang's Forgotten Forest Ecotour
 sections:
   - type: GenericSection
     title:
