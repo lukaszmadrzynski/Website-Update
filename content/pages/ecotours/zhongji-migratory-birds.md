@@ -11,16 +11,7 @@ sections:
       A
       Wild Biodiversity Hotspot in the Heart of Lijiang
     text: ''
-    actions:
-      - type: Button
-        label: Book Now
-        altText: ''
-        url: /contact-us
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/XS-Banner.jpg
