@@ -271,7 +271,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/lashi
+            url: /lashi
             showIcon: false
             icon: arrowRight
             iconPosition: right
