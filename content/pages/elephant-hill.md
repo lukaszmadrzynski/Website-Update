@@ -598,48 +598,6 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Hike Through the Forgotten Forest?
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    text: ''
-    actions:
-      - type: Button
-        label: Book this Ecotour now!
-        url: /contact-us
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      - type: Button
-        label: Choose Other Ecotour
-        altText: ''
-        url: /ecotours
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-    media:
-      type: ImageBlock
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        justifyContent: center
-        padding:
-          - pt-7
-          - pb-8
-  - type: GenericSection
-    title:
-      type: TitleBlock
       text: Good to Know Before You Go
       color: text-dark
     subtitle: ''
@@ -682,6 +640,48 @@ sections:
         padding:
           - pt-8
           - pb-7
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Ready to Hike Through the Forgotten Forest?
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    text: ''
+    actions:
+      - type: Button
+        label: Book this Ecotour now!
+        url: /contact-us
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+      - type: Button
+        label: Choose Other Ecotour
+        altText: ''
+        url: /ecotours
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+    media:
+      type: ImageBlock
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+        justifyContent: center
+        padding:
+          - pt-7
+          - pb-8
 slug: /elephant-hill
 seo:
   type: Seo
