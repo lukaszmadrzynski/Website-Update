@@ -74,7 +74,7 @@ sections:
             - pb-0
           margin:
             - mt-1
-            - mb-1
+            - mb-0
     badge:
       type: Badge
       label: Elephant Hill | half-day Ecotour
