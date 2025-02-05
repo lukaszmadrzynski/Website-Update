@@ -435,7 +435,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Explore the Lijiang Old Town?
+      text: Ready to Visit the Lijiang Old Town?
       color: text-dark
       styles:
         self:
