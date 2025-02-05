@@ -70,6 +70,8 @@ sections:
       styles:
         self:
           borderRadius: x-large
+          padding:
+            - pb-3
     badge:
       type: Badge
       label: Elephant Hill | half-day Ecotour
