@@ -8,47 +8,7 @@ sections:
       text: Naxi Heritage Walking Tour
       color: text-dark
     subtitle: A Cultural Journey Through Lijiang’s Historic Heart
-    text: >+
-      Step back in time in Lijiang's
-
-      enchanting UNESCO-listed Old Town. Wander its ancient streets, absorbing
-      the
-
-      unique blend of cultures. Find tranquility in a beautiful park with
-
-      breathtaking mountain views. Discover local traditions at historic sites
-      and witness
-
-      iconic landmarks. Immerse yourself in the lively atmosphere of bustling
-      markets
-
-      and squares, tasting local flavors and finding unique crafts. Admire
-      stunning
-
-      architecture and picturesque bridges. Experience Lijiang's rich history,
-
-      vibrant culture and stunning natural beauty.
-
-
-      *   Duration: Half-Day (Approximately 4 hours)
-
-
-      *   Location: UNESCO Heritage Sites of Lijiang Dayan Old Town and Black
-      Dragon Pool Park
-
-
-      *   Activity Level: Moderate
-
-
-      *   Altitudes: 2400 - 2450 m
-
-
-      *   Walking Distance: 7-8 km
-
-
-      *   Price: **USD68.00 to USD48.00 Per Person** (based on group size of 2
-      to 6 people)
-
+    text: ''
     actions:
       - type: Button
         label: Book Now
