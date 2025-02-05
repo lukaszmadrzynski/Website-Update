@@ -24,7 +24,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       text:
-        textAlign: justify
+        textAlign: left
       subtitle:
         textAlign: center
       self:
