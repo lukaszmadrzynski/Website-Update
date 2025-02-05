@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Naxi Heritage Walking Tour
       color: text-dark
-    subtitle: A Cultural Journey Through Lijiang’s Historic Heart
+    subtitle: ''
     text: ''
     actions: []
     media:
