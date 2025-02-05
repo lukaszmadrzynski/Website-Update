@@ -4,12 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     subtitle: Northwest Yunnan | Southeast Tibet
-    text: >
-      Immerse yourself in the breathtaking landscapes and vibrant cultures of
-      Northwest Yunnan and Southeast Tibet on our immersive and sustainable
-      ecotours. Explore the wonders of the ancient Tea and Horse Road, from Naxi
-      Lijiang to Tibetan Shangri-La, with expert local guides, supporting
-      community tourism and making a positive impact through ecotourism.
+    text: ''
     actions:
       - label: Check Our Ecotours
         altText: ''
