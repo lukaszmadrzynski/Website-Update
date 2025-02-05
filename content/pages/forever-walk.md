@@ -823,7 +823,7 @@ sections:
           - pl-7
           - pb-7
           - pr-7
-slug: /ecotours/forever-walk
+slug: /forever-walk
 seo:
   type: Seo
   metaTitle: Home - Demo site
