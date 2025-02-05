@@ -35,9 +35,9 @@ sections:
         flexDirection: col-reverse
         padding:
           - pt-0
-          - pl-3
-          - pb-3
-          - pr-3
+          - pl-0
+          - pb-0
+          - pr-0
         justifyContent: center
   - type: GenericSection
     title:
