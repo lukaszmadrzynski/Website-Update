@@ -598,7 +598,7 @@ sections:
         padding:
           - pt-9
           - pb-12
-          - pl-2
+          - pl-3
           - pr-2
 slug: /ecotours
 isDraft: false
