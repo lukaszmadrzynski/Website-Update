@@ -57,7 +57,7 @@ sections:
     actions:
       - type: Button
         label: Check Our Ecotours
-        url: /contact-us
+        url: /ecotours
         icon: arrowRight
         iconPosition: right
         style: primary
