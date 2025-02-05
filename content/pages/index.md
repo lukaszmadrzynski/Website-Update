@@ -59,7 +59,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Lijiang's Forgotten Forest
+      text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
       color: text-dark
     subtitle: A Wild Biodiversity Hotspot in the Heart of Lijiang
     text: >+
