@@ -5,16 +5,7 @@ sections:
   - type: GenericSection
     subtitle: Northwest Yunnan | Southeast Tibet
     text: ''
-    actions:
-      - label: Check Our Ecotours
-        altText: ''
-        url: /ecotours
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       altText: ''
       elementId: ''
