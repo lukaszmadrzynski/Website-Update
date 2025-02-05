@@ -435,7 +435,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to See Some Migratory Birds?
+      text: Ready to Explore the Lijiang Old Town?
       color: text-dark
       styles:
         self:
