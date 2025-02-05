@@ -658,7 +658,7 @@ sections:
         iconPosition: right
         style: primary
       - type: Button
-        label: Choose a Different Ecotour
+        label: Choose Another Ecotour
         altText: ''
         url: /ecotours
         showIcon: false
