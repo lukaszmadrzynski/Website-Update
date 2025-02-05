@@ -47,46 +47,45 @@ sections:
       color: text-dark
     subtitle: A Cultural Journey Through Lijiang’s Historic Heart
     text: >+
-      Escape the crowds and immerse yourself in pristine nature just outside
-      Lijiang Old Town! Our ecotour unveils a peaceful
+      Step back in time in Lijiang's
 
-      haven of biodiversity, a protected water source. Discover rare orchids,
-      unique
+      enchanting UNESCO-listed Old Town. Wander its ancient streets, absorbing
+      the
 
-      plants like Ghost Pipes, and vibrant birdlife including pheasants and
+      unique blend of cultures. Find tranquility in a beautiful park with
 
-      woodpeckers. Spot cute squirrels and maybe even a muntjac! Explore Naxi
+      breathtaking mountain views. Discover local traditions at historic sites
+      and witness
 
-      minority tombs, learn about medicinal plants and fungi with a local
-      expert.
+      iconic landmarks. Immerse yourself in the lively atmosphere of bustling
+      markets
 
-      Reach the Top Pagoda for stunning Lijiang and Jade Dragon Snow Mountain
-      views,
+      and squares, tasting local flavors and finding unique crafts. Admire
+      stunning
 
-      and conclude at the iconic Black Dragon Pool Park. An unforgettable nature
-      experience
+      architecture and picturesque bridges. Experience Lijiang's rich history,
 
-      awaits!
+      vibrant culture and stunning natural beauty.
 
 
       *   Duration: Half-Day (Approximately 4 hours)
 
 
-      *   Location: Elephant Hill in Black Dragon Pool Water Source Protected
-      Area
+      *   Location: UNESCO Heritage Sites of Lijiang Dayan Old Town and Black
+      Dragon Pool Park
 
 
       *   Activity Level: Moderate
 
 
-      *   Altitudes: 2400 - 2700 m
+      *   Altitudes: 2400 - 2450 m
 
 
-      *   Walking Distance: 5-6 km
+      *   Walking Distance: 7-8 km
 
 
-      *   Price: **USD58.00 to USD38.00 Per Person** (based on group sizes of 2
-      and 6 people)
+      *   Price: **USD68.00 to USD48.00 Per Person** (based on group size of 2
+      to 6 people)
 
 
 
