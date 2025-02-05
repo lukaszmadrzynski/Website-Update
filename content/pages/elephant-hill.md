@@ -196,6 +196,9 @@ sections:
           url: /images/XS-Icon3.jpg
           altText: Placeholder image
           elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
