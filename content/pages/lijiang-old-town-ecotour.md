@@ -83,7 +83,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Lijiang's Forgotten Forest
+      text: Naxi Heritage Walking Tour
       color: text-dark
     subtitle: A Wild Biodiversity Hotspot in the Heart of Lijiang
     text: >+
