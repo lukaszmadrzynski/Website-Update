@@ -676,7 +676,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Other Ecotours
+      text: Choose a Different Ecotour
       color: text-dark
       styles:
         self:
