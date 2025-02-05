@@ -141,7 +141,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours
+            url: /zhongji
             showIcon: false
             icon: arrowRight
             iconPosition: right
