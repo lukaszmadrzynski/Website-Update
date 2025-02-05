@@ -109,7 +109,7 @@ sections:
         alignItems: center
         justifyContent: center
         padding:
-          - pt-1
+          - pt-3
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
