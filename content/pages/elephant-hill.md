@@ -36,7 +36,7 @@ sections:
         padding:
           - pt-0
           - pl-3
-          - pb-0
+          - pb-3
           - pr-3
         justifyContent: center
   - type: GenericSection
