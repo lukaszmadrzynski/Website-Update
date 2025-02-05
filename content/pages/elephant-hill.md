@@ -112,7 +112,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: This is a badge
+      label: ELEPHANT HILL | HALF-DAY ECOTOUR
       color: text-primary
     colors: bg-light-fg-dark
     styles:
