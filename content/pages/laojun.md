@@ -800,7 +800,7 @@ sections:
           - pl-7
           - pb-7
           - pr-7
-slug: /ecotours/laojun
+slug: /laojun
 seo:
   type: Seo
   metaTitle: Home - Demo site
