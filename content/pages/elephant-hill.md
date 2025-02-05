@@ -7,9 +7,7 @@ sections:
       type: TitleBlock
       text: Lijiang's Forgotten Forest
       color: text-dark
-    subtitle: |-
-      A
-      Wild Biodiversity Hotspot in the Heart of Lijiang
+    subtitle: ''
     text: ''
     actions: []
     media:
