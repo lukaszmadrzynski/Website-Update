@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Zhongji Migratory Birds
+title: Zhongji Migratory Birds Ecotour
 sections:
   - type: GenericSection
     title:
