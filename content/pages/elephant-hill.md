@@ -143,7 +143,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Book Now
         url: /contact-us
         icon: arrowRight
         iconPosition: right
