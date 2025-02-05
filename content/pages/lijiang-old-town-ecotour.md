@@ -9,16 +9,7 @@ sections:
       color: text-dark
     subtitle: A Cultural Journey Through Lijiang’s Historic Heart
     text: ''
-    actions:
-      - type: Button
-        label: Book Now
-        altText: ''
-        url: /contact-us
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/dayan1.jpg
