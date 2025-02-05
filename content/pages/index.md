@@ -3,15 +3,15 @@ title: Cloud Mountain Ecotours
 slug: /
 sections:
   - type: GenericSection
-    subtitle: Northwest Yunnan / Southeast Tibet
+    subtitle: Northwest Yunnan | Southeast Tibet
     text: >
       Immerse yourself in the breathtaking landscapes and vibrant cultures of
       Northwest Yunnan and Southeast Tibet on our immersive and sustainable
-      ecotours. Explore the wonders of the ancient Tea and Horse Road, from
-      Lijiang to Shangri-La, with expert local guides, supporting community
-      tourism and making a positive impact through ecotourism.
+      ecotours. Explore the wonders of the ancient Tea and Horse Road, from Naxi
+      Lijiang to Tibetan Shangri-La, with expert local guides, supporting
+      community tourism and making a positive impact through ecotourism.
     actions:
-      - label: View All Ecotours
+      - label: Check Our Ecotours
         altText: ''
         url: /ecotours
         showIcon: false
@@ -24,7 +24,10 @@ sections:
       altText: ''
       elementId: ''
       type: ImageBlock
-      url: /images/Main Page - Hero4-2.jpg
+      url: /images/Main Page Hero.webp
+      styles:
+        self:
+          borderRadius: x-large
     badge:
       label: Cloud mountain
       color: text-dark
@@ -50,6 +53,9 @@ sections:
       type: TitleBlock
       text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
       color: text-dark
+      styles:
+        self:
+          fontWeight: 400
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -129,7 +135,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/jade-dragon-snow-mountain
+            url: /jade-dragon
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -178,7 +184,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/shangri-la
+            url: /shangri-la
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -199,14 +205,23 @@ sections:
             margin:
               - ml-1
               - mr-1
-    actions: []
+    actions:
+      - type: Button
+        label: View All Ecotours
+        altText: ''
+        url: /ecotours
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
-          - pb-16
+          - pb-12
           - pt-16
           - pl-1
           - pr-1
@@ -240,15 +255,22 @@ sections:
           styles:
             self:
               borderRadius: x-large
+              padding:
+                - pt-0
+                - pl-0
+              margin:
+                - mt-0
+                - mr-0
+                - ml-0
           type: ImageBlock
         colors: bg-dark-fg-light
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
@@ -272,10 +294,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
       - title: Sustainable & Responsible
@@ -296,10 +318,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
@@ -308,25 +330,37 @@ sections:
     styles:
       self:
         padding:
-          - pt-16
-          - pl-8
+          - pt-12
+          - pl-2
           - pb-16
-          - pr-8
+          - pr-2
         justifyContent: center
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+    actions:
+      - type: Button
+        label: Why Us Page
+        altText: ''
+        url: /why-us
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - type: CarouselSection
     title: null
     subtitle: Hear from our Eco-travellers
     items:
-      - title: >-
-          “Through six days of close interaction, the kids have been exploring
-          the rules of getting along with others while uncovering the mysteries
-          of the world! Truly an experience with profound educational value.”
+      - title: ''
         tagline: ''
         subtitle: ''
-        text: ''
+        text: >+
+          #### *“Through six days of close interaction, the kids have been
+          exploring the rules of getting along with others while uncovering the
+          mysteries of the world! Truly an experience with profound educational
+          value.”*
+
         image:
           altText: Maria Walters
           styles:
@@ -347,12 +381,13 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Lynne is so sweet and helpful. She’s very thoughtful, patient,
-          knowledgeable, and experienced in communicating with children."
+      - title: ''
         tagline: ''
         subtitle: ''
-        text: ''
+        text: >+
+          #### *"Lynne is so sweet and helpful. She’s very thoughtful, patient,
+          knowledgeable, and experienced in communicating with children."*
+
         image:
           altText: John Doe
           styles:
@@ -373,13 +408,18 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “Kids love Lukas, he is very rational, patient and kind. He is very
-          knowledgeable in introducing local flora and fauna, highly
-          experienced, and familiar with the terrain.”
+      - title: ''
         tagline: ''
         subtitle: ''
-        text: ''
+        text: >+
+          #### *“Kids love Lukas, he is very rational, patient and kind. He is
+          very knowledgeable in introducing local flora and fauna, highly
+          experienced, and familiar with the terrain.”*
+
+
+
+
+
         image:
           altText: Maria Walters
           styles:
@@ -400,14 +440,15 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "The expertise and knowledge of the guides go far beyond what we
+      - title: ''
+        tagline: ''
+        subtitle: ''
+        text: >+
+          #### *"The expertise and knowledge of the guides go far beyond what we
           experienced. The topic of sustainability will continue indefinitely,
           and seeds of love have already been planted in the hearts of our
-          children."
-        tagline: ''
-        subtitle: ''
-        text: ''
+          children."*
+
         image:
           altText: Maria Walters
           styles:
@@ -428,16 +469,14 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "This is the second time coming to Yunnan to join ecotour
-
-          with Lukas and Lynne. The things we’ve seen here, the mountains,
-          waters,
-
-          people, animals, and plants - have left an even deeper impression."
+      - title: ''
         tagline: ''
         subtitle: ''
-        text: ''
+        text: >+
+          #### *"This is the second time coming to Yunnan to join ecotour with
+          Lukas and Lynne. The things we’ve seen here, the mountains, waters,
+          people, animals, and plants - have left an even deeper impression."*
+
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -460,6 +499,8 @@ sections:
         justifyContent: center
         padding:
           - pb-14
+          - pl-2
+          - pr-2
       subtitle:
         textAlign: center
         fontWeight: 700
@@ -520,7 +561,7 @@ sections:
       type: ImageBlock
     badge:
       label: About Us
-      color: text-dark
+      color: text-primary
       type: Badge
     colors: bg-light-fg-dark
     styles:
@@ -582,4 +623,5 @@ seo:
         travel china, yunnan travel, sustainable tourism china, yunnan tours,
         hiking china, adventure travel china
 type: PageLayout
+isDraft: true
 ---
