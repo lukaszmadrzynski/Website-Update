@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Zhongji Migratory Birds
+      text: ''
       color: text-dark
     subtitle: ''
     text: ''
