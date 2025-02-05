@@ -577,7 +577,7 @@ sections:
           - pl-7
           - pb-7
           - pr-7
-slug: /ecotours/jade-dragon-snow-mountain
+slug: /jade-dragon
 seo:
   type: Seo
   metaTitle: Home - Demo site
