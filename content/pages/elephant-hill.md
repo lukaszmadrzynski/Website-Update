@@ -160,6 +160,8 @@ sections:
       self:
         alignItems: center
         justifyContent: center
+        padding:
+          - pt-1
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
