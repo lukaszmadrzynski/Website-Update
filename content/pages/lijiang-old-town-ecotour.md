@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Naxi Heritage Walking Tour
+      text: ''
       color: text-dark
     subtitle: ''
     text: ''
