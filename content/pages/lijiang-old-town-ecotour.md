@@ -439,7 +439,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         justifyContent: center
-slug: /ecotours/lijiang-old-town-ecotour
+slug: /lijiang-old-town-ecotour
 seo:
   type: Seo
   metaTitle: Home - Demo site
