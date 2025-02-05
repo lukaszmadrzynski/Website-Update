@@ -28,7 +28,7 @@ sections:
           - pt-3
           - pl-0
           - pb-2
-          - pr-2
+          - pr-0
         justifyContent: center
         margin:
           - ml-0
