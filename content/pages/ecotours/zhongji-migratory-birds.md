@@ -83,6 +83,77 @@ sections:
           - pb-0
           - pr-0
         justifyContent: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Lijiang's Forgotten Forest
+      color: text-dark
+    subtitle: A Wild Biodiversity Hotspot in the Heart of Lijiang
+    text: >+
+      Escape the crowds and immerse yourself in pristine nature just outside
+      Lijiang Old Town! Our ecotour unveils a peaceful
+
+      haven of biodiversity, a protected water source. Discover rare orchids,
+      unique
+
+      plants like Ghost Pipes, and vibrant birdlife including pheasants and
+
+      woodpeckers. Spot cute squirrels and maybe even a muntjac! Explore Naxi
+
+      minority tombs, learn about medicinal plants and fungi with a local
+      expert.
+
+      Reach the Top Pagoda for stunning Lijiang and Jade Dragon Snow Mountain
+      views,
+
+      and conclude at the iconic Black Dragon Pool Park. An unforgettable nature
+      experience
+
+      awaits!
+
+
+      *   Duration: Half-Day (Approximately 4 hours)
+
+
+      *   Location: Elephant Hill in Black Dragon Pool Water Source Protected
+      Area
+
+
+      *   Activity Level: Moderate
+
+
+      *   Altitudes: 2400 - 2700 m
+
+
+      *   Walking Distance: 5-6 km
+
+
+      *   Price: **USD58.00 to USD38.00 Per Person** (based on group sizes of 2
+      and 6 people)
+
+
+
+    actions:
+      - type: Button
+        label: Book Now
+        url: /contact-us
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: ELEPHANT HILL | HALF-DAY ECOTOUR
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        justifyContent: center
+        padding:
+          - pt-3
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
