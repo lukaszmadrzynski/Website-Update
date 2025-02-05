@@ -657,6 +657,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /ecotours
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       altText: Dope design preview
