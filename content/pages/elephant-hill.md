@@ -682,33 +682,6 @@ sections:
         padding:
           - pt-7
           - pb-7
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Choose a Different Ecotour
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    items: []
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-12
-          - pt-12
-          - pl-1
-          - pr-1
-        justifyContent: center
-        margin:
-          - mt-0
-      subtitle:
-        textAlign: center
-        fontWeight: 700
 slug: /elephant-hill
 seo:
   type: Seo
