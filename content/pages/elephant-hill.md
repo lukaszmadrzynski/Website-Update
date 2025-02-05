@@ -681,7 +681,7 @@ sections:
         justifyContent: center
         padding:
           - pt-7
-          - pb-9
+          - pb-10
 slug: /elephant-hill
 seo:
   type: Seo
