@@ -147,7 +147,7 @@ sections:
         url: /contact-us
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
     media:
       type: ImageBlock
       altText: Fun feature preview
