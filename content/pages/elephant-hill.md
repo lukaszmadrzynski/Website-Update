@@ -567,6 +567,8 @@ sections:
           - pl-2
           - pr-2
         justifyContent: center
+        margin:
+          - mt-2
       subtitle:
         textAlign: center
   - type: GenericSection
