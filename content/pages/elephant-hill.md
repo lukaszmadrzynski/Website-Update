@@ -1,17 +1,50 @@
 ---
 type: PageLayout
-title: Elephant Hill Ecotour
+title: Lijiang's Forgotten Forest Ecotour
 sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: |-
-        Lijiang's Forgotten Forest of Elephant
-        Hill
+      text: ''
       color: text-dark
-    subtitle: |-
-      A
-      Wild Biodiversity Hotspot in the Heart of Lijiang
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/XS-Banner.jpg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      styles:
+        self:
+          borderRadius: x-large
+          padding:
+            - pb-0
+          margin:
+            - mt-0
+            - mb-0
+    badge:
+      type: Badge
+      label: Elephant Hill | half-day Ecotour
+      color: text-primary
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col-reverse
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Lijiang's Forgotten Forest
+      color: text-dark
+    subtitle: A Wild Biodiversity Hotspot in the Heart of Lijiang
     text: >+
       Escape the crowds and immerse yourself in pristine nature just outside
       Lijiang Old Town! Our ecotour unveils a peaceful
@@ -29,10 +62,8 @@ sections:
       Reach the Top Pagoda for stunning Lijiang and Jade Dragon Snow Mountain
       views,
 
-      and conclude at the iconic Black Dragon Pool Park. An unforgettable nature
-      experience
-
-      awaits!
+      and conclude at the iconic Black Dragon Pool Park. This ecotour is a real
+      treat for biodiversity enthusiasts!
 
 
       *   Duration: Half-Day (Approximately 4 hours)
@@ -57,34 +88,24 @@ sections:
     actions:
       - type: Button
         label: Book Now
-        altText: ''
         url: /contact-us
-        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: ''
     media:
       type: ImageBlock
-      url: /images/XS-Banner.jpg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
+      altText: Fun feature preview
     badge:
       type: Badge
-      label: Elephant Hill | half-day Ecotour
+      label: ELEPHANT HILL | HALF-DAY ECOTOUR
       color: text-primary
-    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
-        flexDirection: col-reverse
-        padding:
-          - pt-16
-          - pl-2
-          - pb-16
-          - pr-2
         justifyContent: center
+        padding:
+          - pt-3
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -125,10 +146,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -156,15 +177,18 @@ sections:
           url: /images/XS-Icon2.jpg
           altText: Placeholder image
           elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             textAlign: left
@@ -192,15 +216,18 @@ sections:
           url: /images/XS-Icon3.jpg
           altText: Placeholder image
           elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
@@ -234,10 +261,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -273,10 +300,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -303,10 +330,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -342,10 +369,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -379,10 +406,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -418,10 +445,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -457,14 +484,14 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
-            textAlign: left
+            textAlign: center
       - type: FeaturedItem
         title: ''
         subtitle: ''
@@ -494,10 +521,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -533,10 +560,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -544,7 +571,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: ELEPHANT HILL | HALF-DAY ECOTOUR
+      label: ''
       color: text-primary
       styles:
         self:
@@ -555,11 +582,13 @@ sections:
     styles:
       self:
         padding:
-          - pb-16
-          - pt-16
+          - pb-9
+          - pt-14
           - pl-2
           - pr-2
         justifyContent: center
+        margin:
+          - mt-0
       subtitle:
         textAlign: center
   - type: GenericSection
@@ -604,6 +633,9 @@ sections:
       self:
         alignItems: center
         justifyContent: center
+        padding:
+          - pt-8
+          - pb-7
   - type: GenericSection
     title:
       type: TitleBlock
@@ -621,6 +653,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+      - type: Button
+        label: Check Other Ecotours
+        altText: ''
+        url: /ecotours
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       altText: Dope design preview
@@ -634,168 +675,9 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         justifyContent: center
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Other Ecotours
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: Jade Dragon Snow Mountain Conservation Patrol
-        subtitle: 1 Day | Off-the-beaten-path
-        text: >
-          Embark on a challenging yet rewarding trek on Jade Dragon Snow
-          Mountain near Lijiang, experiencing diverse ecosystems and stunning
-          alpine scenery. Discover the unique flora and fauna of this iconic
-          Yunnan peak, a highlight of ecotourism in the region.
-        image:
-          type: ImageBlock
-          url: /images/yulong2.jpg
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Learn More
-            altText: ''
-            url: /ecotours/jade-dragon-one-day
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-            textAlign: left
-            margin:
-              - ml-1
-              - mr-1
-      - type: FeaturedItem
-        title: Yunnan Snub-nosed Monkey Journey
-        subtitle: 2 Days | Wildlife Experience
-        text: >
-          Embark on a challenging yet rewarding trek on Jade Dragon Snow
-          Mountain near Lijiang, experiencing diverse ecosystems and stunning
-          alpine scenery. Discover the unique flora and fauna of this iconic
-          Yunnan peak, a highlight of ecotourism in the region.
-        image:
-          type: ImageBlock
-          url: /images/baima2.jpg
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Learn More
-            altText: ''
-            url: /ecotours
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-            textAlign: left
-            margin:
-              - ml-1
-              - mr-1
-      - type: FeaturedItem
-        title: Ancient Tea & Horse Road
-        subtitle: 1 Day | Off-the-beaten-path
-        text: >+
-          <div style="text-align: left">Embark on a challenging yet rewarding
-          trek on Jade Dragon Snow Mountain near Lijiang, experiencing diverse
-          ecosystems and stunning alpine scenery. Discover the unique flora and
-          fauna of this iconic Yunnan peak, a highlight of ecotourism in the
-          region.</div>
-
-        image:
-          type: ImageBlock
-          url: /images/wenhai2.jpg
-          altText: ''
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Learn More
-            altText: ''
-            url: /ecotours
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-            textAlign: center
-            margin:
-              - ml-1
-              - mr-1
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-16
-          - pt-16
-          - pl-1
-          - pr-1
-        justifyContent: center
-        margin:
-          - mt-0
-      subtitle:
-        textAlign: center
-        fontWeight: 700
-  - type: DividerSection
-    title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
         padding:
           - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
+          - pb-12
 slug: /elephant-hill
 seo:
   type: Seo
