@@ -432,36 +432,6 @@ sections:
         justifyContent: center
         padding:
           - pt-4
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Ready to Explore the Lijiang Old Town?
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    text: ''
-    actions:
-      - type: Button
-        label: Book this Ecotour now!
-        url: /contact-us
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        justifyContent: center
 slug: /lijiang-old-town-ecotour
 seo:
   type: Seo
