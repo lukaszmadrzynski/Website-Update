@@ -3,7 +3,7 @@ title: Cloud Mountain Ecotours
 slug: /
 sections:
   - type: GenericSection
-    subtitle: Northwest Yunnan | Southeast Tibet
+    subtitle: ''
     text: ''
     actions: []
     media:
