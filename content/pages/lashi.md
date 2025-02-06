@@ -589,4 +589,11 @@ seo:
   socialImage: /images/main-hero.jpg
   metaTags:
     - type: MetaTag
+      content: >-
+        ecotourism Yunnan, Lashi Wetlands tour, China ecotours, biodiversity
+        tour China, ethnic culture Yunnan, Naxi culture tour, Yi culture tour,
+        wetland conservation tour, birdwatching Yunnan, hiking Yunnan, Luoma
+        Cliffs hike, village tourism Yunnan, nature travel China, wildlife tour
+        Yunnan, sustainable tourism Yunnan, responsible travel China, Lijiang
+        tours, Lijiang birdwatching
 ---
