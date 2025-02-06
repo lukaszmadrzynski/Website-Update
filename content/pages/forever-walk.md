@@ -7,7 +7,9 @@ sections:
       type: TitleBlock
       text: NatGeo's Forever Walk
       color: text-dark
-    subtitle: Along the Ancient Tea & Horse Road
+    subtitle: |-
+      A Slow Trekking Journey of
+      Connection
     text: >+
       Embark on an extraordinary, muliti-day hike inspired by our experience
       with Paul Salopek's epic
