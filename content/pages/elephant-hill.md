@@ -12,7 +12,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Main Page Hero3.webp
+      url: /images/XS-Banner.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       styles:
