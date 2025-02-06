@@ -809,5 +809,6 @@ seo:
     rare birds, & immerse in minority cultures. Discover Yangtze First Bend &
     Himalayan honey. Authentic China nature & culture adventure.
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
