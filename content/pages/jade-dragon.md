@@ -317,7 +317,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: JADE DRAGON SNOW MOUNTAIN | ONE-DAY ECOTOUR
+      label: ''
       color: text-primary
       styles:
         self:
