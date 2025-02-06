@@ -817,4 +817,5 @@ seo:
         first bend tour, minority culture yunnan, naxi culture, bai culture,
         lisu culture, himalayan honey tour, china adventure travel, sustainable
         tourism china, biet's laughingthrush, Ianthocincla bieti, 
+        white-speckled laughingthrush
 ---
