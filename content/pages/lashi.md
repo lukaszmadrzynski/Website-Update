@@ -177,7 +177,7 @@ sections:
               - pl-4
               - pb-4
               - pr-4
-            borderRadius: none
+            borderRadius: x-large
             flexDirection: col
             textAlign: left
             justifyContent: center
