@@ -162,7 +162,7 @@ sections:
           elementId: ''
           styles:
             self:
-              borderRadius: large
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
