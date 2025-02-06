@@ -182,7 +182,7 @@ sections:
           people.
         image:
           type: ImageBlock
-          url: /images/YL-Icon3.webp
+          url: /images/YL-Icon4.webp
           altText: Placeholder image
           elementId: ''
           styles:
