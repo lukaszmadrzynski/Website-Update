@@ -254,7 +254,7 @@ sections:
           authentic state.
         image:
           type: ImageBlock
-          url: /images/YL-icon5.jpg
+          url: /images/YL-Icon5.webp
           altText: Placeholder text
           elementId: ''
           styles:
