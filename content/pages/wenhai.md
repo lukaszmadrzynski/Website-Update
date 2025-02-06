@@ -46,7 +46,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Lijiang's Forgotten Forest
+      text: Wenhai Sanctuary
       color: text-dark
     subtitle: A Wild Biodiversity Hotspot in the Heart of Lijiang
     text: >+
