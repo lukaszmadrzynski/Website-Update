@@ -12,7 +12,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/dayan1.jpg
+      url: /images/DY-Banner.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
