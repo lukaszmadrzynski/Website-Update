@@ -157,7 +157,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/LS-icon2b.jpg
+          url: /images/LS-Icon2.webp
           altText: Placeholder image
           elementId: ''
         actions: []
