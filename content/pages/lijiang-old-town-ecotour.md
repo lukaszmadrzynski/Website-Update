@@ -490,4 +490,8 @@ seo:
   socialImage: /images/main-hero.jpg
   metaTags:
     - type: MetaTag
+      content: >-
+        Discover Lijiang Old Town Ecotour, a UNESCO gem in Yunnan, China.
+        Explore ancient Naxi culture, serene parks, & vibrant markets. Book your
+        unforgettable Lijiang travel adventure today!
 ---
