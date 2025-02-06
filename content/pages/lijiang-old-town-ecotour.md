@@ -34,7 +34,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Naxi Heritage Walking Tour
+      text: 'Lijiang Old Town Ecotour: UNESCO Heritage & Naxi Culture'
       color: text-dark
     subtitle: A Cultural Journey Through Lijiang’s Historic Heart
     text: >+
