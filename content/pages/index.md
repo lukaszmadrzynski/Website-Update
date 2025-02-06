@@ -326,8 +326,8 @@ sections:
           Not only are we deeply committed to minimizing our environmental
           impact and supporting local communities through ethical and
           sustainable tourism practices, but we are also actively involved in
-          other nature conservation and sustainable development projects in our
-          ecotourism destinations.
+          many other conservation and sustainability projects in our ecotourism
+          destinations.
         image:
           url: /images/Sustainable.jpg
           altText: Placeholder image
