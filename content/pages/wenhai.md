@@ -284,7 +284,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon5b.jpg
+          url: /images/WH-icon5.webp
           altText: Placeholder text
           elementId: ''
           styles:
