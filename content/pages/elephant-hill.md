@@ -321,7 +321,7 @@ sections:
           **real treat for bird lovers**.
         image:
           type: ImageBlock
-          url: /images/XS-Icon6.jpg
+          url: /images/XS-Icon6.webp
           altText: Placeholder text
           elementId: ''
           styles:
