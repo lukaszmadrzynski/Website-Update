@@ -832,7 +832,10 @@ slug: /shangri-la
 seo:
   type: Seo
   metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
+  metaDescription: >-
+    Join our Shangri-La Monkey Journey ecotour in Yunnan, China! Spot rare
+    snub-nosed monkeys, hike breathtaking Tibetan landscapes, and immerse in
+    local culture. Book your China travel adventure now!
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
