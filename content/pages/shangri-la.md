@@ -845,5 +845,6 @@ seo:
         tour, China nature tour, Yunnan culture tour, family ecotour China,
         group ecotour Yunnan, hiking Shangri-La, Baima Snow Mountain, Lashi
         Wetlands, Yangtze River First Bend, Shigu Town, sustainable tourism
-        China
+        China, Black-and-white snub-nosed monkey, Yunnan Golden Monkey, private
+        tour
 ---
