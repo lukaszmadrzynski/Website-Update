@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Living Waters of Lashi
       color: text-dark
-    subtitle: An Ecotour of Biodiversity Conservation & Ethnic Culture
+    subtitle: ''
     text: ''
     actions: []
     media:
