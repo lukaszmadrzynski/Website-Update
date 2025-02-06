@@ -488,5 +488,6 @@ seo:
     Lijiang's captivating history and beauty. Book your unforgettable Lijiang
     Old Town ecotour today!
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
