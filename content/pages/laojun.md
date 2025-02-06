@@ -804,7 +804,10 @@ slug: /laojun
 seo:
   type: Seo
   metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
+  metaDescription: >-
+    Escape to Laojun Mountain Ecotour, Yunnan, China! Hike alpine meadows, spot
+    rare birds, & immerse in minority cultures. Discover Yangtze First Bend &
+    Himalayan honey. Authentic China nature & culture adventure.
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
