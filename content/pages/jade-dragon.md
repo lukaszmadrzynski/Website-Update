@@ -581,7 +581,10 @@ slug: /jade-dragon
 seo:
   type: Seo
   metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
+  metaDescription: >-
+    Escape Lijiang crowds! Discover hidden trails on our authentic ecotour to
+    Jade Dragon Snow Mountain Nature Reserve. Hike with a ranger, explore
+    temples, Yi villages, wetlands. Book your Yunnan adventure!
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
