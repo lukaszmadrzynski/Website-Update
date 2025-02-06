@@ -62,7 +62,7 @@ sections:
       elementId: ''
       styles:
         self:
-          borderRadius: x-large
+          borderRadius: none
     badge:
       type: Badge
       label: Wenhai Wetlands Nature Reserve | one-day Ecotour
