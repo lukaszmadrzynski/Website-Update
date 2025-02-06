@@ -8,35 +8,7 @@ sections:
       text: Living Waters of Lashi
       color: text-dark
     subtitle: An Ecotour of Biodiversity Conservation & Ethnic Culture
-    text: >+
-      Embark on a captivating journey to the Lashi Wetlands, a crucial ecosystem
-      in Yunnan. Explore the wetland park and conservation bureau, understanding
-      the importance of wetland preservation. Observe unique biodiversity in the
-      Lashi Wetland Reserve and immerse yourself in the rich cultural traditions
-      of local Naxi and Yi minorities. Hike to breathtaking Luoma Cliffs for
-      panoramic views and enjoy genuine village experiences with local cuisine,
-      connecting with the region's unique natural beauty and cultural heritage.
-
-
-
-      *   Duration: One Day (Approximately 11 hours)
-
-
-      *   Location: Lashi Wetlands Nature Reserve
-
-
-      *   Activity Level: Mild
-
-
-      *   Altitudes: 2400 - 3250 m
-
-
-      *   Walking Distance: 5-6 km
-
-
-      *   Price: **from** **USD251.00 to USD199.00 Per Person** (based on group
-      sizes of 2 to 6 people)
-
+    text: ''
     actions:
       - type: Button
         label: Book Now
