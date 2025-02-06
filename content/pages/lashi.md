@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Living Waters of Lashi
+      text: ''
       color: text-dark
     subtitle: ''
     text: ''
