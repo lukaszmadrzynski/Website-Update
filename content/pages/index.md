@@ -575,7 +575,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/17 (2).jpg
+      url: /images/About Us Banner.webp
       altText: About us photo
       type: ImageBlock
     badge:
