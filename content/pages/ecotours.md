@@ -545,7 +545,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/expeditions banner.jpg
+      url: /images/expeditions banner.webp
       altText: Fun feature preview
       styles:
         self:
