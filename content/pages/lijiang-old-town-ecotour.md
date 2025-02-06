@@ -491,8 +491,7 @@ seo:
   metaTags:
     - type: MetaTag
       content: >-
-        Lijiang Old Town, Lijiang Ecotour, Dayan Old Town, Yunnan Ecotours,
-        China Travel, UNESCO World Heritage Site, Naxi Culture, Cultural Tours
-        China, Lijiang Tourism, Black Dragon Pool Park, Dayan Old Town, China
-        Tours
+        Lijiang Old Town, Lijiang Ecotour,  Yunnan Ecotours, China Travel,
+        UNESCO World Heritage Site, Naxi Culture, Cultural Tours China, Lijiang
+        Tourism, Black Dragon Pool Park, Dayan Old Town, China Tours
 ---
