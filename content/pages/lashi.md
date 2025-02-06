@@ -387,6 +387,11 @@ sections:
       self:
         alignItems: center
         justifyContent: center
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
 slug: /lashi
 seo:
   type: Seo
