@@ -199,7 +199,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon4.jpg
+          url: /images/WH-icon4.webp
           altText: Placeholder text
           elementId: ''
           styles:
