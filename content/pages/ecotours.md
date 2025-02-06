@@ -391,7 +391,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/LJ-banner2 Icon.jpg
+          url: /images/LJ-Banner Icon.jpg
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
