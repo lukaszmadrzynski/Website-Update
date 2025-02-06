@@ -3,31 +3,17 @@ title: Cloud Mountain Ecotours
 slug: /
 sections:
   - type: GenericSection
-    subtitle: Northwest Yunnan | Southeast Tibet
-    text: >
-      Immerse yourself in the breathtaking landscapes and vibrant cultures of
-      Northwest Yunnan and Southeast Tibet on our immersive and sustainable
-      ecotours. Explore the wonders of the ancient Tea and Horse Road, from Naxi
-      Lijiang to Tibetan Shangri-La, with expert local guides, supporting
-      community tourism and making a positive impact through ecotourism.
-    actions:
-      - label: Check Our Ecotours
-        altText: ''
-        url: /ecotours
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    subtitle: ''
+    text: ''
+    actions: []
     media:
       altText: ''
       elementId: ''
       type: ImageBlock
-      url: /images/Main Page Hero.webp
+      url: /images/Main Page - Hero4.jpg
       styles:
         self:
-          borderRadius: x-large
+          borderRadius: none
     badge:
       label: Cloud mountain
       color: text-dark
@@ -39,10 +25,10 @@ sections:
         alignItems: center
         flexDirection: col-reverse
         padding:
-          - pt-5
-          - pl-2
+          - pt-3
+          - pl-0
           - pb-2
-          - pr-2
+          - pr-0
         justifyContent: center
         margin:
           - ml-0
@@ -51,11 +37,44 @@ sections:
         textAlign: justify
     title:
       type: TitleBlock
-      text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
+      text: ''
       color: text-dark
       styles:
         self:
           fontWeight: 400
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
+      color: text-dark
+    subtitle: Northwest Yunnan | Southeast Tibet
+    text: >
+      Immerse yourself in the breathtaking landscapes and vibrant cultures of
+      Northwest Yunnan and Southeast Tibet on our immersive and sustainable
+      ecotours. Explore the wonders of the ancient Tea and Horse Road, from Naxi
+      Lijiang to Tibetan Shangri-La, with expert local guides, supporting
+      community tourism and making a positive impact through ecotourism.
+    actions:
+      - type: Button
+        label: Check Our Ecotours
+        url: /ecotours
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: CLOUD MOUNTAIN
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        justifyContent: center
+        padding:
+          - pt-3
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -77,7 +96,7 @@ sections:
           of this exeptional World Heritage Site.
         image:
           type: ImageBlock
-          url: /images/Main Icon.jpg
+          url: /images/DY-Banner Icon.webp
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
@@ -125,7 +144,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/YL-Banner Icon 5.jpg
+          url: /images/YL-Banner Icon 5.webp
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
@@ -174,7 +193,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/TC-Banner Icon.jpg
+          url: /images/TC-Banner Icon.webp
           altText: ''
           elementId: ''
           styles:
@@ -250,7 +269,7 @@ sections:
           Northwest Yunnan and Southeast Tibet. Foster a deeper connections with
           local nature and culture.
         image:
-          url: /images/Private.jpg
+          url: /images/Private.webp
           altText: Placeholder image
           styles:
             self:
@@ -304,9 +323,10 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          We are deeply committed to minimizing our environmental impact and
+          We deeply committed to minimizing our environmental impact and
           supporting local communities through ethical and sustainable tourism
-          practices.
+          practices. We are also actively involved in many other conservation
+          and sustainability projects in our ecotourism destinations.
         image:
           url: /images/Sustainable.jpg
           altText: Placeholder image
@@ -556,7 +576,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/17 (2).jpg
+      url: /images/About Us Banner.webp
       altText: About us photo
       type: ImageBlock
     badge:
@@ -621,7 +641,7 @@ seo:
       content: >-
         yunnan ecotours, china ecotours, lijiang travel, shangri-la tours, tibet
         travel china, yunnan travel, sustainable tourism china, yunnan tours,
-        hiking china, adventure travel china
+        hiking china, adventure travel china, lijiang tours
 type: PageLayout
-isDraft: true
+isDraft: false
 ---
