@@ -113,7 +113,7 @@ sections:
           Buddhism.
         image:
           type: ImageBlock
-          url: /images/YL-icon1.jpg
+          url: /images/YL-Icon1.webp
           altText: Placeholder image
           elementId: ''
           styles:
