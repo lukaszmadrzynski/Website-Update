@@ -280,7 +280,7 @@ sections:
           and enhancing your cultural experience.
         image:
           type: ImageBlock
-          url: /images/DY-icon7.jpg
+          url: /images/DY-icon7.webp
           altText: Placeholder text
           elementId: ''
           styles:
