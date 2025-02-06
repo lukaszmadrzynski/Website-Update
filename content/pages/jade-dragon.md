@@ -220,7 +220,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/YL-Icon4.webp
+          url: /images/YL-Icon3.webp
           altText: Placeholder text
           elementId: ''
           styles:
