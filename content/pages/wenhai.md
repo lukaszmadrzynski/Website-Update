@@ -328,7 +328,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon6.jpg
+          url: /images/WH-icon6.webp
           altText: Placeholder text
           elementId: ''
           styles:
