@@ -76,7 +76,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Lijiang's Forgotten Forest
+      text: Jade Dragon's Hidden Trails
       color: text-dark
     subtitle: A Wild Biodiversity Hotspot in the Heart of Lijiang
     text: >+
