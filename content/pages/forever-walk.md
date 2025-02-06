@@ -827,7 +827,10 @@ slug: /forever-walk
 seo:
   type: Seo
   metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
+  metaDescription: >-
+    Relive NatGeo's Forever Walk China! Slow trekking ecotour in Yunnan. Explore
+    Jade Dragon Snow Mountain & Wenhai Wetlands. Authentic villages, local
+    guides. Book now!
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
