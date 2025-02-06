@@ -5,9 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: |-
-        Jade Dragon's Hidden
-        Trails
+      text: ''
       color: text-dark
     subtitle: ''
     text: >+
