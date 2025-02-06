@@ -834,4 +834,10 @@ seo:
   socialImage: /images/main-hero.jpg
   metaTags:
     - type: MetaTag
+      content: >-
+        ecotour, Yunnan, China, trekking, hiking, slow travel, National
+        Geographic, Forever Walk China, Jade Dragon Snow Mountain, Wenhai
+        Wetlands, Naxi culture, Yi culture, biodiversity, nature tour, cultural
+        tour, village stay, guided tour, adventure travel, China travel, Yunnan
+        travel, Paul Salopek, Out of Eden Walk, Lijiang 
 ---
