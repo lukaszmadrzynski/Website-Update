@@ -381,7 +381,7 @@ sections:
       *   English-speaking guide (Lynne Lyu or Lukasz Madrzynski).
 
 
-      *   Local guide.
+      *   Local ranger guide.
 
 
       *   Private Transportation.
