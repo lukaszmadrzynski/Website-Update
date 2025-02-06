@@ -96,7 +96,7 @@ sections:
           of this exeptional World Heritage Site.
         image:
           type: ImageBlock
-          url: /images/Main Icon.jpg
+          url: /images/DY-Banner Icon.webp
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
