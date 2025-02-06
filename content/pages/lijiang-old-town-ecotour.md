@@ -224,7 +224,7 @@ sections:
           learning about its cultural significance.
         image:
           type: ImageBlock
-          url: /images/DY-icon5.jpg
+          url: /images/DY-icon5.webp
           altText: Placeholder text
           elementId: ''
           styles:
