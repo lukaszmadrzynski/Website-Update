@@ -388,6 +388,8 @@ sections:
       self:
         alignItems: center
         justifyContent: center
+        padding:
+          - pt-8
   - type: GenericSection
     title:
       type: TitleBlock
