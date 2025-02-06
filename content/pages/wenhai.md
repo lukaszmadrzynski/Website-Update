@@ -157,7 +157,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon2b.jpg
+          url: /images/WH-icon2.webp
           altText: Placeholder image
           elementId: ''
           styles:
