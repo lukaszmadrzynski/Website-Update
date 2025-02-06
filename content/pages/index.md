@@ -269,7 +269,7 @@ sections:
           Northwest Yunnan and Southeast Tibet. Foster a deeper connections with
           local nature and culture.
         image:
-          url: /images/Private.jpg
+          url: /images/Private.webp
           altText: Placeholder image
           styles:
             self:
