@@ -162,7 +162,7 @@ sections:
           elementId: ''
           styles:
             self:
-              borderRadius: none
+              borderRadius: x-large
               padding:
                 - pt-0
                 - pl-0
