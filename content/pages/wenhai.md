@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Wenhai Sanctuary
+      text: ''
       color: text-dark
     subtitle: Along the Ancient Tea & Horse Road
     text: ''
