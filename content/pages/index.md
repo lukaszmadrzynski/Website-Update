@@ -193,7 +193,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/TC-Banner Icon.jpg
+          url: /images/TC-Banner Icon.webp
           altText: ''
           elementId: ''
           styles:
