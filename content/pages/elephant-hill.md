@@ -689,5 +689,6 @@ seo:
     hotspot near Lijiang. Rare orchids, birds, & views await! Book your nature
     walk.
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
