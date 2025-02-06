@@ -47,48 +47,32 @@ sections:
       color: text-dark
     subtitle: An Ecotour of Biodiversity Conservation & Ethnic Culture
     text: >+
-      Escape the crowds and immerse yourself in pristine nature just outside
-      Lijiang Old Town! Our ecotour unveils a peaceful
-
-      haven of biodiversity, a protected water source. Discover rare orchids,
-      unique
-
-      plants like Ghost Pipes, and vibrant birdlife including pheasants and
-
-      woodpeckers. Spot cute squirrels and maybe even a muntjac! Explore Naxi
-
-      minority tombs, learn about medicinal plants and fungi with a local
-      expert.
-
-      Reach the Top Pagoda for stunning Lijiang and Jade Dragon Snow Mountain
-      views,
-
-      and conclude at the iconic Black Dragon Pool Park. An unforgettable nature
-      experience
-
-      awaits!
+      Embark on a captivating journey to the Lashi Wetlands, a crucial ecosystem
+      in Yunnan. Explore the wetland park and conservation bureau, understanding
+      the importance of wetland preservation. Observe unique biodiversity in the
+      Lashi Wetland Reserve and immerse yourself in the rich cultural traditions
+      of local Naxi and Yi minorities. Hike to breathtaking Luoma Cliffs for
+      panoramic views and enjoy genuine village experiences with local cuisine,
+      connecting with the region's unique natural beauty and cultural heritage.
 
 
-      *   Duration: Half-Day (Approximately 4 hours)
+      *   Duration: One Day (Approximately 11 hours)
 
 
-      *   Location: Elephant Hill in Black Dragon Pool Water Source Protected
-      Area
+      *   Location: Lashi Wetlands Nature Reserve
 
 
-      *   Activity Level: Moderate
+      *   Activity Level: Mild
 
 
-      *   Altitudes: 2400 - 2700 m
+      *   Altitudes: 2400 - 3250 m
 
 
       *   Walking Distance: 5-6 km
 
 
-      *   Price: **USD58.00 to USD38.00 Per Person** (based on group sizes of 2
-      and 6 people)
-
-
+      *   Price: **from** **USD251.00 to USD199.00 Per Person** (based on group
+      sizes of 2 to 6 people)
 
     actions:
       - type: Button
