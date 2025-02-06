@@ -291,7 +291,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/XS-Icon5b.jpg
+          url: /images/XS-Icon5.webp
           altText: Placeholder text
           elementId: ''
           styles:
