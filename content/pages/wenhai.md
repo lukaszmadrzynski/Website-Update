@@ -50,48 +50,41 @@ sections:
       color: text-dark
     subtitle: A Wild Biodiversity Hotspot in the Heart of Lijiang
     text: >+
-      Escape the crowds and immerse yourself in pristine nature just outside
-      Lijiang Old Town! Our ecotour unveils a peaceful
+      Embark on an immersive journey to Wenhai
 
-      haven of biodiversity, a protected water source. Discover rare orchids,
-      unique
+      Sanctuary, a hidden gem along the historic Tea & Horse Road. Explore
 
-      plants like Ghost Pipes, and vibrant birdlife including pheasants and
+      pristine wetlands with a local conservationist, discovering unique alpine
+      birds
 
-      woodpeckers. Spot cute squirrels and maybe even a muntjac! Explore Naxi
+      and flowers in this tranquil ecosystem. Immerse yourself in Naxi culture
+      with a
 
-      minority tombs, learn about medicinal plants and fungi with a local
-      expert.
+      village visit and local lunch. Hike to the magnificent Tiger Cave for
 
-      Reach the Top Pagoda for stunning Lijiang and Jade Dragon Snow Mountain
-      views,
+      breathtaking views of Wenhai Lake and village. Uncover the UNESCO heritage
+      of Baisha
 
-      and conclude at the iconic Black Dragon Pool Park. An unforgettable nature
-      experience
-
-      awaits!
+      Village, experiencing Yunnan's rich natural beauty and cultural tapestry.
 
 
-      *   Duration: Half-Day (Approximately 4 hours)
+      *   Duration: One Day (Approximately 11 hours)
 
 
-      *   Location: Elephant Hill in Black Dragon Pool Water Source Protected
-      Area
+      *   Location: Wenhai Wetlands Nature Reserve
 
 
       *   Activity Level: Moderate
 
 
-      *   Altitudes: 2400 - 2700 m
+      *   Altitudes: 2400 - 3250 m
 
 
-      *   Walking Distance: 5-6 km
+      *   Walking Distance: 7-8 km
 
 
-      *   Price: **USD58.00 to USD38.00 Per Person** (based on group sizes of 2
-      and 6 people)
-
-
+      *   Price: **from** **USD242.00 to USD192.00 Per Person** (based on group
+      sizes of 2 and 6 people)
 
     actions:
       - type: Button
