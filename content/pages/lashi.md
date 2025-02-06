@@ -9,16 +9,7 @@ sections:
       color: text-dark
     subtitle: An Ecotour of Biodiversity Conservation & Ethnic Culture
     text: ''
-    actions:
-      - type: Button
-        label: Book Now
-        altText: ''
-        url: /contact-us
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/LS-banner 1.webp
