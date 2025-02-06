@@ -17,7 +17,7 @@ sections:
       elementId: ''
       styles:
         self:
-          borderRadius: x-large
+          borderRadius: full
           padding:
             - pb-0
           margin:
