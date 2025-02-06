@@ -131,7 +131,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/ZH-Banner Icon.jpg
+          url: /images/ZH-Banner Icon.webp
           altText: ''
           elementId: ''
           styles:
