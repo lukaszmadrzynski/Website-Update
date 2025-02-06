@@ -73,7 +73,7 @@ sections:
       type: TitleBlock
       text: Living Waters of Lashi
       color: text-dark
-    subtitle: A Wild Biodiversity Hotspot in the Heart of Lijiang
+    subtitle: An Ecotour of Biodiversity Conservation & Ethnic Culture
     text: >+
       Escape the crowds and immerse yourself in pristine nature just outside
       Lijiang Old Town! Our ecotour unveils a peaceful
