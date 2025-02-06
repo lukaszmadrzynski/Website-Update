@@ -580,7 +580,12 @@ slug: /lashi
 seo:
   type: Seo
   metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
+  metaDescription: >-
+    Experience the Living Waters of Lashi on an unforgettable ecotour in Yunnan,
+    China. Explore biodiversity & conservation at Lashi Wetlands, discover Naxi
+    & Yi ethnic cultures, hike Luoma Cliffs & enjoy village life. Perfect for
+    nature lovers & cultural travelers seeking authentic China travel. Book your
+    Lashi Wetlands adventure!
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
