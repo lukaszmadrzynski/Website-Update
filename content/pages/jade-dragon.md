@@ -147,7 +147,7 @@ sections:
           wonders of this gem.
         image:
           type: ImageBlock
-          url: /images/YL-icon2.jpg
+          url: /images/YL-Icon2.webp
           altText: Placeholder image
           elementId: ''
         actions: []
