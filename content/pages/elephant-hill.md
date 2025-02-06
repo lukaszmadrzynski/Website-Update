@@ -137,7 +137,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/XS-Icon1.jpg
+          url: /images/XS-Icon1.webp
           altText: Placeholder image
           elementId: ''
           styles:
