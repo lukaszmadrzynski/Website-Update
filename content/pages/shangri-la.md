@@ -837,5 +837,6 @@ seo:
     snub-nosed monkeys, hike breathtaking Tibetan landscapes, and immerse in
     local culture. Book your China travel adventure now!
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
