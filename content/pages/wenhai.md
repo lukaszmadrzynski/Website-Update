@@ -630,7 +630,10 @@ slug: /wenhai
 seo:
   type: Seo
   metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
+  metaDescription: >-
+    Escape to Wenhai Sanctuary in Lijiang, Yunnan: Ecotour along the ancient Tea
+    & Horse Road. Explore pristine wetlands, Naxi culture, hike to Tiger Cave, &
+    discover UNESCO's Baisha Village. Book your Yunnan eco-cultural adventure!
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
