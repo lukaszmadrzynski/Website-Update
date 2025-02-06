@@ -308,7 +308,7 @@ sections:
           reminder of Lijiang’s royal heritage.
         image:
           type: ImageBlock
-          url: /images/DY-icon8.jpg
+          url: /images/DY-icon8.webp
           altText: Placeholder text
           elementId: ''
           styles:
