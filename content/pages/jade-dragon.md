@@ -8,36 +8,7 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: >+
-      Embark on a captivating private ecotour that immerses you in the rich
-      heritage and vibrant culture of Naxi ethnic group. Begin your journey with
-      a convenient pick-up, followed by visits to historical sites and serene
-      parks that showcase the region’s biodiveristy and cultural significance.
-      Stroll through lively streets filled with local crafts and flavors, while
-      exploring architectural gems that reflect the unique traditions of the
-      Naxi people. This experience beautifully intertwines history, culture, and
-      nature, offering an unforgettable glimpse into one of China’s most
-      enchanting destinations.
-
-
-      *   Duration: One Day (Approximately 11 hours)
-
-
-      *   Location: Jade Dragon Snow Mountain
-
-
-      *   Activity Level: Moderate
-
-
-      *   Altitudes: 2400 - 3300 m
-
-
-      *   Walking Distance: 8-9 km
-
-
-      *   Price: **from** **USD242.00 to USD192.00 Per Person** (based on group
-      sizes of 2 and 6 people)
-
+    text: ''
     actions:
       - type: Button
         label: Book Now
