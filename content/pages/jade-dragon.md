@@ -135,7 +135,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: ELEPHANT HILL | HALF-DAY ECOTOUR
+      label: JADE DRAGON SNOW MOUNTAIN | ONE-DAY ECOTOUR
       color: text-primary
     colors: bg-light-fg-dark
     styles:
