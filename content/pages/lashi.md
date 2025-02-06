@@ -49,7 +49,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/banner 1.jpg
+      url: /images/LS-banner 1.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
