@@ -90,7 +90,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/XS-Banner Icon.jpg
+          url: /images/XS-Banner Icon.webp
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
