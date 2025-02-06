@@ -196,7 +196,7 @@ sections:
           preserving this natural treasure.
         image:
           type: ImageBlock
-          url: /images/LS-icon3C.jpg
+          url: /images/LS-Icon3.webp
           altText: Placeholder image
           elementId: ''
           styles:
