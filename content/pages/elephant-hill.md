@@ -12,12 +12,12 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/XS-Banner.jpg
+      url: /images/XS-Banner.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       styles:
         self:
-          borderRadius: x-large
+          borderRadius: none
           padding:
             - pb-0
           margin:
@@ -106,6 +106,8 @@ sections:
         justifyContent: center
         padding:
           - pt-3
+          - pl-3
+          - pr-3
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -135,7 +137,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/XS-Icon1.jpg
+          url: /images/XS-Icon1.webp
           altText: Placeholder image
           elementId: ''
           styles:
@@ -174,7 +176,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/XS-Icon2.jpg
+          url: /images/XS-Icon2.webp
           altText: Placeholder image
           elementId: ''
           styles:
@@ -213,7 +215,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/XS-Icon3.jpg
+          url: /images/XS-Icon3.webp
           altText: Placeholder image
           elementId: ''
           styles:
@@ -250,7 +252,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/XS-Icon4.jpg
+          url: /images/XS-Icon4.webp
           altText: Placeholder text
           elementId: ''
           styles:
@@ -289,7 +291,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/XS-Icon5b.jpg
+          url: /images/XS-Icon5.webp
           altText: Placeholder text
           elementId: ''
           styles:
@@ -319,7 +321,7 @@ sections:
           **real treat for bird lovers**.
         image:
           type: ImageBlock
-          url: /images/XS-Icon6.jpg
+          url: /images/XS-Icon6.webp
           altText: Placeholder text
           elementId: ''
           styles:
@@ -358,7 +360,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/XS-Icon7.jpg
+          url: /images/XS-Icon7.webp
           altText: Placeholder text
           elementId: ''
           styles:
@@ -395,7 +397,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/XS-Icon8b.jpg
+          url: /images/XS-Icon8.webp
           altText: Placeholder text
           elementId: ''
           styles:
@@ -434,7 +436,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/XS-Icon9.jpg
+          url: /images/XS-Icon9.webp
           altText: Placeholder text
           elementId: ''
           styles:
@@ -473,7 +475,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/XS-Icon10.jpg
+          url: /images/XS-Icon10.webp
           altText: Placeholder text
           elementId: ''
           styles:
@@ -510,7 +512,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/XS-Icon11.jpg
+          url: /images/XS-Icon11.webp
           altText: Placeholder text
           elementId: ''
           styles:
@@ -549,7 +551,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/XS-Icon12.jpg
+          url: /images/XS-Icon12.webp
           altText: Placeholder text
           elementId: ''
           styles:
@@ -682,7 +684,20 @@ slug: /elephant-hill
 seo:
   type: Seo
   metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
+  metaDescription: >-
+    Escape Lijiang! Discover Forgotten Forest ecotour: a hidden biodiversity
+    hotspot near Lijiang. Rare orchids, birds, & views await! Book your nature
+    walk.
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
+      content: >-
+        Lijiang ecotour, Forgotten Forest Lijiang, biodiversity hotspot Lijiang,
+        nature walk Lijiang, hiking Lijiang, orchids Lijiang, birdwatching
+        Lijiang, wildlife Lijiang, medicinal plants Lijiang, Naxi culture
+        Lijiang, Jade Dragon Snow Mountain views, Black Dragon Pool Park, China
+        ecotours, Yunnan ecotours, sustainable tourism Lijiang, guided nature
+        walk Lijiang, forest walk Lijiang, Lijiang day trip, Lijiang nature
+        tour, Lijiang hidden gem, Lijiang photography tour, Lijiang family
+        ecotour
 ---
