@@ -144,7 +144,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/YL-Banner Icon 5.jpg
+          url: /images/YL-Banner Icon 5.webp
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
