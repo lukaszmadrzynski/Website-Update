@@ -401,21 +401,9 @@ sections:
 
       **Ecotour Time:**
 
-      *   Morning Sessions starts at 8:00 AM and finish around 1:00 PM.
+      *   Morning Sessions starts at 9:00 AM and finish around 1:00 PM.
 
       *   Afternoon Sessions start at 2:00 PM and finish around 6:00 PM
-
-      **What to Bring:**
-
-      *   Comfortable walking shoes.
-
-      *   Warm layers of clothing.
-
-      *   Sunscreen, sunglasses, and a hat.
-
-      *   Water bottle.
-
-      *   Any necessary personal medications.
 
     actions: []
     media:
