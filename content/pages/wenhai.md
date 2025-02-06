@@ -238,7 +238,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/WHicon3.jpg
+          url: /images/WH-icon3.webp
           altText: Placeholder text
           styles:
             self:
