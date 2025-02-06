@@ -48,7 +48,7 @@ sections:
       type: TitleBlock
       text: Wenhai Sanctuary
       color: text-dark
-    subtitle: A Wild Biodiversity Hotspot in the Heart of Lijiang
+    subtitle: Along the Ancient Tea & Horse Road
     text: >+
       Embark on an immersive journey to Wenhai
 
