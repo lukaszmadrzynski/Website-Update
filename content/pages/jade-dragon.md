@@ -586,5 +586,6 @@ seo:
     Jade Dragon Snow Mountain Nature Reserve. Hike with a ranger, explore
     temples, Yi villages, wetlands. Book your Yunnan adventure!
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
