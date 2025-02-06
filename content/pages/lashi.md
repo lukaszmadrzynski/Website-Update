@@ -267,7 +267,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/LS-icon5.jpg
+          url: /images/LS-Icon5.webp
           altText: Placeholder text
           elementId: ''
           styles:
