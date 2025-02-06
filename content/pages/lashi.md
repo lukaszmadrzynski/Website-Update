@@ -587,5 +587,6 @@ seo:
     nature lovers & cultural travelers seeking authentic China travel. Book your
     Lashi Wetlands adventure!
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
