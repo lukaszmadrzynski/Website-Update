@@ -224,7 +224,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/LS-icon4.jpg
+          url: /images/LS-Icon4.webp
           altText: Placeholder text
           elementId: ''
           styles:
