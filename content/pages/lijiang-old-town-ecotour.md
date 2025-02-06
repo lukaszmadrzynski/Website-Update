@@ -196,7 +196,7 @@ sections:
           picturesque photo opportunities.
         image:
           type: ImageBlock
-          url: /images/DY-icon4.jpg
+          url: /images/DY-icon4.webp
           altText: Placeholder text
           elementId: ''
           styles:
