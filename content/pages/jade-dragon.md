@@ -76,7 +76,7 @@ sections:
       type: TitleBlock
       text: Jade Dragon's Hidden Trails
       color: text-dark
-    subtitle: A Wild Biodiversity Hotspot in the Heart of Lijiang
+    subtitle: An Authentic Lijiang Ecotour Beyond the Crowds
     text: >+
       Escape the crowds and immerse yourself in pristine nature just outside
       Lijiang Old Town! Our ecotour unveils a peaceful
