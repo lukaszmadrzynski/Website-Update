@@ -478,7 +478,7 @@ sections:
         text: "Relive \"Forever Walk: China\"! Join\_guides featured in the acclaimed National Geographic's documentary. Explore nature, culture, villages, following our path with Paul Salopek on his\_\"Out of Eden Walk\". Discover authentic Yunnan at a slow pace on this unique experience.\n"
         image:
           type: ImageBlock
-          url: /images/FW-Banner Icon.jpg
+          url: /images/FW-Banner Icon.webp
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
