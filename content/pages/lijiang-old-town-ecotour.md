@@ -491,7 +491,8 @@ seo:
   metaTags:
     - type: MetaTag
       content: >-
-        Discover Lijiang Old Town Ecotour, a UNESCO gem in Yunnan, China.
-        Explore ancient Naxi culture, serene parks, & vibrant markets. Book your
-        unforgettable Lijiang travel adventure today!
+        Lijiang Old Town, Lijiang Ecotour, Dayan Old Town, Yunnan Ecotours,
+        China Travel, UNESCO World Heritage Site, Naxi Culture, Cultural Tours
+        China, Lijiang Tourism, Black Dragon Pool Park, Dayan Old Town, China
+        Tours
 ---
