@@ -130,7 +130,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: ELEPHANT HILL | HALF-DAY ECOTOUR
+      label: LASHI WETLANDS NATURE RESERVE | ONE-DAY ECOTOUR
       color: text-primary
     colors: bg-light-fg-dark
     styles:
