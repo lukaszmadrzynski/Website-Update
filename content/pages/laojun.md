@@ -816,5 +816,5 @@ seo:
         culture tours, laojun mountains hiking, birdwatching china, yangtze
         first bend tour, minority culture yunnan, naxi culture, bai culture,
         lisu culture, himalayan honey tour, china adventure travel, sustainable
-        tourism china, biet's laughingthrush, 
+        tourism china, biet's laughingthrush, Ianthocincla bieti, 
 ---
