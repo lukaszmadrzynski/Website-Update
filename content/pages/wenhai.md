@@ -114,7 +114,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon1.jpg
+          url: /images/WH-icon1.webp
           altText: Placeholder image
           elementId: ''
           styles:
