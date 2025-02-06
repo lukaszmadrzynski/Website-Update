@@ -210,7 +210,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon5.jpg
+          url: /images/WH-Banner Icon.webp
           altText: ''
           elementId: ''
           styles:
