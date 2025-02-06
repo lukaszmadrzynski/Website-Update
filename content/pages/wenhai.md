@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Along the Ancient Tea & Horse Road
+    subtitle: ''
     text: ''
     actions:
       - type: Button
