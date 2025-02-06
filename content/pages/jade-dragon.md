@@ -588,4 +588,10 @@ seo:
   socialImage: /images/main-hero.jpg
   metaTags:
     - type: MetaTag
+      content: >-
+        Lijiang ecotour, Jade Dragon Snow Mountain hike, Yunnan ecotourism,
+        authentic China travel, off the beaten path tours Lijiang, nature
+        reserve tour, Yi culture tour, Tibetan temple tour, Wenhai Wetland,
+        Snowflake Village, Baisha Village, ranger guided hike, biodiversity tour
+        Yunnan
 ---
