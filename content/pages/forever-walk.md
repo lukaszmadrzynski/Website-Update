@@ -832,5 +832,6 @@ seo:
     Jade Dragon Snow Mountain & Wenhai Wetlands. Authentic villages, local
     guides. Book now!
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
