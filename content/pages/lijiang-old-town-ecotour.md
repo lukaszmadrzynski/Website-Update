@@ -479,7 +479,14 @@ slug: /lijiang-old-town-ecotour
 seo:
   type: Seo
   metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
+  metaDescription: >-
+    Wander Lijiang Old Town, a UNESCO gem in Yunnan, China, on our cultural
+    ecotour. Explore ancient Naxi streets, vibrant markets, and tranquil parks
+    with Jade Dragon Snow Mountain views. Immerse yourself in rich local
+    traditions at the Heritage Museum and iconic landmarks like the Big Water
+    Wheel. Taste local flavors, admire stunning architecture, and experience
+    Lijiang's captivating history and beauty. Book your unforgettable Lijiang
+    Old Town ecotour today!
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
