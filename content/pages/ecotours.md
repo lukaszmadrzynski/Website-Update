@@ -30,7 +30,7 @@ sections:
           unforgettable beauty and history of this captivating destination.
         image:
           type: ImageBlock
-          url: /images/Main Icon.jpg
+          url: /images/DY-Banner Icon.webp
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
