@@ -684,7 +684,10 @@ slug: /elephant-hill
 seo:
   type: Seo
   metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
+  metaDescription: >-
+    Escape Lijiang! Discover Forgotten Forest ecotour: a hidden biodiversity
+    hotspot near Lijiang. Rare orchids, birds, & views await! Book your nature
+    walk.
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
