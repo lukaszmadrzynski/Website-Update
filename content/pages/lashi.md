@@ -164,10 +164,10 @@ sections:
             self:
               borderRadius: x-large
               padding:
-                - pt-4
-                - pl-4
-                - pb-4
-                - pr-4
+                - pt-3
+                - pl-3
+                - pb-3
+                - pr-3
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
