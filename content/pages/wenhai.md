@@ -637,4 +637,8 @@ seo:
   socialImage: /images/main-hero.jpg
   metaTags:
     - type: MetaTag
+      content: >-
+        Wenhai Sanctuary, Yunnan, Ecotour, Tea Horse Road, wetlands, Naxi
+        culture, Tiger Cave, Baisha Village, UNESCO, eco-cultural adventure,
+        Yunnan adventure
 ---
