@@ -395,7 +395,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Visit Lashi Wetlands and Forests?
+      text: Ready to Visit Lashi Wetlands and Villages?
       color: text-dark
       styles:
         self:
