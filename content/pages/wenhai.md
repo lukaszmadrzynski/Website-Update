@@ -635,5 +635,6 @@ seo:
     & Horse Road. Explore pristine wetlands, Naxi culture, hike to Tiger Cave, &
     discover UNESCO's Baisha Village. Book your Yunnan eco-cultural adventure!
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
