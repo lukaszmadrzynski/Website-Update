@@ -691,4 +691,13 @@ seo:
   socialImage: /images/main-hero.jpg
   metaTags:
     - type: MetaTag
+      content: >-
+        Lijiang ecotour, Forgotten Forest Lijiang, biodiversity hotspot Lijiang,
+        nature walk Lijiang, hiking Lijiang, orchids Lijiang, birdwatching
+        Lijiang, wildlife Lijiang, medicinal plants Lijiang, Naxi culture
+        Lijiang, Jade Dragon Snow Mountain views, Black Dragon Pool Park, China
+        ecotours, Yunnan ecotours, sustainable tourism Lijiang, guided nature
+        walk Lijiang, forest walk Lijiang, Lijiang day trip, Lijiang nature
+        tour, Lijiang hidden gem, Lijiang photography tour, Lijiang family
+        ecotour
 ---
