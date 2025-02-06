@@ -252,7 +252,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/XS-Icon4.jpg
+          url: /images/XS-Icon4.webp
           altText: Placeholder text
           elementId: ''
           styles:
