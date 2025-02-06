@@ -150,6 +150,9 @@ sections:
           url: /images/YL-Icon2.webp
           altText: Placeholder image
           elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
