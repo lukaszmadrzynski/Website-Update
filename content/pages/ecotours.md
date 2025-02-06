@@ -30,7 +30,7 @@ sections:
           unforgettable beauty and history of this captivating destination.
         image:
           type: ImageBlock
-          url: /images/Main Icon.jpg
+          url: /images/DY-Banner Icon.webp
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
@@ -40,7 +40,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/lijiang-old-town-ecotour/
+            url: /lijiang-old-town-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -59,8 +59,8 @@ sections:
             justifyContent: center
             textAlign: left
             margin:
-              - ml-1
-              - mr-1
+              - ml-0
+              - mr-0
         tagline: Half-Day | Cultural Heritage Walk
       - type: FeaturedItem
         title: Lijiang's Forgotten Forest
@@ -90,7 +90,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/XS-Banner Icon.jpg
+          url: /images/XS-Banner Icon.webp
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
@@ -131,7 +131,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/ZH-Banner Icon.jpg
+          url: /images/ZH-Banner Icon.webp
           altText: ''
           elementId: ''
           styles:
@@ -141,7 +141,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours
+            url: /zhongji-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -170,7 +170,7 @@ sections:
     styles:
       self:
         padding:
-          - pb-16
+          - pb-7
           - pt-16
           - pl-1
           - pr-1
@@ -210,7 +210,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Icon5.jpg
+          url: /images/WH-Banner Icon.webp
           altText: ''
           elementId: ''
           styles:
@@ -220,7 +220,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/wenhai
+            url: /wenhai
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -261,7 +261,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Banner Icon2.jpg
+          url: /images/LS-Banner Icon1.webp
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
@@ -271,7 +271,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/lashi
+            url: /lashi
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -308,7 +308,7 @@ sections:
           share a meal with the Yi people. An unforgettable adventure awaits!
         image:
           type: ImageBlock
-          url: /images/YL-Banner Icon 5.jpg
+          url: /images/YL-Banner Icon 5.webp
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
@@ -318,7 +318,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/jade-dragon-snow-mountain
+            url: /jade-dragon
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -347,7 +347,7 @@ sections:
     styles:
       self:
         padding:
-          - pb-16
+          - pb-7
           - pt-16
           - pl-1
           - pr-1
@@ -391,7 +391,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/LJ-banner2 Icon.jpg
+          url: /images/TC-Banner Icon.webp
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
@@ -401,7 +401,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/laojun
+            url: /laojun
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -440,7 +440,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/TC-Banner Icon.jpg
+          url: /images/TC-Banner Icon.webp
           altText: ''
           elementId: ''
           styles:
@@ -450,7 +450,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/shangri-la
+            url: /shangri-la
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -478,7 +478,7 @@ sections:
         text: "Relive \"Forever Walk: China\"! Join\_guides featured in the acclaimed National Geographic's documentary. Explore nature, culture, villages, following our path with Paul Salopek on his\_\"Out of Eden Walk\". Discover authentic Yunnan at a slow pace on this unique experience.\n"
         image:
           type: ImageBlock
-          url: /images/FW-Banner Icon.jpg
+          url: /images/FW-Banner Icon.webp
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
@@ -488,7 +488,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/forever-walk
+            url: /forever-walk
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -516,7 +516,7 @@ sections:
     styles:
       self:
         padding:
-          - pb-16
+          - pb-7
           - pt-16
           - pl-1
           - pr-1
@@ -545,8 +545,11 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/expeditions banner.jpg
+      url: /images/expeditions banner.webp
       altText: Fun feature preview
+      styles:
+        self:
+          borderRadius: x-large
     badge:
       type: Badge
       label: Want to see more?
@@ -556,6 +559,12 @@ sections:
       self:
         alignItems: center
         justifyContent: center
+        padding:
+          - pt-3
+          - pb-3
+          - pl-3
+          - pr-3
+        flexDirection: ''
   - type: GenericSection
     title:
       type: TitleBlock
@@ -587,8 +596,10 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-6
-          - pb-20
+          - pt-9
+          - pb-12
+          - pl-3
+          - pr-3
 slug: /ecotours
 isDraft: false
 seo:
