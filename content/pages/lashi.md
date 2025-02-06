@@ -199,6 +199,9 @@ sections:
           url: /images/LS-icon3C.jpg
           altText: Placeholder image
           elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
