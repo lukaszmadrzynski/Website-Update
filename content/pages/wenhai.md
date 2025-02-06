@@ -8,43 +8,7 @@ sections:
       text: Wenhai Sanctuary
       color: text-dark
     subtitle: Along the Ancient Tea & Horse Road
-    text: >+
-      Embark on an immersive journey to Wenhai
-
-      Sanctuary, a hidden gem along the historic Tea & Horse Road. Explore
-
-      pristine wetlands with a local conservationist, discovering unique alpine
-      birds
-
-      and flowers in this tranquil ecosystem. Immerse yourself in Naxi culture
-      with a
-
-      village visit and local lunch. Hike to the magnificent Tiger Cave for
-
-      breathtaking views of Wenhai Lake and village. Uncover the UNESCO heritage
-      of Baisha
-
-      Village, experiencing Yunnan's rich natural beauty and cultural tapestry.
-
-
-      *   Duration: One Day (Approximately 11 hours)
-
-
-      *   Location: Wenhai Wetlands Nature Reserve
-
-
-      *   Activity Level: Moderate
-
-
-      *   Altitudes: 2400 - 3250 m
-
-
-      *   Walking Distance: 7-8 km
-
-
-      *   Price: **from** **USD242.00 to USD192.00 Per Person** (based on group
-      sizes of 2 and 6 people)
-
+    text: ''
     actions:
       - type: Button
         label: Book Now
