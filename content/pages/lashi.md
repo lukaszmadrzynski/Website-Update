@@ -302,7 +302,7 @@ sections:
           memorable cultural exchange experience.
         image:
           type: ImageBlock
-          url: /images/LS-icon6b.jpg
+          url: /images/LS-Icon6.webp
           altText: Placeholder text
           elementId: ''
           styles:
