@@ -146,7 +146,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: ELEPHANT HILL | HALF-DAY ECOTOUR
+      label: "SHANGRI-LA BAIMA SNOW MOUNTAIN NATURE RESERVE\_ | TWO-DAY ECOJOURNEY"
       color: text-primary
     colors: bg-light-fg-dark
     styles:
