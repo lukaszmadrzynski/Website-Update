@@ -656,7 +656,7 @@ sections:
         justifyContent: center
         padding:
           - pt-12
-          - pb-9
+          - pb-12
 slug: /laojun
 seo:
   type: Seo
