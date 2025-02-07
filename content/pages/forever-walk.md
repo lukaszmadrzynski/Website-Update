@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: NatGeo's Forever Walk
+      text: ''
       color: text-dark
     subtitle: |-
       A Slow Trekking Journey of
