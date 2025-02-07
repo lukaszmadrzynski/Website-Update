@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Why Choose Cloud Mountain Ecotours?
+      text: ''
       color: text-dark
       styles:
         self:
