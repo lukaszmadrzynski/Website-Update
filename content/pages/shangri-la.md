@@ -351,7 +351,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/TC-Icon8.jpg
+          url: /images/TC-Icon8.webp
           altText: Placeholder text
           elementId: ''
           styles:
