@@ -56,13 +56,7 @@ sections:
       team committed to sustainable ecotourism in Yunnan, China, in the
       captivating regions of Lijiang and Shangri-La.
     text: ''
-    actions:
-      - type: Button
-        label: Book Now
-        url: /contact-us
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       altText: Fun feature preview
