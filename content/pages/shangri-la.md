@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Yunnan Snub-nosed Monkey EcoJourney
+      text: ''
       color: text-dark
     subtitle: 'Discovering Nature and Culture of the Tibetan Shangrila '
     text: >+
