@@ -12,7 +12,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/banner2.jpg
+      url: /images/LJ-Banner.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
