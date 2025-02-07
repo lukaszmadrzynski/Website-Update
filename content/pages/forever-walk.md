@@ -171,6 +171,9 @@ sections:
           url: /images/FW-Icon9.webp
           altText: Placeholder image
           elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
