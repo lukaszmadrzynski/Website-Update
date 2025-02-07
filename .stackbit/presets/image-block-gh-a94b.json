@@ -1,0 +1,27 @@
+{
+    "model": "ImageBlock",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "gh",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "ww"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "url": {
+                    "$$ref": "stackbit_asset_id:static:public/images/About-Us Banner.webp",
+                    "$$type": "__asset_model"
+                },
+                "altText": "Dope design preview",
+                "elementId": null,
+                "styles": null
+            },
+            "thumbnail": "images/image-block-gh-a94b.png"
+        }
+    ]
+}
