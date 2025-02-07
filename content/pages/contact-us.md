@@ -154,7 +154,7 @@ sections:
       - type: Link
         label: LinkedIn
         altText: LinkedIn
-        url: '/https://www.linkedin.com/company/cloud-mountain-sustainability/'
+        url: 'https://www.linkedin.com/company/cloud-mountain-sustainability/'
         showIcon: true
         icon: linkedin
         iconPosition: left
