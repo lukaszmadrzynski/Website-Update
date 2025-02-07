@@ -349,7 +349,7 @@ sections:
           Geographic, and Discovery Channel. 
         image:
           type: ImageBlock
-          url: /images/Recognized.jpg
+          url: /images/Recognized.webp
           altText: Placeholder text
           styles:
             self:
