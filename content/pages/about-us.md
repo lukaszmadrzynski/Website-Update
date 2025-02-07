@@ -5,6 +5,48 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: Ready to See Some Migratory Birds?
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    text: ''
+    actions:
+      - type: Button
+        label: Book this Ecotour now!
+        url: /contact-us
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+      - type: Button
+        label: Check Other Ecotours
+        altText: ''
+        url: /ecotours
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+    media:
+      type: ImageBlock
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+        justifyContent: center
+        padding:
+          - pt-7
+          - pb-9
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: About Cloud Mountain
       color: text-dark
     subtitle: Your Trusted Partner for Ecotourism in Yunnan
