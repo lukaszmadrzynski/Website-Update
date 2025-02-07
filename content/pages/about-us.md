@@ -331,7 +331,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Sustainability2-2.jpg
+      url: /images/Sustainability2-.webp
       altText: Dope design preview
       styles:
         self:
