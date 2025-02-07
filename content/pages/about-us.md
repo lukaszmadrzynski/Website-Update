@@ -5,48 +5,66 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/About-Us Banner.webp
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: About Cloud Mountain
       color: text-dark
       styles:
         self:
           textAlign: center
-          fontWeight: 400
-    subtitle: Your Trusted Partner for Sustainable Travel & Ecotourism in Yunnan
+    subtitle: Your Trusted Partner for Ecotourism in Yunnan
     text: >+
-      <div style="text-align: left">Cloud Mountain emerged from a shared passion
-      for the unparalleled natural beauty and rich cultural tapestry of
+      <div style="text-align: center">Cloud Mountain emerged from a shared
+      passion for the unparalleled natural beauty and rich cultural tapestry of
       Northwest Yunnan, China. Co-founders Lynne Lyu and Lukasz Madrzynski
       envisioned a travel company that not only offered unforgettable
       experiences but also championed sustainable practices and fostered genuine
-      connections with local communities. We believe that travel to China,
-      particularly in regions like Lijiang and Shangri-La, should be a force for
-      good, enriching both visitors and the places they explore. </div>
+      connections with local communities.</div>
 
     actions: []
-    colors: bg-light-fg-dark
-    styles:
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      self:
-        justifyContent: center
-        padding:
-          - pt-7
-          - pb-9
-          - pl-3
-          - pr-3
-        flexDirection: row
     media:
       type: ImageBlock
-      url: /images/About-Us Banner.jpg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
-          padding:
-            - pt-0
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: flex-start
+        justifyContent: center
+        padding:
+          - pt-3
+          - pl-3
+          - pr-3
+          - pb-8
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -72,7 +90,7 @@ sections:
           Co. Ltd., Founder of Lynne玲 Art Studio.
         image:
           type: ImageBlock
-          url: /images/Lynne2.jpg
+          url: /images/Lynne2.webp
           altText: Background alt text
           styles:
             self:
@@ -82,10 +100,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-0
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
@@ -102,7 +120,7 @@ sections:
           Recipient of Lijiang Municipality Senior Talents Service Green Card.
         image:
           type: ImageBlock
-          url: /images/Lukas2.jpg
+          url: /images/Lukas2.webp
           altText: Background alt text
           styles:
             self:
@@ -112,10 +130,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-0
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
     actions: []
@@ -124,10 +142,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-24
-          - pl-8
-          - pb-8
-          - pr-8
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
@@ -155,7 +173,7 @@ sections:
           Shangri-La
         image:
           type: ImageBlock
-          url: /images/Minimizing.jpg
+          url: /images/Minimizing.webp
           altText: Placeholder image
           styles:
             self:
@@ -165,10 +183,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
@@ -181,7 +199,7 @@ sections:
           we visit in China.
         image:
           type: ImageBlock
-          url: /images/Supporting.jpg
+          url: /images/Supporting.webp
           altText: Placeholder image
           styles:
             self:
@@ -191,10 +209,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
@@ -206,7 +224,7 @@ sections:
           the diverse cultures of Yunnan.
         image:
           type: ImageBlock
-          url: /images/Culture.jpg
+          url: /images/Culture.webp
           altText: Placeholder image
           styles:
             self:
@@ -216,10 +234,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
             borderRadius: x-large
             flexDirection: col
     actions: []
@@ -228,10 +246,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
+          - pt-8
+          - pl-3
+          - pb-3
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
@@ -252,8 +270,11 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Guides-7.jpg
+      url: /images/Guides-4.webp
       altText: Dope design preview
+      styles:
+        self:
+          borderRadius: x-large
     badge:
       type: Badge
       label: Building Bridges
@@ -262,11 +283,15 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: col-reverse
+        flexDirection: col
         justifyContent: center
         padding:
-          - pt-8
-          - pb-12
+          - pt-3
+          - pb-9
+          - pl-3
+          - pr-3
+      text:
+        textAlign: justify
   - type: GenericSection
     title:
       type: TitleBlock
@@ -283,8 +308,11 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Collaboration.jpg
+      url: /images/Collaboration.webp
       altText: Dope design preview
+      styles:
+        self:
+          borderRadius: x-large
     badge:
       type: Badge
       label: Multi-Stakeholders
@@ -295,8 +323,12 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         padding:
-          - pt-12
-          - pb-12
+          - pt-3
+          - pb-3
+          - pl-3
+          - pr-3
+      text:
+        textAlign: justify
   - type: GenericSection
     title:
       type: TitleBlock
@@ -319,8 +351,11 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Sustainability2-2.jpg
+      url: /images/Sustainability2-.webp
       altText: Dope design preview
+      styles:
+        self:
+          borderRadius: x-large
     badge:
       type: Badge
       label: Our Expertise
@@ -329,11 +364,13 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: col-reverse
+        flexDirection: col
         justifyContent: center
         padding:
-          - pb-12
-          - pt-12
+          - pb-3
+          - pt-8
+          - pl-3
+          - pr-3
   - type: GenericSection
     title:
       type: TitleBlock
@@ -353,7 +390,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Outreach.jpg
+      url: /images/Outreach.webp
       altText: Dope design preview
     badge:
       type: Badge
@@ -366,7 +403,10 @@ sections:
         flexDirection: row-reverse
         padding:
           - pb-12
-          - pt-12
+          - pt-9
+          - pl-3
+          - pr-3
+        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
@@ -405,7 +445,9 @@ sections:
         justifyContent: center
         padding:
           - pb-14
-          - pt-12
+          - pt-4
+          - pl-3
+          - pr-3
   - type: GenericSection
     title:
       type: TitleBlock
