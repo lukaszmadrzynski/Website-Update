@@ -50,7 +50,7 @@ sections:
       type: TitleBlock
       text: About Cloud Mountain
       color: text-dark
-    subtitle: A Wild Biodiversity Hotspot in the Heart of Lijiang
+    subtitle: Your Trusted Partner for Ecotourism in Yunnan
     text: >+
       Escape the crowds and immerse yourself in pristine nature just outside
       Lijiang Old Town! Our ecotour unveils a peaceful
