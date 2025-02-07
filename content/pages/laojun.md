@@ -673,7 +673,7 @@ sections:
         flexDirection: row-reverse
         justifyContent: center
         padding:
-          - pt-7
+          - pt-9
           - pb-9
 slug: /laojun
 seo:
