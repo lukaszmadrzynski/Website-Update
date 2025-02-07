@@ -51,7 +51,10 @@ sections:
       type: TitleBlock
       text: Why Choose Cloud Mountain Ecotours?
       color: text-dark
-    subtitle: A Wild Biodiversity Hotspot in the Heart of Lijiang
+    subtitle: >-
+      Discover the difference of traveling with a passionate, locally-rooted
+      team committed to sustainable ecotourism in Yunnan, China, in the
+      captivating regions of Lijiang and Shangri-La.
     text: >+
       Escape the crowds and immerse yourself in pristine nature just outside
       Lijiang Old Town! Our ecotour unveils a peaceful
