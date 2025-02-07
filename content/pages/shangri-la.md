@@ -89,7 +89,7 @@ sections:
       type: TitleBlock
       text: Yunnan Snub-nosed Monkey EcoJourney
       color: text-dark
-    subtitle: A Wild Biodiversity Hotspot in the Heart of Lijiang
+    subtitle: Discovering Nature and Culture of the Tibetan Shangrila
     text: >+
       Escape the crowds and immerse yourself in pristine nature just outside
       Lijiang Old Town! Our ecotour unveils a peaceful
