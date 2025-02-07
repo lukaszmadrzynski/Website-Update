@@ -288,7 +288,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Collaboration.jpg
+      url: /images/Collaboration.webp
       altText: Dope design preview
       styles:
         self:
