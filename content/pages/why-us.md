@@ -43,7 +43,7 @@ sections:
           padding:
             - pl-0
             - pr-0
-            - pb-1
+            - pb-0
           margin:
             - ml-0
             - mr-0
