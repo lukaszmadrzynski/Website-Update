@@ -19,6 +19,7 @@ sections:
     media:
       type: ImageBlock
       altText: Fun feature preview
+      url: /images/About-Us Banner.webp
     badge:
       type: Badge
       label: ''
