@@ -370,7 +370,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Outreach.jpg
+      url: /images/Outreach.webp
       altText: Dope design preview
     badge:
       type: Badge
