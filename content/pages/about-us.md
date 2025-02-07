@@ -29,7 +29,7 @@ sections:
           - pb-0
           - pl-0
           - pr-0
-        flexDirection: row
+        flexDirection: row-reverse
     media:
       type: ImageBlock
       url: /images/About-Us Banner.jpg
