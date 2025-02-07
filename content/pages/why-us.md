@@ -5,49 +5,60 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: >-
-        Your Authentic China Travel Adventure Starts Here: Why Choose Cloud
-        Mountain Ecotours?
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/Why Us Hero.webp
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col-reverse
+        padding:
+          - pt-0
+        justifyContent: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Why Choose Cloud Mountain Ecotours?
       color: text-dark
       styles:
         self:
           textAlign: center
-          fontWeight: 400
     subtitle: >-
       Discover the difference of traveling with a passionate, locally-rooted
       team committed to sustainable ecotourism in Yunnan, China, in the
       captivating regions of Lijiang and Shangri-La.
-    text: |+
-      <div style="text-align: left"></div>
-
+    text: ''
     actions: []
-    colors: bg-light-fg-dark
-    styles:
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      self:
-        justifyContent: center
-        padding:
-          - pt-6
-          - pb-6
-        flexDirection: col-reverse
     media:
       type: ImageBlock
-      url: /images/Why Us Hero.jpg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
-          borderWidth: 0
-          padding:
-            - pl-0
-            - pr-0
-          margin:
-            - ml-0
-            - mr-0
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        justifyContent: center
+        padding:
+          - pt-4
+          - pl-3
+          - pr-3
+          - pb-8
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -73,7 +84,7 @@ sections:
           insights to your China travel adventure.
         image:
           type: ImageBlock
-          url: /images/Lynne3.jpg
+          url: /images/Lynne3.webp
           altText: Placeholder image
           styles:
             self:
@@ -83,10 +94,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
@@ -101,7 +112,7 @@ sections:
           your China travel experience is both enriching and responsible.
         image:
           type: ImageBlock
-          url: /images/Lukas3.jpg
+          url: /images/Lukas3.webp
           altText: Placeholder image
           styles:
             self:
@@ -111,10 +122,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
@@ -130,7 +141,7 @@ sections:
           transform your trip from a visit to a genuine connection.
         image:
           type: ImageBlock
-          url: /images/Guides 2.jpg
+          url: /images/Guides 2.webp
           altText: Placeholder image
           styles:
             self:
@@ -140,10 +151,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
     actions: []
@@ -152,9 +163,9 @@ sections:
     styles:
       self:
         padding:
-          - pt-16
+          - pt-4
           - pl-8
-          - pb-9
+          - pb-4
           - pr-8
         justifyContent: center
       subtitle:
@@ -162,7 +173,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Reasons to Choose Cloud Mountain Ecotours
+      text: Key Reasons to Choose Us
       color: text-primary
       styles:
         self:
@@ -186,20 +197,23 @@ sections:
           Tibetan areas within China.
         image:
           type: ImageBlock
-          url: /images/Private.jpg
+          url: /images/Private.webp
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
+              margin:
+                - ml-0
+                - mr-0
         actions: []
         colors: bg-light-fg-dark
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
@@ -219,10 +233,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
@@ -232,7 +246,7 @@ sections:
         text: "We are deeply committed to minimizing our environmental footprint and maximizing our positive impact on local communities throughout\_Yunnan and China. We promote ethical and\_sustainable tourism practices\_in all our\_China tours.\n"
         image:
           type: ImageBlock
-          url: /images/Sustainable.jpg
+          url: /images/Sustainable.webp
           altText: Placeholder image
           styles:
             self:
@@ -242,10 +256,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
@@ -260,7 +274,7 @@ sections:
           for the diverse cultures of China.
         image:
           type: ImageBlock
-          url: /images/Immersion4.jpg
+          url: /images/Immersion4.webp
           altText: Placeholder text
           styles:
             self:
@@ -270,10 +284,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
@@ -287,7 +301,7 @@ sections:
           a company actively involved in protecting the natural beauty of China.
         image:
           type: ImageBlock
-          url: /images/Contributing3.jpg
+          url: /images/Contributing3.webp
           altText: Placeholder text
           styles:
             self:
@@ -297,10 +311,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
@@ -314,7 +328,7 @@ sections:
           Geographic, and Discovery Channel. 
         image:
           type: ImageBlock
-          url: /images/Recognized.jpg
+          url: /images/Recognized.webp
           altText: Placeholder text
           styles:
             self:
@@ -324,10 +338,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
     actions: []
@@ -336,7 +350,7 @@ sections:
     styles:
       self:
         padding:
-          - pt-16
+          - pt-6
           - pl-8
           - pb-10
           - pr-8
@@ -346,11 +360,35 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/exclusive.webp
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col-reverse
+        padding:
+          - pt-0
+        justifyContent: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: |-
         Exclusive
         Insights
       color: text-dark
-    subtitle: Our Project Sites
+    subtitle: Into Our Project Sites
     text: >+
 
 
@@ -380,8 +418,10 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/exclusive.jpg
       altText: Dope design preview
+      styles:
+        self:
+          borderRadius: x-large
     badge:
       type: Badge
       label: ''
@@ -390,9 +430,11 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row
+        flexDirection: col-reverse
         padding:
           - pt-4
+          - pl-3
+          - pr-3
   - type: GenericSection
     title:
       type: TitleBlock
