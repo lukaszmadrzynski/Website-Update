@@ -5,44 +5,6 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 400
-    subtitle: ''
-    text: |+
-      <div style="text-align: left"></div>
-
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      text:
-        textAlign: left
-      subtitle:
-        textAlign: center
-      self:
-        justifyContent: center
-        padding:
-          - pt-0
-          - pb-0
-          - pl-0
-          - pr-0
-        flexDirection: col-reverse
-    media:
-      type: ImageBlock
-      url: /images/About-Us Banner.jpg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: none
-          padding:
-            - pt-1
-  - type: GenericSection
-    title:
-      type: TitleBlock
       text: About Cloud Mountain
       color: text-dark
     subtitle: Your Trusted Partner for Ecotourism in Yunnan
