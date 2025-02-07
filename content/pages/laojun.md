@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Laojun's Wild Heart
       color: text-dark
-    subtitle: Duelve Deeper into the Mountains
+    subtitle: ''
     text: ''
     actions: []
     media:
