@@ -129,7 +129,7 @@ sections:
           that captivated the world in this celebrated documentary series. 
         image:
           type: ImageBlock
-          url: /images/FW-Icon3.jpg
+          url: /images/FW-Icon3.webp
           altText: Placeholder image
           elementId: ''
           styles:
