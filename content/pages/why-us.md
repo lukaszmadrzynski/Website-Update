@@ -5,51 +5,6 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 400
-    subtitle: ''
-    text: |+
-      <div style="text-align: left"></div>
-
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      self:
-        justifyContent: center
-        padding:
-          - pt-0
-          - pb-0
-          - pl-0
-          - pr-0
-        flexDirection: col-reverse
-        alignItems: center
-    media:
-      type: ImageBlock
-      url: /images/Why Us Hero.webp
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: none
-          borderWidth: 0
-          padding:
-            - pl-0
-            - pr-0
-            - pb-0
-          margin:
-            - ml-0
-            - mr-0
-  - type: GenericSection
-    title:
-      type: TitleBlock
       text: Why Choose Cloud Mountain Ecotours?
       color: text-dark
       styles:
