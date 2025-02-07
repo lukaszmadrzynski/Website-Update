@@ -87,7 +87,7 @@ sections:
       type: TitleBlock
       text: NatGeo's Forever Walk
       color: text-dark
-    subtitle: A Wild Biodiversity Hotspot in the Heart of Lijiang
+    subtitle: A Slow Trekking Journey of Connection
     text: >+
       Escape the crowds and immerse yourself in pristine nature just outside
       Lijiang Old Town! Our ecotour unveils a peaceful
