@@ -218,7 +218,7 @@ sections:
           Tibetan areas within China.
         image:
           type: ImageBlock
-          url: /images/Private.jpg
+          url: /images/Private.webp
           altText: Placeholder image
           styles:
             self:
