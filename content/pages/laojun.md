@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Laojun's Wild Heart
+      text: ''
       color: text-dark
     subtitle: ''
     text: ''
