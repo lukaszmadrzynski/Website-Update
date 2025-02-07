@@ -124,7 +124,7 @@ sections:
       self:
         padding:
           - pt-3
-          - pl-12
+          - pl-9
           - pb-3
           - pr-12
   - type: GenericSection
