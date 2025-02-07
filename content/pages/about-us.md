@@ -33,6 +33,9 @@ sections:
       type: TitleBlock
       text: About Cloud Mountain
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: Your Trusted Partner for Ecotourism in Yunnan
     text: >
       Cloud Mountain emerged from a shared passion for the unparalleled natural
