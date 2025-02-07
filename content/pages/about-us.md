@@ -250,7 +250,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Guides-7.jpg
+      url: /images/Guides-4.webp
       altText: Dope design preview
       styles:
         self:
