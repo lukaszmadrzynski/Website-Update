@@ -244,7 +244,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/FW-Icon15.jpg
+          url: /images/FW-Icon15.webp
           altText: Placeholder text
           elementId: ''
           styles:
