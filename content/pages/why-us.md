@@ -322,7 +322,7 @@ sections:
           a company actively involved in protecting the natural beauty of China.
         image:
           type: ImageBlock
-          url: /images/Contributing3.jpg
+          url: /images/Contributing3.webp
           altText: Placeholder text
           styles:
             self:
