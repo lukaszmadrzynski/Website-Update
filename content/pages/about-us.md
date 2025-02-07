@@ -153,7 +153,7 @@ sections:
           Shangri-La
         image:
           type: ImageBlock
-          url: /images/Minimizing.jpg
+          url: /images/Minimizing.webp
           altText: Placeholder image
           styles:
             self:
