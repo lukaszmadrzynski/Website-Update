@@ -360,6 +360,30 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/Why Us Hero.webp
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col-reverse
+        padding:
+          - pt-0
+        justifyContent: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: |-
         Exclusive
         Insights
