@@ -71,16 +71,7 @@
             "type": "Social"
         }
     ],
-    "legalLinks": [
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "legalLinks": [],
     "copyrightText": "© Lijiang Cloud Mountain Education Consulting Co. Ltd.\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
