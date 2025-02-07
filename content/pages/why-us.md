@@ -407,7 +407,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row-reverse
+        flexDirection: row
         padding:
           - pt-4
           - pl-3
