@@ -123,7 +123,7 @@ sections:
     styles:
       self:
         padding:
-          - pt-12
+          - pt-3
           - pl-12
           - pb-9
           - pr-12
