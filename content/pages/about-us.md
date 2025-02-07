@@ -39,7 +39,7 @@ sections:
         self:
           borderRadius: none
           padding:
-            - pt-0
+            - pt-1
   - type: GenericSection
     title:
       type: TitleBlock
