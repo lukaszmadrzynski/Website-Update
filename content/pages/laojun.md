@@ -534,7 +534,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: LAOJUN MOUNTAINS UNESCO SITE | TWO-DAY ECOTOUR
+      label: ''
       color: text-primary
       styles:
         self:
