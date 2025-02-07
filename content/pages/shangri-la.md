@@ -731,7 +731,7 @@ sections:
         flexDirection: row-reverse
         justifyContent: center
         padding:
-          - pt-7
+          - pt-12
           - pb-9
 slug: /shangri-la
 seo:
