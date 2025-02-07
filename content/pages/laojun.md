@@ -618,7 +618,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Go into Wilderness?
+      text: Ready to Go Deep into Wilderness?
       color: text-dark
       styles:
         self:
