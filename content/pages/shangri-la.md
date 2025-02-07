@@ -91,46 +91,48 @@ sections:
       color: text-dark
     subtitle: Discovering Nature and Culture of the Tibetan Shangri-La
     text: >+
-      Escape the crowds and immerse yourself in pristine nature just outside
-      Lijiang Old Town! Our ecotour unveils a peaceful
+      Embark on an unforgettable
 
-      haven of biodiversity, a protected water source. Discover rare orchids,
+      journey into Shangri-La's pristine wilderness! Discover breathtaking
+      landscapes
+
+      from vibrant wetlands to ancient forests, and immerse yourself in the rich
+
+      cultures of Tibetan and Lisu minorities. Witness rare Yunnan Snub-nosed
+      Monkeys in their
+
+      natural habitat, learn about biodiversity conservation with expert guides,
+      and
+
+      experience authentic countryside life. Hike scenic trails, encounter
       unique
 
-      plants like Ghost Pipes, and vibrant birdlife including pheasants and
+      wildlife, and explore charming villages. Perfect for families and adult
+      groups
 
-      woodpeckers. Spot cute squirrels and maybe even a muntjac! Explore Naxi
+      alike, this ecotour offers a unique blend of adventure, culture, and
+      nature,
 
-      minority tombs, learn about medicinal plants and fungi with a local
-      expert.
-
-      Reach the Top Pagoda for stunning Lijiang and Jade Dragon Snow Mountain
-      views,
-
-      and conclude at the iconic Black Dragon Pool Park. An unforgettable nature
-      experience
-
-      awaits!
+      creating lasting memories and supporting sustainable tourism.
 
 
-      *   Duration: Half-Day (Approximately 4 hours)
+      *   Duration: Two Days
 
 
-      *   Location: Elephant Hill in Black Dragon Pool Water Source Protected
-      Area
+      *   Location: Shangrila Baima Snow Mountain Nature Reserve
 
 
       *   Activity Level: Moderate
 
 
-      *   Altitudes: 2400 - 2700 m
+      *   Altitudes: 1800 - 2800 m
 
 
-      *   Walking Distance: 5-6 km
+      *   Hiking Distance: no more than 8-9 km per day
 
 
-      *   Price: **USD58.00 to USD38.00 Per Person** (based on group sizes of 2
-      and 6 people)
+      *   Price: **from** **USD469.00 to USD340.00 Per Person** (Based on group
+      sizes of 2 and 6 people.)
 
 
 
