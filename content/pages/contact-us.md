@@ -56,7 +56,7 @@ sections:
           **Tel/WhatsApp/Wechat:** 0086 19813252518
         image:
           type: ImageBlock
-          url: /images/Lynne2.jpg
+          url: /images/Lynne2.webp
           altText: Background alt text
           styles:
             self:
