@@ -61,6 +61,8 @@ sections:
           - pl-3
           - pr-3
           - pb-8
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
