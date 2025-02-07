@@ -12,7 +12,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/Why Us Hero.webp
       altText: Dope design preview
     badge:
       type: Badge
