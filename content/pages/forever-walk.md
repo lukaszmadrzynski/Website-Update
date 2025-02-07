@@ -640,7 +640,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to See Some Migratory Birds?
+      text: Ready to Join the Forever Walk?
       color: text-dark
       styles:
         self:
