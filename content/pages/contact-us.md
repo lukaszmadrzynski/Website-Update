@@ -145,7 +145,7 @@ sections:
       - type: Link
         label: Instagram
         altText: Instagram
-        url: '/https://www.instagram.com/cloud.mountain.sustainability/'
+        url: 'https://www.instagram.com/cloud.mountain.sustainability/'
         showIcon: true
         icon: instagram
         iconPosition: left
