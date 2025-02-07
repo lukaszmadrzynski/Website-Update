@@ -47,46 +47,47 @@ sections:
       color: text-dark
     subtitle: A Slow Trekking Journey of Connection
     text: >+
-      Escape the crowds and immerse yourself in pristine nature just outside
-      Lijiang Old Town! Our ecotour unveils a peaceful
+      Embark on an extraordinary, muliti-day hike inspired by our experience
+      with Paul Salopek's epic
 
-      haven of biodiversity, a protected water source. Discover rare orchids,
-      unique
+      "Out of Eden Walk" and National Geographic's "Forever Walk:
 
-      plants like Ghost Pipes, and vibrant birdlife including pheasants and
+      China." Trek the very paths we walked and documented in the
 
-      woodpeckers. Spot cute squirrels and maybe even a muntjac! Explore Naxi
+      acclaimed series. Explore stunning landscapes at Jade Dragon Snow Mountain
+      and
 
-      minority tombs, learn about medicinal plants and fungi with a local
-      expert.
+      Wenhai Wetlands, discovering rich biodiversity alongside local experts.
+      Immerse
 
-      Reach the Top Pagoda for stunning Lijiang and Jade Dragon Snow Mountain
-      views,
+      yourself in authentic Naxi and Yi cultures with village stays, sharing
+      meals
 
-      and conclude at the iconic Black Dragon Pool Park. An unforgettable nature
-      experience
+      and bonfires with locals. Experience the profound journey of slow travel,
 
-      awaits!
+      connect deeply with nature and culture, and witness the breathtaking
+      beauty of
 
-
-      *   Duration: Half-Day (Approximately 4 hours)
-
-
-      *   Location: Elephant Hill in Black Dragon Pool Water Source Protected
-      Area
+      Yunnan.
 
 
-      *   Activity Level: Moderate
+      *   Duration: Three Days
 
 
-      *   Altitudes: 2400 - 2700 m
+      *   Location: Jade Dragon and Wenhai Wetlands Nature Reserves
 
 
-      *   Walking Distance: 5-6 km
+      *   Activity Level: High
 
 
-      *   Price: **USD58.00 to USD38.00 Per Person** (based on group sizes of 2
-      and 6 people)
+      *   Altitudes: 2400 - 3250 m
+
+
+      *   Daily Walking Distance: up to 18 km
+
+
+      *   Price: **from** **USD687.00 to USD506.00 Per Person** (based on group
+      sizes of 2 and 6 people)
 
 
 
