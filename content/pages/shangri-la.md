@@ -428,7 +428,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/TC-Icon9.jpg
+          url: /images/TC-Icon9.webp
           altText: Placeholder text
           elementId: ''
           styles:
