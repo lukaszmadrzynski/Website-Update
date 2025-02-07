@@ -37,7 +37,7 @@ sections:
       elementId: ''
       styles:
         self:
-          borderRadius: medium
+          borderRadius: none
           padding:
             - pt-0
   - type: GenericSection
