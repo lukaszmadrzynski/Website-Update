@@ -504,7 +504,7 @@ sections:
           on-the-ground work in this region.
         image:
           type: ImageBlock
-          url: /images/TC-Icon4.jpg
+          url: /images/TC-Icon4.webp
           altText: Placeholder text
           elementId: ''
           styles:
