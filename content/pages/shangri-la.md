@@ -34,7 +34,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Yunnan Snub-nosed Monkey EcoJourney
+      text: Shangri-La Monkey Journey
       color: text-dark
     subtitle: Discovering Nature and Culture of the Tibetan Shangri-La
     text: >+
