@@ -367,7 +367,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Why Us Hero.webp
+      url: /images/exclusive.webp
       altText: Dope design preview
     badge:
       type: Badge
