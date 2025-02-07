@@ -618,7 +618,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to See Some Migratory Birds?
+      text: Ready to Go into Wilderness?
       color: text-dark
       styles:
         self:
