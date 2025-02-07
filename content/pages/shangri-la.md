@@ -89,7 +89,7 @@ sections:
       type: TitleBlock
       text: Yunnan Snub-nosed Monkey EcoJourney
       color: text-dark
-    subtitle: Discovering Nature and Culture of the Tibetan Shangrila
+    subtitle: Discovering Nature and Culture of the Tibetan Shangri-La
     text: >+
       Escape the crowds and immerse yourself in pristine nature just outside
       Lijiang Old Town! Our ecotour unveils a peaceful
