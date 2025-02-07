@@ -30,7 +30,7 @@ sections:
         padding:
           - pt-6
           - pb-6
-          - pl-2
+          - pl-0
           - pr-2
         flexDirection: col-reverse
         alignItems: center
