@@ -8,49 +8,7 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: >+
-      Embark on an extraordinary, muliti-day hike inspired by our experience
-      with Paul Salopek's epic
-
-      "Out of Eden Walk" and National Geographic's "Forever Walk:
-
-      China." Trek the very paths we walked and documented in the
-
-      acclaimed series. Explore stunning landscapes at Jade Dragon Snow Mountain
-      and
-
-      Wenhai Wetlands, discovering rich biodiversity alongside local experts.
-      Immerse
-
-      yourself in authentic Naxi and Yi cultures with village stays, sharing
-      meals
-
-      and bonfires with locals. Experience the profound journey of slow travel,
-
-      connect deeply with nature and culture, and witness the breathtaking
-      beauty of
-
-      Yunnan.
-
-
-      *   Duration: Three Days
-
-
-      *   Location: Jade Dragon and Wenhai Wetlands Nature Reserves
-
-
-      *   Activity Level: High
-
-
-      *   Altitudes: 2400 - 3250 m
-
-
-      *   Daily Walking Distance: up to 18 km
-
-
-      *   Price: **from** **USD687.00 to USD506.00 Per Person** (based on group
-      sizes of 2 and 6 people)
-
+    text: ''
     actions:
       - type: Button
         label: Book Now
