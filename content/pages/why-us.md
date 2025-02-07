@@ -23,6 +23,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - pt-1
   - type: GenericSection
     title:
       type: TitleBlock
