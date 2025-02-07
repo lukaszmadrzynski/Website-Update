@@ -8,47 +8,7 @@ sections:
       text: Laojun's Wild Heart
       color: text-dark
     subtitle: Duelve Deeper into the Mountains
-    text: >+
-      Escape the city and discover the untamed wild beauty of Laojun Mountains.
-      Journey
-
-      through diverse ecosystems, from vibrant wetlands teeming with birdlife to
-
-      ancient forests echoing with local culture. Witness the majestic Yangtze
-
-      River's First Bend, immerse yourself in Naxi, Bai and Lisu minority
-      traditions,
-
-      and learn about local nature conservation efforts. Hike to breathtaking
-      alpine
-
-      meadows, experience a traditional bonfire dance, and taste pure Himalayan
-      honey.
-
-      This immersive adventure offers an authentic connection with nature and
-      culture
-
-      in a stunning corner of China.
-
-
-      *   Duration: Two Days
-
-
-      *   Location: Laojun Mountains UNESCO Natural Heritage Site
-
-
-      *   Activity Level: Moderate
-
-
-      *   Altitudes: 2400 - 3100 m
-
-
-      *   Hiking Distance: no more than 8-9 km per day
-
-
-      *   Price: **from** **USD458.00 to USD313.00 Per Person** (based on group
-      sizes of 2 and 6 people)
-
+    text: ''
     actions:
       - type: Button
         label: Book Now
