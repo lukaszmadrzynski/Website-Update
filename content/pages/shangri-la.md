@@ -8,51 +8,7 @@ sections:
       text: ''
       color: text-dark
     subtitle: 'Discovering Nature and Culture of the Tibetan Shangrila '
-    text: >+
-      Embark on an unforgettable
-
-      journey into Shangri-La's pristine wilderness! Discover breathtaking
-      landscapes
-
-      from vibrant wetlands to ancient forests, and immerse yourself in the rich
-
-      cultures of Tibetan and Lisu minorities. Witness rare Yunnan Snub-nosed
-      Monkeys in their
-
-      natural habitat, learn about biodiversity conservation with expert guides,
-      and
-
-      experience authentic countryside life. Hike scenic trails, encounter
-      unique
-
-      wildlife, and explore charming villages. Perfect for families and adult
-      groups
-
-      alike, this ecotour offers a unique blend of adventure, culture, and
-      nature,
-
-      creating lasting memories and supporting sustainable tourism.
-
-
-      *   Duration: Two Days
-
-
-      *   Location: Shangrila Baima Snow Mountain Nature Reserve
-
-
-      *   Activity Level: Moderate
-
-
-      *   Altitudes: 1800 - 2800 m
-
-
-      *   Hiking Distance: no more than 8-9 km per day
-
-
-      *   Price: **from** **USD469.00 to USD340.00 Per Person** (Based on group
-      sizes of 2 and 6 people. Please [Contact Us](/contact-us) for an exact
-      quote.)
-
+    text: ''
     actions:
       - type: Button
         label: Book Now
