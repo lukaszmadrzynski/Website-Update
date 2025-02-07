@@ -180,7 +180,7 @@ sections:
         flexDirection: col
         padding:
           - pt-7
-          - pb-16
+          - pb-12
           - pl-3
           - pr-3
 slug: /contact-us
