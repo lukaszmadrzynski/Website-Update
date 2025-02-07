@@ -126,7 +126,7 @@ sections:
           wetland landscape.
         image:
           type: ImageBlock
-          url: /images/LJ-icon1.jpg
+          url: /images/LJ-Icon1.webp
           altText: Placeholder image
           elementId: ''
           styles:
