@@ -25,6 +25,7 @@ sections:
         flexDirection: row-reverse
         padding:
           - pt-0
+        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
