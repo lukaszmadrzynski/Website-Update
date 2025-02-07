@@ -11,10 +11,7 @@ sections:
         self:
           textAlign: center
           fontWeight: 400
-    subtitle: >-
-      Discover the difference of traveling with a passionate, locally-rooted
-      team committed to sustainable ecotourism in Yunnan, China, in the
-      captivating regions of Lijiang and Shangri-La.
+    subtitle: ''
     text: |+
       <div style="text-align: left"></div>
 
