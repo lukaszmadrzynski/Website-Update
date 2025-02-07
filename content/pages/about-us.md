@@ -26,9 +26,9 @@ sections:
         justifyContent: center
         padding:
           - pt-0
-          - pb-9
-          - pl-3
-          - pr-3
+          - pb-0
+          - pl-0
+          - pr-0
         flexDirection: row
     media:
       type: ImageBlock
