@@ -441,7 +441,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/FW-Icon14.jpg
+          url: /images/FW-Icon14.webp
           altText: Placeholder text
           elementId: ''
           styles:
