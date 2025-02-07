@@ -394,7 +394,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/exclusive.webp
       altText: Dope design preview
       styles:
         self:
