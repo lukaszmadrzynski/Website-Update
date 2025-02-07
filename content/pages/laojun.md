@@ -85,7 +85,7 @@ sections:
       type: TitleBlock
       text: Laojun's Wild Heart
       color: text-dark
-    subtitle: A Wild Biodiversity Hotspot in the Heart of Lijiang
+    subtitle: Duelve Deeper into the Mountains
     text: >+
       Escape the crowds and immerse yourself in pristine nature just outside
       Lijiang Old Town! Our ecotour unveils a peaceful
