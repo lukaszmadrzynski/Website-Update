@@ -577,7 +577,7 @@ sections:
           - pb-16
           - pt-8
           - pl-3
-          - pr-16
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
