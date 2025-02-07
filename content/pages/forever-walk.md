@@ -168,7 +168,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/FW-Icon9.jpg
+          url: /images/FW-Icon9.webp
           altText: Placeholder image
           elementId: ''
         actions: []
