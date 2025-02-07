@@ -7,9 +7,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: |-
-      A Slow Trekking Journey of
-      Connection
+    subtitle: ''
     text: >+
       Embark on an extraordinary, muliti-day hike inspired by our experience
       with Paul Salopek's epic
