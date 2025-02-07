@@ -386,7 +386,7 @@ sections:
           and the sustainable development of local communities.
         image:
           type: ImageBlock
-          url: /images/TC-Icon11.jpg
+          url: /images/TC-Icon11.webp
           altText: Placeholder text
           elementId: ''
           styles:
