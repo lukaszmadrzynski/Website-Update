@@ -361,7 +361,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/FW-Icon10.jpg
+          url: /images/FW-Icon10.webp
           altText: Placeholder text
           elementId: ''
           styles:
