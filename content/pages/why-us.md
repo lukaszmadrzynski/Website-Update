@@ -162,7 +162,7 @@ sections:
           transform your trip from a visit to a genuine connection.
         image:
           type: ImageBlock
-          url: /images/Guides 2.jpg
+          url: /images/Guides 2.webp
           altText: Placeholder image
           styles:
             self:
