@@ -36,7 +36,7 @@ sections:
         alignItems: center
     media:
       type: ImageBlock
-      url: /images/Why Us Hero.jpg
+      url: /images/Why Us Hero.webp
       altText: Image alt text placeholder
       elementId: ''
       styles:
