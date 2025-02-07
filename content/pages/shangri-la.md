@@ -237,7 +237,7 @@ sections:
           rangers who protect these incredible primates.
         image:
           type: ImageBlock
-          url: /images/TC-Icon2.jpg
+          url: /images/TC-Icon2.webp
           altText: Placeholder text
           elementId: ''
           styles:
