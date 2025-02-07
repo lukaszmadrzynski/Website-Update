@@ -310,7 +310,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/TC-Icon5b.jpg
+          url: /images/TC-Icon5b.webp
           altText: Placeholder text
           elementId: ''
           styles:
