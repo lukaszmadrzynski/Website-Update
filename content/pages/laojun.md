@@ -675,36 +675,6 @@ sections:
         padding:
           - pt-7
           - pb-9
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Ready to Go Deep into the Mountains?
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    text: ''
-    actions:
-      - type: Button
-        label: Book this Ecotour now!
-        url: /contact-us
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        justifyContent: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
