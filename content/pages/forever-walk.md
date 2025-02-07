@@ -686,7 +686,7 @@ sections:
         justifyContent: center
         padding:
           - pt-7
-          - pb-9
+          - pb-12
 slug: /forever-walk
 seo:
   type: Seo
