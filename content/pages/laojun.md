@@ -167,7 +167,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/LJ-icon2.jpg
+          url: /images/LJ-Icon2.webp
           altText: Placeholder image
           elementId: ''
           styles:
