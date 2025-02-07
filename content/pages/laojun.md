@@ -47,46 +47,45 @@ sections:
       color: text-dark
     subtitle: Duelve Deeper into the Mountains
     text: >+
-      Escape the crowds and immerse yourself in pristine nature just outside
-      Lijiang Old Town! Our ecotour unveils a peaceful
+      Escape the city and discover the untamed wild beauty of Laojun Mountains.
+      Journey
 
-      haven of biodiversity, a protected water source. Discover rare orchids,
-      unique
+      through diverse ecosystems, from vibrant wetlands teeming with birdlife to
 
-      plants like Ghost Pipes, and vibrant birdlife including pheasants and
+      ancient forests echoing with local culture. Witness the majestic Yangtze
 
-      woodpeckers. Spot cute squirrels and maybe even a muntjac! Explore Naxi
+      River's First Bend, immerse yourself in Naxi, Bai and Lisu minority
+      traditions,
 
-      minority tombs, learn about medicinal plants and fungi with a local
-      expert.
+      and learn about local nature conservation efforts. Hike to breathtaking
+      alpine
 
-      Reach the Top Pagoda for stunning Lijiang and Jade Dragon Snow Mountain
-      views,
+      meadows, experience a traditional bonfire dance, and taste pure Himalayan
+      honey.
 
-      and conclude at the iconic Black Dragon Pool Park. An unforgettable nature
-      experience
+      This immersive adventure offers an authentic connection with nature and
+      culture
 
-      awaits!
-
-
-      *   Duration: Half-Day (Approximately 4 hours)
+      in a stunning corner of China.
 
 
-      *   Location: Elephant Hill in Black Dragon Pool Water Source Protected
-      Area
+      *   Duration: Two Days
+
+
+      *   Location: Laojun Mountains UNESCO Natural Heritage Site
 
 
       *   Activity Level: Moderate
 
 
-      *   Altitudes: 2400 - 2700 m
+      *   Altitudes: 2400 - 3100 m
 
 
-      *   Walking Distance: 5-6 km
+      *   Hiking Distance: no more than 8-9 km per day
 
 
-      *   Price: **USD58.00 to USD38.00 Per Person** (based on group sizes of 2
-      and 6 people)
+      *   Price: **from** **USD458.00 to USD313.00 Per Person** (based on group
+      sizes of 2 and 6 people)
 
 
 
