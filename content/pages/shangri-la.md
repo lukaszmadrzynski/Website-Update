@@ -167,7 +167,7 @@ sections:
           precious environment. Perfect spot for birdwatching enthusiasts.
         image:
           type: ImageBlock
-          url: /images/TC-Icon3.jpg
+          url: /images/TC-Icon3.webp
           altText: Placeholder image
           elementId: ''
           styles:
