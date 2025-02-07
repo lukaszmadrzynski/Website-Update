@@ -402,7 +402,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/LJ-icon9.jpg
+          url: /images/LJ-Icon9.webp
           altText: Placeholder text
           elementId: ''
           styles:
