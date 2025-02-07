@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: About Cloud Mountain
+      text: ''
       color: text-dark
       styles:
         self:
