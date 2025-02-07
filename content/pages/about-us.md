@@ -179,7 +179,7 @@ sections:
           we visit in China.
         image:
           type: ImageBlock
-          url: /images/Supporting.jpg
+          url: /images/Supporting.webp
           altText: Placeholder image
           styles:
             self:
