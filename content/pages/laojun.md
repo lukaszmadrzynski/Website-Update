@@ -322,7 +322,7 @@ sections:
           and create lasting memories of cultural exchange under the stars.
         image:
           type: ImageBlock
-          url: /images/LJ-icon7.jpg
+          url: /images/LJ-Icon7.webp
           altText: Placeholder text
           elementId: ''
           styles:
