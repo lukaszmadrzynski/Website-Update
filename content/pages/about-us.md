@@ -70,7 +70,7 @@ sections:
           Co. Ltd., Founder of Lynne玲 Art Studio.
         image:
           type: ImageBlock
-          url: /images/Lynne2.jpg
+          url: /images/Lynne2.webp
           altText: Background alt text
           styles:
             self:
