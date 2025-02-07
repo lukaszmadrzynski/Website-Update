@@ -512,7 +512,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/LJ-icon12.jpg
+          url: /images/LJ-Icon12.webp
           altText: Placeholder text
           elementId: ''
           styles:
