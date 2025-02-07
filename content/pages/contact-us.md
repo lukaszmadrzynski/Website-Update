@@ -86,7 +86,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Lukas2.jpg
+          url: /images/Lukas2.webp
           altText: Background alt text
           styles:
             self:
