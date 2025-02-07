@@ -205,7 +205,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/FW-Icon11.jpg
+          url: /images/FW-Icon11.webp
           altText: Placeholder text
           styles:
             self:
