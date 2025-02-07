@@ -126,7 +126,7 @@ sections:
           - pt-3
           - pl-9
           - pb-3
-          - pr-12
+          - pr-9
   - type: GenericSection
     title:
       type: TitleBlock
