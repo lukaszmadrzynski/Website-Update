@@ -41,7 +41,7 @@ sections:
       elementId: ''
       styles:
         self:
-          borderRadius: medium
+          borderRadius: none
           borderWidth: 0
           padding:
             - pl-0
