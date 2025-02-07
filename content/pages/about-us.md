@@ -52,13 +52,7 @@ sections:
       Lynne Lyu and Lukasz Madrzynski envisioned a travel company that not only
       offered unforgettable experiences but also championed sustainable
       practices and fostered genuine connections with local communities.
-    actions:
-      - type: Button
-        label: Book Now
-        url: /contact-us
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       altText: Fun feature preview
