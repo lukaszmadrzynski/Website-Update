@@ -26,7 +26,7 @@ sections:
         justifyContent: center
         padding:
           - pt-0
-          - pb-0
+          - pb-1
           - pl-0
           - pr-0
         flexDirection: col-reverse
