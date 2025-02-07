@@ -519,7 +519,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/FW-Icon12.jpg
+          url: /images/FW-Icon12.webp
           altText: Placeholder text
           elementId: ''
           styles:
