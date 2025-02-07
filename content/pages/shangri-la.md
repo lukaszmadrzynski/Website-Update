@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: 'Discovering Nature and Culture of the Tibetan Shangrila '
+    subtitle: ''
     text: ''
     actions: []
     media:
