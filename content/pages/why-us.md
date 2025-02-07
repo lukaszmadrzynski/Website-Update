@@ -9,13 +9,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: ''
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero3.svg
