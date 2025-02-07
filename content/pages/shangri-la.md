@@ -272,7 +272,7 @@ sections:
           breathtaking and geographically significant landscapes.
         image:
           type: ImageBlock
-          url: /images/TC-Icon7b.jpg
+          url: /images/TC-Icon7b.webp
           altText: Placeholder image
           elementId: ''
           styles:
