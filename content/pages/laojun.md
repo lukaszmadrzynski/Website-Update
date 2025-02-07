@@ -360,7 +360,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/LJ-icon8.jpg
+          url: /images/LJ-Icon8.webp
           altText: Placeholder text
           elementId: ''
           styles:
