@@ -295,7 +295,7 @@ sections:
           for the diverse cultures of China.
         image:
           type: ImageBlock
-          url: /images/Immersion4.jpg
+          url: /images/Immersion4.webp
           altText: Placeholder text
           styles:
             self:
