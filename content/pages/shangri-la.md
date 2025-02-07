@@ -470,7 +470,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/TC-Icon12.jpg
+          url: /images/TC-Icon12.webp
           altText: Placeholder text
           elementId: ''
           styles:
