@@ -12,7 +12,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/FW-Banner.jpg
+      url: /images/FW-Banner.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
