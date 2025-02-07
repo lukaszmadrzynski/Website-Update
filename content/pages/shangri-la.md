@@ -678,24 +678,6 @@ sections:
       *   After the ecotour, we will send you back to your Lijiang hotel at
       around 8:00 PM.
 
-
-      **What to Bring:**
-
-
-      *   Comfortable walking shoes.
-
-
-      *   Warm layers of clothing.
-
-
-      *   Sunscreen, sunglasses, and a hat.
-
-
-      *   Water bottle.
-
-
-      *   Any necessary personal medications.
-
     actions: []
     media:
       type: ImageBlock
