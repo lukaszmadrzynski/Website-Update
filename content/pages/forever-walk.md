@@ -480,7 +480,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/FW-Icon13.jpg
+          url: /images/FW-Icon13.webp
           altText: Placeholder text
           elementId: ''
           styles:
