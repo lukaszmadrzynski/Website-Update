@@ -159,7 +159,7 @@ sections:
           - pt-3
           - pl-3
           - pr-3
-          - pb-4
+          - pb-5
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
