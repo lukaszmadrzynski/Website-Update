@@ -441,7 +441,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/LJ-icon10a.jpg
+          url: /images/LJ-Icon10.webp
           altText: Placeholder text
           elementId: ''
           styles:
