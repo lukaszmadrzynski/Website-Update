@@ -695,6 +695,7 @@ sections:
           - pl-3
           - pr-3
           - pb-8
+          - pt-8
   - type: GenericSection
     title:
       type: TitleBlock
