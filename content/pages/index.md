@@ -659,7 +659,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Join Our EcoCamp!
+        label: Our Family EcoCamp
         altText: ''
         url: /EcoCamps
         showIcon: false
