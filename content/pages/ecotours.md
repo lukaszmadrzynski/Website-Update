@@ -142,7 +142,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: One Day EcoTours
+      text: One-Day Ecotours
       color: text-dark
       styles:
         self:
