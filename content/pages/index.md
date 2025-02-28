@@ -93,7 +93,7 @@ sections:
     styles:
       self:
         alignItems: center
-        justifyContent: center
+        justifyContent: flex-start
         padding:
           - pt-3
           - pb-4
