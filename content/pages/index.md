@@ -270,7 +270,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Lynne Lyu
+        title: 2025 Summer EcoCamp
         tagline: ''
         subtitle: Co-founder & Culture Immersion Expert
         text: >
