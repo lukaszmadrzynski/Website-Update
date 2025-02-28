@@ -458,7 +458,7 @@ sections:
       - type: Button
         label: Our EcoCamp
         altText: ''
-        url: /EcoCamps
+        url: /Family-EcoCamps
         showIcon: false
         icon: arrowRight
         iconPosition: right
