@@ -278,7 +278,7 @@ sections:
           - pb-9
           - pt-3
           - pl-2
-          - pr-1
+          - pr-2
         justifyContent: center
         margin:
           - mt-0
