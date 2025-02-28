@@ -392,8 +392,9 @@ sections:
         self:
           textAlign: center
     subtitle: Into Our Project Sites
-    text: >
-      Don't just see Yunnan – experience it from the inside. Our
+    text: >+
+      <div style="text-align: center">Don't just see Yunnan – experience it from
+      the inside. Our
 
       ecotours and ecocamps take you directly into the very places where we have
       been actively
@@ -406,7 +407,8 @@ sections:
       deeply intertwined with protecting these extraordinary natural and
       cultural
 
-      landscapes.
+      landscapes.</div>
+
     actions: []
     media:
       type: ImageBlock
