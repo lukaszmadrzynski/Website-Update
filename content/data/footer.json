@@ -98,7 +98,7 @@
                 "type": "Link",
                 "label": "About Us",
                 "altText": "",
-                "url": "/pricing",
+                "url": "/about-us",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
