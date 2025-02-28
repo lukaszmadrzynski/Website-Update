@@ -422,7 +422,7 @@ sections:
         flexDirection: col-reverse
         padding:
           - pt-4
-          - pl-8
+          - pl-0
           - pr-3
         justifyContent: center
   - type: GenericSection
