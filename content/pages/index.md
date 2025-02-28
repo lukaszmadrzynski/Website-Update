@@ -272,7 +272,7 @@ sections:
       - type: FeaturedItem
         title: 2025 Summer Family Camp
         tagline: For Families with Kids over 5 Years Old
-        subtitle: ''
+        subtitle: For Families with Kids over 5 Years Old
         text: >
           Deputy General Secretary at Lijiang Conservation and Development
           Association, Deputy Chief Editor of < Lijiang Wenhai Ecotourism
