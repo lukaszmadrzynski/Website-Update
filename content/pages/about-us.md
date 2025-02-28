@@ -262,7 +262,7 @@ sections:
     text: >
       We are immensely proud of the strong relationships we've built with local
       communities and organizations throughout Yunnan, China. These partnerships
-      are crucial to the authenticity and positive impact of our ecotours. By
+      are crucial to the authenticity and positive impact of our operations. By
       collaborating with local guides, guesthouses, and community initiatives in
       destinations like Lijiang and Shangri-La, we ensure that your travel
       experience directly supports the people who call this remarkable region
