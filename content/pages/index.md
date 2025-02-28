@@ -374,7 +374,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Authentic & Off-the-beaten-path
+        title: Authentic & Off-beaten-path
         tagline: ''
         subtitle: ''
         text: >
