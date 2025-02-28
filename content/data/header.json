@@ -21,15 +21,6 @@
             "altText": "Ecotours page"
         },
         {
-            "label": "Why Us",
-            "altText": "Why Us page",
-            "url": "/why-us",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "SubNav",
             "label": "EcoCamps",
             "altText": "",
@@ -58,6 +49,15 @@
                 }
             ],
             "labelStyle": "secondary"
+        },
+        {
+            "label": "Why Us",
+            "altText": "Why Us page",
+            "url": "/why-us",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
             "type": "Link",
