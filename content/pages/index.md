@@ -373,6 +373,32 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
+      - type: FeaturedItem
+        title: Authentic & Off-the-beaten-path
+        tagline: ''
+        subtitle: ''
+        text: >
+          Go beyond the typical tourist attractions and engage directly with
+          local communities, experiencing the unique cultures of Lijiang,
+          Shangri-La, and beyond on our authentic ecotourism trips.
+        image:
+          type: ImageBlock
+          url: /images/Off the beaten path3.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
+            borderRadius: x-large
+            flexDirection: col
       - title: Private & Customized
         tagline: ''
         subtitle: ''
@@ -405,32 +431,6 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - type: FeaturedItem
-        title: Authentic & Off-the-beaten-path
-        tagline: ''
-        subtitle: ''
-        text: >
-          Go beyond the typical tourist attractions and engage directly with
-          local communities, experiencing the unique cultures of Lijiang,
-          Shangri-La, and beyond on our authentic ecotourism trips.
-        image:
-          type: ImageBlock
-          url: /images/Off the beaten path3.jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-3
-              - pl-3
-              - pb-3
-              - pr-3
-            borderRadius: x-large
-            flexDirection: col
       - title: Sustainable & Responsible
         tagline: ''
         subtitle: ''
