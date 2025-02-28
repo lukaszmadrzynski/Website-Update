@@ -448,7 +448,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Our EcoCamps
+        label: Our EcoCamp
         altText: ''
         url: /EcoCamps
         showIcon: false
