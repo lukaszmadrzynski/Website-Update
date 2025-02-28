@@ -471,10 +471,10 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Follow a team that has earned recognition from major domestic and
-          international organizations, including IUCN and UNESCO as well as
-          various media outlets, including CCTV, National Geographic, and
-          Discovery Channel.
+          Follow a team whose commitment to sustainability has earned high
+          recognition from major domestic and international organizations,
+          including IUCN and UNESCO as well as various media outlets, including
+          CCTV, National Geographic, and Discovery Channel.
         image:
           url: /images/Forever Icon.webp
           altText: Placeholder image
