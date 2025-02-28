@@ -28,6 +28,7 @@ sections:
           - pl-0
           - pb-0
           - pr-0
+        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
