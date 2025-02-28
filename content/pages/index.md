@@ -303,7 +303,7 @@ sections:
       - type: FeaturedItem
         title: Sustainability Leadership Programs
         tagline: ''
-        subtitle: For Middle and Highchool
+        subtitle: For Middle and High School Students
         text: >
           Master’s and PhD research at UNEP-Tongji Institute of Environment for
           Sustainable Development. Bachelor‘s degree in Chinese Studies at
