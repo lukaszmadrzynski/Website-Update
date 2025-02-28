@@ -424,6 +424,7 @@ sections:
           - pt-4
           - pl-8
           - pr-3
+        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
