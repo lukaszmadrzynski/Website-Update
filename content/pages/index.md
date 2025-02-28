@@ -559,7 +559,7 @@ sections:
           - pt-10
           - pb-16
   - title:
-      text: Cloud Mountain Ecotours
+      text: Cloud Mountain
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
