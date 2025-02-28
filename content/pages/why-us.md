@@ -36,7 +36,7 @@ sections:
           textAlign: center
     subtitle: >-
       Discover the difference of traveling with a passionate, locally-rooted
-      team committed to sustainable ecotourism in Yunnan, China, in the
+      team committed to sustainable development in Yunnan, China, in the
       captivating regions of Lijiang and Shangri-La.
     text: ''
     actions: []
