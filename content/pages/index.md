@@ -310,7 +310,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Leadership Icon.webp
+          url: /images/Leadership Icon 2.webp
           altText: Background alt text
           styles:
             self:
