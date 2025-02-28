@@ -30,8 +30,10 @@ sections:
           - pr-0
         justifyContent: center
         margin:
-          - ml-3
-          - mr-3
+          - ml-0
+          - mr-0
+          - mt-0
+          - mb-0
   - type: GenericSection
     title:
       type: TitleBlock
