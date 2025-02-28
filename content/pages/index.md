@@ -1,5 +1,5 @@
 ---
-title: Cloud Mountain Ecotours
+title: Cloud Mountain
 slug: /
 sections:
   - type: GenericSection
