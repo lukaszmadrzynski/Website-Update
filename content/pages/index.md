@@ -715,7 +715,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Join a Student Camp
+        label: Join a Student EcoCamp
         altText: ''
         url: /Student-EcoCamps
         showIcon: false
