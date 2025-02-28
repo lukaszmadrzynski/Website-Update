@@ -424,7 +424,7 @@ sections:
           - pt-4
           - pl-3
           - pr-3
-        justifyContent: flex-start
+        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
