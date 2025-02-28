@@ -297,7 +297,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Join Our EcoCamps
+      text: Join Our EcoCamp
       color: text-dark
       styles:
         self:
