@@ -388,6 +388,9 @@ sections:
         Exclusive
         Insights
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: Into Our Project Sites
     text: >
       Don't just see Yunnan – experience it from the inside. Our
