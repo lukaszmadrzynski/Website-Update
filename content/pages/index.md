@@ -282,7 +282,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 2025 Summer Family Camp
+        title: Sustainability Family Camp
         tagline: ''
         subtitle: For Families with Kids over 5 Years Old
         text: ''
