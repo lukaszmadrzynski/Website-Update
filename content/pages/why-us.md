@@ -428,6 +428,8 @@ sections:
           - pl-3
           - pr-3
         justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
