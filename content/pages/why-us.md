@@ -190,9 +190,9 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          We prioritize small, private groups on our ecotours. This fosters a
-          more intimate and personalized experience, allowing for deeper
-          engagement with your surroundings and the local people. It also
+          We prioritize small, private groups on our ecotours and ecocamps. This
+          fosters a more intimate and personalized experience, allowing for
+          deeper engagement with your surroundings and the local people. It also
           minimizes our impact on the delicate ecosystems of Yunnan and the
           Tibetan areas within China.
         image:
