@@ -270,7 +270,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Yunnan Sustainability Camps
+        title: 2025 Summer Family Camp
         tagline: ''
         subtitle: For Families with Kids over 5 Years Old
         text: >
