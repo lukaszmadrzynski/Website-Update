@@ -56,7 +56,7 @@ sections:
       sustainable tourism, making a positive impact on visited destinations.
     actions:
       - type: Button
-        label: Our Ecotours
+        label: Private Ecotours
         altText: ''
         url: /ecotours
         showIcon: false
