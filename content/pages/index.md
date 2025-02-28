@@ -794,7 +794,7 @@ sections:
         justifyContent: center
         padding:
           - pt-8
-          - pb-12
+          - pb-4
     actions:
       - type: Button
         label: Contact Us
