@@ -363,7 +363,7 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
