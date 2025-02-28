@@ -13,7 +13,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/About-Us Banner2.webp
-      altText: Dope design preview
+      altText: About Us Banner
     badge:
       type: Badge
       label: This is a badge
