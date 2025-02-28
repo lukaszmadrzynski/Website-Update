@@ -316,7 +316,7 @@ sections:
             textAlign: center
             justifyContent: center
       - type: FeaturedItem
-        title: Sustainability Leadership Program
+        title: Sustainability Student Camp
         tagline: ''
         subtitle: For Middle and High School Students
         text: ''
