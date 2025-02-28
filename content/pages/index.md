@@ -263,7 +263,7 @@ sections:
     title:
       type: TitleBlock
       text: Meet the Founders
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
