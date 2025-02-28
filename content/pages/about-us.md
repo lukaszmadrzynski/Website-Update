@@ -60,7 +60,7 @@ sections:
         alignItems: flex-start
         justifyContent: center
         padding:
-          - pt-3
+          - pt-7
           - pl-3
           - pr-3
           - pb-8
