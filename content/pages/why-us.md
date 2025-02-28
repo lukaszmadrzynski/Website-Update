@@ -447,7 +447,7 @@ sections:
 
     actions:
       - type: Button
-        label: Our EcoTours
+        label: Private Ecotours
         altText: ''
         url: /ecotours
         showIcon: false
