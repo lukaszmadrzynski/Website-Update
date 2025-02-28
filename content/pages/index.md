@@ -429,9 +429,10 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Enjoy a private and personalized experience on our ecotours in
-          Northwest Yunnan and Southeast Tibet. Foster a deeper connections with
-          local nature and culture.
+          Our commitment to quality and sustainability has earned us recognition
+          from major domestic and international organizations, including IUCN
+          and UNESCO as well as various media outlets, including CCTV, National
+          Geographic, and Discovery Channel.
         image:
           url: /images/Private.webp
           altText: Placeholder image
