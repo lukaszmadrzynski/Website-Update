@@ -422,7 +422,7 @@ sections:
         flexDirection: col-reverse
         padding:
           - pt-4
-          - pl-3
+          - pl-8
           - pr-3
   - type: GenericSection
     title:
