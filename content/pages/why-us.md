@@ -36,8 +36,8 @@ sections:
           textAlign: center
     subtitle: >-
       Discover the difference of traveling with a passionate, locally-rooted
-      team committed to sustainable development in Yunnan, China, in the
-      captivating regions of Lijiang and Shangri-La.
+      team committed to sustainable travel in Yunnan, China, in the captivating
+      regions of Lijiang and Shangri-La.
     text: ''
     actions: []
     media:
