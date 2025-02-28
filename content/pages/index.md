@@ -316,7 +316,7 @@ sections:
             textAlign: center
             justifyContent: center
       - type: FeaturedItem
-        title: Sustainability Student Camp
+        title: Sustainability Student EcoCamp
         tagline: ''
         subtitle: For Middle and High School Students
         text: ''
