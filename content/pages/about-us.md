@@ -416,7 +416,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Meet Us on Your Ecotravel Adventure?
+      text: Ready to Meet Us on Your EcoTravel Adventure?
       color: text-dark
       styles:
         self:
