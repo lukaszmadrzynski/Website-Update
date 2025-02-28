@@ -432,7 +432,7 @@ sections:
 
     actions:
       - type: Button
-        label: Choose Your Ecotour
+        label: Choose a Private Ecotour
         altText: ''
         url: /ecotours
         showIcon: false
