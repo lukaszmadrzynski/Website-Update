@@ -267,7 +267,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Our ecotours go beyond the typical tourist trails, offering genuine
+          Our programs go beyond the typical tourist trails, offering genuine
           interactions with local communities in Yunnan, including the rich
           Tibetan culture of Shangri-La. You'll have opportunities to learn
           about traditions, witness daily life, and gain a deeper appreciation
