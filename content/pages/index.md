@@ -56,12 +56,6 @@ sections:
       sustainable tourism, making a positive impact on visited destinations.
     actions:
       - type: Button
-        label: Our Ecotours
-        url: /ecotours
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      - type: Button
         label: Our EcoCamps
         altText: ''
         url: /EcoCamps
