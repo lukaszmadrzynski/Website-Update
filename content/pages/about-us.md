@@ -443,7 +443,7 @@ sections:
       - type: Button
         label: Join a Family EcoCamp
         altText: ''
-        url: /EcoCamps
+        url: /Family-EcoCamps
         showIcon: false
         icon: arrowRight
         iconPosition: right
