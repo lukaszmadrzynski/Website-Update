@@ -25,7 +25,7 @@ sections:
         alignItems: center
         flexDirection: col-reverse
         padding:
-          - pt-3
+          - pt-2
           - pl-0
           - pb-2
           - pr-0
