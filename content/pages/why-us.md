@@ -186,7 +186,7 @@ sections:
       contributing positively to their well-being.
     items:
       - type: FeaturedItem
-        title: Private Groups
+        title: Small Groups
         tagline: ''
         subtitle: ''
         text: >
