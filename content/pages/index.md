@@ -277,7 +277,7 @@ sections:
         padding:
           - pb-9
           - pt-3
-          - pl-1
+          - pl-2
           - pr-1
         justifyContent: center
         margin:
