@@ -99,7 +99,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: 2025 Featured Ecotours
+      text: Join Our EcoTours
       color: text-dark
       styles:
         self:
