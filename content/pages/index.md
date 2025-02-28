@@ -98,6 +98,7 @@ sections:
           - pt-3
           - pb-4
           - pl-3
+          - pr-3
   - type: DividerSection
     title: Divider
     elementId: ''
