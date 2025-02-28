@@ -99,7 +99,7 @@ sections:
           - pb-4
           - pl-3
           - pr-3
-        flexDirection: row-reverse
+        flexDirection: row
   - type: DividerSection
     title: Divider
     elementId: ''
