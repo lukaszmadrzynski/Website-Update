@@ -496,7 +496,7 @@ sections:
           fontWeight: 400
     subtitle: We respond within one day!
     text: |
-      Reach out for more tours, details, special offers and customizations.
+      Reach out for more details, special offers and customizations.
     actions:
       - type: Button
         label: Contact Us
