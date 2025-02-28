@@ -31,6 +31,7 @@ sections:
         justifyContent: center
         margin:
           - ml-3
+          - mr-3
   - type: GenericSection
     title:
       type: TitleBlock
