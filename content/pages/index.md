@@ -92,7 +92,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: center
+        alignItems: flex-start
         justifyContent: center
         padding:
           - pt-3
