@@ -51,6 +51,17 @@
             "labelStyle": "secondary"
         },
         {
+            "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/Consulting",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
             "label": "Why Us",
             "altText": "Why Us page",
             "url": "/why-us",
