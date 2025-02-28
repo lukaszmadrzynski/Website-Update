@@ -301,7 +301,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Lukasz Madrzynski
+        title: Sustainability Leadership Programs
         tagline: ''
         subtitle: Co-founder & Nature Immersion Expert
         text: >
