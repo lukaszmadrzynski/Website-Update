@@ -65,7 +65,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Family EcoCamps
+        label: Family Camps
         altText: ''
         url: /EcoCamps
         showIcon: false
