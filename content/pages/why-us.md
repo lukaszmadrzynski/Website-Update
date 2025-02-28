@@ -389,15 +389,11 @@ sections:
         Insights
       color: text-dark
     subtitle: Into Our Project Sites
-    text: >+
-
-
-
-
+    text: >
       Don't just see Yunnan – experience it from the inside. Our
 
-      ecotours take you directly into the very places where we have been
-      actively
+      ecotours and ecocamps take you directly into the very places where we have
+      been actively
 
       working on conservation and sustainable development. Witness our projects
 
@@ -408,13 +404,6 @@ sections:
       cultural
 
       landscapes.
-
-
-
-
-
-
-
     actions: []
     media:
       type: ImageBlock
