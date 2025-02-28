@@ -111,7 +111,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Join Our EcoTours
+      text: Choose Your Private EcoTour
       color: text-dark
       styles:
         self:
