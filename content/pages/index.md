@@ -307,14 +307,7 @@ sections:
         title: Sustainability Leadership Programs
         tagline: ''
         subtitle: For Middle and High School Students
-        text: >
-          Master’s and PhD research at UNEP-Tongji Institute of Environment for
-          Sustainable Development. Bachelor‘s degree in Chinese Studies at
-          Warsaw University, Poland. Member of the IUCN Commission on Education
-          and Communication. Heritage Conservation Practitioner at
-          UNESCO-WHITRAP “heritAP”. Senior Consultant at Lijiang Conservation
-          and Development Association. 2024 IUCN-CEC Asia Award Winner.
-          Recipient of Lijiang Municipality Senior Talents Service Green Card.
+        text: ''
         image:
           type: ImageBlock
           url: /images/Lukas2.webp
