@@ -418,9 +418,9 @@ sections:
         subtitle: ''
         text: >
           Go beyond the typical tourist attractions and engage directly with
-          local communities. Experience the unique ethnic minority cultures of
-          Lijiang and Shangri-La and marvel at the natural wonders far away from
-          the beaten path.
+          local communities. Experience the authentic life and unique cultures
+          of ethnic minority groups in Lijiang and Shangri-La and marvel at the
+          hidden natural wonders far away from the beaten path.
         image:
           type: ImageBlock
           url: /images/Off the beaten path3.jpg
