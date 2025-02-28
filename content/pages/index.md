@@ -310,7 +310,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Lukas2.webp
+          url: /images/Leadership Icon.webp
           altText: Background alt text
           styles:
             self:
