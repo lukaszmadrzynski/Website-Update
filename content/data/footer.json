@@ -96,7 +96,7 @@
             },
             {
                 "type": "Link",
-                "label": "Pricing",
+                "label": "About Us",
                 "altText": "",
                 "url": "/pricing",
                 "showIcon": false,
