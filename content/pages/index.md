@@ -373,7 +373,7 @@ sections:
             flexDirection: col
             textAlign: center
             justifyContent: center
-            borderColor: border-neutralAlt
+            borderColor: border-light
     actions: []
     variant: two-col-grid
     colors: bg-neutral-fg-dark
