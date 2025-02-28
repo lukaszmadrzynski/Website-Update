@@ -28,7 +28,7 @@
             },
             {
                 "type": "Link",
-                "label": "About Us",
+                "label": "Student EcoCamps",
                 "altText": "About Us page",
                 "url": "/about-us",
                 "showIcon": false,
