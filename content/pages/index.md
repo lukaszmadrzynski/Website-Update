@@ -457,6 +457,7 @@ sections:
               - pr-3
             borderRadius: x-large
             flexDirection: col
+            textAlign: center
         type: FeaturedItem
     variant: three-col-grid
     colors: bg-neutral-fg-dark
