@@ -435,7 +435,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Get started
+        label: Choose Your EcoCamp
         altText: ''
         url: /EcoCamps
         showIcon: false
