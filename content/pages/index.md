@@ -471,7 +471,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Follow a team whose commitment to sustainability has earned praise and
+          Follow a team whose commitment to sustainability has earned awards and
           recognition from major domestic and international organizations,
           including IUCN and UNESCO as well as various media outlets, including
           National Geographic and Discovery Channel.
