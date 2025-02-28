@@ -444,10 +444,10 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          We deeply committed to minimizing our environmental impact and
-          supporting local communities through ethical and sustainable tourism
-          practices. We are also actively involved in many local conservation
-          and sustainability projects in our ecotourism destinations.
+          Join a team deeply committed to minimizing our environmental impact
+          and supporting local communities through ethical and sustainable
+          tourism practices. Support a company actively involved in local
+          conservation and sustainability projects.
         image:
           url: /images/Sustainable.jpg
           altText: Placeholder image
