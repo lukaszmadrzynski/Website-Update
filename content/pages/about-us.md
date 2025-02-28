@@ -441,7 +441,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Choose Your EcoCamp
+        label: Join a Family EcoCamp
         altText: ''
         url: /EcoCamps
         showIcon: false
