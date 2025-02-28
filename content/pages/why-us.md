@@ -368,7 +368,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/exclusive.webp
-      altText: Dope design preview
+      altText: ''
     badge:
       type: Badge
       label: ''
