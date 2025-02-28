@@ -36,7 +36,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Your Trusted Partner for Ecotourism in Yunnan
+    subtitle: Your Trusted Partner for Sustainable Travel in Yunnan
     text: >+
       <div style="text-align: center">Cloud Mountain emerged from a shared
       passion for the unparalleled natural beauty and rich cultural tapestry of
