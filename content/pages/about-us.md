@@ -12,7 +12,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/CM Hero2.webp
+      url: /images/About-Us Banner2.webp
       altText: Dope design preview
     badge:
       type: Badge
