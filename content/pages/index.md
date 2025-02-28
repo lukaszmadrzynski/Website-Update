@@ -96,6 +96,7 @@ sections:
         justifyContent: center
         padding:
           - pt-3
+          - pb-4
   - type: DividerSection
     title: Divider
     elementId: ''
