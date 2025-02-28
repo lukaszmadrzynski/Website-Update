@@ -564,8 +564,8 @@ sections:
       type: TitleBlock
     subtitle: Your Sustainable Travel Companion
     text: >
-      We are dedicated to providing exceptional ecotourism experiences that
-      support local communities and sustainable development in some of the most
+      We are dedicated to providing exceptional travel experiences that support
+      local communities and sustainable development in some of the most
       vulnerable areas of Yunnan province, China. Learn more about our mission
       and team.
     actions:
