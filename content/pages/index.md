@@ -10,7 +10,7 @@ sections:
       altText: ''
       elementId: ''
       type: ImageBlock
-      url: /images/CM Hero.webp
+      url: /images/CM Hero2.webp
       styles:
         self:
           borderRadius: none
