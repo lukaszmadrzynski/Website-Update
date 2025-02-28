@@ -30,7 +30,7 @@
                 "type": "Link",
                 "label": "Student EcoCamps",
                 "altText": "About Us page",
-                "url": "/about-us",
+                "url": "/Student-EcoCamps",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
