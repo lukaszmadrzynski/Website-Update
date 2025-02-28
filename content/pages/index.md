@@ -262,7 +262,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Meet the Founders
+      text: Join Our EcoCamps
       color: text-dark
       styles:
         self:
