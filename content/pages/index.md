@@ -62,7 +62,7 @@ sections:
         iconPosition: right
         style: primary
       - type: Button
-        label: Check Our EcoCamps
+        label: Our EcoCamps
         altText: ''
         url: /EcoCamps
         showIcon: false
