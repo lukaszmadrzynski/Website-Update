@@ -562,7 +562,7 @@ sections:
       text: Cloud Mountain
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Your Sustainable Travel Companion
     text: >
       We are dedicated to providing exceptional ecotourism experiences that
       support local communities and sustainable development in some of the most
