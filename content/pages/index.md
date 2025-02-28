@@ -471,10 +471,10 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Our commitment to quality and sustainability has earned us recognition
-          from major domestic and international organizations, including IUCN
-          and UNESCO as well as various media outlets, including CCTV, National
-          Geographic, and Discovery Channel.
+          Follow a team that has earned recognition from major domestic and
+          international organizations, including IUCN and UNESCO as well as
+          various media outlets, including CCTV, National Geographic, and
+          Discovery Channel.
         image:
           url: /images/Forever Icon.webp
           altText: Placeholder image
