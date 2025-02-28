@@ -50,9 +50,9 @@ sections:
     subtitle: Northwest Yunnan | Southeast Tibet
     text: >
       Immerse yourself in the breathtaking landscapes and vibrant cultures of
-      Northwest Yunnan and Southeast Tibet on our unique ecotours and ecocamps.
+      Northwest Yunnan and Southeast Tibet on our uniquetravel experiences.
       Explore the wonders of the ancient Tea and Horse Road, from Naxi Lijiang
-      to Tibetan Shangri-La Join our local and global expert guides and support
+      to Tibetan Shangri-La. Join our local and global expert guides and support
       sustainable tourism, making a positive impact on visited destinations.
     actions:
       - type: Button
