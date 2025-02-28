@@ -30,17 +30,6 @@
             "type": "Link"
         },
         {
-            "type": "Link",
-            "label": "About Us",
-            "altText": "About Us page",
-            "url": "/about-us",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "type": "SubNav",
             "label": "EcoCamps",
             "altText": "",
@@ -69,6 +58,17 @@
                 }
             ],
             "labelStyle": "secondary"
+        },
+        {
+            "type": "Link",
+            "label": "About Us",
+            "altText": "About Us page",
+            "url": "/about-us",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         },
         {
             "type": "Link",
