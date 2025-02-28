@@ -41,17 +41,6 @@
             "elementId": ""
         },
         {
-            "type": "Link",
-            "label": "Contact Us",
-            "altText": "",
-            "url": "/contact-us",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "type": "SubNav",
             "label": "EcoCamps",
             "altText": "",
@@ -80,6 +69,17 @@
                 }
             ],
             "labelStyle": "secondary"
+        },
+        {
+            "type": "Link",
+            "label": "Contact Us",
+            "altText": "",
+            "url": "/contact-us",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
