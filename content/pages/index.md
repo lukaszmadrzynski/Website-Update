@@ -273,15 +273,7 @@ sections:
         title: 2025 Summer Family Camp
         tagline: ''
         subtitle: For Families with Kids over 5 Years Old
-        text: >
-          Deputy General Secretary at Lijiang Conservation and Development
-          Association, Deputy Chief Editor of < Lijiang Wenhai Ecotourism
-          Guidebook > and < Lijiang Laojun Mountains Climate Change Brochure >. 
-          Graduated from Anqing Normal University with Bachelor of Arts in Art
-          Design. Completed nature education course certified by China Nature
-          Education Network. Former Chief Editor at Enjoy Cambodia expat
-          magazine, English and Art Teacher at Lijiang Voice in Nature Education
-          Co. Ltd., Founder of Lynne玲 Art Studio.
+        text: ''
         image:
           type: ImageBlock
           url: /images/7O9A1577.jpg
