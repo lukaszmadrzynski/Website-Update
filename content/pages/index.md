@@ -793,7 +793,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-6
+          - pt-8
           - pb-12
     actions:
       - type: Button
