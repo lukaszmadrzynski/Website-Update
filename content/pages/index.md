@@ -473,7 +473,7 @@ sections:
         text: >
           Follow a team whose commitment to sustainability has earned praise and
           recognition from major domestic and international organizations,
-          including IUCN and UNESCO as well as various media outlets, including
+          including IUCN and UNESCO as well as global media outlets, including
           National Geographic and Discovery Channel.
         image:
           url: /images/Forever Icon.webp
