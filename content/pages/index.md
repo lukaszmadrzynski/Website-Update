@@ -271,7 +271,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 2025 Summer Family Camp
-        tagline: ''
+        tagline: For Famieles
         subtitle: For Families with Kids over 5 Years Old
         text: >
           Deputy General Secretary at Lijiang Conservation and Development
