@@ -439,7 +439,7 @@ sections:
 
     actions:
       - type: Button
-        label: Choose Your Ecotour!
+        label: Our Ecotours
         altText: ''
         url: /ecotours
         showIcon: false
