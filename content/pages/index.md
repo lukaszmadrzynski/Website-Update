@@ -668,7 +668,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Get started
+        label: Our Student Camp
         altText: ''
         url: /Student-EcoCamps
         showIcon: false
