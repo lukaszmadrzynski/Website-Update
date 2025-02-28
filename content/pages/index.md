@@ -262,7 +262,7 @@ sections:
               - mr-1
     actions:
       - type: Button
-        label: View All Ecotours
+        label: View All EcoTours
         altText: ''
         url: /ecotours
         showIcon: false
