@@ -399,6 +399,32 @@ sections:
               - pr-3
             borderRadius: x-large
             flexDirection: col
+      - title: Sustainable & Responsible
+        tagline: ''
+        subtitle: ''
+        text: >
+          We deeply committed to minimizing our environmental impact and
+          supporting local communities through ethical and sustainable tourism
+          practices. We are also actively involved in many other conservation
+          and sustainability projects in our ecotourism destinations.
+        image:
+          url: /images/Sustainable.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
       - title: Private & Customized
         tagline: ''
         subtitle: ''
@@ -419,32 +445,6 @@ sections:
                 - mt-0
                 - mr-0
                 - ml-0
-          type: ImageBlock
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-3
-              - pl-3
-              - pb-3
-              - pr-3
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Sustainable & Responsible
-        tagline: ''
-        subtitle: ''
-        text: >
-          We deeply committed to minimizing our environmental impact and
-          supporting local communities through ethical and sustainable tourism
-          practices. We are also actively involved in many other conservation
-          and sustainability projects in our ecotourism destinations.
-        image:
-          url: /images/Sustainable.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
           type: ImageBlock
         colors: bg-dark-fg-light
         styles:
