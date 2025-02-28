@@ -444,10 +444,10 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Chose a company deeply committed to minimizing environmental impact
-          and benefiting local communities through ethical tourism practices and
-          actively involved in many local conservation and sustainability
-          projects.
+          Choose a company deeply committed to minimizing environmental impact,
+          benefiting local communities, following ethical practices and actively
+          involved in local non-profit nature conservation and sustainable
+          development projects.
         image:
           url: /images/Sustainable.jpg
           altText: Placeholder image
