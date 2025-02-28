@@ -425,7 +425,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Private & Customized
+      - title: Trusted & Recognized
         tagline: ''
         subtitle: ''
         text: >
