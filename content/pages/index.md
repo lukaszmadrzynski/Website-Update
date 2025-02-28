@@ -774,7 +774,7 @@ sections:
     type: GenericSection
   - title:
       text: Inquiry and Booking
-      color: text-dark
+      color: text-light
       type: TitleBlock
       styles:
         self:
