@@ -399,6 +399,7 @@ sections:
               - pr-3
             borderRadius: x-large
             flexDirection: col
+            textAlign: center
       - title: Sustainable & Responsible
         tagline: ''
         subtitle: ''
