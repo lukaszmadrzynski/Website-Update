@@ -556,7 +556,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Choose Your EcoCamp!
+        label: Join Our EcoCamp!
         altText: ''
         url: /EcoCamps
         showIcon: false
