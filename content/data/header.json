@@ -27,7 +27,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "See Tutorials",
+                    "label": "About EcoCamps",
                     "altText": "",
                     "url": "/EcoCamps",
                     "showIcon": false,
