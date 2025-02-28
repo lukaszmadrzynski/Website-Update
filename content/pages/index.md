@@ -374,6 +374,7 @@ sections:
             textAlign: center
             justifyContent: center
             borderColor: border-neutral
+            borderStyle: solid
     actions: []
     variant: two-col-grid
     colors: bg-neutral-fg-dark
