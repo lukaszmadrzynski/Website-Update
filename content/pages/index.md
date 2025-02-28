@@ -303,7 +303,7 @@ sections:
       - type: FeaturedItem
         title: Sustainability Leadership Programs
         tagline: ''
-        subtitle: Co-founder & Nature Immersion Expert
+        subtitle: For Middle and Highchool
         text: >
           Master’s and PhD research at UNEP-Tongji Institute of Environment for
           Sustainable Development. Bachelor‘s degree in Chinese Studies at
