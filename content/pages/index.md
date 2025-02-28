@@ -270,7 +270,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 2025 Summer EcoCamp
+        title: Yunnan Sustainability Camps
         tagline: ''
         subtitle: For Families with Kids over 5 Years Old
         text: >
