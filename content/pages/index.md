@@ -444,9 +444,9 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Join a team deeply committed to minimizing our environmental impact
-          and supporting local communities through ethical and sustainable
-          tourism practices. Support a company actively involved in local
+          Join a team deeply committed to minimizing environmental impact and
+          supporting local communities through ethical and sustainable tourism
+          practices. Support a company actively involved in many local
           conservation and sustainability projects.
         image:
           url: /images/Sustainable.jpg
