@@ -439,7 +439,7 @@ sections:
 
     actions:
       - type: Button
-        label: Our Ecotours
+        label: Our EcoTours
         altText: ''
         url: /ecotours
         showIcon: false
