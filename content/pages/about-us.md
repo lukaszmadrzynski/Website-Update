@@ -450,7 +450,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Sign Up to Student EcoCamp
+        label: Sign Up for Student EcoCamp
         altText: ''
         url: /Student-EcoCamps
         showIcon: false
