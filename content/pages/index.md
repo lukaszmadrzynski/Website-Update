@@ -338,7 +338,7 @@ sections:
             flexDirection: col
             textAlign: center
             justifyContent: center
-            borderColor: border-neutralAlt
+            borderColor: border-primary
       - type: FeaturedItem
         title: Sustainability Leadership Camp
         tagline: ''
