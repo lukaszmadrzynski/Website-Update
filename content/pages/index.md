@@ -783,7 +783,7 @@ sections:
     subtitle: We respond within one day!
     text: |
       Reach out for more details, special offers and customizations.
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     type: GenericSection
     styles:
       text:
