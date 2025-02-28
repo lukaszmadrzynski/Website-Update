@@ -434,7 +434,7 @@ sections:
           and UNESCO as well as various media outlets, including CCTV, National
           Geographic, and Discovery Channel.
         image:
-          url: /images/Outreach.webp
+          url: /images/Forever Icon.webp
           altText: Placeholder image
           styles:
             self:
