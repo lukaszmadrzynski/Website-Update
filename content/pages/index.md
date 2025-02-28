@@ -276,7 +276,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/7O9A1577.jpg
+          url: /images/Family Icon.webp
           altText: Background alt text
           styles:
             self:
