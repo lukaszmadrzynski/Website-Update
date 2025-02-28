@@ -240,7 +240,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Sustainable Ecotourism
+        title: Sustainable Travel
         tagline: ''
         subtitle: ''
         text: "We are deeply committed to minimizing our environmental footprint and maximizing our positive impact on local communities throughout\_Yunnan and China. We promote ethical and\_sustainable tourism practices\_in all our\_travel destinations.\n"
