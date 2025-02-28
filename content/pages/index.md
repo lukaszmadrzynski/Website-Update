@@ -424,6 +424,7 @@ sections:
               - pr-3
             borderRadius: x-large
             flexDirection: col
+            textAlign: center
         type: FeaturedItem
       - title: Trusted & Recognized
         tagline: ''
