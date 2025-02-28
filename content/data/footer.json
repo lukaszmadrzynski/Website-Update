@@ -29,7 +29,7 @@
             {
                 "type": "Link",
                 "label": "Student EcoCamps",
-                "altText": "About Us page",
+                "altText": "",
                 "url": "/Student-EcoCamps",
                 "showIcon": false,
                 "icon": "arrowRight",
