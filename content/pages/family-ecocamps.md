@@ -37,7 +37,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row-reverse
+        flexDirection: col-reverse
 slug: /Family-EcoCamps
 isDraft: false
 seo:
