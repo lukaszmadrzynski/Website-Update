@@ -165,8 +165,9 @@ sections:
         title: Minority Cultures
         tagline: ''
         subtitle: ''
-        text: |
-          Discover the unique ecosystems and ethnic minorities of Yunnan.
+        text: >
+          Discover the unique Naxi, Yi, Lisu and Tibetan ethnic minority
+          cultures.
         image:
           type: ImageBlock
           url: /images/Culture Icon.webp
