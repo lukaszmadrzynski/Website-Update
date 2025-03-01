@@ -328,6 +328,39 @@ sections:
           - pl-3
           - pr-3
         justifyContent: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Inquiry and Booking
+      color: text-light
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 400
+    subtitle: ''
+    text: |
+      Contact Us to Discuss Your Travel Plans.
+    actions:
+      - type: Button
+        label: Contact Us
+        altText: ''
+        url: /contact-us
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: bg-dark-fg-light
+    styles:
+      text:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      self:
+        justifyContent: center
+        padding:
+          - pt-12
+          - pb-12
 slug: /Family-EcoCamps
 isDraft: false
 seo:
