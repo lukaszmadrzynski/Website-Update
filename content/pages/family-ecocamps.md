@@ -222,7 +222,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: 2025 Summer
       color: text-dark
     subtitle: Increase your reach
     text: >
