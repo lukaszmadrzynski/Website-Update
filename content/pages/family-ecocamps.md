@@ -45,7 +45,7 @@ sections:
     media:
       type: ImageBlock
       altText: Fun feature preview
-      url: /images/Familly Icon.jpg
+      url: /images/1.jpg
     badge:
       type: Badge
       label: Cloud Mountain
