@@ -231,7 +231,8 @@ sections:
     actions:
       - type: Button
         label: Learn More
-        url: /
+        url: >-
+          https://mp.weixin.qq.com/s?__biz=MzkyOTY3NDQzMQ==&tempkey=MTMxMV9GV1dSS3JzYlFGM2ZqWmZSR3E4R0xKUW5SamtmN3lSTjdmWVJ4N0QxQk5BaXp1QlVDcVdBSEdaZ1REUVAyRFpRODhWbUFvbUxjdDhKNHZDTUhlWHlfYTNGdDNZaUM0TTdsN0pHT0RXU0pEWjVkbVpreDA0eEl0QmpBSng1Uk9RWEtUY0J2U3JlTzBzTzUyelpuODBDYi05WlVDQ01VNXkyR2piMllnfn4%3D&chksm=4204bb6575733273863fae720c1969152867f10957ce2691489c44cb35badec04752f4fbb102&scene=0&xtrack=1#wechat_redirect
         icon: arrowRight
         iconPosition: right
         style: primary
