@@ -292,7 +292,6 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/Article Preview Header v3.jpg
       altText: Fun feature preview
     badge:
       type: Badge
