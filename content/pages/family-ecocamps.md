@@ -302,7 +302,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: ''
     text: ''
     actions:
       - type: Button
