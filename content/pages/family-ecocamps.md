@@ -38,6 +38,8 @@ sections:
       self:
         alignItems: center
         flexDirection: col-reverse
+        padding:
+          - pt-2
 slug: /Family-EcoCamps
 isDraft: false
 seo:
