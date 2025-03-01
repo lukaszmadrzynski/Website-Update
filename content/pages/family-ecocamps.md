@@ -89,6 +89,8 @@ sections:
           - pr-2
         flexDirection: row
         justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
