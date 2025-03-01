@@ -58,9 +58,10 @@ sections:
       text: ''
       color: text-dark
     subtitle: Summer 2025 Family Camp
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      <div style="text-align: center">A service that helps businesses to manage
+      their social media accounts and posts.</div>
+
     actions:
       - type: Button
         label: Learn More
