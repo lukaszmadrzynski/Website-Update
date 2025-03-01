@@ -29,7 +29,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Sustainability Family Camps
       color: text-dark
     subtitle: Increase your reach
     text: >
