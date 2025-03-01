@@ -52,6 +52,41 @@ sections:
         padding:
           - pt-7
         justifyContent: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: Summer 2025 Family Camp
+    text: >
+      A service that helps businesses to manage their social media accounts and
+      posts.
+    actions:
+      - type: Button
+        label: Learn More
+        url: >-
+          https://mp.weixin.qq.com/s?__biz=MzkyOTY3NDQzMQ==&tempkey=MTMxMV9GV1dSS3JzYlFGM2ZqWmZSR3E4R0xKUW5SamtmN3lSTjdmWVJ4N0QxQk5BaXp1QlVDcVdBSEdaZ1REUVAyRFpRODhWbUFvbUxjdDhKNHZDTUhlWHlfYTNGdDNZaUM0TTdsN0pHT0RXU0pEWjVkbVpreDA0eEl0QmpBSng1Uk9RWEtUY0J2U3JlTzBzTzUyelpuODBDYi05WlVDQ01VNXkyR2piMllnfn4%3D&chksm=4204bb6575733273863fae720c1969152867f10957ce2691489c44cb35badec04752f4fbb102&scene=0&xtrack=1#wechat_redirect
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/Article Preview Header v3.jpg
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: Our Upcoming Camp
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        padding:
+          - pt-7
+          - pb-7
+          - pl-2
+          - pr-2
+        flexDirection: row
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -219,41 +254,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: Summer 2025 Family Camp
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - type: Button
-        label: Learn More
-        url: >-
-          https://mp.weixin.qq.com/s?__biz=MzkyOTY3NDQzMQ==&tempkey=MTMxMV9GV1dSS3JzYlFGM2ZqWmZSR3E4R0xKUW5SamtmN3lSTjdmWVJ4N0QxQk5BaXp1QlVDcVdBSEdaZ1REUVAyRFpRODhWbUFvbUxjdDhKNHZDTUhlWHlfYTNGdDNZaUM0TTdsN0pHT0RXU0pEWjVkbVpreDA0eEl0QmpBSng1Uk9RWEtUY0J2U3JlTzBzTzUyelpuODBDYi05WlVDQ01VNXkyR2piMllnfn4%3D&chksm=4204bb6575733273863fae720c1969152867f10957ce2691489c44cb35badec04752f4fbb102&scene=0&xtrack=1#wechat_redirect
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/Article Preview Header v3.jpg
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: Our Upcoming Camp
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        padding:
-          - pt-7
-          - pb-7
-          - pl-2
-          - pr-2
-        flexDirection: row
 slug: /Family-EcoCamps
 isDraft: false
 seo:
