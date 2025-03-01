@@ -169,7 +169,7 @@ sections:
           Discover the unique ecosystems and ethnic minorities of Yunnan.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/Culture Icon.webp
           altText: Placeholder image
           styles:
             self:
