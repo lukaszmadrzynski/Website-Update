@@ -89,7 +89,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: EcoCamp Highlights
+      text: Family EcoCamp Highlights
       color: text-primary
       styles:
         self:
