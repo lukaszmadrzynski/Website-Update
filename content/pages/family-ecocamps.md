@@ -248,6 +248,8 @@ sections:
     styles:
       self:
         alignItems: center
+        padding:
+          - pt-7
 slug: /Family-EcoCamps
 isDraft: false
 seo:
