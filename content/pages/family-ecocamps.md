@@ -162,7 +162,7 @@ sections:
             flexDirection: col
             textAlign: center
       - type: FeaturedItem
-        title: Minority Cultures
+        title: Ethnic Minorities
         tagline: ''
         subtitle: ''
         text: >
