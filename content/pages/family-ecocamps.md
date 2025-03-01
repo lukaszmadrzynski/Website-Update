@@ -243,8 +243,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Visit our project sites and learn first-hand about conservation and
-          sustainable development.
+          Visit our project sites and learn first-hand about sustainable
+          development.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
