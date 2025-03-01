@@ -166,7 +166,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+          Discover the unique ecosystems and ethnic minorities of Yunnan.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
