@@ -162,7 +162,7 @@ sections:
             flexDirection: col
             textAlign: center
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Nature & Culture
         tagline: ''
         subtitle: ''
         text: |
