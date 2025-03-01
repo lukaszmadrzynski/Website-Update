@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/Family Hero.webp
       altText: Dope design preview
     badge:
       type: Badge
