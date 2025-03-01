@@ -74,13 +74,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     media:
       type: ImageBlock
       url: /images/1.jpg
