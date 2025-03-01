@@ -139,8 +139,9 @@ sections:
         title: Monkey Conservation
         tagline: ''
         subtitle: ''
-        text: |
-          Observe Yunnan Golden Monkey in its' natural habitat.
+        text: >
+          Observe Yunnan Golden Monkey in its' natural habitat, and support its'
+          conservation.
         image:
           type: ImageBlock
           url: /images/Monkey Icon.webp
