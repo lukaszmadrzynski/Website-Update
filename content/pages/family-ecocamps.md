@@ -114,7 +114,8 @@ sections:
         title: Fun & Educational
         tagline: ''
         subtitle: ''
-        text: ''
+        text: |
+          Spend an unforgetable and rewarding summer holiday with your family.
         image:
           type: ImageBlock
           url: /images/Fun Icon.webp
