@@ -31,7 +31,7 @@ sections:
       type: TitleBlock
       text: Yunnan Sustainability Family Camps
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: for Families with Kids over 5 years old
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
