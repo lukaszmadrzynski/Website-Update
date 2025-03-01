@@ -78,6 +78,9 @@ sections:
       type: Badge
       label: Our Upcoming Camp
       color: text-primary
+      styles:
+        self:
+          textAlign: center
     colors: bg-light-fg-dark
     styles:
       self:
