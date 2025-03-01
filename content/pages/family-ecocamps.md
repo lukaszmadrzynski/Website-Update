@@ -55,6 +55,8 @@ sections:
       self:
         alignItems: center
         flexDirection: col
+        padding:
+          - pt-4
   - type: GenericSection
     title:
       type: TitleBlock
