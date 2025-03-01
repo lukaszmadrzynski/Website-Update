@@ -140,7 +140,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Observe Yunnan Golden Monkey in its' natural habitat, and support its'
+          Observe Yunnan Golden Monkey in its natural habitat, and support its
           conservation.
         image:
           type: ImageBlock
