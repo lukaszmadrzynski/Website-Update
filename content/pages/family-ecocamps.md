@@ -247,7 +247,7 @@ sections:
           development.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Sustainability Icon.webp
           altText: Placeholder text
           styles:
             self:
