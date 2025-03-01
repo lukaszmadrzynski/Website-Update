@@ -214,31 +214,6 @@ sections:
             flexDirection: col
             textAlign: center
       - type: FeaturedItem
-        title: Expert Guides
-        tagline: ''
-        subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
-            borderRadius: x-large
-            flexDirection: col
-            textAlign: center
-      - type: FeaturedItem
         title: Sustainability
         tagline: ''
         subtitle: ''
