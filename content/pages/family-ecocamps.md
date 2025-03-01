@@ -45,7 +45,7 @@ sections:
     media:
       type: ImageBlock
       altText: Fun feature preview
-      url: /images/1.jpg
+      url: /images/Family Hero2.webp
     badge:
       type: Badge
       label: Cloud Mountain
