@@ -242,8 +242,9 @@ sections:
         title: Sustainability
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Visit our project sites and learn first-hand about conservation and
+          sustainable development.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
