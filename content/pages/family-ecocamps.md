@@ -103,7 +103,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: EcoCamp Highlights
+      text: Highlights
       color: text-dark
       styles:
         self:
