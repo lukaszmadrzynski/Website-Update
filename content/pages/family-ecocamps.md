@@ -237,7 +237,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/1.jpg
+      url: /images/Article Preview Header v3.jpg
       altText: Fun feature preview
     badge:
       type: Badge
