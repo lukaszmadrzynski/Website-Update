@@ -207,7 +207,7 @@ sections:
             padding:
               - pt-4
               - pl-4
-              - pb-4
+              - pb-7
               - pr-4
             borderRadius: x-large
             flexDirection: col
