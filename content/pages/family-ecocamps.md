@@ -327,6 +327,7 @@ sections:
           - pb-4
           - pl-3
           - pr-3
+        justifyContent: center
 slug: /Family-EcoCamps
 isDraft: false
 seo:
