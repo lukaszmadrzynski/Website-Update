@@ -196,7 +196,7 @@ sections:
           of Yunnan.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Nature Icon.webp
           altText: Placeholder text
           styles:
             self:
