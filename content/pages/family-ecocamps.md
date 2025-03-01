@@ -60,8 +60,9 @@ sections:
       color: text-dark
     subtitle: Summer 2025 Family Camp
     text: >+
-      <div style="text-align: center">A service that helps businesses to manage
-      their social media accounts and posts.</div>
+      <div style="text-align: center">Join us on our Yunnan Snub-nosed Monkey
+      Conservation Journey across the beautiful Yunnan regions of Naxi Lijiang
+      and Tibetan Shangri-La. </div>
 
     actions:
       - type: Button
