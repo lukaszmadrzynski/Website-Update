@@ -224,7 +224,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Upcoming Family EcoCamp
+    subtitle: Summer 2025 Family EcoCamp
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
