@@ -277,6 +277,29 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/Article Preview Header v3.jpg
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+        padding:
+          - pb-4
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: Social Media Management
       color: text-dark
     subtitle: Increase your reach
@@ -306,29 +329,6 @@ sections:
           - pb-4
           - pl-3
           - pr-3
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/Article Preview Header v3.jpg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        padding:
-          - pb-4
 slug: /Family-EcoCamps
 isDraft: false
 seo:
