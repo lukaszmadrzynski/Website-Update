@@ -140,7 +140,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          Follow the tutorial to build your first awesome Netlify site.
+          Observe Yunnan Golden Monkey in its' natural habitat.
         image:
           type: ImageBlock
           url: /images/Monkey Icon.webp
