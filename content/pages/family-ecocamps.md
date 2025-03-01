@@ -136,7 +136,7 @@ sections:
             flexDirection: col
             textAlign: center
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Monkey Conservation
         tagline: ''
         subtitle: ''
         text: |
