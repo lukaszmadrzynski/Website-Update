@@ -188,7 +188,7 @@ sections:
             flexDirection: col
             textAlign: center
       - type: FeaturedItem
-        title: Feature Item One
+        title: Natural Wonders
         tagline: ''
         subtitle: ''
         text: |
