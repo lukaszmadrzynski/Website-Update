@@ -191,8 +191,9 @@ sections:
         title: Natural Wonders
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Explore diverse ecosystems, biodiversity hotspots and natural wonders
+          of Yunnan.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
