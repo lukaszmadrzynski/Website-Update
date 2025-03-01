@@ -61,7 +61,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Summer 2025 Family Camp
+    subtitle: Summer 2025 Family EcoCamp
     text: >+
       <div style="text-align: center">Join us on our Yunnan Snub-nosed Monkey
       Conservation Journey across the beautiful Yunnan regions of Naxi Lijiang
