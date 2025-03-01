@@ -306,7 +306,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Learn More
+        label: View Full Article
         url: /
         icon: arrowRight
         iconPosition: right
