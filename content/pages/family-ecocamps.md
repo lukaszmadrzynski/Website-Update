@@ -29,7 +29,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Sustainability Family Camps
+      text: Yunnan Sustainability Family Camps
       color: text-dark
     subtitle: Increase your reach
     text: >
