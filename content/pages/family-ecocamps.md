@@ -33,8 +33,9 @@ sections:
       color: text-dark
     subtitle: for Families with Kids over 5 years old
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Every summer and winter holidays we organize fun, educational programs for
+      families interested in experiencing and learning about the unique nature
+      and culture of Yunnan province, China.
     actions: []
     media:
       type: ImageBlock
