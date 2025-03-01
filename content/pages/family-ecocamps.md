@@ -76,7 +76,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: Our Upcoming Camp
+      label: Upcoming Camp
       color: text-primary
       styles:
         self:
