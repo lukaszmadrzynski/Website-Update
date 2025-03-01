@@ -230,18 +230,18 @@ sections:
       posts.
     actions:
       - type: Button
-        label: Get started
+        label: Learn More
         url: /
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
     media:
       type: ImageBlock
       url: /images/1.jpg
       altText: Fun feature preview
     badge:
       type: Badge
-      label: Summer 2025
+      label: Our Upcoming Camp
       color: text-primary
     colors: bg-light-fg-dark
     styles:
