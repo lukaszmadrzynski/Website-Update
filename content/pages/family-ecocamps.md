@@ -81,7 +81,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: Upcoming Camp
+      label: Upcoming EcoCamp
       color: text-primary
       styles:
         self:
