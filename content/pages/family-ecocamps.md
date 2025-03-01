@@ -250,7 +250,7 @@ sections:
         alignItems: center
         padding:
           - pt-7
-          - pb-4
+          - pb-5
           - pl-2
           - pr-2
         flexDirection: row
