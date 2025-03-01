@@ -253,7 +253,7 @@ sections:
           - pb-4
           - pl-2
           - pr-2
-        flexDirection: col-reverse
+        flexDirection: row-reverse
 slug: /Family-EcoCamps
 isDraft: false
 seo:
