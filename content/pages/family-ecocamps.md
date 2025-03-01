@@ -134,6 +134,7 @@ sections:
               - pr-4
             borderRadius: x-large
             flexDirection: col
+            textAlign: center
       - type: FeaturedItem
         title: Feature Item Two
         tagline: ''
