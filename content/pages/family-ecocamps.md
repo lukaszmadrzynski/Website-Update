@@ -143,7 +143,7 @@ sections:
           Follow the tutorial to build your first awesome Netlify site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/Monkey Icon.webp
           altText: Placeholder image
           styles:
             self:
