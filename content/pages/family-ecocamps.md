@@ -316,7 +316,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/Article Preview Header v3.jpg
       altText: Dope design preview
     badge:
       type: Badge
