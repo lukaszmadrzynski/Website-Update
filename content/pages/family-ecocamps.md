@@ -251,7 +251,7 @@ sections:
         padding:
           - pt-7
           - pb-4
-        flexDirection: row-reverse
+        flexDirection: row
 slug: /Family-EcoCamps
 isDraft: false
 seo:
