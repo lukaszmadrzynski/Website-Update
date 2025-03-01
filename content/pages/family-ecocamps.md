@@ -57,6 +57,7 @@ sections:
         flexDirection: col
         padding:
           - pt-7
+        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
