@@ -37,7 +37,7 @@ sections:
       posts.
     actions:
       - type: Button
-        label: Get started
+        label: Learn More
         url: /
         icon: arrowRight
         iconPosition: right
