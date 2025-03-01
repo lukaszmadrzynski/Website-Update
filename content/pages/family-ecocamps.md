@@ -224,7 +224,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Upcoming Family EcoCamp
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
@@ -241,7 +241,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: This is a badge
+      label: Summer 2025
       color: text-primary
     colors: bg-light-fg-dark
     styles:
