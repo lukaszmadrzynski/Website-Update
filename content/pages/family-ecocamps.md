@@ -222,7 +222,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 2025 Summer
+      text: ''
       color: text-dark
     subtitle: Increase your reach
     text: >
