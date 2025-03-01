@@ -87,6 +87,7 @@ sections:
           - pl-2
           - pr-2
         flexDirection: row
+        justifyContent: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
