@@ -31,7 +31,7 @@ sections:
       type: TitleBlock
       text: Yunnan Sustainability Leadership Programs
       color: text-dark
-    subtitle: for Families with Kids over 5 years old
+    subtitle: for Middle and High School students
     text: >
       Every summer and winter holidays we organize fun, educational programs for
       families interested in experiencing and learning about the unique nature,
