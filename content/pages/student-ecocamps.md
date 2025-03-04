@@ -33,9 +33,10 @@ sections:
       color: text-dark
     subtitle: for Middle and High School students
     text: >
-      Every summer and winter holidays we organize fun, educational programs for
-      families interested in experiencing and learning about the unique nature,
-      culture and sustainable development in Yunnan province, China.
+      Every summer and winter holidays we organize in-depth, hands-on programs
+      for middle nd high school students interested in deepening their knowledge
+      and experience in practical implementation of sustainable development
+      projects in Yunnan province, China.
     actions: []
     media:
       type: ImageBlock
