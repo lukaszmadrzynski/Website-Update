@@ -40,7 +40,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Family Hero2.webp
+      url: /images/Ledership Hero2.webp
       altText: Fun feature preview
     badge:
       type: Badge
