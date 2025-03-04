@@ -12,7 +12,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Family Hero.webp
+      url: /images/Ledership Hero.webp
       altText: Dope design preview
     badge:
       type: Badge
