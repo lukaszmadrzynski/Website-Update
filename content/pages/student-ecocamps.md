@@ -29,7 +29,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Family EcoCamps
+      text: Student EcoCamps
       color: text-dark
     subtitle: for Families with Kids over 5 years old
     text: >
