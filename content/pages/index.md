@@ -345,7 +345,7 @@ sections:
             borderWidth: 0
             borderStyle: solid
       - type: FeaturedItem
-        title: Sustainability Leadership Camp
+        title: Sustainability Leadership EcoCamp
         tagline: ''
         subtitle: For Middle and High School Students
         text: ''
