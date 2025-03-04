@@ -308,7 +308,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Sustainability Family Camp
+        title: Sustainability Family EcoCamp
         tagline: ''
         subtitle: For Families with Kids over 5 Years Old
         text: ''
