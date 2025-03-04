@@ -351,7 +351,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Ledership Hero Icon.webp
+          url: /images/Leadership Banner.webp
           altText: Background alt text
           styles:
             self:
