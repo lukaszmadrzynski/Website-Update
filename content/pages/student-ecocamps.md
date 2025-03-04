@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Family EcoCamps
+title: Student EcoCamps
 sections:
   - type: GenericSection
     title:
