@@ -133,7 +133,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/DY-Banner Icon.webp
-          altText: Lightning bolt symbol on red background
+          altText: Naxi Heritage Walk Ecotour Photo
           elementId: ''
           styles:
             self:
