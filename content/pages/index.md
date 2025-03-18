@@ -76,7 +76,7 @@ sections:
       - type: Button
         label: Student EcoCamps
         altText: ''
-        url: /Students-EcoCamps
+        url: /Student-EcoCamps
         showIcon: false
         icon: arrowRight
         iconPosition: right
