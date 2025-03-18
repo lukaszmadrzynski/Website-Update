@@ -480,7 +480,7 @@ sections:
           National Geographic and Discovery Channel.
         image:
           url: /images/Forever Icon.webp
-          altText: trusted Icon
+          altText: Trusted Icon
           styles:
             self:
               borderRadius: x-large
