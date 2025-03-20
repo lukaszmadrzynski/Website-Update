@@ -220,6 +220,7 @@ sections:
           - pt-12
           - pb-12
           - pl-3
+          - pr-3
 slug: /Student-EcoCamps
 isDraft: false
 seo:
