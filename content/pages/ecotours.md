@@ -65,8 +65,8 @@ sections:
       - type: FeaturedItem
         title: Lijiang's Forgotten Forest
         subtitle: from $38 to $58 per person
-        text: >+
-          **(Only from July to September)** 
+        text: >
+          **SEASONAL (July to September)**
 
           Discover Lijiang's hidden natural gem! Explore a protected area
           teeming with rare orchids, unique plants, and
@@ -81,13 +81,6 @@ sections:
           into
 
           stunning nature!
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/XS-Banner Icon.webp
