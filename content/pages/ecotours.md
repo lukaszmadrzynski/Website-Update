@@ -124,10 +124,10 @@ sections:
           February)**</div>
 
 
-          <div style="text-align: center">#### COMING </div>
+          <div style="text-align: center">#### COMING</div>
 
 
-          <div style="text-align: center">#### THIS#### FALL!</div>
+          <div style="text-align: center">#### THIS####  FALL!</div>
 
         image:
           type: ImageBlock
