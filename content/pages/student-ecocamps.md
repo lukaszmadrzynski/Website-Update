@@ -327,7 +327,7 @@ sections:
           fontWeight: 400
     subtitle: ''
     text: |
-      Contact Us to Discuss Your Travel Plans.
+      Contact Us to Discuss Your Sustainability Adventure.
     actions:
       - type: Button
         label: Contact Us
