@@ -115,6 +115,66 @@ sections:
               - ml-1
               - mr-1
         tagline: Half-Day | Biodiversity Hike
+      - type: FeaturedItem
+        title: Zhongji Migratory Birds
+        tagline: Half-Day | Biodiversity Hike
+        subtitle: from $38 to $58 per person
+        text: >+
+          **(Only from July to September)** 
+
+          Discover Lijiang's hidden natural gem! Explore a protected area
+          teeming with rare orchids, unique plants, and
+
+          diverse wildlife. Hike with a local expert, discover Naxi culture, and
+          enjoy
+
+          breathtaking panoramic views of Lijiang and Jade Dragon Snow Mountain.
+          Finish
+
+          your adventure at the famous Black Dragon Pool Park. An easy escape
+          into
+
+          stunning nature!
+
+
+
+
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/XS-Banner Icon.webp
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /elephant-hill
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
+            margin:
+              - ml-1
+              - mr-1
     actions: []
     elementId: ''
     variant: three-col-grid
