@@ -219,6 +219,7 @@ sections:
         padding:
           - pt-12
           - pb-12
+          - pl-3
 slug: /Student-EcoCamps
 isDraft: false
 seo:
