@@ -68,7 +68,7 @@ sections:
     subtitle: CURRENT PROGRAMS
     items:
       - type: FeaturedItem
-        title: Yunnan Sustainability Journey
+        title: ''
         tagline: ''
         subtitle: July 2025
         text: >+
