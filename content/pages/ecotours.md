@@ -119,10 +119,13 @@ sections:
         title: Zhongji Migratory Birds
         tagline: Half-Day | Biodiversity Hike
         subtitle: from $38 to $58 per person
-        text: |
-          **SEASONAL (November to February)**
+        text: >+
+          <div style="text-align: left">**SEASONAL (November to
+          February)******</div>
 
-          **COMING SOON!**
+
+          <div style="text-align: center">## **COMING SOON!**</div>
+
         image:
           type: ImageBlock
           url: /images/ZH-Banner Icon.webp
