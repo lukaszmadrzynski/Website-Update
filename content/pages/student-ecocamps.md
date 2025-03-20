@@ -111,7 +111,7 @@ sections:
             textAlign: center
             justifyContent: center
       - type: FeaturedItem
-        title: Lijiang Sustainability Pioneers
+        title: ''
         tagline: ''
         subtitle: August 2025
         text: >
