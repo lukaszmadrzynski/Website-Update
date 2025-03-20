@@ -141,49 +141,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: Summer 2025 Family EcoCamp
-    text: >+
-      <div style="text-align: center">Join us on our Yunnan Snub-nosed Monkey
-      Conservation Journey across the beautiful Yunnan regions of Naxi Lijiang
-      and Tibetan Shangri-La. </div>
-
-    actions:
-      - type: Button
-        label: Learn More
-        url: 'https://mp.weixin.qq.com/s/WdAxXCw7-pEXVsmVqjdxQw'
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/Article Preview Header v3.jpg
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: Upcoming EcoCamp
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        padding:
-          - pt-7
-          - pb-7
-          - pl-2
-          - pr-2
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: center
-        fontWeight: 700
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
