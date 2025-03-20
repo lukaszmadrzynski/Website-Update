@@ -1,6 +1,6 @@
 {
     "logo": {
-        "altText": "Logo dark",
+        "altText": "Cloud Mountain Logo",
         "styles": {
             "self": {
                 "margin": [
@@ -8,17 +8,70 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/Logo Color No Text2.png"
     },
     "primaryLinks": [
         {
-            "label": "Ecotours",
+            "label": "EcoTours",
             "url": "/ecotours",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
             "altText": "Ecotours page"
+        },
+        {
+            "type": "SubNav",
+            "label": "EcoCamps",
+            "altText": "",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "For Families",
+                    "altText": "",
+                    "url": "/Family-EcoCamps",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "For Students",
+                    "altText": "",
+                    "url": "/Student-EcoCamps",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "For Schools",
+                    "altText": "",
+                    "url": "/School-Programmes",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
+        },
+        {
+            "type": "Link",
+            "label": "Consulting",
+            "altText": "",
+            "url": "/Sustainability-Consulting",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         },
         {
             "label": "Why Us",
@@ -39,22 +92,11 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
-        },
-        {
-            "type": "Link",
-            "label": "Contact Us",
-            "altText": "",
-            "url": "/contact-us",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [
         {
-            "label": "Book Now",
+            "label": "Contact Us",
             "url": "/contact-us",
             "icon": "mail",
             "iconPosition": "right",
@@ -64,7 +106,7 @@
             "altText": "Contact Us page"
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-left-primary-nav-left",
     "colors": "bg-light-fg-dark",
     "type": "Header",
     "styles": {
@@ -72,7 +114,7 @@
             "padding": [
                 "pt-0",
                 "pb-0",
-                "pl-1",
+                "pl-0",
                 "pr-0"
             ]
         }

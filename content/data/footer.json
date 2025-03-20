@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/LOGO GREEN.png",
+        "url": "/images/Logo White.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
@@ -9,7 +9,7 @@
         "title": "",
         "links": [
             {
-                "label": "Ecotours",
+                "label": "Private Ecotours",
                 "altText": "Ecotours page",
                 "url": "/ecotours",
                 "icon": "arrowRight",
@@ -18,30 +18,19 @@
                 "type": "Link"
             },
             {
-                "label": "Why Us",
-                "url": "/why-us",
+                "label": "Family EcoCamps",
+                "url": "/Family-EcoCamps",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link",
-                "altText": "Why Us page"
+                "altText": ""
             },
             {
                 "type": "Link",
-                "label": "About Us",
-                "altText": "About Us page",
-                "url": "/about-us",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact Us",
-                "altText": "Contact Us page",
-                "url": "/contact-us",
+                "label": "Student EcoCamps",
+                "altText": "",
+                "url": "/Student-EcoCamps",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -78,5 +67,44 @@
                 "pr-3"
             ]
         }
+    },
+    "secondaryLinks": {
+        "type": "FooterLinksGroup",
+        "title": "",
+        "links": [
+            {
+                "type": "Link",
+                "label": "Why Us",
+                "altText": "",
+                "url": "/why-us",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "About Us",
+                "altText": "",
+                "url": "/about-us",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Contact Us",
+                "altText": "",
+                "url": "/contact-us",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ]
     }
 }

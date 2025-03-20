@@ -1,5 +1,5 @@
 ---
-title: Cloud Mountain Ecotours
+title: Cloud Mountain
 slug: /
 sections:
   - type: GenericSection
@@ -10,7 +10,7 @@ sections:
       altText: ''
       elementId: ''
       type: ImageBlock
-      url: /images/Main Page - Hero4.jpg
+      url: /images/CM Hero.webp
       styles:
         self:
           borderRadius: none
@@ -25,7 +25,7 @@ sections:
         alignItems: center
         flexDirection: col-reverse
         padding:
-          - pt-3
+          - pt-2
           - pl-0
           - pb-2
           - pr-0
@@ -45,22 +45,43 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Authentic Ecotourism Adventures in Lijiang and Shangri-La
+      text: Authentic Sustainable Adventures in Lijiang and Shangri-La
       color: text-dark
     subtitle: Northwest Yunnan | Southeast Tibet
     text: >
       Immerse yourself in the breathtaking landscapes and vibrant cultures of
-      Northwest Yunnan and Southeast Tibet on our immersive and sustainable
-      ecotours. Explore the wonders of the ancient Tea and Horse Road, from Naxi
-      Lijiang to Tibetan Shangri-La, with expert local guides, supporting
-      community tourism and making a positive impact through ecotourism.
+      Northwest Yunnan and Southeast Tibet on our unique travel experiences.
+      Explore the wonders of the ancient Tea and Horse Road, from Naxi Lijiang
+      to Tibetan Shangri-La. Join our local and global expert guides and support
+      sustainable tourism, making a positive impact on visited destinations.
     actions:
       - type: Button
-        label: Check Our Ecotours
+        label: Private EcoTours
+        altText: ''
         url: /ecotours
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
+        elementId: ''
+      - type: Button
+        label: Family EcoCamps
+        altText: ''
+        url: /EcoCamps
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Student EcoCamps
+        altText: ''
+        url: /Student-EcoCamps
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       altText: Fun feature preview
@@ -75,10 +96,25 @@ sections:
         justifyContent: center
         padding:
           - pt-3
+          - pb-4
+          - pl-3
+          - pr-3
+        flexDirection: row
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-9
+          - pr-12
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: 2025 Featured Ecotours
+      text: Choose Your Private EcoTour
       color: text-dark
       styles:
         self:
@@ -97,7 +133,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/DY-Banner Icon.webp
-          altText: Lightning bolt symbol on red background
+          altText: Naxi Heritage Walk Ecotour Photo
           elementId: ''
           styles:
             self:
@@ -106,7 +142,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /ecotours/lijiang-old-town-ecotour/
+            url: /lijiang-old-town-ecotour/
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -226,7 +262,7 @@ sections:
               - mr-1
     actions:
       - type: Button
-        label: View All Ecotours
+        label: View All EcoTours
         altText: ''
         url: /ecotours
         showIcon: false
@@ -240,16 +276,134 @@ sections:
     styles:
       self:
         padding:
-          - pb-12
-          - pt-16
-          - pl-1
-          - pr-1
+          - pb-9
+          - pt-3
+          - pl-2
+          - pr-2
         justifyContent: center
         margin:
           - mt-0
       subtitle:
         textAlign: center
         fontWeight: 700
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-9
+          - pr-12
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Join Our EcoCamp
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Sustainability Family EcoCamp
+        tagline: ''
+        subtitle: For Families with Kids over 5 Years Old
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Family Icon.webp
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /Family-EcoCamps
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
+            borderRadius: x-large
+            flexDirection: col
+            textAlign: center
+            justifyContent: center
+            borderColor: border-dark
+            borderWidth: 0
+            borderStyle: solid
+      - type: FeaturedItem
+        title: Sustainability Leadership EcoCamp
+        tagline: ''
+        subtitle: For Middle and High School Students
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Leadership Banner.webp
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /Student-EcoCamps
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
+            borderRadius: x-large
+            flexDirection: col
+            textAlign: center
+            justifyContent: center
+            borderColor: border-neutral
+            borderStyle: solid
+    actions: []
+    variant: two-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-5
+          - pl-2
+          - pb-3
+          - pr-2
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-9
+          - pr-12
   - title:
       text: |-
         Why
@@ -261,16 +415,72 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Private & Customized
+      - type: FeaturedItem
+        title: Off the Beaten Path
         tagline: ''
         subtitle: ''
         text: >
-          Enjoy a private and personalized experience on our ecotours in
-          Northwest Yunnan and Southeast Tibet. Foster a deeper connections with
-          local nature and culture.
+          Go beyond the typical tourist attractions and engage directly with
+          local communities. Experience the authentic life and unique cultures
+          of ethnic minority groups in Lijiang and Shangri-La and marvel at the
+          hidden natural wonders far away from the beaten path.
         image:
-          url: /images/Private.webp
+          type: ImageBlock
+          url: /images/Off the beaten path3.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
+            borderRadius: x-large
+            flexDirection: col
+            textAlign: center
+      - title: Sustainable & Responsible
+        tagline: ''
+        subtitle: ''
+        text: >
+          Choose a company deeply committed to minimizing environmental impact,
+          benefiting local communities, following ethical practices and actively
+          involved in local non-profit nature conservation and sustainable
+          development projects.
+        image:
+          url: /images/Sustainable.jpg
           altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
+            borderRadius: x-large
+            flexDirection: col
+            textAlign: center
+        type: FeaturedItem
+      - title: Trusted & Recognized
+        tagline: ''
+        subtitle: ''
+        text: >
+          Follow a team whose commitment to sustainability has earned praise and
+          recognition from major domestic and international organizations,
+          including IUCN and UNESCO as well as global media outlets, including
+          National Geographic and Discovery Channel.
+        image:
+          url: /images/Forever Icon.webp
+          altText: Trusted Icon
           styles:
             self:
               borderRadius: x-large
@@ -292,65 +502,14 @@ sections:
               - pr-3
             borderRadius: x-large
             flexDirection: col
-        type: FeaturedItem
-      - type: FeaturedItem
-        title: Authentic & Off-the-beaten-path
-        tagline: ''
-        subtitle: ''
-        text: >
-          Go beyond the typical tourist attractions and engage directly with
-          local communities, experiencing the unique cultures of Lijiang,
-          Shangri-La, and beyond on our authentic ecotourism trips.
-        image:
-          type: ImageBlock
-          url: /images/Off the beaten path3.jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-3
-              - pl-3
-              - pb-3
-              - pr-3
-            borderRadius: x-large
-            flexDirection: col
-      - title: Sustainable & Responsible
-        tagline: ''
-        subtitle: ''
-        text: >
-          We deeply committed to minimizing our environmental impact and
-          supporting local communities through ethical and sustainable tourism
-          practices. We are also actively involved in many other conservation
-          and sustainability projects in our ecotourism destinations.
-        image:
-          url: /images/Sustainable.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-3
-              - pl-3
-              - pb-3
-              - pr-3
-            borderRadius: x-large
-            flexDirection: col
+            textAlign: center
         type: FeaturedItem
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
-          - pt-12
+          - pt-4
           - pl-2
           - pb-16
           - pr-2
@@ -376,7 +535,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          #### *“Through six days of close interaction, the kids have been
+          #### *“Through six days of close interaction, our kids have been
           exploring the rules of getting along with others while uncovering the
           mysteries of the world! Truly an experience with profound educational
           value.”*
@@ -538,9 +697,27 @@ sections:
 
     actions:
       - type: Button
-        label: Choose Your Ecotour!
+        label: Choose a Private EcoTour
         altText: ''
         url: /ecotours
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Join a Family EcoCamp
+        altText: ''
+        url: /EcoCamps
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Check a Student EcoCamp
+        altText: ''
+        url: /Student-EcoCamps
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -559,13 +736,13 @@ sections:
           - pt-10
           - pb-16
   - title:
-      text: Cloud Mountain Ecotours
+      text: Cloud Mountain
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Your Sustainable Travel Companion
     text: >
-      We are dedicated to providing exceptional ecotourism experiences that
-      support local communities and sustainable development in some of the most
+      We are dedicated to providing exceptional travel experiences that support
+      local communities and sustainable development in some of the most
       vulnerable areas of Yunnan province, China. Learn more about our mission
       and team.
     actions:
@@ -597,7 +774,7 @@ sections:
     type: GenericSection
   - title:
       text: Inquiry and Booking
-      color: text-dark
+      color: text-light
       type: TitleBlock
       styles:
         self:
@@ -605,8 +782,8 @@ sections:
           fontWeight: 400
     subtitle: We respond within one day!
     text: |
-      Reach out for more tours, details, special offers and customizations.
-    colors: bg-light-fg-dark
+      Reach out for more details, special offers and customizations.
+    colors: bg-dark-fg-light
     type: GenericSection
     styles:
       text:
@@ -616,8 +793,8 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-6
-          - pb-12
+          - pt-9
+          - pb-3
     actions:
       - type: Button
         label: Contact Us
@@ -628,6 +805,17 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
 seo:
   metaTitle: 'Authentic Yunnan Ecotours: Explore Lijiang & Shangri-La, China Travel.'
   metaDescription: >-
