@@ -124,7 +124,7 @@ sections:
           February)**</div>
 
 
-          <div style="text-align: center">#### **COMING** #### **THIS** ####
+          <div style="text-align: center">#### **COMING** #### **THIS**####
           **FALL!**</div>
 
         image:
