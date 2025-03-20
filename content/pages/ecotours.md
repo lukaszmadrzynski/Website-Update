@@ -120,7 +120,7 @@ sections:
         tagline: Half-Day | Biodiversity Hike
         subtitle: from $38 to $58 per person
         text: |
-          **SEASONAL (from November to February)**
+          **SEASONAL (November to February)**
 
           **COMING SOON!**
         image:
