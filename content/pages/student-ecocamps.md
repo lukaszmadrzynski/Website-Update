@@ -68,7 +68,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Lynne Lyu
+        title: Yunnan Sustainability Journey
         tagline: ''
         subtitle: Co-founder & Culture Immersion Expert
         text: >
