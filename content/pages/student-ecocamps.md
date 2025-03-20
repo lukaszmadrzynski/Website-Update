@@ -65,7 +65,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Now Recruiting!
+    subtitle: CURRENT PROGRAMS
     items:
       - type: FeaturedItem
         title: Yunnan Sustainability Journey
