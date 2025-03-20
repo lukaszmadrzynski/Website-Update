@@ -121,10 +121,11 @@ sections:
         subtitle: from $38 to $58 per person
         text: >+
           <div style="text-align: left">**SEASONAL (November to
-          February)**********</div>
+          February)**</div>
 
 
-          <div style="text-align: center">#### **COMING THIS FALL!**</div>
+          <div style="text-align: center">#### **COMING** #### **THIS** ####
+          **FALL!**</div>
 
         image:
           type: ImageBlock
