@@ -133,7 +133,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: '/https://mp.weixin.qq.com/s/bt4J-jGaAgB_rR7bapT9rA'
+            url: 'https://mp.weixin.qq.com/s/bt4J-jGaAgB_rR7bapT9rA'
             showIcon: false
             icon: arrowRight
             iconPosition: right
