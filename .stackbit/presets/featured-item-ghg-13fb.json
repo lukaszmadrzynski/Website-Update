@@ -1,0 +1,71 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "ghg",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "ww"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Lijiang's Forgotten Forest",
+                "tagline": "Half-Day | Biodiversity Hike",
+                "subtitle": "from $38 to $58 per person",
+                "text": "**(Only from July to September)** \nDiscover Lijiang's hidden natural gem! Explore a protected area teeming with rare orchids, unique plants, and\ndiverse wildlife. Hike with a local expert, discover Naxi culture, and enjoy\nbreathtaking panoramic views of Lijiang and Jade Dragon Snow Mountain. Finish\nyour adventure at the famous Black Dragon Pool Park. An easy escape into\nstunning nature!\n\n\n\n\n\n\n\n",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/XS-Banner Icon.webp",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Lightning bolt symbol on red background",
+                    "elementId": "",
+                    "styles": {
+                        "self": {
+                            "borderRadius": "x-large"
+                        }
+                    }
+                },
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Learn More",
+                        "altText": "",
+                        "url": "/elephant-hill",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": ""
+                    }
+                ],
+                "elementId": null,
+                "colors": "bg-neutralAlt-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-4",
+                            "pl-4",
+                            "pb-4",
+                            "pr-4"
+                        ],
+                        "borderRadius": "x-large",
+                        "flexDirection": "col",
+                        "justifyContent": "center",
+                        "textAlign": "left",
+                        "margin": [
+                            "ml-1",
+                            "mr-1"
+                        ]
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-ghg-13fb.png"
+        }
+    ]
+}
