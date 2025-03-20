@@ -131,7 +131,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Learn More
             altText: ''
             url: '/https://mp.weixin.qq.com/s/bt4J-jGaAgB_rR7bapT9rA'
             showIcon: false
