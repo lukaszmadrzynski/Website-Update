@@ -119,29 +119,10 @@ sections:
         title: Zhongji Migratory Birds
         tagline: Half-Day | Biodiversity Hike
         subtitle: from $38 to $58 per person
-        text: >+
-          **(Only from July to September)** 
+        text: |
+          **SEASONAL (from November to February)**
 
-          Discover Lijiang's hidden natural gem! Explore a protected area
-          teeming with rare orchids, unique plants, and
-
-          diverse wildlife. Hike with a local expert, discover Naxi culture, and
-          enjoy
-
-          breathtaking panoramic views of Lijiang and Jade Dragon Snow Mountain.
-          Finish
-
-          your adventure at the famous Black Dragon Pool Park. An easy escape
-          into
-
-          stunning nature!
-
-
-
-
-
-
-
+          **COMING SOON!**
         image:
           type: ImageBlock
           url: /images/ZH-Banner Icon.webp
