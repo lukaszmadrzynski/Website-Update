@@ -52,17 +52,6 @@
             "labelStyle": "secondary"
         },
         {
-            "type": "Link",
-            "label": "Consulting",
-            "altText": "",
-            "url": "/Sustainability-Consulting",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "label": "Why Us",
             "altText": "Why Us page",
             "url": "/why-us",
