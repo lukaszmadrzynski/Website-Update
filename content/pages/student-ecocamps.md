@@ -70,7 +70,7 @@ sections:
       - type: FeaturedItem
         title: Yunnan Sustainability Journey
         tagline: ''
-        subtitle: Co-founder & Culture Immersion Expert
+        subtitle: July 2025
         text: >
           Deputy General Secretary at Lijiang Conservation and Development
           Association, Deputy Chief Editor of < Lijiang Wenhai Ecotourism
