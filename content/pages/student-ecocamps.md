@@ -103,15 +103,14 @@ sections:
         title: Lijiang Sustainability Pioneers
         tagline: ''
         subtitle: August 2025
-        text: >+
-          Investigate real-world sustainability challenges in Wenhai Village
-          that encompasses Wenhai Wetland and Jade Dragon Nature Reserves.
+        text: >
+          Investigate real-world sustainability challenges in Wenhai Village,
+          encompassing Wenhai Wetland and Jade Dragon Nature Reserves.
           Collaborate with experts and local communities in designing and
           implementing impactful projects. Develop critical leadership and
           teamwork skills, and earn a Community Service Certificate issued by a
           local NGO. Make a tangible difference and become a true Sustainability
           Pioneer, equipped for real-world action!
-
         image:
           type: ImageBlock
           url: /images/Lukas2.webp
