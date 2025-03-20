@@ -70,7 +70,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: July 2025
+        subtitle: ''
         text: >+
           Journey through diverse landscapes and UNESCO sites across Yunnan.
           Immerse yourself in Naxi Lijiang and Tibetan Shangri-La, learning
