@@ -83,7 +83,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Lynne2.webp
+          url: /images/Journey Icon.webp
           altText: Background alt text
           styles:
             self:
