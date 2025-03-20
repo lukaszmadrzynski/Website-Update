@@ -113,7 +113,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: August 2025
+        subtitle: ''
         text: >
           Investigate real-world sustainability challenges in Wenhai Village,
           encompassing Wenhai Wetland and Jade Dragon Nature Reserves.
