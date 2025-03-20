@@ -319,37 +319,6 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions:
-      - type: Button
-        label: View Full Article
-        url: 'https://mp.weixin.qq.com/s/WdAxXCw7-pEXVsmVqjdxQw'
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        padding:
-          - pt-12
-          - pb-12
-          - pl-3
-          - pr-3
-        justifyContent: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
       text: Inquiry and Booking
       color: text-light
       styles:
