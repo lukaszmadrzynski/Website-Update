@@ -71,15 +71,16 @@ sections:
         title: Yunnan Sustainability Journey
         tagline: ''
         subtitle: July 2025
-        text: >
-          Deputy General Secretary at Lijiang Conservation and Development
-          Association, Deputy Chief Editor of < Lijiang Wenhai Ecotourism
-          Guidebook > and < Lijiang Laojun Mountains Climate Change Brochure >. 
-          Graduated from Anqing Normal University with Bachelor of Arts in Art
-          Design. Completed nature education course certified by China Nature
-          Education Network. Former Chief Editor at Enjoy Cambodia expat
-          magazine, English and Art Teacher at Lijiang Voice in Nature Education
-          Co. Ltd., Founder of Lynne玲 Art Studio.
+        text: >+
+          Journey through diverse landscapes and UNESCO sites across Yunnan.
+          Immerse yourself in Naxi Lijiang and Tibetan Shangri-La, learning
+          about diverse cultures and ecosystems. Guided by experts, develop
+          future-ready skills and a broad understanding of sustainability
+          through engaging activities and exploration. Earn an NGO certificate
+          recognizing your commitment to this enriching learning adventure and
+          your growing sustainability awareness. Become an informed global
+          citizen!
+
         image:
           type: ImageBlock
           url: /images/Lynne2.webp
