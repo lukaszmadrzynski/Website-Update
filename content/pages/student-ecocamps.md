@@ -124,7 +124,7 @@ sections:
           Pioneer, equipped for real-world action!
         image:
           type: ImageBlock
-          url: /images/Lukas2.webp
+          url: /images/Pioneers Icon.webp
           altText: Background alt text
           styles:
             self:
