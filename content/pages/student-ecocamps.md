@@ -34,9 +34,9 @@ sections:
     subtitle: for Middle and High School students
     text: >
       Every summer and winter holidays we organize in-depth, hands-on programs
-      for middle nd high school students interested in deepening their knowledge
-      and experience in practical implementation of sustainable development
-      projects in Yunnan province, China.
+      for middle and high school students interested in deepening their
+      knowledge and experience in practical implementation of sustainable
+      development projects in Yunnan province, China.
     actions: []
     media:
       type: ImageBlock
