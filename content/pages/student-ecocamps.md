@@ -60,7 +60,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Meet the Founders
+      text: SUMMER 2025
       color: text-primary
       styles:
         self:
