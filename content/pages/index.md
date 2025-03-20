@@ -822,7 +822,7 @@ seo:
     Discover unforgettable ecotours in Yunnan, China. Explore the natural and
     cultural wonders of Lijiang and Tibetan Shangri-La. Experience sustainable
     travel with expert local guides. Book your China adventure today!
-  socialImage: /images/LOGO GREEN.png
+  socialImage: /images/Logo Color No Text.png
   type: Seo
   metaTags:
     - type: MetaTag
