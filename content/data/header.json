@@ -47,17 +47,6 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "For Schools",
-                    "altText": "",
-                    "url": "/School-Programmes",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary"
