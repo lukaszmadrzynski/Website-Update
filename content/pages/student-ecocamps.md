@@ -197,7 +197,7 @@ sections:
           fontWeight: 400
     subtitle: ''
     text: |
-      Contact Us to Discuss Your Sustainability Adventure.
+      Contact Us to Discuss Your Sustainability Adventure!
     actions:
       - type: Button
         label: Contact Us
