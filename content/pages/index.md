@@ -67,7 +67,7 @@ sections:
       - type: Button
         label: Family EcoCamps
         altText: ''
-        url: /EcoCamps
+        url: /Family-EcoCamps
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -447,10 +447,10 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Choose a company deeply committed to minimizing environmental impact,
-          benefiting local communities, following ethical practices and actively
-          involved in local non-profit nature conservation and sustainable
-          development projects.
+          Choose a company actively involved in local nature conservation and
+          sustainable development projects and deeply committed to minimizing
+          environmental impact, benefiting local communities and following
+          ethical practices.
         image:
           url: /images/Sustainable.jpg
           altText: Placeholder image
@@ -822,7 +822,7 @@ seo:
     Discover unforgettable ecotours in Yunnan, China. Explore the natural and
     cultural wonders of Lijiang and Tibetan Shangri-La. Experience sustainable
     travel with expert local guides. Book your China adventure today!
-  socialImage: /images/LOGO GREEN.png
+  socialImage: /images/Logo Color No Text.png
   type: Seo
   metaTags:
     - type: MetaTag
