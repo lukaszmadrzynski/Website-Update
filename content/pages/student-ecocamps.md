@@ -92,7 +92,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /
+            url: 'https://mp.weixin.qq.com/s/1txGLbu909paySBvvVPenQ'
             showIcon: false
             icon: arrowRight
             iconPosition: right
