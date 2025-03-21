@@ -65,8 +65,8 @@ sections:
       - type: FeaturedItem
         title: Lijiang's Forgotten Forest
         subtitle: from $38 to $58 per person
-        text: >+
-          **(Only from July to September)** 
+        text: >
+          **SEASONAL (July to September)**
 
           Discover Lijiang's hidden natural gem! Explore a protected area
           teeming with rare orchids, unique plants, and
@@ -81,13 +81,6 @@ sections:
           into
 
           stunning nature!
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/XS-Banner Icon.webp
@@ -122,6 +115,44 @@ sections:
               - ml-1
               - mr-1
         tagline: Half-Day | Biodiversity Hike
+      - type: FeaturedItem
+        title: Zhongji Migratory Birds
+        tagline: Half-Day | Biodiversity Hike
+        subtitle: from $38 to $58 per person
+        text: >+
+          <div style="text-align: left">**SEASONAL (November to
+          February)**</div>
+
+
+          <div style="text-align: center">#### COMING</div>
+
+
+          <div style="text-align: center">#### THIS FALL!</div>
+
+        image:
+          type: ImageBlock
+          url: /images/ZH-Banner Icon.webp
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
+            margin:
+              - ml-1
+              - mr-1
     actions: []
     elementId: ''
     variant: three-col-grid
