@@ -222,7 +222,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Sustainability Icon.webp
-          altText: Placeholder text
+          altText: Families learning about sustainable development
           styles:
             self:
               borderRadius: x-large
