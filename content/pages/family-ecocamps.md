@@ -355,5 +355,9 @@ seo:
       content: >-
         Lijiang Family EcoCamps, Shangri-La Family EcoCamps, Yunnan Family
         Adventure Tours, China Family EcoTours, Yunnan Monkey Conservation
-        Family Trip
+        Family Trip, Educational Family Holidays Yunnan, Fun Family EcoCamps
+        China, Sustainable Family Travel Yunnan, Nature Family Camps Yunnan,
+        Cultural Family Camps Yunnan, Summer Family Camps Yunnan, Winter Family
+        Camps Yunnan, Family Adventure Holidays China, Child-Friendly EcoTours
+        Yunnan
 ---
