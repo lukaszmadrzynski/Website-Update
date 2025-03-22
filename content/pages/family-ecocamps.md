@@ -170,7 +170,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Culture Icon.webp
-          altText: Placeholder image
+          altText: Ethnic Minorities in Yunnan
           styles:
             self:
               borderRadius: x-large
