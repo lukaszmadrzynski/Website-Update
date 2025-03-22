@@ -350,5 +350,6 @@ seo:
     Book your sustainable family trip today!
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
