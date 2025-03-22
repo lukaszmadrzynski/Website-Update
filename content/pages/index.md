@@ -482,7 +482,7 @@ sections:
           National Geographic and Discovery Channel.
         image:
           url: /images/Forever Icon.webp
-          altText: Trusted Icon
+          altText: Ecotours and Nature education with Trusted and Recognized Team
           styles:
             self:
               borderRadius: x-large
