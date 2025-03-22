@@ -13,7 +13,9 @@ sections:
     media:
       type: ImageBlock
       url: /images/Why Us Hero.webp
-      altText: Dope design preview
+      altText: >-
+        An international family enjoying a private ecotour with Cloud Mountain
+        in Lijiang and Shangri-La, Yunnan, China. 
     colors: bg-light-fg-dark
     styles:
       self:
