@@ -12,7 +12,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Why Us Hero.webp
+      url: /images/About Us Banner.webp
       altText: >-
         International Family Enjoying Lijiang Cloud Mountain Ecotour in Yunnan,
         China.
