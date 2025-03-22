@@ -7,7 +7,9 @@ sections:
     text: ''
     actions: []
     media:
-      altText: ''
+      altText: >-
+        Sustainable EcoTours in Yunnan, Lijiang & Tiubetan Shangri-La | Cloud
+        Mountain Adventures 
       elementId: ''
       type: ImageBlock
       url: /images/CM Hero.webp
