@@ -1,0 +1,33 @@
+{
+    "model": "DividerSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "fdf",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "ww"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Divider",
+                "elementId": "",
+                "colors": "bg-neutral-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-4",
+                            "pl-4",
+                            "pb-4",
+                            "pr-4"
+                        ]
+                    }
+                }
+            },
+            "thumbnail": "images/divider-section-fdf-50e9.png"
+        }
+    ]
+}
