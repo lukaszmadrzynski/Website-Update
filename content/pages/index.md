@@ -181,7 +181,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/YL-Banner Icon 5.webp
-          altText: Lightning bolt symbol on red background
+          altText: Hidden Jade Dragon Ecotour Lijiang - Off the Beaten Path Adventure
           elementId: ''
           styles:
             self:
