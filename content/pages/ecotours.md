@@ -84,7 +84,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/XS-Banner Icon.webp
-          altText: Lightning bolt symbol on red background
+          altText: Lijiang's Forgotten Forest Ecotour
           elementId: ''
           styles:
             self:
