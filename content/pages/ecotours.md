@@ -72,9 +72,9 @@ sections:
       self:
         padding:
           - pt-4
-          - pl-12
+          - pl-4
           - pb-4
-          - pr-12
+          - pr-4
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
