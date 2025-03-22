@@ -235,4 +235,5 @@ seo:
   socialImage: /images/main-hero.jpg
   metaTags:
     - type: MetaTag
+    - type: MetaTag
 ---
