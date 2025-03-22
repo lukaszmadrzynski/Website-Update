@@ -513,7 +513,7 @@ seo:
     About Cloud Mountain: Your Trusted Partner for Ecotourism and Nature
     Education in Yunnan, China.
   metaDescription: >-
-    Learn about Cloud Mountain Ecotours, your trusted partner for sustainable
+    Learn about Cloud Mountain Ecotours, your reliable companion for sustainable
     travel in Yunnan, China. Meet our founders, Lukas and Lynne, and discover
     our passion for authentic cultural experiences and responsible ecotourism in
     Lijiang and Tibetan Shangri-La.
