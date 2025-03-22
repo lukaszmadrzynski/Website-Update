@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Student EcoCamps
+title: Middle & High School Sustainability Programs in Yunnan
 sections:
   - type: GenericSection
     title:
