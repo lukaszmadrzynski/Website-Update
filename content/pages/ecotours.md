@@ -68,7 +68,7 @@ sections:
     title:
       type: TitleBlock
       text: Half-Day EcoTours
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
