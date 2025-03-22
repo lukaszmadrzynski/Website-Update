@@ -18,7 +18,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row-reverse
+        flexDirection: col-reverse
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
