@@ -144,7 +144,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Monkey Icon.webp
-          altText: Placeholder image
+          altText: 'Yunnan Snub-nosed Monkey, Yunnan Golden Monkey'
           styles:
             self:
               borderRadius: x-large
