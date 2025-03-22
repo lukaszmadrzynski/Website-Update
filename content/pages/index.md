@@ -429,7 +429,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Off the beaten path3.jpg
-          altText: Private EcoTours in Lijiang & Shangri-La
+          altText: Yunnan Lijiang & Tibetan Shangri-La Ecotours Off the Beaten Path
           styles:
             self:
               borderRadius: x-large
