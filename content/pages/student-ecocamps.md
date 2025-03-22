@@ -43,7 +43,9 @@ sections:
     media:
       type: ImageBlock
       url: /images/Ledership Hero2.webp
-      altText: Fun feature preview
+      altText: >-
+        Chinese Students from International Schools Learn about Sustainable
+        Development in Yunnan.
     badge:
       type: Badge
       label: Cloud Mountain
