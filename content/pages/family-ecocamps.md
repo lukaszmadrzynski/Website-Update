@@ -342,7 +342,7 @@ slug: /Family-EcoCamps
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
+  metaTitle: 'Family EcoCamps in Yunnan - Fun, Educational & Sustainable'
   metaDescription: >-
     Looking for fun & educational family holidays in Yunnan, China? Cloud
     Mountain's Family EcoCamps offer unforgettable adventures for kids 5+.
