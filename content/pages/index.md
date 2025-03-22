@@ -8,7 +8,7 @@ sections:
     actions: []
     media:
       altText: >-
-        Sustainable Ecotours in Yunnan, Lijiang & Tiubetan Shangri-La | Cloud
+        Sustainable Ecotours in Yunnan, Lijiang & Tibetan Shangri-La | Cloud
         Mountain Adventures 
       elementId: ''
       type: ImageBlock
