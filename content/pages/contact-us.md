@@ -87,7 +87,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Lukas2.webp
-          altText: Background alt text
+          altText: Lukasz Madrzynski - Cofounder of Lijiang Cloud Mountain Education
           styles:
             self:
               borderRadius: x-large
