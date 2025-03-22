@@ -38,8 +38,8 @@ sections:
     subtitle: ''
     text: >+
       <div style="text-align: center">Whether you have a few hours or several
-      days, Cloud Mountain EcoTours offers authentic and sustainable experiences
-      in Yunnan's most captivating regions. Choose from half-day cultural
+      days, Cloud Mountain offers authentic and off-the-beaten-path ecotours in
+      Yunnan's most captivating regions. Choose from half-day cultural
       immersions and biodiversity hikes around Lijiang, to multi-day
       explorations deep into pristine wilderness and Tibetan culture. Explore
       our tour options below and find the perfect Yunnan adventure for
