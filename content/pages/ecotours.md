@@ -30,7 +30,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Private Yunnan EcoTours for Every Traveler & Schedule
+      text: Yunnan EcoTours for Every Traveler & Schedule
       color: text-dark
     subtitle: ''
     text: >+
