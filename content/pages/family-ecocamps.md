@@ -359,5 +359,5 @@ seo:
         China, Sustainable Family Travel Yunnan, Nature Family Camps Yunnan,
         Cultural Family Camps Yunnan, Summer Family Camps Yunnan, Winter Family
         Camps Yunnan, Family Adventure Holidays China, Child-Friendly EcoTours
-        Yunnan
+        Yunnan, Best family eco camps in Yunnan for kids over 5
 ---
