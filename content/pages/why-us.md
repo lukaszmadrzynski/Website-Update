@@ -228,7 +228,9 @@ sections:
         image:
           type: ImageBlock
           url: /images/Handcrafted.jpg
-          altText: Placeholder text
+          altText: >-
+            Kids and Parents visit authentic minority villages on hadcrafted
+            ecotours in Lijiang, Yunnan, China.
           styles:
             self:
               borderRadius: x-large
