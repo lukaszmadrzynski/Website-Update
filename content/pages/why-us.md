@@ -554,5 +554,7 @@ seo:
       content: >-
         yunnan ecotours best, sustainable travel china, expert guides yunnan,
         small group tours china, authentic cultural experiences yunnan, lijiang
-        shangri-la ecotours
+        shangri-la ecotours, Nature education, china summer camps, Yunnan winter
+        family camps, Lijiang nature education programms, Student sustainability
+        leadership camps. 
 ---
