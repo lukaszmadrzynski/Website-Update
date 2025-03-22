@@ -230,7 +230,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/TC-Banner Icon.webp
-          altText: ''
+          altText: Shangri-La Monkey Trip Eco Tour Yunnan - Wildlife and Natur
           elementId: ''
           styles:
             self:
