@@ -352,4 +352,7 @@ seo:
   socialImage: /images/main-hero.jpg
   metaTags:
     - type: MetaTag
+      content: >-
+        Lijiang Family EcoCamps, Shangri-La Family EcoCamps, Yunnan Family
+        Adventure Tours, China Family EcoTours
 ---
