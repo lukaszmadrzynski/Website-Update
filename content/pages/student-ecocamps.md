@@ -13,7 +13,9 @@ sections:
     media:
       type: ImageBlock
       url: /images/Ledership Hero.webp
-      altText: Dope design preview
+      altText: >-
+        Middle and High School Students participate in Cloud Mountain Yunnan
+        Sustainability Leadership Program.
     badge:
       type: Badge
       label: ''
