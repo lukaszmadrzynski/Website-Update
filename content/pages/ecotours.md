@@ -54,7 +54,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: col-reverse
+        flexDirection: row-reverse
         justifyContent: center
   - type: FeaturedItemsSection
     title:
