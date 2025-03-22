@@ -236,7 +236,7 @@ sections:
     title:
       type: TitleBlock
       text: One-Day Ecotours
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
