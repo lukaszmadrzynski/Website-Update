@@ -253,7 +253,9 @@ sections:
         image:
           type: ImageBlock
           url: /images/Sustainable.webp
-          altText: Placeholder image
+          altText: >-
+            A family with teenage kid helping to protect nature in Lijiang,
+            Yunnan, China.
           styles:
             self:
               borderRadius: x-large
