@@ -262,7 +262,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Article Preview Header v3.jpg
-      altText: Dope design preview
+      altText: Family Summer Camp in Yunnan
     badge:
       type: Badge
       label: ''
