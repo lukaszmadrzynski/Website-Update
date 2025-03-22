@@ -97,7 +97,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Lynne2.webp
-          altText: Background alt text
+          altText: Lynne Lyu - Cofounder of Lijiang Cloud Mountain Education
           styles:
             self:
               borderRadius: x-large
