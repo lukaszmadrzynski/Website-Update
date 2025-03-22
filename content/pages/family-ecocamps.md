@@ -354,5 +354,6 @@ seo:
     - type: MetaTag
       content: >-
         Lijiang Family EcoCamps, Shangri-La Family EcoCamps, Yunnan Family
-        Adventure Tours, China Family EcoTours
+        Adventure Tours, China Family EcoTours, Yunnan Monkey Conservation
+        Family Trip
 ---
