@@ -756,7 +756,7 @@ sections:
         type: Button
     media:
       url: /images/About Us Banner.webp
-      altText: About us photo
+      altText: Cloud Mountain Ecotours and Nature Education
       type: ImageBlock
     badge:
       label: About Us
