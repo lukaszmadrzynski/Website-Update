@@ -233,5 +233,6 @@ seo:
     Yunnan, China. Learn more!
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
