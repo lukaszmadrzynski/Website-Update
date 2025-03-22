@@ -226,7 +226,11 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Middle & High School Sustainability Programs in Yunnan
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: >-
+    Join Cloud Mountain's Yunnan Student Sustainability Leadership Programs!
+    Hands-on, in-depth programs for middle & high schoolers. Explore nature,
+    develop leadership skills, earn an NGO certificate & make a real impact in
+    Yunnan, China. Learn more!
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
