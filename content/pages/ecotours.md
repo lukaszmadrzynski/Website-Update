@@ -30,7 +30,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Choose Your Private Ecotour
       color: text-dark
     subtitle: Be in good company
     text: >
