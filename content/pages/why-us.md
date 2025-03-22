@@ -312,7 +312,9 @@ sections:
         image:
           type: ImageBlock
           url: /images/Contributing3.webp
-          altText: Placeholder text
+          altText: >-
+            Group photos of nature conservation and sustainable development
+            projects in Yunnan that Cloud Mountain team was contributing in.
           styles:
             self:
               borderRadius: x-large
