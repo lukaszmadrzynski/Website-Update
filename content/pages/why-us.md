@@ -383,7 +383,9 @@ sections:
     media:
       type: ImageBlock
       url: /images/exclusive.webp
-      altText: ''
+      altText: >-
+        Breathtaking landscapes of nature and ethnic villages in Lijiang,
+        Yunnan, Province, China.
     badge:
       type: Badge
       label: ''
