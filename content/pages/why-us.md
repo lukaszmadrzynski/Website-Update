@@ -556,5 +556,8 @@ seo:
         small group tours china, authentic cultural experiences yunnan, lijiang
         shangri-la ecotours, Nature education, china summer camps, Yunnan winter
         family camps, Lijiang nature education programms, Student sustainability
-        leadership camps. 
+        leadership camps. Cloud Mountain, Authentic Yunnan Tours, Responsible
+        Tourism Yunnan, Ethical Travel Yunnan, Eco-tours Yunnan, Small Group
+        Tours Yunnan, Local Guides Yunnan, Conservation Tours Yunnan, Community
+        Based Tourism  Yunnan, Yunnan Cultural Tours
 ---
