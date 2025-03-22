@@ -341,7 +341,10 @@ sections:
         image:
           type: ImageBlock
           url: /images/Recognized.webp
-          altText: Placeholder text
+          altText: >-
+            Media reports and documentaries that showcase Cloud Mountain
+            engagement in conservation and sustainability of Lijiang, Yunnan,
+            China.
           styles:
             self:
               borderRadius: x-large
