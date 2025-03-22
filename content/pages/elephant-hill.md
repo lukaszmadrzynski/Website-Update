@@ -13,7 +13,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/XS-Banner.webp
-      altText: Unblock your team boost your time to production preview
+      altText: Lijiang's Forgotten Forest Ecotour
       elementId: ''
       styles:
         self:
