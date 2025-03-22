@@ -118,7 +118,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Fun Icon.webp
-          altText: Placeholder image
+          altText: Kids learning about nature
           styles:
             self:
               borderRadius: x-large
