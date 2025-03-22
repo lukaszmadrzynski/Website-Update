@@ -680,7 +680,7 @@ sections:
         padding:
           - pt-7
           - pb-12
-slug: /elephant-hill
+slug: /lijiang's-forgotten-forest-ecotour
 seo:
   type: Seo
   metaTitle: Home - Demo site
