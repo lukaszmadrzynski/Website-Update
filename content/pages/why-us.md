@@ -142,7 +142,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Guides 2.webp
-          altText: Placeholder image
+          altText: Local Guides working with Lijiang Cloud Mountain Ecotours
           styles:
             self:
               borderRadius: x-large
