@@ -31,7 +31,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/DY-Banner Icon.webp
-          altText: Lightning bolt symbol on red background
+          altText: lijiang old town ecotour
           elementId: ''
           styles:
             self:
