@@ -315,7 +315,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Family Icon.webp
-          altText: Background alt text
+          altText: Sustainability Family EcoCamp Yunnan - Cloud Mountain
           styles:
             self:
               borderRadius: x-large
