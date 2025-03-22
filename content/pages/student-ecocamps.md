@@ -88,7 +88,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Journey Icon.webp
-          altText: Background alt text
+          altText: '2025 Summer Yunnan Sustainability Journey '
           styles:
             self:
               borderRadius: x-large
