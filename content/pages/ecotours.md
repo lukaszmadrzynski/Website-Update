@@ -22,6 +22,9 @@ sections:
         justifyContent: center
         padding:
           - pt-1
+          - pl-1
+          - pb-1
+          - pr-1
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
