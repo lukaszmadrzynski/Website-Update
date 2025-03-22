@@ -39,7 +39,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      altText: Fun feature preview
+      altText: 'Families with kids enjoying beautiful nature of Yunnan province, China'
       url: /images/Family Hero2.webp
     badge:
       type: Badge
