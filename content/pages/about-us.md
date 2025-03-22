@@ -509,7 +509,9 @@ slug: /about-us
 isDraft: false
 seo:
   type: Seo
-  metaTitle: 'About Cloud Mountain Ecotours: Sustainable Travel in Yunnan, China'
+  metaTitle: >-
+    About Cloud Mountain: Your Trusted Partner for Ecotourism and Nature
+    Education in Yunnan, China.
   metaDescription: >-
     Learn about Cloud Mountain Ecotours, your trusted partner for sustainable
     travel in Yunnan, China. Meet our founders, Lukas and Lynne, and discover
