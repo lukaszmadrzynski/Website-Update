@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Family EcoCamps
+title: 'Family and Kids EcoCamps in Yunnan - Fun, Educational & Sustainable'
 sections:
   - type: GenericSection
     title:
