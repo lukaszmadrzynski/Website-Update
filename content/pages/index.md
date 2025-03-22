@@ -830,7 +830,8 @@ seo:
       content: >-
         yunnan ecotours, china ecotours, lijiang travel, shangri-la tours, tibet
         travel china, yunnan travel, sustainable tourism china, yunnan tours,
-        hiking china, adventure travel china, lijiang tours
+        hiking china, adventure travel china, lijiang tours, nature education,
+        sustainable evelopment, minority villages, 
 type: PageLayout
 isDraft: false
 ---
