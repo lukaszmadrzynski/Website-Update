@@ -14,8 +14,8 @@ sections:
       type: ImageBlock
       url: /images/About Us Banner.webp
       altText: >-
-        International Family Enjoying Lijiang Cloud Mountain Ecotour in Yunnan,
-        China.
+        Cloud Mountain Ecotours, Sustainable Travel and Nature Edcuation in
+        Lijiang and Shangri-La, Yunnan, China.
     badge:
       type: Badge
       label: ''
