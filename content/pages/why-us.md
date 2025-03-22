@@ -13,7 +13,9 @@ sections:
     media:
       type: ImageBlock
       url: /images/Why Us Hero.webp
-      altText: Dope design preview
+      altText: >-
+        International Family Enjoying Lijiang Cloud Mountain Ecotour in Yunnan,
+        China.
     badge:
       type: Badge
       label: ''
