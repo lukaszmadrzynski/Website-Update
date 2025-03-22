@@ -200,7 +200,9 @@ sections:
         image:
           type: ImageBlock
           url: /images/Private.webp
-          altText: Placeholder image
+          altText: >-
+            An international family enjoying a provate ecotour with Lijiang
+            Cloud Mountain.
           styles:
             self:
               borderRadius: x-large
