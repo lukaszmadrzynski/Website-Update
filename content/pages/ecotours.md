@@ -32,6 +32,9 @@ sections:
       type: TitleBlock
       text: Yunnan EcoTours for Every Traveler & Schedule
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
     text: >+
       <div style="text-align: center">Whether you have a few hours or several
