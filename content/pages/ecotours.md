@@ -60,7 +60,7 @@ sections:
         flexDirection: col-reverse
         justifyContent: center
         padding:
-          - pt-4
+          - pt-5
           - pl-2
           - pb-9
           - pr-2
