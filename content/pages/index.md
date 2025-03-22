@@ -455,7 +455,7 @@ sections:
           ethical practices.
         image:
           url: /images/Sustainable.jpg
-          altText: Placeholder image
+          altText: Sustainable and Responsible Ecotours
           styles:
             self:
               borderRadius: x-large
