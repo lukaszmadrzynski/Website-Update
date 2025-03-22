@@ -13,7 +13,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/DY-Banner.webp
-      altText: Unblock your team boost your time to production preview
+      altText: lijiang old town ecotour
       elementId: ''
     badge:
       type: Badge
