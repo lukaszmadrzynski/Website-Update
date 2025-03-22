@@ -11,10 +11,7 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >+
-      <div style="text-align: center">We're here to help you plan your
-      unforgettable and sustainable travel experience in China.</div>
-
+    text: "<div style=\"text-align: center\">We're eager to help you design your unforgettable and\_responsible travel experience in Yunnan, China.\_Reach out to us directly to discuss your\_private eco-tour,  join-in family or student eco-camp in Lijiang and Shangri-La.</div>\n\n"
     actions: []
     media:
       type: ImageBlock
