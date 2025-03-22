@@ -283,7 +283,9 @@ sections:
         image:
           type: ImageBlock
           url: /images/Immersion4.webp
-          altText: Placeholder text
+          altText: >-
+            An international traveller interactng with a local musican on an
+            authentic ecotourism experience in Yunnan's minority village.
           styles:
             self:
               borderRadius: x-large
