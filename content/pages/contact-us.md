@@ -176,7 +176,9 @@ slug: /contact-us
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Contact Us | Cloud Mountain - Yunnan Eco-Tours & Sustainable Travel
+  metaTitle: >-
+    Contact Us | Cloud Mountain - Yunnan Eco-Tours, Sustainable Travel & Nature
+    Education
   metaDescription: >-
     Contact Cloud Mountain, your trusted partner for sustainable Yunnan
     eco-tours! Reach Lynne & Lukasz directly via email, phone, or social media
