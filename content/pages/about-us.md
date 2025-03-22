@@ -47,9 +47,9 @@ sections:
       <div style="text-align: center">Cloud Mountain emerged from a shared
       passion for the unparalleled natural beauty and rich cultural tapestry of
       Northwest Yunnan, China. Co-founders Lynne Lyu and Lukasz Madrzynski
-      envisioned a company that not only offered unforgettable travel
-      experiences but also championed sustainable practices and fostered genuine
-      connections with local communities.</div>
+      envisioned a company that not only offered unforgettable educational
+      travel experiences but also championed sustainable practices and fostered
+      genuine connections with local communities.</div>
 
     actions: []
     media:
