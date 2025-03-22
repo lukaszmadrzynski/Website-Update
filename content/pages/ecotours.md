@@ -33,9 +33,16 @@ sections:
       text: Choose Your Private Ecotour
       color: text-dark
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      Whether you have a few hours or several days, Cloud Mountain EcoTours
+      offers authentic and sustainable experiences in Yunnan's most captivating
+      regions. Choose from half-day cultural immersions and biodiversity hikes
+      around Lijiang, to multi-day explorations deep into pristine wilderness
+      and Tibetan culture. Explore our tour options below and find the perfect
+      Yunnan adventure for you.
+
+
+
     actions: []
     media:
       type: ImageBlock
