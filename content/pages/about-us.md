@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About Us
+title: About Cloud Mountain
 sections:
   - type: GenericSection
     title:
