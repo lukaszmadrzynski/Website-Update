@@ -20,6 +20,8 @@ sections:
         alignItems: center
         flexDirection: col-reverse
         justifyContent: center
+        padding:
+          - pt-1
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
