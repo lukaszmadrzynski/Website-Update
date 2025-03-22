@@ -93,7 +93,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /elephant-hill
+            url: /lijiang's-forgotten-forest-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
