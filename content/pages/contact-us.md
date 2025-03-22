@@ -177,7 +177,11 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Contact Us | Cloud Mountain - Yunnan Eco-Tours & Sustainable Travel
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: >-
+    Contact Cloud Mountain, your trusted partner for sustainable Yunnan
+    eco-tours! Reach Lynne & Lukasz directly via email, phone, or social media
+    to plan your Lijiang & Shangri-La adventure. Follow our sustainable
+    adventures on our social media.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
