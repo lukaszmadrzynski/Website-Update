@@ -196,7 +196,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Nature Icon.webp
-          altText: Placeholder text
+          altText: 'Spectacular natural wonders of Yunnan, First bend of Yangtzee River'
           styles:
             self:
               borderRadius: x-large
