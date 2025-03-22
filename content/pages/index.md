@@ -8,8 +8,8 @@ sections:
     actions: []
     media:
       altText: >-
-        Sustainable Ecotours in Yunnan, Lijiang & Tibetan Shangri-La | Cloud
-        Mountain Adventures 
+        Sustainable Ecotours and Nature Education in Yunnan, Lijiang & Tibetan
+        Shangri-La | Cloud Mountain 
       elementId: ''
       type: ImageBlock
       url: /images/CM Hero.webp
