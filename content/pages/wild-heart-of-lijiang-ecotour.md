@@ -189,6 +189,38 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
+        text: >
+          Discover the idyllic beauty of Taohua, a traditional **Bai ethnic
+          minority village**. Admire the elegant
+
+          white pagodas and a historic stone bridge. Immerse yourself in the
+          peaceful
+
+          rhythm of rural life and the rich cultural tapestry of the Bai people.
+        image:
+          type: ImageBlock
+          url: /images/LJ-Icon4.webp
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
         text: >+
           Step back in time in charming **Shigu Town**, a cultural gem of the
           Naxi minority.
@@ -216,38 +248,6 @@ sections:
               - pl-3
               - pb-3
               - pr-3
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-            textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: >
-          Discover the idyllic beauty of Taohua, a traditional **Bai ethnic
-          minority village**. Admire the elegant
-
-          white pagodas and a historic stone bridge. Immerse yourself in the
-          peaceful
-
-          rhythm of rural life and the rich cultural tapestry of the Bai people.
-        image:
-          type: ImageBlock
-          url: /images/LJ-Icon4.webp
-          altText: Placeholder text
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
