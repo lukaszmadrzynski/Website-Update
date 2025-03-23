@@ -819,21 +819,25 @@ sections:
           - pb-12
           - pr-12
 seo:
-  metaTitle: 'Authentic Yunnan Ecotours: Explore Lijiang & Shangri-La, China Travel.'
-  metaDescription: >-
-    Discover unforgettable ecotours and nature education in Yunnan, China.
-    Explore the natural and cultural wonders of Lijiang and Tibetan Shangri-La.
-    Experience sustainable travel with expert local guides. Book your China
-    adventure today!
-  socialImage: /images/Logo Color No Text.png
   type: Seo
+  socialImage: /images/Logo Color No Text2.png
+  metaTitle: Authentic Sustainable Adventures in Lijiang and Shangri-La
+  metaDescription: >-
+    Immerse yourself in the breathtaking landscapes and vibrant cultures of
+    Lijiang and Shangri-La with Cloud Mountain Ecotours, Nature Education and
+    Sustainability Camps. Explore hidden gems, support local communities, and
+    experience authentic adventures in Northwest Yunnan.
   metaTags:
     - type: MetaTag
       content: >-
-        yunnan ecotours, china ecotours, lijiang travel, shangri-la tours, tibet
-        travel china, yunnan travel, sustainable tourism china, yunnan tours,
-        hiking china, adventure travel china, lijiang tours, nature education,
-        sustainable evelopment, minority villages, ecotourism, jade dragon,
+        ecotours, ecocamps, sustainable tourism, Lijiang, Shangri-La, Yunnan,
+        China, adventure travel, cultural tours, nature tours, family ecotours,
+        student ecotours, off-the-beaten-path, Naxi culture, Tibetan culture,
+        eco-friendly travel, responsible tourism, Tea Horse Road, Jade Dragon
+        Snow Mountain, monkey tours, wildlife tours, sustainability leadership,
+        middle school, high school, CAS, SDGs, international schools, family
+        camps, student camps, 
+      property: 'og:description'
 type: PageLayout
 isDraft: false
 ---
