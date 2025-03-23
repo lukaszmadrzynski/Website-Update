@@ -835,6 +835,7 @@ seo:
         ecotours, student ecotours, off-the-beaten-path, Naxi culture, Tibetan
         culture, eco-friendly travel, responsible tourism, Tea Horse Road, Jade
         Dragon Snow Mountain, monkey tours, wildlife tours
+      property: 'og:description'
 type: PageLayout
 isDraft: false
 ---
