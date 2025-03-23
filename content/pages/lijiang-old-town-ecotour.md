@@ -181,6 +181,9 @@ sections:
           url: /images/DY-icon3.webp
           altText: Placeholder image
           elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
