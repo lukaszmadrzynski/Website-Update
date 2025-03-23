@@ -12,7 +12,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/About Us Hero.webp
+      url: /images/CM Hero2.webp
       altText: About Us Banner
     badge:
       type: Badge
