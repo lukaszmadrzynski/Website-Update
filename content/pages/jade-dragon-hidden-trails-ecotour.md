@@ -231,10 +231,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
