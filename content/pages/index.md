@@ -827,6 +827,8 @@ seo:
     Lijiang and Shangri-La with Cloud Mountain Ecotours, Nature Education and
     Sustainability Camps. Explore hidden gems, support local communities, and
     experience authentic adventures in Northwest Yunnan.
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 isDraft: false
 ---
