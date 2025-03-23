@@ -34,7 +34,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Lijiang's Wild Heart
+      text: Wild Heart of Lijiang
       color: text-dark
     subtitle: Duelve Deeper into the Mountains
     text: >+
