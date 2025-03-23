@@ -7,7 +7,9 @@ sections:
     text: ''
     actions: []
     media:
-      altText: ''
+      altText: >-
+        Sustainable Ecotours and Nature Education in Yunnan Lijiang & Tibetan
+        Shangri-La | Cloud Mountain 
       elementId: ''
       type: ImageBlock
       url: /images/CM Hero.webp
@@ -47,7 +49,7 @@ sections:
       type: TitleBlock
       text: Authentic Sustainable Adventures in Lijiang and Shangri-La
       color: text-dark
-    subtitle: Northwest Yunnan | Southeast Tibet
+    subtitle: ''
     text: >
       Immerse yourself in the breathtaking landscapes and vibrant cultures of
       Northwest Yunnan and Southeast Tibet on our unique travel experiences.
@@ -133,7 +135,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/DY-Banner Icon.webp
-          altText: Naxi Heritage Walk Ecotour Photo
+          altText: Naxi Heritage Walk Ecotour Lijiang - Cloud Mountain
           elementId: ''
           styles:
             self:
@@ -181,7 +183,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/YL-Banner Icon 5.webp
-          altText: Lightning bolt symbol on red background
+          altText: Hidden Jade Dragon Ecotour Lijiang - Off the Beaten Path Adventure
           elementId: ''
           styles:
             self:
@@ -230,7 +232,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/TC-Banner Icon.webp
-          altText: ''
+          altText: Shangri-La Monkey Trip Eco Tour Yunnan - Wildlife and Natur
           elementId: ''
           styles:
             self:
@@ -315,7 +317,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Family Icon.webp
-          altText: Background alt text
+          altText: Sustainability Family EcoCamp Yunnan - Cloud Mountain
           styles:
             self:
               borderRadius: x-large
@@ -352,7 +354,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Leadership Banner.webp
-          altText: Background alt text
+          altText: Sustainability Leadership EcoCamp Yunnan - Student Program
           styles:
             self:
               borderRadius: x-large
@@ -427,7 +429,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Off the beaten path3.jpg
-          altText: Placeholder text
+          altText: Yunnan Lijiang & Tibetan Shangri-La Ecotours Off the Beaten Path
           styles:
             self:
               borderRadius: x-large
@@ -453,7 +455,7 @@ sections:
           ethical practices.
         image:
           url: /images/Sustainable.jpg
-          altText: Placeholder image
+          altText: Sustainable and Responsible Ecotours
           styles:
             self:
               borderRadius: x-large
@@ -480,7 +482,7 @@ sections:
           National Geographic and Discovery Channel.
         image:
           url: /images/Forever Icon.webp
-          altText: Trusted Icon
+          altText: Ecotours and Nature education with Trusted and Recognized Team
           styles:
             self:
               borderRadius: x-large
@@ -754,7 +756,7 @@ sections:
         type: Button
     media:
       url: /images/About Us Banner.webp
-      altText: About us photo
+      altText: Cloud Mountain Ecotours and Nature Education
       type: ImageBlock
     badge:
       label: About Us
@@ -819,9 +821,10 @@ sections:
 seo:
   metaTitle: 'Authentic Yunnan Ecotours: Explore Lijiang & Shangri-La, China Travel.'
   metaDescription: >-
-    Discover unforgettable ecotours in Yunnan, China. Explore the natural and
-    cultural wonders of Lijiang and Tibetan Shangri-La. Experience sustainable
-    travel with expert local guides. Book your China adventure today!
+    Discover unforgettable ecotours and nature education in Yunnan, China.
+    Explore the natural and cultural wonders of Lijiang and Tibetan Shangri-La.
+    Experience sustainable travel with expert local guides. Book your China
+    adventure today!
   socialImage: /images/Logo Color No Text.png
   type: Seo
   metaTags:
@@ -829,7 +832,8 @@ seo:
       content: >-
         yunnan ecotours, china ecotours, lijiang travel, shangri-la tours, tibet
         travel china, yunnan travel, sustainable tourism china, yunnan tours,
-        hiking china, adventure travel china, lijiang tours
+        hiking china, adventure travel china, lijiang tours, nature education,
+        sustainable evelopment, minority villages, ecotourism, jade dragon,
 type: PageLayout
 isDraft: false
 ---

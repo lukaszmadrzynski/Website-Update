@@ -2,11 +2,84 @@
 type: PageLayout
 title: Ecotours
 sections:
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/Why Us Hero.webp
+      altText: >-
+        An international family enjoying a private ecotour with Cloud Mountain
+        in Lijiang and Shangri-La, Yunnan, China. 
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col-reverse
+        justifyContent: center
+        padding:
+          - pt-1
+          - pl-1
+          - pb-1
+          - pr-1
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Yunnan EcoTours for Every Traveler & Schedule
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    text: >+
+      <div style="text-align: center">Whether you have a few hours or several
+      days, Cloud Mountain offers authentic and off-the-beaten-path ecotours in
+      Yunnan's most captivating regions. Choose from half-day cultural
+      immersions and biodiversity hikes around Lijiang, to multi-day
+      explorations deep into pristine wilderness and Tibetan culture. Explore
+      our tour options below and find the perfect Yunnan adventure for
+      you.</div>
+
+    actions: []
+    media:
+      type: ImageBlock
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col-reverse
+        justifyContent: center
+        padding:
+          - pt-5
+          - pl-2
+          - pb-9
+          - pr-2
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-4
+          - pl-4
+          - pb-4
+          - pr-4
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
       text: Half-Day EcoTours
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
@@ -31,7 +104,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/DY-Banner Icon.webp
-          altText: Lightning bolt symbol on red background
+          altText: lijiang old town ecotour
           elementId: ''
           styles:
             self:
@@ -84,7 +157,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/XS-Banner Icon.webp
-          altText: Lightning bolt symbol on red background
+          altText: Lijiang's Forgotten Forest Ecotour
           elementId: ''
           styles:
             self:
@@ -93,7 +166,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /elephant-hill
+            url: /lijiang's-forgotten-forest-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -170,11 +243,22 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-4
+          - pl-4
+          - pb-4
+          - pr-4
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
       text: One-Day Ecotours
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
@@ -308,7 +392,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /jade-dragon
+            url: /jade-dragon-hidden-trails-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -347,11 +431,22 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-4
+          - pl-4
+          - pb-4
+          - pr-4
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
       text: Two-Three Day Ecotours
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
@@ -381,7 +476,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/TC-Banner Icon.webp
+          url: /images/LJ-Banner Icon.webp
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
@@ -391,7 +486,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /laojun
+            url: /wild-heart-of-lijiang-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -478,7 +573,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /forever-walk
+            url: /forever-walk-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -516,6 +611,17 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-4
+          - pl-4
+          - pb-4
+          - pr-4
   - type: GenericSection
     title:
       type: TitleBlock
