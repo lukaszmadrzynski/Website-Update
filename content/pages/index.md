@@ -831,10 +831,12 @@ seo:
     - type: MetaTag
       content: >-
         ecotours, ecocamps, sustainable tourism, Lijiang, Shangri-La, Yunnan,
-        Tibet, China, adventure travel, cultural tours, nature tours, family
-        ecotours, student ecotours, off-the-beaten-path, Naxi culture, Tibetan
-        culture, eco-friendly travel, responsible tourism, Tea Horse Road, Jade
-        Dragon Snow Mountain, monkey tours, wildlife tours
+        China, adventure travel, cultural tours, nature tours, family ecotours,
+        student ecotours, off-the-beaten-path, Naxi culture, Tibetan culture,
+        eco-friendly travel, responsible tourism, Tea Horse Road, Jade Dragon
+        Snow Mountain, monkey tours, wildlife tours, sustainability leadership,
+        middle school, high school, CAS, SDGs, international schools, family
+        camps, student camps, 
       property: 'og:description'
 type: PageLayout
 isDraft: false
