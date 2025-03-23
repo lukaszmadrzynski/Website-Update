@@ -821,6 +821,7 @@ sections:
 seo:
   type: Seo
   socialImage: /images/Logo Color No Text2.png
+  metaTitle: Authentic Sustainable Adventures in Lijiang and Shangri-La
 type: PageLayout
 isDraft: false
 ---
