@@ -486,7 +486,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /laojun
+            url: /wild-heart-of-lijiang-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
