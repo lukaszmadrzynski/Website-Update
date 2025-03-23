@@ -49,7 +49,7 @@ sections:
       type: TitleBlock
       text: Authentic Sustainable Adventures in Lijiang and Shangri-La
       color: text-dark
-    subtitle: Northwest Yunnan | Southeast Tibet
+    subtitle: ''
     text: >
       Immerse yourself in the breathtaking landscapes and vibrant cultures of
       Northwest Yunnan and Southeast Tibet on our unique travel experiences.
