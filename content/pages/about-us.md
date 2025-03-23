@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About Us
+title: About Cloud Mountain
 sections:
   - type: GenericSection
     title:
@@ -12,7 +12,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/About-Us Banner2.webp
+      url: /images/About Us Hero.webp
       altText: About Us Banner
     badge:
       type: Badge
@@ -42,14 +42,14 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Your Trusted Partner for Sustainable Travel in Yunnan
+    subtitle: Your Trusted Partner for Ecotourism and Nature Education in Yunnan
     text: >+
       <div style="text-align: center">Cloud Mountain emerged from a shared
       passion for the unparalleled natural beauty and rich cultural tapestry of
       Northwest Yunnan, China. Co-founders Lynne Lyu and Lukasz Madrzynski
-      envisioned a company that not only offered unforgettable travel
-      experiences but also championed sustainable practices and fostered genuine
-      connections with local communities.</div>
+      envisioned a company that not only offered unforgettable educational
+      travel experiences but also championed sustainable practices and fostered
+      genuine connections with local communities.</div>
 
     actions: []
     media:
@@ -97,7 +97,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Lynne2.webp
-          altText: Background alt text
+          altText: Lynne Lyu - Cofounder of Lijiang Cloud Mountain Education
           styles:
             self:
               borderRadius: x-large
@@ -127,7 +127,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Lukas2.webp
-          altText: Background alt text
+          altText: Lukasz Madrzynski - Cofounder of Lijiang Cloud Mountain Education
           styles:
             self:
               borderRadius: x-large
@@ -509,9 +509,11 @@ slug: /about-us
 isDraft: false
 seo:
   type: Seo
-  metaTitle: 'About Cloud Mountain Ecotours: Sustainable Travel in Yunnan, China'
+  metaTitle: >-
+    About Cloud Mountain: Your Trusted Partner for Ecotourism and Nature
+    Education in Yunnan, China.
   metaDescription: >-
-    Learn about Cloud Mountain Ecotours, your trusted partner for sustainable
+    Learn about Cloud Mountain Ecotours, your reliable companion for sustainable
     travel in Yunnan, China. Meet our founders, Lukas and Lynne, and discover
     our passion for authentic cultural experiences and responsible ecotourism in
     Lijiang and Tibetan Shangri-La.
