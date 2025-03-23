@@ -34,7 +34,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Laojun's Wild Heart
+      text: Laojun's Wild Heart Ecotour
       color: text-dark
     subtitle: Duelve Deeper into the Mountains
     text: >+
