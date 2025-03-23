@@ -476,7 +476,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/TC-Banner Icon.webp
+          url: /images/LJ-Banner Icon.webp
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
