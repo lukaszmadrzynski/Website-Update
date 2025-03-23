@@ -657,7 +657,7 @@ sections:
         padding:
           - pt-12
           - pb-12
-slug: /laojun
+slug: /wild-heart-of-lijiang-ecotour
 seo:
   type: Seo
   metaTitle: Home - Demo site
