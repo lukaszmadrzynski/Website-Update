@@ -687,7 +687,7 @@ sections:
         padding:
           - pt-7
           - pb-12
-slug: /forever-walk
+slug: /forever-walk-ecotour
 seo:
   type: Seo
   metaTitle: Home - Demo site
