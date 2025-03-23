@@ -820,6 +820,7 @@ sections:
           - pr-12
 seo:
   type: Seo
+  socialImage: /images/Logo Color No Text2.png
 type: PageLayout
 isDraft: false
 ---
