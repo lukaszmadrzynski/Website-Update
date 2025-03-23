@@ -12,8 +12,10 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Why Us Hero.webp
-      altText: Dope design preview
+      url: /images/About Us Banner.webp
+      altText: >-
+        Cloud Mountain Ecotours, Sustainable Travel and Nature Edcuation in
+        Lijiang and Shangri-La, Yunnan, China.
     badge:
       type: Badge
       label: ''
@@ -53,12 +55,23 @@ sections:
         alignItems: center
         justifyContent: center
         padding:
-          - pt-4
+          - pt-5
           - pl-3
           - pr-3
           - pb-8
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-4
+          - pl-4
+          - pb-4
+          - pr-4
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -85,7 +98,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Lynne3.webp
-          altText: Placeholder image
+          altText: Lynne Lyu - Cofounder of Lijiang Cloud Mountain Education
           styles:
             self:
               borderRadius: x-large
@@ -113,7 +126,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Lukas3.webp
-          altText: Placeholder image
+          altText: Lukasz Madrzynski - Cofounder of Lijiang Cloud Mountain Education
           styles:
             self:
               borderRadius: x-large
@@ -142,7 +155,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Guides 2.webp
-          altText: Placeholder image
+          altText: Local Guides working with Lijiang Cloud Mountain Ecotours
           styles:
             self:
               borderRadius: x-large
@@ -170,6 +183,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-4
+          - pl-4
+          - pb-4
+          - pr-4
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -198,7 +222,9 @@ sections:
         image:
           type: ImageBlock
           url: /images/Private.webp
-          altText: Placeholder image
+          altText: >-
+            An international family enjoying a provate ecotour with Lijiang
+            Cloud Mountain.
           styles:
             self:
               borderRadius: x-large
@@ -224,7 +250,9 @@ sections:
         image:
           type: ImageBlock
           url: /images/Handcrafted.jpg
-          altText: Placeholder text
+          altText: >-
+            Kids and Parents visit authentic minority villages on hadcrafted
+            ecotours in Lijiang, Yunnan, China.
           styles:
             self:
               borderRadius: x-large
@@ -247,7 +275,9 @@ sections:
         image:
           type: ImageBlock
           url: /images/Sustainable.webp
-          altText: Placeholder image
+          altText: >-
+            A family with teenage kid helping to protect nature in Lijiang,
+            Yunnan, China.
           styles:
             self:
               borderRadius: x-large
@@ -275,7 +305,9 @@ sections:
         image:
           type: ImageBlock
           url: /images/Immersion4.webp
-          altText: Placeholder text
+          altText: >-
+            An international traveller interactng with a local musican on an
+            authentic ecotourism experience in Yunnan's minority village.
           styles:
             self:
               borderRadius: x-large
@@ -302,7 +334,9 @@ sections:
         image:
           type: ImageBlock
           url: /images/Contributing3.webp
-          altText: Placeholder text
+          altText: >-
+            Group photos of nature conservation and sustainable development
+            projects in Yunnan that Cloud Mountain team was contributing in.
           styles:
             self:
               borderRadius: x-large
@@ -329,7 +363,10 @@ sections:
         image:
           type: ImageBlock
           url: /images/Recognized.webp
-          altText: Placeholder text
+          altText: >-
+            Media reports and documentaries that showcase Cloud Mountain
+            engagement in conservation and sustainability of Lijiang, Yunnan,
+            China.
           styles:
             self:
               borderRadius: x-large
@@ -368,7 +405,9 @@ sections:
     media:
       type: ImageBlock
       url: /images/exclusive.webp
-      altText: ''
+      altText: >-
+        Breathtaking landscapes of nature and ethnic villages in Lijiang,
+        Yunnan, Province, China.
     badge:
       type: Badge
       label: ''
@@ -432,6 +471,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pl-4
+          - pb-4
+          - pr-4
   - type: GenericSection
     title:
       type: TitleBlock
@@ -483,7 +533,7 @@ sections:
         alignItems: center
         justifyContent: center
         padding:
-          - pt-14
+          - pt-12
           - pb-14
   - type: GenericSection
     title:
@@ -526,9 +576,10 @@ seo:
   type: Seo
   metaTitle: Why Choose Our Yunnan Ecotours? Expert Guides & Sustainable China Travel
   metaDescription: >-
-    Discover why Cloud Mountain is the best choice for your Yunnan ecotour in
-    China. Learn about our expert local guides, commitment to sustainable
-    travel, and authentic cultural experiences in Lijiang and Shangri-La.
+    Discover why Cloud Mountain is the best choice for your Yunnan ecotour and
+    nature education camps in China. Learn about our expert local guides,
+    commitment to sustainable travel, and authentic cultural experiences in
+    Lijiang and Shangri-La.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags:
@@ -536,5 +587,10 @@ seo:
       content: >-
         yunnan ecotours best, sustainable travel china, expert guides yunnan,
         small group tours china, authentic cultural experiences yunnan, lijiang
-        shangri-la ecotours
+        shangri-la ecotours, Nature education, china summer camps, Yunnan winter
+        family camps, Lijiang nature education programms, Student sustainability
+        leadership camps. Cloud Mountain, Authentic Yunnan Tours, Responsible
+        Tourism Yunnan, Ethical Travel Yunnan, Eco-tours Yunnan, Small Group
+        Tours Yunnan, Local Guides Yunnan, Conservation Tours Yunnan, Community
+        Based Tourism  Yunnan, Yunnan Cultural Tours
 ---
