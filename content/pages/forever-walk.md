@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: NatGeo's Forever Walk
+title: NatGeo's Forever Walk Ecotour
 sections:
   - type: GenericSection
     title:
