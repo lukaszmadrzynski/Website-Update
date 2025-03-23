@@ -824,9 +824,9 @@ seo:
   metaTitle: Authentic Sustainable Adventures in Lijiang and Shangri-La
   metaDescription: >-
     Immerse yourself in the breathtaking landscapes and vibrant cultures of
-    Lijiang and Shangri-La with Cloud Mountain Ecotours and Nature Education.
-    Explore hidden gems, support local communities, and experience authentic
-    adventures in Northwest Yunnan.
+    Lijiang and Shangri-La with Cloud Mountain Ecotours, Nature Education and
+    Sustainability Camps. Explore hidden gems, support local communities, and
+    experience authentic adventures in Northwest Yunnan.
 type: PageLayout
 isDraft: false
 ---
