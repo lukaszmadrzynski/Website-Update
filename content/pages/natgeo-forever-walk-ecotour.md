@@ -690,7 +690,7 @@ sections:
 slug: /natgeo-forever-walk-ecotour
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: NatGeo's "Forever Walk" Ecotour
   metaDescription: >-
     Relive Paul Salopek's "Out of Eden Walk" as documented in NatGeo's "Forever
     Walk: China"! Explore Jade Dragon Snow Mountain & Wenhai Wetlands on our
