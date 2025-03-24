@@ -518,7 +518,7 @@ seo:
     our passion for authentic cultural experiences and responsible ecotourism in
     Lijiang and Tibetan Shangri-La.
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags:
     - type: MetaTag
       content: >-
