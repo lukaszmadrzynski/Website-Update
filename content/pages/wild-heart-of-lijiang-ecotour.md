@@ -34,7 +34,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Laojun's Wild Heart
+      text: Wild Heart of Lijiang
       color: text-dark
     subtitle: Duelve Deeper into the Mountains
     text: >+
@@ -137,10 +137,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -178,14 +178,46 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             textAlign: left
             justifyContent: center
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: >
+          Discover the idyllic beauty of Taohua, a traditional **Bai ethnic
+          minority village**. Admire the elegant
+
+          white pagodas and a historic stone bridge. Immerse yourself in the
+          peaceful
+
+          rhythm of rural life and the rich cultural tapestry of the Bai people.
+        image:
+          type: ImageBlock
+          url: /images/LJ-Icon4.webp
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
       - type: FeaturedItem
         title: ''
         subtitle: ''
@@ -212,42 +244,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
-            borderRadius: x-large
-            flexDirection: col
-            justifyContent: center
-            textAlign: left
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        text: >
-          Discover the idyllic beauty of Taohua, a traditional **Bai ethnic
-          minority village**. Admire the elegant
-
-          white pagodas and a historic stone bridge. Immerse yourself in the
-          peaceful
-
-          rhythm of rural life and the rich cultural tapestry of the Bai people.
-        image:
-          type: ImageBlock
-          url: /images/LJ-Icon4.webp
-          altText: Placeholder text
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -276,10 +276,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -301,10 +301,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -333,10 +333,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -371,10 +371,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -413,10 +413,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -452,10 +452,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -484,10 +484,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -523,10 +523,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -657,15 +657,15 @@ sections:
         padding:
           - pt-12
           - pb-12
-slug: /laojun
+slug: /wild-heart-of-lijiang-ecotour
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Laojun's Wild Heart Ecotour
   metaDescription: >-
     Escape to Laojun Mountain Ecotour, Yunnan, China! Hike alpine meadows, spot
     rare birds, & immerse in minority cultures. Discover Yangtze First Bend &
     Himalayan honey. Authentic China nature & culture adventure.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags:
     - type: MetaTag
       content: >-
