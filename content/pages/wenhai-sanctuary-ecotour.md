@@ -13,7 +13,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/WH-Banner.webp
-      altText: Unblock your team boost your time to production preview
+      altText: Lijiang Wenhai panoramic view
       elementId: ''
       styles:
         self:
@@ -490,15 +490,15 @@ sections:
         padding:
           - pt-7
           - pb-9
-slug: /wenhai
+slug: /wenhai-sanctuary-ecotour
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Wenhai Sanctuary Ecotour
   metaDescription: >-
     Escape to Wenhai Sanctuary in Lijiang, Yunnan: Ecotour along the ancient Tea
     & Horse Road. Explore pristine wetlands, Naxi culture, hike to Tiger Cave, &
     discover UNESCO's Baisha Village. Book your Yunnan eco-cultural adventure!
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags:
     - type: MetaTag
       content: >-
