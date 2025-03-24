@@ -820,7 +820,7 @@ sections:
           - pr-12
 seo:
   type: Seo
-  socialImage: /images/Logo Color No Text2.png
+  socialImage: /images/CM Logo Color No Text.png
   metaTitle: Authentic Sustainable Adventures in Lijiang and Shangri-La
   metaDescription: >-
     Immerse yourself in the breathtaking landscapes and vibrant cultures of
