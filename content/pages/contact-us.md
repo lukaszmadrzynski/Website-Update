@@ -11,10 +11,7 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >+
-      <div style="text-align: center">We're here to help you plan your
-      unforgettable and sustainable travel experience in China.</div>
-
+    text: "<div style=\"text-align: center\">We're eager to help you design your unforgettable and\_responsible travel experience in Yunnan, China.\_Reach out to us directly to discuss your\_private eco-tour,  join-in family or student eco-camp in Lijiang and Shangri-La.</div>\n\n"
     actions: []
     media:
       type: ImageBlock
@@ -57,7 +54,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Lynne2.webp
-          altText: Background alt text
+          altText: Lynne Lyu - Cofounder of Lijiang Cloud Mountain Education
           styles:
             self:
               borderRadius: x-large
@@ -87,7 +84,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Lukas2.webp
-          altText: Background alt text
+          altText: Lukasz Madrzynski - Cofounder of Lijiang Cloud Mountain Education
           styles:
             self:
               borderRadius: x-large
@@ -137,9 +134,10 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: center">Stay up-to-date on our latest ecotours in
-      Yunnan, see stunning photos and videos from our China travels, and get
-      inspired for your own adventure by following us on social media:</div>
+      <div style="text-align: center">Stay up-to-date on our latest ecotours,
+      camps and projects in Yunnan, see stunning photos and videos from our
+      China travels, and get inspired for your own adventure by following us on
+      social media:</div>
 
     actions:
       - type: Link
@@ -178,9 +176,15 @@ slug: /contact-us
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: >-
+    Contact Us | Cloud Mountain - Yunnan Eco-Tours, Sustainable Travel & Nature
+    Education
+  metaDescription: >-
+    Contact Cloud Mountain, your trusted partner for sustainable Yunnan
+    eco-tours! Reach Lynne & Lukasz directly via email, phone, or social media
+    to plan your Lijiang & Shangri-La adventure. Follow our sustainable
+    adventures on our social media.
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags: []
 ---
