@@ -688,7 +688,7 @@ sections:
         padding:
           - pt-12
           - pb-12
-slug: /shangri-la
+slug: /shangri-la-monkey-trip-ecotour
 seo:
   type: Seo
   metaTitle: Home - Demo site
