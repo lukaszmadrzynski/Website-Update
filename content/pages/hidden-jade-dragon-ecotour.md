@@ -13,7 +13,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/YL-Banner.webp
-      altText: Unblock your team boost your time to production preview
+      altText: hidden jade dragon ecotour
       elementId: ''
     badge:
       type: Badge
@@ -124,10 +124,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -158,10 +158,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             textAlign: left
@@ -193,10 +193,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
@@ -231,10 +231,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -265,10 +265,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -306,10 +306,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -391,6 +391,8 @@ sections:
         padding:
           - pt-8
           - pb-8
+          - pl-3
+          - pr-3
   - type: GenericSection
     title:
       type: TitleBlock
@@ -433,15 +435,15 @@ sections:
         padding:
           - pt-7
           - pb-9
-slug: /jade-dragon
+slug: /hidden-jade-dragon-ecotour
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Jade Dragon's Hidden Trails Ecotour
   metaDescription: >-
     Escape Lijiang crowds! Discover hidden trails on our authentic ecotour to
     Jade Dragon Snow Mountain Nature Reserve. Hike with a ranger, explore
     temples, Yi villages, wetlands. Book your Yunnan adventure!
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags:
     - type: MetaTag
       content: >-
