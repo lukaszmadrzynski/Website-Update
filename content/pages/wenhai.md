@@ -498,7 +498,7 @@ seo:
     Escape to Wenhai Sanctuary in Lijiang, Yunnan: Ecotour along the ancient Tea
     & Horse Road. Explore pristine wetlands, Naxi culture, hike to Tiger Cave, &
     discover UNESCO's Baisha Village. Book your Yunnan eco-cultural adventure!
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags:
     - type: MetaTag
       content: >-
