@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Shangri-La Monkey Journey Ecotour
+title: Shangri-La Monkey Trip Ecotour
 sections:
   - type: GenericSection
     title:
