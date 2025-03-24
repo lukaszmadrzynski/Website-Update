@@ -236,7 +236,7 @@ seo:
     develop leadership skills, earn an NGO certificate & make a real impact in
     Yunnan, China. Learn more!
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags:
     - type: MetaTag
     - type: MetaTag
