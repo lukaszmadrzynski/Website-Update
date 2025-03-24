@@ -836,7 +836,8 @@ seo:
         eco-friendly travel, responsible tourism, Tea Horse Road, Jade Dragon
         Snow Mountain, monkey tours, wildlife tours, sustainability leadership,
         middle school, high school, CAS, SDGs, international schools, family
-        camps, student camps, 
+        camps, student camps, family tours, yunnan tours, yunnan travel,
+        sustainable travel, yunnan trips
       property: 'og:description'
 type: PageLayout
 isDraft: false
