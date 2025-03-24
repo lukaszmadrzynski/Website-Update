@@ -448,7 +448,7 @@ sections:
 slug: /living-waters-of-lashi-ecotour
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Living Waters of Lashi Ecotour
   metaDescription: >-
     Experience the Living Waters of Lashi on an unforgettable ecotour in Yunnan,
     China. Explore biodiversity & conservation at Lashi Wetlands, discover Naxi
