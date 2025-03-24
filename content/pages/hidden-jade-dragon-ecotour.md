@@ -436,7 +436,7 @@ sections:
 slug: /hidden-jade-dragon-ecotour
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Jade Dragon's Hidden Trails Ecotour
   metaDescription: >-
     Escape Lijiang crowds! Discover hidden trails on our authentic ecotour to
     Jade Dragon Snow Mountain Nature Reserve. Hike with a ranger, explore
