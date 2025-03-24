@@ -474,7 +474,7 @@ sections:
 slug: /lijiang-old-town-ecotour
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Naxi Heritage Walking Tour
   metaDescription: >-
     Explore Lijiang Old Town, a UNESCO gem, on our Naxi Heritage Walking Tour.
     Discover ancient streets, vibrant markets, and stunning mountain views.
