@@ -683,7 +683,7 @@ sections:
 slug: /lijiang's-forgotten-forest-ecotour
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Lijiang's Forgotten Forest Ecotour
   metaDescription: >-
     Escape Lijiang! Discover Forgotten Forest ecotour: a hidden biodiversity
     hotspot near Lijiang. Rare orchids, birds, & views await! Book your nature
