@@ -696,7 +696,7 @@ seo:
     Join our Shangri-La Monkey Journey ecotour in Yunnan, China! Spot rare
     snub-nosed monkeys, hike breathtaking Tibetan landscapes, and immerse in
     local culture. Book your China travel adventure now!
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags:
     - type: MetaTag
       content: >-
