@@ -455,7 +455,7 @@ seo:
     & Yi ethnic cultures, hike Luoma Cliffs & enjoy village life. Perfect for
     nature lovers & cultural travelers seeking authentic China travel. Book your
     Lashi Wetlands adventure!
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags:
     - type: MetaTag
       content: >-
