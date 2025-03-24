@@ -441,7 +441,7 @@ seo:
     Escape Lijiang crowds! Discover hidden trails on our authentic ecotour to
     Jade Dragon Snow Mountain Nature Reserve. Hike with a ranger, explore
     temples, Yi villages, wetlands. Book your Yunnan adventure!
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags:
     - type: MetaTag
       content: >-
