@@ -124,10 +124,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -173,10 +173,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             textAlign: left
@@ -207,10 +207,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
@@ -235,10 +235,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -278,10 +278,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -313,10 +313,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -443,19 +443,19 @@ sections:
         flexDirection: row-reverse
         justifyContent: center
         padding:
-          - pt-7
+          - pt-9
           - pb-9
-slug: /lashi
+slug: /living-waters-of-lashi-ecotour
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Living Waters of Lashi Ecotour
   metaDescription: >-
     Experience the Living Waters of Lashi on an unforgettable ecotour in Yunnan,
     China. Explore biodiversity & conservation at Lashi Wetlands, discover Naxi
     & Yi ethnic cultures, hike Luoma Cliffs & enjoy village life. Perfect for
     nature lovers & cultural travelers seeking authentic China travel. Book your
     Lashi Wetlands adventure!
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags:
     - type: MetaTag
       content: >-
