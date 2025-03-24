@@ -433,7 +433,7 @@ sections:
         padding:
           - pt-7
           - pb-9
-slug: /jade-dragon-hidden-trails-ecotour
+slug: /hidden-jade-dragon-ecotour
 seo:
   type: Seo
   metaTitle: Home - Demo site
