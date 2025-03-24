@@ -695,7 +695,7 @@ seo:
     Relive Paul Salopek's "Out of Eden Walk" as documented in NatGeo's "Forever
     Walk: China"! Explore Jade Dragon Snow Mountain & Wenhai Wetlands on our
     slow trekking ecotour in Yunnan. Book now!
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags:
     - type: MetaTag
       content: >-
