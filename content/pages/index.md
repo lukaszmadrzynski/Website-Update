@@ -192,7 +192,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /jade-dragon
+            url: /hidden-jade-dragon-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -241,7 +241,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /shangri-la
+            url: /shangri-la-monkey-trip-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -820,7 +820,7 @@ sections:
           - pr-12
 seo:
   type: Seo
-  socialImage: /images/Logo Color No Text2.png
+  socialImage: /images/CM Logo Color No Text.png
   metaTitle: Authentic Sustainable Adventures in Lijiang and Shangri-La
   metaDescription: >-
     Immerse yourself in the breathtaking landscapes and vibrant cultures of
@@ -836,7 +836,8 @@ seo:
         eco-friendly travel, responsible tourism, Tea Horse Road, Jade Dragon
         Snow Mountain, monkey tours, wildlife tours, sustainability leadership,
         middle school, high school, CAS, SDGs, international schools, family
-        camps, student camps, 
+        camps, student camps, family tours, yunnan tours, yunnan travel,
+        sustainable travel, yunnan trips
       property: 'og:description'
 type: PageLayout
 isDraft: false
