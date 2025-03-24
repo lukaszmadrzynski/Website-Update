@@ -294,7 +294,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /wenhai
+            url: /wenhai-sanctuary-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
