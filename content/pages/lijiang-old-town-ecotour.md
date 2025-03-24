@@ -480,7 +480,7 @@ seo:
     Discover ancient streets, vibrant markets, and stunning mountain views.
     Immerse yourself in Naxi culture & history. Book your unforgettable China
     travel experience now!
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags:
     - type: MetaTag
       content: >-
