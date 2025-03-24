@@ -660,7 +660,7 @@ sections:
 slug: /wild-heart-of-lijiang-ecotour
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Laojun's Wild Heart Ecotour
   metaDescription: >-
     Escape to Laojun Mountain Ecotour, Yunnan, China! Hike alpine meadows, spot
     rare birds, & immerse in minority cultures. Discover Yangtze First Bend &
