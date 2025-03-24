@@ -445,7 +445,7 @@ sections:
         padding:
           - pt-7
           - pb-9
-slug: /lashi
+slug: /living-waters-of-lashi-ecotour
 seo:
   type: Seo
   metaTitle: Home - Demo site
