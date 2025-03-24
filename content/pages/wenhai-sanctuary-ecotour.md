@@ -490,7 +490,7 @@ sections:
         padding:
           - pt-7
           - pb-9
-slug: /wenhai
+slug: /wenhai-sanctuary-ecotour
 seo:
   type: Seo
   metaTitle: Wenhai Sanctuary Ecotour
