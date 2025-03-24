@@ -241,7 +241,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /shangri-la
+            url: /shangri-la-monkey-trip-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
