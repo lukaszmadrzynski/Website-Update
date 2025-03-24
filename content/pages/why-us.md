@@ -581,7 +581,7 @@ seo:
     commitment to sustainable travel, and authentic cultural experiences in
     Lijiang and Shangri-La.
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags:
     - type: MetaTag
       content: >-
