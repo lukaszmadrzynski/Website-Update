@@ -392,7 +392,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /jade-dragon-hidden-trails-ecotour
+            url: /hidden-jade-dragon-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
