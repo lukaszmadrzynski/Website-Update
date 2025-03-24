@@ -665,7 +665,7 @@ seo:
     Escape to Laojun Mountain Ecotour, Yunnan, China! Hike alpine meadows, spot
     rare birds, & immerse in minority cultures. Discover Yangtze First Bend &
     Himalayan honey. Authentic China nature & culture adventure.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags:
     - type: MetaTag
       content: >-
