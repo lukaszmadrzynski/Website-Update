@@ -573,7 +573,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /forever-walk-ecotour
+            url: /natgeo-forever-walk-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
