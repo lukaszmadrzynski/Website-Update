@@ -345,7 +345,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /lashi
+            url: /living-waters-of-lashi-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
