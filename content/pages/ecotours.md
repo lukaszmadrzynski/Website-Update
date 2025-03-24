@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Ecotours
+title: Cloud Mountain Ecotours
 sections:
   - type: GenericSection
     title:
@@ -345,7 +345,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /lashi
+            url: /living-waters-of-lashi-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -392,7 +392,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /jade-dragon-hidden-trails-ecotour
+            url: /hidden-jade-dragon-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -535,7 +535,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /shangri-la
+            url: /shangri-la-monkey-trip-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -573,7 +573,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /forever-walk-ecotour
+            url: /natgeo-forever-walk-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -707,7 +707,7 @@ seo:
     discover the best of sustainable travel in China. Find your perfect
     adventure today!
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags:
     - type: MetaTag
       content: >-
