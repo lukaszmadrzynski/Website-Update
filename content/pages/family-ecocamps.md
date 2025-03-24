@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Family EcoCamps
+title: 'Family EcoCamps in Yunnan - Fun, Educational & Sustainable'
 sections:
   - type: GenericSection
     title:
@@ -39,7 +39,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      altText: Fun feature preview
+      altText: 'Families with kids enjoying beautiful nature of Yunnan province, China'
       url: /images/Family Hero2.webp
     badge:
       type: Badge
@@ -77,7 +77,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Article Preview Header v3.jpg
-      altText: Fun feature preview
+      altText: 2025 Monkey Conservation Summer Family EcoCamp in Yunnan
     badge:
       type: Badge
       label: Upcoming EcoCamp
@@ -118,7 +118,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Fun Icon.webp
-          altText: Placeholder image
+          altText: Kids learning about nature
           styles:
             self:
               borderRadius: x-large
@@ -144,7 +144,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Monkey Icon.webp
-          altText: Placeholder image
+          altText: 'Yunnan Snub-nosed Monkey, Yunnan Golden Monkey'
           styles:
             self:
               borderRadius: x-large
@@ -170,7 +170,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Culture Icon.webp
-          altText: Placeholder image
+          altText: Ethnic Minorities in Yunnan
           styles:
             self:
               borderRadius: x-large
@@ -196,7 +196,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Nature Icon.webp
-          altText: Placeholder text
+          altText: 'Spectacular natural wonders of Yunnan, First bend of Yangtzee River'
           styles:
             self:
               borderRadius: x-large
@@ -222,7 +222,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Sustainability Icon.webp
-          altText: Placeholder text
+          altText: Families learning about sustainable development
           styles:
             self:
               borderRadius: x-large
@@ -262,7 +262,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Article Preview Header v3.jpg
-      altText: Dope design preview
+      altText: Family Summer Camp in Yunnan
     badge:
       type: Badge
       label: ''
@@ -342,9 +342,22 @@ slug: /Family-EcoCamps
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: 'Family EcoCamps in Yunnan - Fun, Educational & Sustainable'
+  metaDescription: >-
+    Looking for fun & educational family holidays in Yunnan, China? Cloud
+    Mountain's Family EcoCamps offer unforgettable adventures for kids 5+.
+    Explore nature, culture, and monkey conservation in Lijiang & Shangri-La.
+    Book your sustainable family trip today!
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
-  metaTags: []
+  socialImage: /images/CM Logo Color No Text.png
+  metaTags:
+    - type: MetaTag
+      content: >-
+        Lijiang Family EcoCamps, Shangri-La Family EcoCamps, Yunnan Family
+        Adventure Tours, China Family EcoTours, Yunnan Monkey Conservation
+        Family Trip, Educational Family Holidays Yunnan, Fun Family EcoCamps
+        China, Sustainable Family Travel Yunnan, Nature Family Camps Yunnan,
+        Cultural Family Camps Yunnan, Summer Family Camps Yunnan, Winter Family
+        Camps Yunnan, Family Adventure Holidays China, Child-Friendly EcoTours
+        Yunnan, Best family eco camps in Yunnan for kids over 5
 ---
