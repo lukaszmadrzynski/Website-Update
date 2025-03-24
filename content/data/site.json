@@ -1,7 +1,7 @@
 {
     "favicon": "/images/CM Logo Color No Text.png",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
+    "titleSuffix": "Cloud Mountain",
     "defaultSocialImage": "/images/main-hero.jpg",
     "type": "Config",
     "header": "content/data/header.json"
