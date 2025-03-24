@@ -2,7 +2,7 @@
     "favicon": "/images/CM Logo Color No Text.png",
     "footer": "content/data/footer.json",
     "titleSuffix": "Cloud Mountain",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "defaultSocialImage": "/images/CM Logo Color No Text.png",
     "type": "Config",
     "header": "content/data/header.json"
 }
