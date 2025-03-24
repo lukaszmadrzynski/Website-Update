@@ -13,7 +13,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/WH-Banner.webp
-      altText: Unblock your team boost your time to production preview
+      altText: Lijiang Wenhai panoramic view
       elementId: ''
       styles:
         self:
