@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Student EcoCamps
+title: Middle & High School Sustainability Programs in Yunnan
 sections:
   - type: GenericSection
     title:
@@ -13,7 +13,9 @@ sections:
     media:
       type: ImageBlock
       url: /images/Ledership Hero.webp
-      altText: Dope design preview
+      altText: >-
+        Middle and High School Students participate in Cloud Mountain Yunnan
+        Sustainability Leadership Program.
     badge:
       type: Badge
       label: ''
@@ -41,7 +43,9 @@ sections:
     media:
       type: ImageBlock
       url: /images/Ledership Hero2.webp
-      altText: Fun feature preview
+      altText: >-
+        Chinese Students from International Schools Learn about Sustainable
+        Development in Yunnan.
     badge:
       type: Badge
       label: Cloud Mountain
@@ -84,7 +88,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Journey Icon.webp
-          altText: Background alt text
+          altText: '2025 Summer Yunnan Sustainability Journey '
           styles:
             self:
               borderRadius: x-large
@@ -125,7 +129,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Pioneers Icon.webp
-          altText: Background alt text
+          altText: 2025 Summer Yunnan Sustainability Pioneers Program
           styles:
             self:
               borderRadius: x-large
@@ -225,9 +229,15 @@ slug: /Student-EcoCamps
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: Middle & High School Sustainability Programs in Yunnan
+  metaDescription: >-
+    Join Cloud Mountain's Yunnan Student Sustainability Leadership Programs!
+    Hands-on, in-depth programs for middle & high schoolers. Explore nature,
+    develop leadership skills, earn an NGO certificate & make a real impact in
+    Yunnan, China. Learn more!
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
-  metaTags: []
+  socialImage: /images/CM Logo Color No Text.png
+  metaTags:
+    - type: MetaTag
+    - type: MetaTag
 ---
