@@ -707,7 +707,7 @@ seo:
     discover the best of sustainable travel in China. Find your perfect
     adventure today!
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Logo Color No Text2.png
   metaTags:
     - type: MetaTag
       content: >-
