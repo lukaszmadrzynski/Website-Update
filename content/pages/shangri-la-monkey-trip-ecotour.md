@@ -691,7 +691,7 @@ sections:
 slug: /shangri-la-monkey-trip-ecotour
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Shangri-La Monkey Trip Ecotour
   metaDescription: >-
     Join our Shangri-La Monkey Journey ecotour in Yunnan, China! Spot rare
     snub-nosed monkeys, hike breathtaking Tibetan landscapes, and immerse in
