@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: NatGeo's Forever Walk
+title: NatGeo's Forever Walk Ecotour
 sections:
   - type: GenericSection
     title:
@@ -140,10 +140,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -179,10 +179,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             textAlign: left
@@ -218,10 +218,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
@@ -255,10 +255,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -294,10 +294,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -333,10 +333,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -372,10 +372,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -411,10 +411,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -452,10 +452,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -491,10 +491,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -530,10 +530,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -555,10 +555,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
@@ -687,15 +687,15 @@ sections:
         padding:
           - pt-7
           - pb-12
-slug: /forever-walk
+slug: /natgeo-forever-walk-ecotour
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: NatGeo's "Forever Walk" Ecotour
   metaDescription: >-
     Relive Paul Salopek's "Out of Eden Walk" as documented in NatGeo's "Forever
     Walk: China"! Explore Jade Dragon Snow Mountain & Wenhai Wetlands on our
     slow trekking ecotour in Yunnan. Book now!
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags:
     - type: MetaTag
       content: >-
