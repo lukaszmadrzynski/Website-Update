@@ -13,7 +13,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/XS-Banner.webp
-      altText: Unblock your team boost your time to production preview
+      altText: Lijiang's Forgotten Forest Ecotour
       elementId: ''
       styles:
         self:
@@ -97,7 +97,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: ELEPHANT HILL | HALF-DAY ECOTOUR
+      label: Lijiang's Forgotten Forest Ecotour
       color: text-primary
     colors: bg-light-fg-dark
     styles:
@@ -680,15 +680,15 @@ sections:
         padding:
           - pt-7
           - pb-12
-slug: /elephant-hill
+slug: /lijiang's-forgotten-forest-ecotour
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Lijiang's Forgotten Forest Ecotour
   metaDescription: >-
     Escape Lijiang! Discover Forgotten Forest ecotour: a hidden biodiversity
     hotspot near Lijiang. Rare orchids, birds, & views await! Book your nature
     walk.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/CM Logo Color No Text.png
   metaTags:
     - type: MetaTag
       content: >-
