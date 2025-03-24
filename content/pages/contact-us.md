@@ -185,6 +185,6 @@ seo:
     to plan your Lijiang & Shangri-La adventure. Follow our sustainable
     adventures on our social media.
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Logo Color No Text.png
   metaTags: []
 ---
