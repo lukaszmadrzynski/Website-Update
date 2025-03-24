@@ -493,7 +493,7 @@ sections:
 slug: /wenhai
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Wenhai Sanctuary Ecotour
   metaDescription: >-
     Escape to Wenhai Sanctuary in Lijiang, Yunnan: Ecotour along the ancient Tea
     & Horse Road. Explore pristine wetlands, Naxi culture, hike to Tiger Cave, &
