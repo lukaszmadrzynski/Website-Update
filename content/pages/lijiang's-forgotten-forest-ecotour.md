@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Lijiang's Forgotten Forest Ecotour
+title: Lijiang's Forgotten Forest | Half-Day Ecotour
 sections:
   - type: GenericSection
     title:
