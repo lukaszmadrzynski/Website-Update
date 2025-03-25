@@ -97,7 +97,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: Lijiang's Forgotten Forest Ecotour
+      label: ELEPHANT HILL | HALF-DAY ECOTOUR
       color: text-primary
     colors: bg-light-fg-dark
     styles:
