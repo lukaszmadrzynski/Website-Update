@@ -454,7 +454,7 @@ sections:
           environmental impact, benefiting local communities and following
           ethical practices.
         image:
-          url: /images/Sustainable.jpg
+          url: /images/Sustainable Icon.webp
           altText: Sustainable and Responsible Ecotours
           styles:
             self:
