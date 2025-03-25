@@ -95,7 +95,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: "SHANGRI-LA BAIMA SNOW MOUNTAIN NATURE RESERVE\_ | TWO-DAY ECOJOURNEY"
+      label: "SHANGRI-LA BAIMA SNOW MOUNTAIN NATURE RESERVE\_ | TWO-DAY ECOTOUR"
       color: text-primary
     colors: bg-light-fg-dark
     styles:
@@ -106,7 +106,7 @@ sections:
           - pt-3
           - pl-3
           - pr-3
-          - pb-5
+          - pb-9
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -561,7 +561,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: ''
+      label: "SHANGRI-LA BAIMA SNOW MOUNTAIN NATURE RESERVE\_ | TWO-DAY ECOTOUR"
       color: text-primary
       styles:
         self:
@@ -573,7 +573,7 @@ sections:
       self:
         padding:
           - pb-8
-          - pt-8
+          - pt-12
           - pl-3
           - pr-3
         justifyContent: center
