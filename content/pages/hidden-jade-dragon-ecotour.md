@@ -91,7 +91,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Ecotour Highlights
+      text: Highlights
       color: text-dark
       styles:
         self:
@@ -202,22 +202,15 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
+        text: >
           Embark on an exclusive **conservation patrol hike** in a secluded
 
-          area of Jade Dragon Snow Mountain Nature Reserve. This unique
+          area of **Jade Dragon Snow Mountain Nature Reserve**. This unique
           experience allows
 
           you to witness the raw beauty of the mountain in a quieter setting and
 
           contribute to its preservation in a meaningful way.
-
-
-
-
-
-
-
         image:
           type: ImageBlock
           url: /images/YL-Icon3.webp
@@ -317,7 +310,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: ''
+      label: "JADE DRAGON SNOW MOUNTAIN\_| One Day Ecotour"
       color: text-primary
       styles:
         self:
