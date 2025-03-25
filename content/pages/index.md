@@ -316,7 +316,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Family Icon.webp
+          url: /images/Family Camp Hero Icon.webp
           altText: Sustainability Family EcoCamp Yunnan - Cloud Mountain
           styles:
             self:
