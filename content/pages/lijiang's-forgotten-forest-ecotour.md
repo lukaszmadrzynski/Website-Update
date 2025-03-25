@@ -111,7 +111,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Ecotour Highlights
+      text: Highlights
       color: text-dark
       styles:
         self:
