@@ -353,7 +353,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Leadership Banner.webp
+          url: /images/Ledership Hero Icon2.webp
           altText: Sustainability Leadership EcoCamp Yunnan - Student Program
           styles:
             self:
