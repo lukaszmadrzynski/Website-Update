@@ -97,7 +97,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: Lijiang's Forgotten Forest Ecotour
+      label: ELEPHANT HILL FOREST | HALF-DAY ECOTOUR
       color: text-primary
     colors: bg-light-fg-dark
     styles:
@@ -111,7 +111,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Ecotour Highlights
+      text: Highlights
       color: text-dark
       styles:
         self:
@@ -573,7 +573,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: ''
+      label: ELEPHANT HILL FOREST | HALF-DAY ECOTOUR
       color: text-primary
       styles:
         self:
