@@ -101,10 +101,13 @@ sections:
         justifyContent: center
         padding:
           - pt-3
+          - pl-3
+          - pr-3
+          - pb-12
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Ecotour Highlights
+      text: Highlights
       color: text-dark
       styles:
         self:
@@ -534,7 +537,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: ''
+      label: LAOJUN MOUNTAINS UNESCO SITE | TWO-DAY ECOTOUR
       color: text-primary
       styles:
         self:
