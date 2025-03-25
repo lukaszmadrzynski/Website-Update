@@ -36,7 +36,7 @@ sections:
       type: TitleBlock
       text: Wild Heart of Lijiang
       color: text-dark
-    subtitle: Duelve Deeper into the Mountains
+    subtitle: Delve Deeper into the Mountains
     text: >+
       Escape the city and discover the untamed wild beauty of Laojun Mountains.
       Journey
