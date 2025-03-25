@@ -91,7 +91,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: our Highlights
+      text: Highlights
       color: text-dark
       styles:
         self:
