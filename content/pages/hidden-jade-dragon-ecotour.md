@@ -317,7 +317,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: ''
+      label: LASHI WETLANDS NATURE RESERVE
       color: text-primary
       styles:
         self:
