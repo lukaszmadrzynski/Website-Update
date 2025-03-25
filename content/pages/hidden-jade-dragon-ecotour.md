@@ -91,7 +91,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Tour Highlights
+      text: our Highlights
       color: text-dark
       styles:
         self:
