@@ -566,7 +566,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: ''
+      label: WENHAI WETLANDS AND JADE DRAGON NATURE RESERVES | THREE-DAY ECOTOUR
       color: text-primary
       styles:
         self:
