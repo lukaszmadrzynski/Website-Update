@@ -317,7 +317,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: LASHI WETLANDS NATURE RESERVE
+      label: Jade Dragon's Hidden Trails | One Day Ecotour
       color: text-primary
       styles:
         self:
