@@ -98,10 +98,13 @@ sections:
         justifyContent: center
         padding:
           - pt-3
+          - pl-3
+          - pr-3
+          - pb-9
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Ecotour Highlights
+      text: Highlights
       color: text-dark
       styles:
         self:
@@ -381,7 +384,7 @@ sections:
       self:
         padding:
           - pb-3
-          - pt-9
+          - pt-12
           - pl-3
           - pr-3
         justifyContent: center
