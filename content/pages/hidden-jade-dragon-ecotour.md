@@ -96,7 +96,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Jade Dragon's Hidden Trails
+    subtitle: Jade Dragon's Hidden Trails Ecotour
     items:
       - type: FeaturedItem
         title: ''
