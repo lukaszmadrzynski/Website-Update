@@ -96,7 +96,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Tour Highlights
+    subtitle: Jade Dragon's Hidden Trails
     items:
       - type: FeaturedItem
         title: ''
