@@ -96,7 +96,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: ''
+    subtitle: Tour Highlights
     items:
       - type: FeaturedItem
         title: ''
