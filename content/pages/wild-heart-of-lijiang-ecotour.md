@@ -103,6 +103,7 @@ sections:
           - pt-3
           - pl-3
           - pr-3
+          - pb-12
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
