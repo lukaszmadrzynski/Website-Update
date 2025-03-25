@@ -481,7 +481,7 @@ sections:
           including IUCN and UNESCO as well as global media outlets, including
           National Geographic and Discovery Channel.
         image:
-          url: /images/Forever Icon.webp
+          url: /images/Trusted Icon.webp
           altText: Ecotours and Nature education with Trusted and Recognized Team
           styles:
             self:
