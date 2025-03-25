@@ -317,7 +317,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Jade Dragon's Hidden Trails | One Day Ecotour
+      label: "JADE DRAGON SNOW MOUNTAIN\_| One Day Ecotour"
       color: text-primary
       styles:
         self:
