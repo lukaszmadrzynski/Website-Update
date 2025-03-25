@@ -561,7 +561,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: LAOJUN MOUNTAINS UNESCO SITE | TWO-DAY ECOTOUR
+      label: "SHANGRI-LA BAIMA SNOW MOUNTAIN NATURE RESERVE\_ | TWO-DAY ECOTOUR"
       color: text-primary
       styles:
         self:
