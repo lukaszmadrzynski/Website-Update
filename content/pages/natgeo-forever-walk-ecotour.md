@@ -105,11 +105,11 @@ sections:
           - pt-3
           - pl-3
           - pr-3
-          - pb-3
+          - pb-9
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Ecotour Highlights
+      text: Highlights
       color: text-dark
       styles:
         self:
@@ -566,7 +566,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: ''
+      label: WENHAI WETLANDS AND JADE DRAGON NATURE RESERVES | THREE-DAY ECOTOUR
       color: text-primary
       styles:
         self:
@@ -578,7 +578,7 @@ sections:
       self:
         padding:
           - pb-8
-          - pt-8
+          - pt-12
           - pl-3
           - pr-3
         justifyContent: center
