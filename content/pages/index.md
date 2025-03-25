@@ -428,7 +428,7 @@ sections:
           hidden natural wonders far away from the beaten path.
         image:
           type: ImageBlock
-          url: /images/Off the beaten path3.jpg
+          url: /images/off the beaten path.webp
           altText: Yunnan Lijiang & Tibetan Shangri-La Ecotours Off the Beaten Path
           styles:
             self:
