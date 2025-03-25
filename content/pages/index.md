@@ -12,7 +12,7 @@ sections:
         Shangri-La | Cloud Mountain 
       elementId: ''
       type: ImageBlock
-      url: /images/CM Hero.webp
+      url: /images/CM Hero2.webp
       styles:
         self:
           borderRadius: none
@@ -316,7 +316,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Family Icon.webp
+          url: /images/Family Camp Hero Icon.webp
           altText: Sustainability Family EcoCamp Yunnan - Cloud Mountain
           styles:
             self:
@@ -353,7 +353,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/Leadership Banner.webp
+          url: /images/Ledership Hero Icon2.webp
           altText: Sustainability Leadership EcoCamp Yunnan - Student Program
           styles:
             self:
@@ -428,7 +428,7 @@ sections:
           hidden natural wonders far away from the beaten path.
         image:
           type: ImageBlock
-          url: /images/Off the beaten path3.jpg
+          url: /images/off the beaten path.webp
           altText: Yunnan Lijiang & Tibetan Shangri-La Ecotours Off the Beaten Path
           styles:
             self:
@@ -454,7 +454,7 @@ sections:
           environmental impact, benefiting local communities and following
           ethical practices.
         image:
-          url: /images/Sustainable.jpg
+          url: /images/Sustainable Icon.webp
           altText: Sustainable and Responsible Ecotours
           styles:
             self:
@@ -481,7 +481,7 @@ sections:
           including IUCN and UNESCO as well as global media outlets, including
           National Geographic and Discovery Channel.
         image:
-          url: /images/Forever Icon.webp
+          url: /images/Trusted Icon.webp
           altText: Ecotours and Nature education with Trusted and Recognized Team
           styles:
             self:
