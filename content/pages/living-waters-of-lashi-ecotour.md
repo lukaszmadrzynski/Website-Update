@@ -92,7 +92,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Ecotour Highlights
+      text: Highlights
       color: text-dark
       styles:
         self:
@@ -324,7 +324,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Lashi WETLANDS NATURE RESERVE | ONE-DAY ECOTOUR
+      label: "LASHI WETLANDS NATURE RESERVE\_| ONE-DAY ECOTOUR"
       color: text-primary
       styles:
         self:
