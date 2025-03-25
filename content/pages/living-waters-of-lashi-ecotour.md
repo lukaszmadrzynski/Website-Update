@@ -324,7 +324,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: "Living Waters of Lashi\_| ONE-DAY ECOTOUR"
+      label: "LASHI WETLANDS NATURE RESERVE\_| ONE-DAY ECOTOUR"
       color: text-primary
       styles:
         self:
