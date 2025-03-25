@@ -95,7 +95,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: "SHANGRI-LA BAIMA SNOW MOUNTAIN NATURE RESERVE\_ | TWO-DAY ECOJOURNEY"
+      label: "SHANGRI-LA BAIMA SNOW MOUNTAIN NATURE RESERVE\_ | TWO-DAY ECOTOUR"
       color: text-primary
     colors: bg-light-fg-dark
     styles:
