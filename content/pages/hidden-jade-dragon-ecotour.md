@@ -88,6 +88,8 @@ sections:
         justifyContent: center
         padding:
           - pt-3
+          - pl-3
+          - pr-3
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -323,8 +325,8 @@ sections:
         padding:
           - pb-12
           - pt-16
-          - pl-16
-          - pr-16
+          - pl-3
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
