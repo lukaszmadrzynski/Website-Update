@@ -660,7 +660,7 @@ sections:
           - pb-3
           - pl-3
           - pr-3
-        flexDirection: col-reverse
+        flexDirection: row-reverse
   - type: GenericSection
     title:
       type: TitleBlock
