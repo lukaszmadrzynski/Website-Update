@@ -24,7 +24,7 @@ sections:
         justifyContent: center
         padding:
           - pt-1
-          - pl-1
+          - pl-0
           - pb-1
           - pr-1
   - type: GenericSection
