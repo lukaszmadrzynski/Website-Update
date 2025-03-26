@@ -26,7 +26,7 @@ sections:
         alignItems: center
         flexDirection: col-reverse
         padding:
-          - pt-2
+          - pt-0
           - pb-3
   - type: GenericSection
     title:
@@ -107,9 +107,9 @@ sections:
           self:
             padding:
               - pt-0
-              - pl-3
+              - pl-0
               - pb-3
-              - pr-3
+              - pr-0
             borderRadius: x-large
             flexDirection: col
             textAlign: center
@@ -148,9 +148,9 @@ sections:
           self:
             padding:
               - pt-0
-              - pl-3
+              - pl-0
               - pb-3
-              - pr-3
+              - pr-0
             borderRadius: x-large
             flexDirection: col
             textAlign: center
