@@ -109,7 +109,7 @@ sections:
               - pt-0
               - pl-0
               - pb-3
-              - pr-3
+              - pr-0
             borderRadius: x-large
             flexDirection: col
             textAlign: center
