@@ -23,10 +23,10 @@ sections:
         flexDirection: col-reverse
         justifyContent: center
         padding:
-          - pt-1
-          - pl-1
+          - pt-0
+          - pl-0
           - pb-1
-          - pr-1
+          - pr-0
   - type: GenericSection
     title:
       type: TitleBlock
@@ -132,8 +132,8 @@ sections:
             justifyContent: center
             textAlign: left
             margin:
-              - ml-0
-              - mr-0
+              - ml-1
+              - mr-1
         tagline: Half-Day | Cultural Heritage Walk
       - type: FeaturedItem
         title: Lijiang's Forgotten Forest
@@ -660,7 +660,7 @@ sections:
           - pb-3
           - pl-3
           - pr-3
-        flexDirection: ''
+        flexDirection: row
   - type: GenericSection
     title:
       type: TitleBlock
@@ -692,7 +692,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-9
+          - pt-14
           - pb-12
           - pl-3
           - pr-3
