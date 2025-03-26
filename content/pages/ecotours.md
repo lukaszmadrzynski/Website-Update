@@ -132,7 +132,7 @@ sections:
             justifyContent: center
             textAlign: left
             margin:
-              - ml-0
+              - ml-1
               - mr-0
         tagline: Half-Day | Cultural Heritage Walk
       - type: FeaturedItem
