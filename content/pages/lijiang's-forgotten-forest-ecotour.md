@@ -602,7 +602,7 @@ sections:
     text: |+
       **What’s Included:**
 
-      *   English-speaking guides (Lynne and Lukas).
+      *   English-speaking guides (Lynne and/or Lukas).
 
       *   Entrance to Black Dragon Pool Park.
 
