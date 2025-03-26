@@ -164,7 +164,7 @@ sections:
           - pt-9
           - pl-2
           - pb-9
-          - pr-3
+          - pr-2
         justifyContent: center
       subtitle:
         textAlign: center
