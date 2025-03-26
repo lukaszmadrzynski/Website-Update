@@ -391,7 +391,7 @@ sections:
           - pt-6
           - pl-3
           - pb-10
-          - pr-8
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
