@@ -133,7 +133,7 @@ sections:
             textAlign: left
             margin:
               - ml-1
-              - mr-0
+              - mr-1
         tagline: Half-Day | Cultural Heritage Walk
       - type: FeaturedItem
         title: Lijiang's Forgotten Forest
