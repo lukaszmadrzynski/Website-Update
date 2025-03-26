@@ -326,7 +326,7 @@ sections:
           - pb-12
           - pt-16
           - pl-3
-          - pr-16
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
