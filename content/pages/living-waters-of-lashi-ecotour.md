@@ -337,8 +337,8 @@ sections:
         padding:
           - pb-16
           - pt-16
-          - pl-16
-          - pr-16
+          - pl-3
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
