@@ -26,7 +26,8 @@ sections:
         alignItems: center
         flexDirection: col-reverse
         padding:
-          - pt-2
+          - pt-0
+          - pb-2
         justifyContent: center
   - type: GenericSection
     title:
@@ -388,9 +389,9 @@ sections:
       self:
         padding:
           - pt-6
-          - pl-8
+          - pl-3
           - pb-10
-          - pr-8
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
