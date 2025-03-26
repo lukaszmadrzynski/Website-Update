@@ -26,7 +26,7 @@ sections:
         alignItems: center
         flexDirection: col-reverse
         padding:
-          - pt-2
+          - pt-0
         justifyContent: center
   - type: GenericSection
     title:
