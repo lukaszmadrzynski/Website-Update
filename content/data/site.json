@@ -4,5 +4,10 @@
     "titleSuffix": "Cloud Mountain",
     "defaultSocialImage": "/images/CM Logo Color No Text.png",
     "type": "Config",
-    "header": "content/data/header.json"
+    "header": "content/data/header.json",
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag"
+        }
+    ]
 }
