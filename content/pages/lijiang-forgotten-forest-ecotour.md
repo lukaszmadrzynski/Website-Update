@@ -682,7 +682,7 @@ sections:
         padding:
           - pt-7
           - pb-12
-slug: /lijiang's-forgotten-forest-ecotour
+slug: /lijiang-forgotten-forest-ecotour
 seo:
   type: Seo
   metaTitle: Lijiang's Forgotten Forest Ecotour
