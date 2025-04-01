@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: 
-Disallow: /cgi-bin/
-Sitemap: https://www.cloudmountain.top/sitemap.xml
+Disallow:
+Sitemap: https://cloudmountain.top/sitemap.xml
