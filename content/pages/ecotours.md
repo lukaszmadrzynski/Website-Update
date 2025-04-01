@@ -166,7 +166,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /lijiang's-forgotten-forest-ecotour
+            url: /lijiang-forgotten-forest-ecotour
             showIcon: false
             icon: arrowRight
             iconPosition: right
