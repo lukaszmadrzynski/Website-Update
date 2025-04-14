@@ -5,5 +5,9 @@
     "defaultSocialImage": "/images/CM Logo Color No Text.png",
     "type": "Config",
     "header": "content/data/header.json",
-    "defaultMetaTags": []
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag"
+        }
+    ]
 }
