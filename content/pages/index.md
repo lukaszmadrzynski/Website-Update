@@ -1,5 +1,5 @@
 ---
-title: Cloud Mountain
+title: Cloud Mountain - Authentic Sustainable Adventures in Lijiang and Shangri-La
 slug: /
 sections:
   - type: GenericSection
@@ -839,6 +839,7 @@ seo:
         camps, student camps, family tours, yunnan tours, yunnan travel,
         sustainable travel, yunnan trips
       property: 'og:description'
+  addTitleSuffix: true
 type: PageLayout
 isDraft: false
 ---
