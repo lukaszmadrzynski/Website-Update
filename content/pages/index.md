@@ -1,5 +1,5 @@
 ---
-title: Cloud Mountain - Authentic Sustainable Adventures in Lijiang and Shangri-La
+title: Cloud Mountain
 slug: /
 sections:
   - type: GenericSection
