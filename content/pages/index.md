@@ -837,7 +837,8 @@ seo:
         Snow Mountain, monkey tours, wildlife tours, sustainability leadership,
         middle school, high school, CAS, SDGs, international schools, family
         camps, student camps, family tours, yunnan tours, yunnan travel,
-        sustainable travel, yunnan trips
+        sustainable travel, yunnan trips, guides, english speaking guides, local
+        guides
       property: 'og:description'
     - type: MetaTag
   addTitleSuffix: true
