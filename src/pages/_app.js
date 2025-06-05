@@ -1,55 +1,29 @@
-// content-ops-starter/src/pages/_app.js
+// pages/_app.js (or _app.tsx)
+import { Inter, Roboto_Slab } from 'next/font/google'; // Import both fonts
+import '../css/main.css'; // Make sure your global CSS is imported
 
-import Head from 'next/head';
-import Script from 'next/script'; // <<<<<< ADD THIS IMPORT
-import '../css/main.css'; // Assuming this path is correct for your global CSS
+// Configure Inter font
+const inter = Inter({
+  subsets: ['latin'], // Adjust subsets if needed
+  weight: ['400', '500', '700'], // Weights used from your @import
+  display: 'swap',
+  variable: '--font-inter', // Define a CSS variable for Inter
+});
+
+// Configure Roboto Slab font
+const roboto_slab = Roboto_Slab({ // Note: next/font uses underscores for multi-word font names
+  subsets: ['latin'], // Adjust subsets if needed
+  weight: ['400', '500', '700'], // Weights used from your @import
+  display: 'swap',
+  variable: '--font-roboto-slab', // Define a CSS variable for Roboto Slab
+});
 
 export default function MyApp({ Component, pageProps }) {
-  const GA_MEASUREMENT_ID = 'G-JG1RTRLGQJ'; // Your Google Analytics Measurement ID
-
   return (
-    <>
-      <Head>
-        {/* --- START: Add Website Structured Data --- */}
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "WebSite",
-              "name": "Cloud Mountain", // Your preferred site name
-              "url": "https://cloudmountain.top/" // Your homepage URL
-            })
-          }}
-        />
-        {/* --- END: Add Website Structured Data --- */}
-      </Head>
-
-      {/* Google Analytics Scripts <<<<<< ADD THESE SECTIONS */}
-      {/* This loads the gtag.js library */}
-      <Script
-        strategy="afterInteractive" // Load the script after the page becomes interactive
-        src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
-      />
-      {/* This is the inline script for configuration */}
-      <Script
-        id="google-analytics" // Adding an ID is good practice, helps Next.js manage the script
-        strategy="afterInteractive"
-        dangerouslySetInnerHTML={{
-          __html: `
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', '${GA_MEASUREMENT_ID}', {
-              page_path: window.location.pathname,
-            });
-          `,
-        }}
-      />
-      {/* END Google Analytics Scripts */}
-
-      {/* This renders the current page */}
+    // Apply both font variables to a top-level element.
+    // The Tailwind config will then pick these up.
+    <div className={`${inter.variable} ${roboto_slab.variable}`}>
       <Component {...pageProps} />
-    </>
+    </div>
   );
 }
