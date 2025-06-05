@@ -1,3 +1,4 @@
+
 // pages/_app.js (or _app.tsx)
 import { Inter, Roboto_Slab } from 'next/font/google'; // Import both fonts
 import '../css/main.css'; // Make sure your global CSS is imported
