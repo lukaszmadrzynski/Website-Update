@@ -25,8 +25,8 @@ module.exports = {
                 primary: themeStyle.primary
             },
             fontFamily: { // <<<< MODIFIED SECTION STARTS HERE
-                sans: ['var(--font-inter)', ...defaultTheme.fontFamily.sans],
-                sans: ['var(--font-roboto-slab)', ...defaultTheme.fontFamily.sans]
+                serif: ['var(--font-inter)', ...defaultTheme.fontFamily.serif],
+                serif: ['var(--font-roboto-slab)', ...defaultTheme.fontFamily.serif]
             }, // <<<< MODIFIED SECTION ENDS HERE
             gridTemplateColumns: {
                 16: 'repeat(16, minmax(0, 1fr))'
