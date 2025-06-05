@@ -1,5 +1,7 @@
+// tailwind.config.js
 const plugin = require('tailwindcss/plugin');
 const themeStyle = require('./content/data/style.json');
+const defaultTheme = require('tailwindcss/defaultTheme'); // <<<< ADD THIS LINE
 
 module.exports = {
     content: ['./src/**/*.{js,ts,jsx,tsx}', './content/**/*', './.sourcebit-nextjs-cache.json'],
@@ -22,10 +24,10 @@ module.exports = {
                 neutralAlt: themeStyle.neutralAlt,
                 primary: themeStyle.primary
             },
-            fontFamily: {
-                sans: ['Inter', 'sans-serif'],
-                serif: ['Roboto Slab', 'serif']
-            },
+            fontFamily: { // <<<< MODIFIED SECTION STARTS HERE
+                serif: ['var(--font-inter)', ...defaultTheme.fontFamily.serif],
+                serif: ['var(--font-roboto-slab)', ...defaultTheme.fontFamily.serif]
+            }, // <<<< MODIFIED SECTION ENDS HERE
             gridTemplateColumns: {
                 16: 'repeat(16, minmax(0, 1fr))'
             },
