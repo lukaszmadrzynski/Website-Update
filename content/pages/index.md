@@ -12,7 +12,7 @@ sections:
         Shangri-La | Cloud Mountain 
       elementId: ''
       type: ImageBlock
-      url: /images/CM Hero2.webp
+      url: /images/CM Hero OPTIMIZED.webp
       styles:
         self:
           borderRadius: none
@@ -755,7 +755,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/About Us Banner.webp
+      url: /images/About Us Banner OPT.webp
       altText: Cloud Mountain Ecotours and Nature Education
       type: ImageBlock
     badge:
