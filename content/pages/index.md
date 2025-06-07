@@ -12,7 +12,7 @@ sections:
         Shangri-La | Cloud Mountain 
       elementId: ''
       type: ImageBlock
-      url: /images/CM Hero2.webp
+      url: /images/CM Hero OPTIMIZED.webp
       styles:
         self:
           borderRadius: none
