@@ -608,8 +608,6 @@ sections:
 
       *   Local traditional snacks.
 
-      *   Travel insurance.
-
       **What’s Not Included:**
 
       *   Personal expenses (souvenirs, etc.).
