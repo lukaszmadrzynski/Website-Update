@@ -343,10 +343,15 @@ sections:
       *   English-speaking guide (Lynne Lyu or Lukasz Madrzynski).
 
 
-      *   Local guide.
+      *   Two local nature conservation guides from Naxi and Yi minority
+      villages.
 
 
-      *   Entrance fees to Black dragon Pool Park.
+      *   Home cooked lunch in Runangu Yi minority village and restaurant dinner
+      in Baisha Naxi minority Village.
+
+
+      *   Private transportation.
 
 
       *   Outdoor travel insurance.
