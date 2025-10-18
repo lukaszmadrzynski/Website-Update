@@ -347,8 +347,8 @@ sections:
       villages.
 
 
-      *   Home cooked lunch in Runangu Yi minority village and restaurant dinner
-      in Baisha Naxi minority Village.
+      *   Home-cooked lunch in Runangu Yi minority village and restaurant dinner
+      in Baisha village.
 
 
       *   Private transportation.
