@@ -284,7 +284,7 @@ sections:
     actions:
       - type: Button
         label: View Full Article
-        url: 'https://mp.weixin.qq.com/s/WdAxXCw7-pEXVsmVqjdxQw'
+        url: 'https://mp.weixin.qq.com/s/BpU3eQ3JsqpWAvBjgH-JhQ'
         icon: arrowRight
         iconPosition: right
         style: primary
