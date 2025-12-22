@@ -261,7 +261,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Article Preview Header v3.jpg
+      url: /images/Article Preview Header v2.webp
       altText: Family Summer Camp in Yunnan
     badge:
       type: Badge
