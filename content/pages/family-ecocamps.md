@@ -77,7 +77,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Article Preview Header v2.webp
-      altText: 2025 Monkey Conservation Summer Family EcoCamp in Yunnan
+      altText: 2026 Yunnan Monkey Conservation Winter Family EcoCamp
     badge:
       type: Badge
       label: Upcoming EcoCamp
