@@ -61,7 +61,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Summer 2025 Family EcoCamp
+    subtitle: Winter 2026 Family EcoCamp
     text: >+
       <div style="text-align: center">Join us on our Yunnan Snub-nosed Monkey
       Conservation Journey across the beautiful Yunnan regions of Naxi Lijiang
@@ -70,14 +70,14 @@ sections:
     actions:
       - type: Button
         label: Learn More
-        url: 'https://mp.weixin.qq.com/s/WdAxXCw7-pEXVsmVqjdxQw'
+        url: 'https://mp.weixin.qq.com/s/BpU3eQ3JsqpWAvBjgH-JhQ'
         icon: arrowRight
         iconPosition: right
         style: primary
     media:
       type: ImageBlock
-      url: /images/Article Preview Header v3.jpg
-      altText: 2025 Monkey Conservation Summer Family EcoCamp in Yunnan
+      url: /images/Article Preview Header v2.webp
+      altText: 2026 Yunnan Monkey Conservation Winter Family EcoCamp
     badge:
       type: Badge
       label: Upcoming EcoCamp
@@ -261,7 +261,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Article Preview Header v3.jpg
+      url: /images/Article Preview Header v2.webp
       altText: Family Summer Camp in Yunnan
     badge:
       type: Badge
@@ -284,7 +284,7 @@ sections:
     actions:
       - type: Button
         label: View Full Article
-        url: 'https://mp.weixin.qq.com/s/WdAxXCw7-pEXVsmVqjdxQw'
+        url: 'https://mp.weixin.qq.com/s/BpU3eQ3JsqpWAvBjgH-JhQ'
         icon: arrowRight
         iconPosition: right
         style: primary
