@@ -13,7 +13,7 @@
         "classnames": "^2.5.1",
         "dayjs": "^1.11.11",
         "front-matter": "^4.0.2",
-        "glob": "^10.5.0",
+        "glob": "^13.0.6",
         "markdown-to-jsx": "^7.7.1",
         "marked": "^14.1.2",
         "next": "15.4.10",
@@ -24,7 +24,7 @@
     },
     "devDependencies": {
         "@base2/pretty-print-object": "^1.0.2",
-        "@stackbit/cms-git": "^1.0.29",
+        "@stackbit/cms-git": "^1.0.37",
         "@stackbit/types": "^2.1.10",
         "@types/glob": "^8.1.0",
         "@types/react": "^19.0.1",
