@@ -5,3 +5,21 @@
 
 [[plugins]]
 package = "@netlify/plugin-nextjs"
+
+# Redirect common browser-requested paths to the actual favicon image.
+# Browsers automatically request /favicon.ico and /apple-touch-icon.png
+# on every page load, and without these redirects they return 404 errors.
+[[redirects]]
+  from = "/favicon.ico"
+  to = "/images/CM Logo Color No Text.png"
+  status = 200
+
+[[redirects]]
+  from = "/apple-touch-icon.png"
+  to = "/images/CM Logo Color No Text.png"
+  status = 200
+
+[[redirects]]
+  from = "/apple-touch-icon-precomposed.png"
+  to = "/images/CM Logo Color No Text.png"
+  status = 200
