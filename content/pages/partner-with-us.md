@@ -188,8 +188,9 @@ sections:
         title: Sustainability Consulting
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Consulting services that help DMCs to advance sustainable development
+          in their project sites.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
