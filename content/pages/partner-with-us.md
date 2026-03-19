@@ -298,7 +298,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: Why partner with us
       color: text-primary
       styles:
         self:
