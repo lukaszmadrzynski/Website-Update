@@ -79,7 +79,7 @@ sections:
     showThumbnail: true
     showExcerpt: true
     showDate: false
-    showAuthor: false
+    showAuthor: true
     actions: []
     elementId: ''
     variant: three-col-grid
