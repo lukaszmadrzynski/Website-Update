@@ -164,7 +164,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item One
+        title: Sustainability Consulting
         tagline: ''
         subtitle: This is the item subtitle
         text: |
