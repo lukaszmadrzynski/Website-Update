@@ -203,7 +203,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Benefits of Partnership
       color: text-dark
       styles:
         self:
