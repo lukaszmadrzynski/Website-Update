@@ -83,7 +83,7 @@ sections:
     subtitle: Flexible collaboration models tailored to your business needs
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Travel Agencies
         tagline: ''
         subtitle: This is the item subtitle
         text: |
