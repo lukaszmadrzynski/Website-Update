@@ -213,10 +213,10 @@ sections:
       - type: FeaturedItem
         title: Trusted Reputation
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          12+ years of experience with 5,000+ happy travelers and verified
+          sustainable practices.
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
