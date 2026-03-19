@@ -175,10 +175,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-20
-          - pl-20
-          - pb-20
-          - pr-20
+          - pt-4
+          - pl-4
+          - pb-4
+          - pr-4
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
