@@ -68,6 +68,7 @@ styles:
       - pl-2
       - pb-2
       - pr-2
+    borderRadius: x-small
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
 
