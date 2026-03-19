@@ -118,7 +118,7 @@ sections:
       - type: FeaturedItem
         title: Schools & Educuation
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
