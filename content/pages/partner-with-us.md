@@ -717,15 +717,6 @@ sections:
 
     actions:
       - type: Button
-        label: Private Ecotours
-        altText: ''
-        url: /ecotours
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
         label: Family Camp
         altText: ''
         url: /Family-EcoCamps
