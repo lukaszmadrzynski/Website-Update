@@ -80,7 +80,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Flexible collaboration models tailored to your business needs
+    subtitle: Flexible collaboration models tailored to your business needs.
     items:
       - type: FeaturedItem
         title: Travel Agencies
