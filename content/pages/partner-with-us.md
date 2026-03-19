@@ -660,41 +660,6 @@ sections:
         padding:
           - pt-12
           - pb-14
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Inquiry and Booking
-      color: text-light
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 400
-    subtitle: We respond within one day!
-    text: |
-      Reach out for more details, special offers and customizations.
-    actions:
-      - type: Button
-        label: Contact Us
-        altText: ''
-        url: /contact-us
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: bg-dark-fg-light
-    styles:
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      self:
-        justifyContent: center
-        padding:
-          - pt-8
-          - pb-4
-          - pl-3
-          - pr-3
 slug: /partner-with-us
 isDraft: false
 seo:
