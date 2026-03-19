@@ -8,9 +8,7 @@ const nextConfig = {
     trailingSlash: true,
     reactStrictMode: true,
     webpack: (config, { isServer }) => {
-        if (isServer) {
-            config.cache = false;
-        }
+        config.cache = false;
         return config;
     }
 };
