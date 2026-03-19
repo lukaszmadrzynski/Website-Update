@@ -230,10 +230,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
