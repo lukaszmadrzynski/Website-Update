@@ -247,7 +247,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Join a network committed to sustainable tourism
+    subtitle: Join a network committed to sustainable tourism and education
     items:
       - type: FeaturedItem
         title: Trusted Reputation
