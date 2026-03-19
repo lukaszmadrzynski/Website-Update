@@ -2,7 +2,12 @@
 type: PostLayout
 title: Naxi Heritage Walk
 date: ''
-excerpt: 'From $48 to $68  '
+excerpt: >-
+  From $48 to $68  Explore the magic of Lijiang'sOld Town, a UNESCO treasure.
+  Discover ancient streets, vibrant markets, andtranquil parks with stunning
+  views of Jade Dragon Snow Mountain. Immerse yourself in rich localculture,
+  admire iconic landmarks, and taste delicious flavors. Experience
+  theunforgettable beauty and history of this captivating destination.
 featuredImage:
   type: ImageBlock
   url: /images/DY-Banner Icon.webp
