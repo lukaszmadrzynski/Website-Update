@@ -164,7 +164,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Learn More
             altText: ''
             url: /
             showIcon: false
