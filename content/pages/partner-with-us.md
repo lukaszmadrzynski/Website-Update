@@ -164,7 +164,7 @@ sections:
           - pt-4
           - pl-4
           - pb-4
-          - pr-0
+          - pr-4
         justifyContent: center
       subtitle:
         textAlign: center
