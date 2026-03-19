@@ -171,7 +171,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Choose Your Partnership Type
       color: text-primary
       styles:
         self:
