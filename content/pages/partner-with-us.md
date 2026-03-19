@@ -38,9 +38,8 @@ sections:
         self:
           textAlign: center
     subtitle: >-
-      Discover the difference of traveling with a passionate, locally-rooted
-      team committed to sustainable travel in Yunnan, China, in the captivating
-      regions of Lijiang and Shangri-La.
+      Join our network of partners and offer your clients unforgettable
+      sustainable experiences in Yunnan, China
     text: ''
     actions: []
     media:
