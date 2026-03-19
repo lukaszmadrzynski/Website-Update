@@ -86,8 +86,9 @@ sections:
         title: Travel Agencies
         tagline: ''
         subtitle: ''
-        text: |
-          Offer exclusive sustainable travel packages to your customers.
+        text: >
+          Offer exclusive sustainable travel packages in the astonishing Yunnan
+          province to your customers.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
