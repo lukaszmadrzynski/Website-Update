@@ -702,7 +702,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Join Us!
+      text: Ready to Partner With Us?
       color: text-dark
       styles:
         self:
