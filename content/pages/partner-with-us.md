@@ -121,7 +121,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Educational programs that will inspire your students while supporting
+          Provide educational programs to your students that support
           conservation and sustainable development in Yunnan.
         image:
           type: ImageBlock
