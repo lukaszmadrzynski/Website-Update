@@ -85,7 +85,7 @@ sections:
       - type: FeaturedItem
         title: Travel Agencies
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Offer exclusive sustainable travel packages to your customers.
         image:
