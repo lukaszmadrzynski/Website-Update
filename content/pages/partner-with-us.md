@@ -121,8 +121,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Provide in-depth and hands-on sustainability education programs to
-          your students that create real world impacts.
+          Provide PBL sustainability programs to your students that create real
+          world impacts.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
