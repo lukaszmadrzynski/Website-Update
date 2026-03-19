@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/14 (4).jpg
+  url: /images/DY-Banner Icon.webp
   altText: Thumbnail
   elementId: ''
   styles:
