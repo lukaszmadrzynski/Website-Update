@@ -121,8 +121,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Educational travel programs that inspire students while supporting
-          local nature conservation and sustainable development.
+          Educational programs that will inspire your students while supporting
+          conservation and sustainable development in Yunnan.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
