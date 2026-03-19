@@ -32,7 +32,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Why Choose Cloud Mountain?
+      text: Partner With Cloud Mountain
       color: text-dark
       styles:
         self:
