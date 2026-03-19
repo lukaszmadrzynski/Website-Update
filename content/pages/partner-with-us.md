@@ -38,8 +38,8 @@ sections:
         self:
           textAlign: center
     subtitle: >-
-      Join our network of partners and offer your clients unforgettable
-      sustainable experiences in Yunnan, China
+      Join our network of partners and offer your clients unforgettable,
+      sustainable experiences in Yunnan, China.
     text: ''
     actions: []
     media:
