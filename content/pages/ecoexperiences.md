@@ -78,7 +78,7 @@ sections:
       - content/pages/blog/this-is-a-blog-post-with-related-posts3.md
     showThumbnail: true
     showExcerpt: true
-    showDate: true
+    showDate: false
     showAuthor: true
     actions: []
     elementId: ''
