@@ -208,7 +208,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Join a network committed to sustainable tourism
     items:
       - type: FeaturedItem
         title: 500k
