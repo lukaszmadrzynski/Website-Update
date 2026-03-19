@@ -2,7 +2,7 @@
 type: PostLayout
 title: Naxi Heritage Walk
 date: ''
-excerpt: ''
+excerpt: 'From $48 to $68  '
 featuredImage:
   type: ImageBlock
   url: /images/DY-Banner Icon.webp
