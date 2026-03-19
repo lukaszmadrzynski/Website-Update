@@ -211,7 +211,7 @@ sections:
     subtitle: Join a network committed to sustainable tourism
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Trusted Reputation
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
