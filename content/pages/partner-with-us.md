@@ -87,7 +87,7 @@ sections:
         tagline: ''
         subtitle: This is the item subtitle
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Offer exclusive sustainable travel packages to your customers.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
