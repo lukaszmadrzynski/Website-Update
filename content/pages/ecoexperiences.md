@@ -97,6 +97,9 @@ sections:
       type: Badge
       label: This is a badge
       color: text-primary
+      styles:
+        self:
+          textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
