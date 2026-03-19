@@ -73,6 +73,7 @@ sections:
         self:
           textAlign: center
     posts:
+      - content/pages/blog/this-is-a-blog-post-with-related-posts.md
       - content/pages/blog/destinations/jade-dragon-snow-mountain.md
       - content/pages/blog/surround-yourself-with-right-people.md
       - content/pages/blog/top-twenty-ways-to-save-time.md
