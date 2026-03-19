@@ -238,7 +238,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-            borderWidth: 1
+            borderWidth: 0
       - type: FeaturedItem
         title: Revenue Growth
         subtitle: The Job Stuff
