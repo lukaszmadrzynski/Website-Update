@@ -280,7 +280,7 @@ sections:
             borderWidth: 0
       - type: FeaturedItem
         title: Revenue Growth
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
