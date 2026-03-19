@@ -2,9 +2,7 @@
 type: PostLayout
 title: Naxi Heritage Walk
 date: ''
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/DY-Banner Icon.webp
