@@ -640,7 +640,7 @@ sections:
 
     actions:
       - type: Button
-        label: Family Camp
+        label: Contact Us
         altText: ''
         url: /Family-EcoCamps
         showIcon: false
