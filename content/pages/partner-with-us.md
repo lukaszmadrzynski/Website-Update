@@ -120,8 +120,9 @@ sections:
         title: Schools & Education
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Educational travel programs that inspire students while supporting
+          local nature conservation and sustainable development.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
