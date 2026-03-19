@@ -611,57 +611,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: |-
-        Exclusive
-        Insights
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: Into Our Project Sites
-    text: >+
-      <div style="text-align: center">Don't just see Yunnan – experience it from
-      the inside. Our
-
-      ecotours and ecocamps take you directly into the very places where we have
-      been actively
-
-      working on conservation and sustainable development. Witness our projects
-
-      firsthand, connect with local communities involved, and know your
-      adventure is
-
-      deeply intertwined with protecting these extraordinary natural and
-      cultural
-
-      landscapes.</div>
-
-    actions: []
-    media:
-      type: ImageBlock
-      altText: Dope design preview
-      styles:
-        self:
-          borderRadius: x-large
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: col-reverse
-        padding:
-          - pt-4
-          - pl-3
-          - pr-3
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
