@@ -101,7 +101,7 @@ sections:
         self:
           textAlign: center
           fontWeight: 400
-    subtitle: subtitle
+    subtitle: ''
   - type: DividerSection
     title: Divider
     elementId: ''
