@@ -642,7 +642,7 @@ sections:
       - type: Button
         label: Contact Us
         altText: ''
-        url: /Family-EcoCamps
+        url: /Contact-us
         showIcon: false
         icon: arrowRight
         iconPosition: right
