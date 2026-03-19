@@ -154,8 +154,9 @@ sections:
         title: Corporate Groups
         tagline: ''
         subtitle: ''
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >
+          Team building and corporate retreat programs that combine authentic
+          experiences with sustainability.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
