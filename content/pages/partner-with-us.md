@@ -642,7 +642,7 @@ sections:
       - type: Button
         label: Contact Us
         altText: ''
-        url: /Contact-us
+        url: /contact-us
         showIcon: false
         icon: arrowRight
         iconPosition: right
