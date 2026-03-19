@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Naxi Heritage Walk
-date: '2026-03-19'
+date: ''
 excerpt: >-
   Explore the magic of Lijiang'sOld Town, a UNESCO treasure. Discover ancient
   streets, vibrant markets, andtranquil parks with stunning views of Jade Dragon
