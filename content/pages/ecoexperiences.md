@@ -76,7 +76,6 @@ sections:
       - content/pages/blog/this-is-a-blog-post-with-related-posts.md
       - content/pages/blog/this-is-a-blog-post-with-related-posts2.md
       - content/pages/blog/this-is-a-blog-post-with-related-posts3.md
-      - content/pages/blog/surround-yourself-with-right-people.md
       - content/pages/blog/top-twenty-ways-to-save-time.md
     showThumbnail: true
     showExcerpt: true
