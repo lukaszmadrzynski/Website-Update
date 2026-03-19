@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Why Us
+title: Partner With Us
 sections:
   - type: GenericSection
     title:
