@@ -34,7 +34,7 @@ bottomSections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/Banner Icon2.jpg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
