@@ -10,8 +10,7 @@ const nextConfig = {
     webpack: (config, { isServer }) => {
         config.cache = false;
         return config;
-    },
-    output: 'export'
+    }
 };
 
 module.exports = nextConfig;
