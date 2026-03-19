@@ -648,15 +648,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-      - type: Button
-        label: Student Camp
-        altText: ''
-        url: /Student-EcoCamps
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
     badge:
       type: Badge
       label: ''
