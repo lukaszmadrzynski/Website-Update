@@ -65,10 +65,10 @@ styles:
   self:
     flexDirection: col
     padding:
-      - pt-2
-      - pl-2
-      - pb-2
-      - pr-2
+      - pt-4
+      - pl-4
+      - pb-4
+      - pr-4
     borderRadius: x-large
     borderColor: border-dark
     borderWidth: 0
