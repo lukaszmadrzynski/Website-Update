@@ -161,7 +161,7 @@ sections:
     styles:
       self:
         padding:
-          - pt-0
+          - pt-4
           - pl-0
           - pb-4
           - pr-0
