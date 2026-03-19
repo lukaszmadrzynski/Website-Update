@@ -117,7 +117,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Schools & Educuation
+        title: Schools & Education
         tagline: ''
         subtitle: ''
         text: |
