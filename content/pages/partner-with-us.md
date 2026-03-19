@@ -709,8 +709,11 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      <div style="text-align: center">Start your exclusive, insider journey
-      now.</div>
+      <div style="text-align: center">Join our growing network of partners and
+      offer sustainable travel experiences your clients will love.
+
+
+      </div>
 
     actions:
       - type: Button
