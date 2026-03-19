@@ -168,17 +168,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-4
-          - pl-4
-          - pb-4
-          - pr-4
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
