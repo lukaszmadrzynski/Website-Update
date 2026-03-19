@@ -42,7 +42,7 @@ bottomSections:
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/Banner Icon2.jpg
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
