@@ -121,8 +121,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Provide educational programs to your students that support
-          conservation and sustainable development in Yunnan.
+          Provide in-depth and hands-on sustainability education programs to
+          your students that create real world impacts.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
