@@ -116,7 +116,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Schools & Educuation
         tagline: ''
         subtitle: This is the item subtitle
         text: |
