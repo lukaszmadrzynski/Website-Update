@@ -93,6 +93,10 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
   - type: DividerSection
     title: Divider
     elementId: ''
