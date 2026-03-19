@@ -100,6 +100,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
   - type: DividerSection
     title: Divider
     elementId: ''
