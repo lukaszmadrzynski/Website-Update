@@ -87,8 +87,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Offer exclusive sustainable travel packages in the astonishing Yunnan
-          province to your customers.
+          Offer exclusive sustainable travel packages to your customers in the
+          astonishing Yunnan province.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
