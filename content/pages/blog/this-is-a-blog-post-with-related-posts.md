@@ -51,7 +51,7 @@ bottomSections:
       self:
         justifyContent: center
 slug: this-is-a-blog-post-with-related-posts
-isFeatured: false
+isFeatured: true
 isDraft: false
 seo:
   type: Seo
