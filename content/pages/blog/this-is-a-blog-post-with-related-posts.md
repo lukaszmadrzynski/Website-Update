@@ -68,7 +68,7 @@ styles:
       - pl-2
       - pb-2
       - pr-2
-    borderRadius: xx-large
+    borderRadius: x-large
     borderColor: border-dark
     borderWidth: 0
 ---
