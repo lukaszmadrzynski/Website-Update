@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Cloud Mountain Ecotours
+title: Cloud Mountain EcoExperiences
 sections:
   - type: GenericSection
     title:
