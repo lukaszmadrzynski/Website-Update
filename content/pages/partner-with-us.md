@@ -176,7 +176,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: Flexible collaboration models tailored to your business needs
     items:
       - type: FeaturedItem
         title: Feature Item One
