@@ -1,0 +1,12 @@
+fragment PageParts on Page {
+  __typename
+  title
+  slug
+  type
+}
+
+fragment DataParts on Data {
+  __typename
+  type
+  title
+}
