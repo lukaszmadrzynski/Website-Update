@@ -7,11 +7,13 @@ const nextConfig = {
     },
     trailingSlash: true,
     reactStrictMode: true,
+    experimental: {
+        optimizePackageImports: ['@tinacms/cli', 'tinacms'],
+    },
     webpack: (config, { isServer }) => {
         config.cache = false;
         return config;
     },
-    output: 'export'
 };
 
 module.exports = nextConfig;
