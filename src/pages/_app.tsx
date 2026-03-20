@@ -1,17 +1,7 @@
 import { TinaProvider, TinaCMS } from 'tinacms'
-import { GithubClient } from '@tinacms/github'
 
 const cms = new TinaCMS({
   enabled: true,
-  github: new GithubClient({
-    proxy: '/api/proxy/github',
-    authProvider: function() {
-      return Promise.resolve('')
-    },
-  }),
-  sidebar: {
-    position: 'disclaimer',
-  },
   media: {
     tina: {
       mediaRoot: '',
