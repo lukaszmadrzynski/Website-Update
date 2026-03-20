@@ -1,1 +1,11 @@
-{"version":4,"routes":{"/wild-heart-of-lijiang-ecotour":{},"/why-us":{},"/wenhai-sanctuary-ecotour":{},"/Student-EcoCamps":{},"/shangri-la-monkey-trip-ecotour":{},"/partner-with-us":{},"/natgeo-forever-walk-ecotour":{},"/living-waters-of-lashi-ecotour":{},"/lijiang-old-town-ecotour":{},"/lijiang-forgotten-forest-ecotour":{},"/":{},"/hidden-jade-dragon-ecotour":{},"/Family-EcoCamps":{},"/ecotours":{},"/contact-us":{},"/about-us":{},"/blog/top-ten-lessons-we-learned":{},"/blog":{},"/blog/destinations/jade-dragon-snow-mountain":{}},"dynamicRoutes":{"/[[...slug]]":{"fallback":false}},"notFoundRoutes":[],"preview":{"previewModeId":"643a58f173a2b862d5451beb0b2210f5","previewModeSigningKey":"53c39c8ee773ae9bc6ea8c0e14f9bd32851c2529c8c1830fabe8e1ccf89e81c7","previewModeEncryptionKey":"c6a200bfeaaca2573f0267d6548e0c0bab9e9719c12060367b7bb74c112305a3"}}
+{
+  "version": 4,
+  "routes": {},
+  "dynamicRoutes": {},
+  "notFoundRoutes": [],
+  "preview": {
+    "previewModeId": "8065aa22a6877a1e16efae88acf6b05d",
+    "previewModeSigningKey": "5c1094b0de198c1fcbfe5532ccbfd167b300c80f14581773a1be7e4847bebe46",
+    "previewModeEncryptionKey": "243f1fd1198e5878bedc3ad69cb4d99106b297f615936a72fcd6b13df970a088"
+  }
+}
