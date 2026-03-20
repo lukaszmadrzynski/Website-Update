@@ -1,22 +1,37 @@
 import { defineConfig } from "tinacms";
 
-// Your Client ID from TinaCloud
-const clientId = "d6a4676e-a84e-45d2-93b0-2c3d3eac86e3";
+// Your hosting provider likely exposes this as an environment variable
+const branch =
+  process.env.GITHUB_BRANCH ||
+  process.env.VERCEL_GIT_COMMIT_REF ||
+  process.env.HEAD ||
+  "main";
 
 export default defineConfig({
-  branch: "main",
-  clientId: clientId,
+  branch,
+
+  // Get this from tina.io
+  clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
+  // Get this from tina.io
   token: process.env.TINA_TOKEN,
+
   build: {
-    outputPath: ".next",
+    outputFolder: "admin",
     publicFolder: "public",
   },
+  // Uncomment to allow cross-origin requests from non-localhost origins
+  // during local development (e.g. GitHub Codespaces, Gitpod, Docker).
+  // Use 'private' to allow all private-network IPs (WSL2, Docker, etc.)
+  // server: {
+  //   allowedOrigins: ['https://your-codespace.github.dev'],
+  // },
   media: {
     tina: {
-      mediaRoot: "uploads",
+      mediaRoot: "",
       publicFolder: "public",
     },
   },
+  // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/r/content-modelling-collections/
   schema: {
     collections: [
       {
@@ -32,17 +47,16 @@ export default defineConfig({
             required: true,
           },
           {
-            type: "string",
-            name: "date",
-            label: "Date",
-          },
-          {
             type: "rich-text",
             name: "body",
             label: "Body",
             isBody: true,
           },
         ],
+        ui: {
+          // This is an DEMO router. You can remove this to fit your site
+          router: ({ document }) => `/demo/blog/${document._sys.filename}`,
+        },
       },
     ],
   },

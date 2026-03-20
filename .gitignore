@@ -42,3 +42,6 @@ yarn-error.log*
 .idea
 
 tmp*
+
+node_modules
+.env
