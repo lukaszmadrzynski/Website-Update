@@ -1,7 +1,13 @@
 import { defineConfig } from "tinacms";
 
+const branch =
+  process.env.GITHUB_BRANCH ||
+  process.env.VERCEL_GIT_COMMIT_REF ||
+  process.env.HEAD ||
+  "main";
+
 export default defineConfig({
-  branch: "main",
+  branch,
   clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
   token: process.env.TINA_TOKEN,
   build: {
@@ -17,27 +23,50 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "post",
-        label: "Posts",
-        path: "content/posts",
+        name: "page",
+        label: "Pages",
+        path: "content/pages",
+        format: "md",
+        match: {
+          include: "**/*",
+        },
         fields: [
           {
             type: "string",
             name: "title",
             label: "Title",
-            isTitle: true,
             required: true,
           },
           {
             type: "string",
-            name: "date",
-            label: "Date",
+            name: "slug",
+            label: "Slug",
           },
           {
-            type: "rich-text",
-            name: "body",
-            label: "Body",
-            isBody: true,
+            type: "string",
+            name: "type",
+            label: "Type",
+          },
+        ],
+      },
+      {
+        name: "data",
+        label: "Data Files",
+        path: "content/data",
+        format: "json",
+        match: {
+          include: "**/*",
+        },
+        fields: [
+          {
+            type: "string",
+            name: "type",
+            label: "Type",
+          },
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
           },
         ],
       },
