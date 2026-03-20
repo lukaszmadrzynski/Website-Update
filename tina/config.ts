@@ -1,3 +1,4 @@
+// TinaCMS configuration - Updated
 import { defineConfig } from "tinacms";
 
 const branch =
