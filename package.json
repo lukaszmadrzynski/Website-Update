@@ -1,10 +1,12 @@
 {
     "name": "content-ops-starter",
     "version": "0.1.0",
+    "private": true,
     "scripts": {
-        "dev": "next dev",
-        "build": "next build",
-        "start": "next start"
+        "dev": "tinacms dev -c \"next dev\"",
+        "build": "tinacms build && next build",
+        "start": "tinacms start -c \"next start\"",
+        "lint": "next lint"
     },
     "dependencies": {
         "@algolia/autocomplete-js": "^1.17.1",
@@ -20,7 +22,9 @@
         "react": "^19.0.0",
         "react-dom": "^19.0.0",
         "swiper": "^11.1.4",
-        "tailwindcss": "^3.4.3"
+        "tailwindcss": "^3.4.3",
+        "@tinacms/cli": "latest",
+        "tinacms": "latest"
     },
     "devDependencies": {
         "@base2/pretty-print-object": "^1.0.2",
@@ -32,6 +36,5 @@
         "autoprefixer": "^10.4.19",
         "prettier": "^3.3.2",
         "typescript": "^5.6.2"
-    },
-    "main": "next.config.js"
+    }
 }
