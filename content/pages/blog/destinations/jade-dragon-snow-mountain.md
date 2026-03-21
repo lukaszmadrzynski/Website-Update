@@ -20,8 +20,8 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
-title: test2
-slug: /destinations/jade-dragon-snow-mountain
+title: test234
+slug: /destinations/jade-dragon-snow-mountains
 type: PostLayout
 ---
 
