@@ -2,6 +2,11 @@
  * @type {import('next').NextConfig}
  */
 const nextConfig = {
+    // Static export configuration for Cloudflare Pages
+    output: 'export',
+    images: {
+        unoptimized: true,
+    },
     env: {
         stackbitPreview: process.env.STACKBIT_PREVIEW
     },
