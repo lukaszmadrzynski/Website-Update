@@ -5,7 +5,7 @@ const nextConfig = {
     env: {
         stackbitPreview: process.env.STACKBIT_PREVIEW
     },
-    trailingSlash: true,
+    trailingSlash: false,
     reactStrictMode: true,
     experimental: {
         optimizePackageImports: ['@tinacms/cli', 'tinacms'],
