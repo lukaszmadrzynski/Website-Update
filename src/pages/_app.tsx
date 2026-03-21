@@ -22,12 +22,6 @@ const roboto_slab = Roboto_Slab({
 // TinaCMS configuration
 const cms = new TinaCMS({
   enabled: true,
-  sidebar: {
-    partials: [],
-  },
-  toolbar: {
-    buttons: ['save'],
-  },
 });
 
 // Google Analytics Measurement ID
@@ -61,7 +55,10 @@ export default function App({ Component, pageProps }) {
         <div className={`${inter.variable} ${roboto_slab.variable}`}>
           <Component {...pageProps} />
         </div>
+
       </>
+
     </TinaProvider>
+
   );
 }
