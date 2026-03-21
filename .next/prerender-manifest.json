@@ -4,7 +4,7 @@
     "/wild-heart-of-lijiang-ecotour": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/wild-heart-of-lijiang-ecotour.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/wild-heart-of-lijiang-ecotour.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -17,7 +17,7 @@
     "/why-us": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/why-us.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/why-us.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -30,7 +30,7 @@
     "/wenhai-sanctuary-ecotour": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/wenhai-sanctuary-ecotour.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/wenhai-sanctuary-ecotour.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -43,7 +43,7 @@
     "/blog/top-ten-lessons-we-learned": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/blog/top-ten-lessons-we-learned.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/blog/top-ten-lessons-we-learned.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -56,7 +56,7 @@
     "/Student-EcoCamps": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/Student-EcoCamps.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/Student-EcoCamps.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -69,7 +69,7 @@
     "/shangri-la-monkey-trip-ecotour": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/shangri-la-monkey-trip-ecotour.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/shangri-la-monkey-trip-ecotour.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -82,7 +82,7 @@
     "/partner-with-us": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/partner-with-us.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/partner-with-us.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -95,7 +95,7 @@
     "/natgeo-forever-walk-ecotour": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/natgeo-forever-walk-ecotour.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/natgeo-forever-walk-ecotour.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -108,7 +108,7 @@
     "/living-waters-of-lashi-ecotour": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/living-waters-of-lashi-ecotour.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/living-waters-of-lashi-ecotour.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -121,7 +121,7 @@
     "/lijiang-old-town-ecotour": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/lijiang-old-town-ecotour.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/lijiang-old-town-ecotour.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -134,7 +134,7 @@
     "/lijiang-forgotten-forest-ecotour": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/lijiang-forgotten-forest-ecotour.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/lijiang-forgotten-forest-ecotour.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -147,7 +147,7 @@
     "/": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/index.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/index.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -160,7 +160,7 @@
     "/hidden-jade-dragon-ecotour": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/hidden-jade-dragon-ecotour.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/hidden-jade-dragon-ecotour.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -173,7 +173,7 @@
     "/Family-EcoCamps": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/Family-EcoCamps.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/Family-EcoCamps.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -186,7 +186,7 @@
     "/ecotours": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/ecotours.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/ecotours.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -199,7 +199,7 @@
     "/contact-us": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/contact-us.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/contact-us.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -212,7 +212,7 @@
     "/about-us": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/about-us.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/about-us.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -225,7 +225,7 @@
     "/blog": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/blog.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/blog.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -238,7 +238,7 @@
     "/blog/destinations/jade-dragon-snow-mountains": {
       "initialRevalidateSeconds": false,
       "srcRoute": "/[[...slug]]",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/blog/destinations/jade-dragon-snow-mountains.json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/blog/destinations/jade-dragon-snow-mountains.json",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -252,9 +252,9 @@
   "dynamicRoutes": {
     "/[[...slug]]": {
       "routeRegex": "^(?:/(.+?))?(?:/)?$",
-      "dataRoute": "/_next/data/sPzioKyPg9Vz6V_YljNho/[[...slug]].json",
+      "dataRoute": "/_next/data/2mbCirExHw1OjZ2ZaRfH-/[[...slug]].json",
       "fallback": false,
-      "dataRouteRegex": "^/_next/data/sPzioKyPg9Vz6V_YljNho(?:/(.+?))?\\.json$",
+      "dataRouteRegex": "^/_next/data/2mbCirExHw1OjZ2ZaRfH\\-(?:/(.+?))?\\.json$",
       "allowHeader": [
         "host",
         "x-matched-path",
