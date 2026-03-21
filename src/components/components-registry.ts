@@ -32,6 +32,8 @@ export function getComponent(key: string): ComponentType {
  */
 const components = {
     AutoCompletePosts: dynamic(() => import('./blocks/SearchBlock/AutoCompletePosts')),
+    Header: dynamic(() => import('./sections/Header')),
+    Footer: dynamic(() => import('./sections/Footer')),
     CarouselSection: dynamic(() => import('./sections/CarouselSection')),
     CheckboxFormControl: dynamic(() => import('./blocks/FormBlock/CheckboxFormControl')),
     DividerSection: dynamic(() => import('./sections/DividerSection')),
