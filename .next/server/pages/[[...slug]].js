@@ -12,11 +12,6 @@
             title
             slug
             type
-            date
-            author
-            excerpt
-            image
-            body
             heroSection {
               title
               subtitle
@@ -88,10 +83,9 @@
             }
             isDraft
             _sys {
-              id
-              type
               filename
               relativePath
+              path
             }
           }
         }

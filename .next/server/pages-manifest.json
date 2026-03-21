@@ -1,7 +1,7 @@
 {
   "/_app": "pages/_app.js",
-  "/admin": "pages/admin.html",
   "/_error": "pages/_error.js",
+  "/admin": "pages/admin.html",
   "/api/reindex": "pages/api/reindex.js",
   "/[[...slug]]": "pages/[[...slug]].js",
   "/_document": "pages/_document.js",
