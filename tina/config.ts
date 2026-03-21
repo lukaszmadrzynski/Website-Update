@@ -301,9 +301,6 @@ export default defineConfig({
             name: "type",
             label: "Layout Type",
             options: ["PageLayout", "PostLayout", "PostFeedLayout"],
-            ui: {
-              readOnly: true,
-            },
           },
           // Sections - Generic Sections
           {
