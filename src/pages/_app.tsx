@@ -2,6 +2,7 @@ import { Inter, Roboto_Slab } from 'next/font/google';
 import Script from 'next/script';
 import '../css/main.css';
 import { TinaProvider, TinaCMS } from 'tinacms';
+import tinaConfig from '../../tina/config';
 
 // Configure Inter font
 const inter = Inter({
@@ -22,6 +23,7 @@ const roboto_slab = Roboto_Slab({
 // TinaCMS configuration
 const cms = new TinaCMS({
   enabled: true,
+  config: tinaConfig,
 });
 
 // Google Analytics Measurement ID
