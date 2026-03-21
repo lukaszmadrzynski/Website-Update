@@ -1,20 +1,211 @@
 {
   "..\\node_modules\\@udecode\\plate-core\\dist\\index.mjs -> react-dom/server": {
-    "id": "..\\node_modules\\@udecode\\plate-core\\dist\\index.mjs -> react-dom/server",
+    "id": 1454,
     "files": [
-      "static/chunks/_pages-dir-browser_node_modules_react-dom_server_browser_js.js"
+      "static/chunks/framework-3a40876168bba891.js"
     ]
   },
   "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
-    "id": "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app",
+    "id": 57,
     "files": [
-      "static/chunks/_pages-dir-browser_node_modules_next_dist_pages__app_js.js"
+      "static/chunks/57.268c8c590d7f2802.js"
     ]
   },
   "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
-    "id": "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error",
+    "id": 4100,
     "files": [
-      "static/chunks/_pages-dir-browser_node_modules_next_dist_pages__error_js.js"
+      "static/chunks/100.dbdf1ef205c72caf.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./blocks/FormBlock": {
+    "id": 2975,
+    "files": [
+      "static/chunks/531.835082c6bee9d08c.js",
+      "static/chunks/975.b7dfa3e35dc1d145.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./blocks/FormBlock/CheckboxFormControl": {
+    "id": 6922,
+    "files": [
+      "static/chunks/922.fe076bf65c060fb7.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./blocks/FormBlock/EmailFormControl": {
+    "id": 1929,
+    "files": [
+      "static/chunks/929.640cbaf35f684f33.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./blocks/FormBlock/SelectFormControl": {
+    "id": 3907,
+    "files": [
+      "static/chunks/907.bcdbab9e4ee91ac3.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./blocks/FormBlock/TextFormControl": {
+    "id": 5935,
+    "files": [
+      "static/chunks/316.cfd1a7e564b55959.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./blocks/FormBlock/TextareaFormControl": {
+    "id": 4309,
+    "files": [
+      "static/chunks/690.d64dcbc67e100d74.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./blocks/ImageBlock": {
+    "id": 9270,
+    "files": [
+      "static/chunks/270.af214722cb2f0bf7.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./blocks/SearchBlock/AutoCompletePosts": {
+    "id": 5840,
+    "files": [
+      "static/css/dd10bc08ebeacf57.css",
+      "static/chunks/764.a5600a57fd8dade4.js",
+      "static/chunks/840.60ae7145591384b8.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./blocks/VideoBlock": {
+    "id": 1092,
+    "files": [
+      "static/chunks/92.a2b9231313bbe3cc.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./layouts/PageLayout": {
+    "id": 6619,
+    "files": [
+      "static/chunks/619.b415ddb79da3e444.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./layouts/PostFeedCategoryLayout": {
+    "id": 1024,
+    "files": [
+      "static/chunks/24.1dc21a05bd1d07c0.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./layouts/PostFeedLayout": {
+    "id": 760,
+    "files": [
+      "static/chunks/760.d11a758c8a53fb78.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./layouts/PostLayout": {
+    "id": 9724,
+    "files": [
+      "static/chunks/724.670c1d0710b6607b.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./sections/CarouselSection": {
+    "id": 3843,
+    "files": [
+      "static/css/bb73e01188fddf05.css",
+      "static/chunks/427.c04b23490fedbb75.js",
+      "static/chunks/843.9b1559d8a840fec3.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./sections/DividerSection": {
+    "id": 2182,
+    "files": [
+      "static/chunks/182.e7a2c00432409c5e.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./sections/FeaturedItemsSection": {
+    "id": 7937,
+    "files": [
+      "static/chunks/576.fcd01cb3a5eb6f92.js",
+      "static/chunks/531.835082c6bee9d08c.js",
+      "static/chunks/937.684b54e3534c8c38.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./sections/FeaturedItemsSection/FeaturedItem": {
+    "id": 7037,
+    "files": [
+      "static/chunks/576.fcd01cb3a5eb6f92.js",
+      "static/chunks/531.835082c6bee9d08c.js",
+      "static/chunks/37.11593a6104f8a8f0.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./sections/FeaturedItemsSection/FeaturedItemToggle": {
+    "id": 8725,
+    "files": [
+      "static/chunks/576.fcd01cb3a5eb6f92.js",
+      "static/chunks/531.835082c6bee9d08c.js",
+      "static/chunks/725.c4ab1263f90005f7.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./sections/FeaturedPeopleSection": {
+    "id": 6428,
+    "files": [
+      "static/chunks/576.fcd01cb3a5eb6f92.js",
+      "static/chunks/531.835082c6bee9d08c.js",
+      "static/chunks/428.b833e519099ee2ef.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./sections/FeaturedPostsSection": {
+    "id": 6425,
+    "files": [
+      "static/chunks/576.fcd01cb3a5eb6f92.js",
+      "static/chunks/531.835082c6bee9d08c.js",
+      "static/chunks/114.d3ae1618a77feb5e.js",
+      "static/chunks/806.c5e11f40d175719e.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./sections/Footer": {
+    "id": 6243,
+    "files": [
+      "static/chunks/576.fcd01cb3a5eb6f92.js",
+      "static/chunks/531.835082c6bee9d08c.js",
+      "static/chunks/624.c1bb3c56439871a6.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./sections/GenericSection": {
+    "id": 5730,
+    "files": [
+      "static/chunks/576.fcd01cb3a5eb6f92.js",
+      "static/chunks/531.835082c6bee9d08c.js",
+      "static/chunks/730.00bb2ec90260a5e6.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./sections/Header": {
+    "id": 8989,
+    "files": [
+      "static/chunks/576.fcd01cb3a5eb6f92.js",
+      "static/chunks/531.835082c6bee9d08c.js",
+      "static/chunks/989.ecb15dfc5ea40fe7.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./sections/ImageGallerySection": {
+    "id": 8608,
+    "files": [
+      "static/chunks/608.0d17533a48b58ae5.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./sections/PostFeedSection": {
+    "id": 3114,
+    "files": [
+      "static/chunks/576.fcd01cb3a5eb6f92.js",
+      "static/chunks/531.835082c6bee9d08c.js",
+      "static/chunks/114.d3ae1618a77feb5e.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./sections/PricingSection": {
+    "id": 7245,
+    "files": [
+      "static/chunks/576.fcd01cb3a5eb6f92.js",
+      "static/chunks/531.835082c6bee9d08c.js",
+      "static/chunks/245.50bca21d8d3af3b7.js"
+    ]
+  },
+  "components\\components-registry.ts -> ./sections/RecentPostsSection": {
+    "id": 9761,
+    "files": [
+      "static/chunks/576.fcd01cb3a5eb6f92.js",
+      "static/chunks/531.835082c6bee9d08c.js",
+      "static/chunks/114.d3ae1618a77feb5e.js",
+      "static/chunks/761.140d46cd6fc6962a.js"
     ]
   }
 }

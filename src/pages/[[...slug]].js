@@ -9,6 +9,11 @@ import { getComponent } from '../components/components-registry';
 import { resolveStaticProps } from '../utils/static-props-resolvers';
 import { resolveStaticPaths } from '../utils/static-paths-resolvers';
 
+// Helper to convert undefined to null for JSON serialization
+function sanitizeData(obj) {
+  return JSON.parse(JSON.stringify(obj));
+}
+
 // Your Main Page Component with TinaCMS Visual Editing support
 function DynamicPage(props) {
   // Use Tina's useTina hook for visual editing
@@ -133,6 +138,11 @@ export async function getStaticProps({ params }) {
             title
             slug
             type
+            date
+            author
+            excerpt
+            image
+            body
             heroSection {
               title
               subtitle
@@ -221,7 +231,17 @@ export async function getStaticProps({ params }) {
     };
 
     console.log(`[getStaticProps SUCCESS] for urlPath: "${urlPath}". Page title from props: ${props.page?.title || 'N/A'}`);
-    return { props: { ...props, ...pageData } };
+    // Sanitize data to convert undefined to null for JSON serialization
+    const sanitizedData = sanitizeData(pageData);
+    // Also sanitize the original props.page object
+    const sanitizedPage = props.page ? sanitizeData(props.page) : null;
+    const sanitizedProps = {
+      ...props,
+      page: sanitizedPage,
+      site: props.site ? sanitizeData(props.site) : null,
+      ...sanitizedData
+    };
+    return { props: sanitizedProps };
 
   } catch (error) {
     console.error('----------------------------------------------------------------');

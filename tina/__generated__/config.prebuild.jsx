@@ -21,8 +21,9 @@ var config_default = defineConfig({
         },
         ui: {
           router: ({ document }) => {
-            const slug = document.slug || "/";
-            return slug === "/" ? "/" : slug;
+            const filename = document._sys?.filename || "";
+            const slug = filename.replace(/\.md$/, "").replace(/^index$/, "/") || "/";
+            return slug;
           }
         },
         fields: [

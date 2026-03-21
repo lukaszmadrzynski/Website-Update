@@ -285,9 +285,10 @@ export default defineConfig({
         },
         ui: {
           router: ({ document }) => {
-            // Map document to URL based on slug
-            const slug = document.slug || '/';
-            return slug === '/' ? '/' : slug;
+            // Map document to URL based on filename (slug)
+            const filename = document._sys?.filename || '';
+            const slug = filename.replace(/\.md$/, '').replace(/^index$/, '/') || '/';
+            return slug;
           },
         },
         fields: [
