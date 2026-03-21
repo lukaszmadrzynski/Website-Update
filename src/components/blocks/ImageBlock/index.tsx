@@ -4,13 +4,18 @@ import classNames from 'classnames';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 
 export default function ImageBlock(props) {
-    const { elementId, className, imageClassName, url, altText = '', styles = {} } = props;
+    const { elementId, className, imageClassName, url, altText = '', styles = {}, 'data-tina-field': tinaField, 'data-sb-field-path': sbFieldPath } = props;
+    
     if (!url) {
         return null;
     }
-    const fieldPath = props['data-sb-field-path'];
-    const annotations = fieldPath
-        ? { 'data-sb-field-path': [fieldPath, `${fieldPath}.url#@src`, `${fieldPath}.altText#@alt`, `${fieldPath}.elementId#@id`].join(' ').trim() }
+    
+    // Build Tina field path for visual editing
+    const tinaFieldPath = tinaField || sbFieldPath || 'image';
+    
+    // Stackbit annotations
+    const annotations = sbFieldPath
+        ? { 'data-sb-field-path': [sbFieldPath, `${sbFieldPath}.url#@src`, `${sbFieldPath}.altText#@alt`, `${sbFieldPath}.elementId#@id`].join(' ').trim() }
         : {};
 
     return (
@@ -22,6 +27,7 @@ export default function ImageBlock(props) {
                 className,
                 styles?.self?.margin ? mapStyles({ margin: styles?.self?.margin }) : undefined
             )}
+            data-tina-field={tinaFieldPath}
             {...annotations}
         >
             <img
@@ -40,7 +46,9 @@ export default function ImageBlock(props) {
                 )}
                 src={url}
                 alt={altText}
+                data-tina-field={`${tinaFieldPath}.url`}
             />
         </div>
+
     );
 }

@@ -283,6 +283,13 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
+        ui: {
+          router: ({ document }) => {
+            // Map document to URL based on slug
+            const slug = document.slug || '/';
+            return slug === '/' ? '/' : slug;
+          },
+        },
         fields: [
           {
             type: "string",

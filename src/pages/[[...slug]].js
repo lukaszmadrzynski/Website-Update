@@ -1,6 +1,7 @@
 // src/pages/[[...slug]].js
 
 import React from 'react';
+import { useTina } from 'tinacms/dist/react';
 
 // Corrected imports - these are your utility functions that handle file system and parsing
 import { allContent } from '../utils/local-content';
@@ -8,9 +9,20 @@ import { getComponent } from '../components/components-registry';
 import { resolveStaticProps } from '../utils/static-props-resolvers';
 import { resolveStaticPaths } from '../utils/static-paths-resolvers';
 
-// Your Main Page Component (adapt this to your actual component)
+// Your Main Page Component with TinaCMS Visual Editing support
 function DynamicPage(props) {
-  const { page, site, hasPageError, errorMessage, errorPageIdentifier } = props;
+  // Use Tina's useTina hook for visual editing
+  // This allows TinaCMS to inject editable content
+  const { data } = useTina({
+    query: props.query,
+    variables: props.variables,
+    data: props.data,
+  });
+
+  // Extract page and site from Tina data (or fallback to props)
+  const page = data?.page || props.page;
+  const site = data?.site || props.site;
+  const { hasPageError, errorMessage, errorPageIdentifier } = props;
 
   if (hasPageError) {
     console.error(`[DynamicPage Component] Rendering error state for page: ${errorPageIdentifier}, Message: ${errorMessage}`);
@@ -18,10 +30,12 @@ function DynamicPage(props) {
       <div>
         <h1>Error Loading Page Content</h1>
         <p>We're sorry, but an issue occurred while trying to load the content for this page.</p>
+
         {process.env.NODE_ENV === 'development' && (
           <pre>Error for page: {errorPageIdentifier} - Message: {errorMessage}</pre>
         )}
       </div>
+
     );
   }
 
@@ -44,7 +58,14 @@ function DynamicPage(props) {
     throw new Error(`no page layout matching the page model: ${modelName}`);
   }
 
-  return <PageLayout page={page} site={site} />;
+  // Add data-tina-field for visual editing
+  const tinaFieldPath = page.__metadata?.relativePath || page.path || '';
+
+  return <PageLayout 
+    page={page} 
+    site={site} 
+    tinaFieldPath={tinaFieldPath}
+  />;
 }
 
 // Helper to get an identifier for logging in the component
@@ -87,12 +108,14 @@ export async function getStaticProps({ params }) {
   try {
     // allContent() should provide all necessary data, including parsed frontmatter and content for all pages.
     // This is where fs, path, and gray-matter (or similar) would be used internally.
+
     const data = allContent();
     // console.log('[getStaticProps] Data from allContent() for path:', urlPath);
 
     // resolveStaticProps takes the urlPath and the full dataset from allContent()
     // and finds/returns the specific props for the requested page.
     // It should NOT need to do fs operations again if allContent() did its job.
+
     const props = await resolveStaticProps(urlPath, data);
 
     if (!props || !props.page) {
@@ -100,17 +123,116 @@ export async function getStaticProps({ params }) {
       return { notFound: true };
     }
 
+    // For visual editing, we need to provide query, variables, and data
+    // This allows useTina to work in edit mode
+    const pageData = {
+      query: `
+        query Page($relativePath: String!) {
+          page(relativePath: $relativePath) {
+            __typename
+            title
+            slug
+            type
+            heroSection {
+              title
+              subtitle
+              text
+              imageUrl
+              imageAlt
+              badgeLabel
+              button1Label
+              button1Url
+              button2Label
+              button2Url
+              button3Label
+              button3Url
+            }
+            introSection {
+              title
+              subtitle
+              text
+              imageUrl
+              imageAlt
+            }
+            featuredSection {
+              title
+              subtitle
+              variant
+              colors
+            }
+            featuredItem1 {
+              title
+              subtitle
+              text
+              imageUrl
+              imageAlt
+            }
+            featuredItem2 {
+              title
+              subtitle
+              text
+              imageUrl
+              imageAlt
+            }
+            featuredItem3 {
+              title
+              subtitle
+              text
+              imageUrl
+              imageAlt
+            }
+            ctaSection {
+              title
+              subtitle
+              text
+              buttonLabel
+              buttonUrl
+              colors
+            }
+            contactSection {
+              title
+              subtitle
+              text
+              buttonLabel
+              buttonUrl
+            }
+            seo {
+              metaTitle
+              metaDescription
+              addTitleSuffix
+              socialImage
+            }
+            isDraft
+            _sys {
+              id
+              type
+              filename
+              relativePath
+            }
+          }
+        }
+      `,
+      variables: {
+        relativePath: props.page.__metadata?.relativePath || `${urlPath.replace(/^\//, '')}.md`
+      },
+      data: {
+        page: props.page
+      }
+    };
+
     console.log(`[getStaticProps SUCCESS] for urlPath: "${urlPath}". Page title from props: ${props.page?.title || 'N/A'}`);
-    return { props };
+    return { props: { ...props, ...pageData } };
 
   } catch (error) {
     console.error('----------------------------------------------------------------');
     console.error(`[getStaticProps CAUGHT ERROR] for urlPath: "${urlPath}"`);
     // Check if the error might be a "file not found" type, even if abstracted by your utils
     // Your utility functions should ideally throw errors with a 'code' property if it's a file system error.
+
     if (error.code === 'ENOENT' || (error.message && (error.message.includes('ENOENT') || error.message.toLowerCase().includes('not found')))) {
       console.error(`Specific Hint: Error suggests a file or resource related to "${urlPath}" was not found. Check 'allContent' or 'resolveStaticProps' logic for how it handles missing files.`);
     }
+
     console.error(`Error Message: ${error.message}`);
     console.error(`Error Name: ${error.name}`);
     console.error(`Error Stack: ${error.stack}`);

@@ -3,7 +3,7 @@ import { getComponent } from '../components-registry';
 import DefaultBaseLayout from './DefaultBaseLayout';
 
 export default function PageLayout(props) {
-    const { page, site } = props;
+    const { page, site, tinaFieldPath } = props;
     const { seo, sections = [] } = page;
 
     return (
@@ -18,10 +18,14 @@ export default function PageLayout(props) {
                                 console.warn(`No component found for section type: ${section.__metadata.modelName}`);
                                 return null;
                             }
+                            // Create field path for Tina visual editing
+                            const fieldPath = tinaFieldPath ? `${tinaFieldPath}.sections.${index}` : undefined;
                             return (
                                 <Component
                                     key={index}
                                     {...section}
+                                    data-tina-field={fieldPath}
+                                    sectionIndex={index}
                                 />
                             );
                         })}
