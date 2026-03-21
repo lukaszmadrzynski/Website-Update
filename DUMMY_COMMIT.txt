@@ -1,0 +1,4 @@
+# Dummy commit to trigger StackFlow rebuild
+# This file can be deleted after the rebuild
+Date: 2026-03-21
+Purpose: Force Cloudflare Pages to rebuild with trailingSlash: false
