@@ -100,9 +100,8 @@ type PageSeo {
 }
 
 type Page implements Node & Document {
-  title: String!
+  title: String
   slug: String
-  type: String
   seo: PageSeo
   isDraft: Boolean
   id: ID!
@@ -131,7 +130,6 @@ input PageSeoFilter {
 input PageFilter {
   title: StringFilter
   slug: StringFilter
-  type: StringFilter
   seo: PageSeoFilter
   isDraft: BooleanFilter
 }
@@ -259,7 +257,6 @@ input PageSeoMutation {
 input PageMutation {
   title: String
   slug: String
-  type: String
   seo: PageSeoMutation
   isDraft: Boolean
 }

@@ -2,7 +2,6 @@ fragment PageParts on Page {
   __typename
   title
   slug
-  type
   seo {
     __typename
     metaTitle

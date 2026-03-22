@@ -210,9 +210,8 @@ export type PageSeo = {
 
 export type Page = Node & Document & {
   __typename?: 'Page';
-  title: Scalars['String']['output'];
+  title?: Maybe<Scalars['String']['output']>;
   slug?: Maybe<Scalars['String']['output']>;
-  type?: Maybe<Scalars['String']['output']>;
   seo?: Maybe<PageSeo>;
   isDraft?: Maybe<Scalars['Boolean']['output']>;
   id: Scalars['ID']['output'];
@@ -241,7 +240,6 @@ export type PageSeoFilter = {
 export type PageFilter = {
   title?: InputMaybe<StringFilter>;
   slug?: InputMaybe<StringFilter>;
-  type?: InputMaybe<StringFilter>;
   seo?: InputMaybe<PageSeoFilter>;
   isDraft?: InputMaybe<BooleanFilter>;
 };
@@ -447,7 +445,6 @@ export type PageSeoMutation = {
 export type PageMutation = {
   title?: InputMaybe<Scalars['String']['input']>;
   slug?: InputMaybe<Scalars['String']['input']>;
-  type?: InputMaybe<Scalars['String']['input']>;
   seo?: InputMaybe<PageSeoMutation>;
   isDraft?: InputMaybe<Scalars['Boolean']['input']>;
 };
@@ -472,7 +469,7 @@ export type BlogMutation = {
   body?: InputMaybe<Scalars['String']['input']>;
 };
 
-export type PagePartsFragment = { __typename: 'Page', title: string, slug?: string | null, type?: string | null, isDraft?: boolean | null, seo?: { __typename: 'PageSeo', metaTitle?: string | null, metaDescription?: string | null, addTitleSuffix?: boolean | null } | null };
+export type PagePartsFragment = { __typename: 'Page', title?: string | null, slug?: string | null, isDraft?: boolean | null, seo?: { __typename: 'PageSeo', metaTitle?: string | null, metaDescription?: string | null, addTitleSuffix?: boolean | null } | null };
 
 export type PostPartsFragment = { __typename: 'Post', title: string, slug?: string | null, date?: string | null, author?: string | null, excerpt?: string | null, image?: string | null, body?: string | null };
 
@@ -483,7 +480,7 @@ export type PageQueryVariables = Exact<{
 }>;
 
 
-export type PageQuery = { __typename?: 'Query', page: { __typename: 'Page', id: string, title: string, slug?: string | null, type?: string | null, isDraft?: boolean | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, hasReferences?: boolean | null, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, seo?: { __typename: 'PageSeo', metaTitle?: string | null, metaDescription?: string | null, addTitleSuffix?: boolean | null } | null } };
+export type PageQuery = { __typename?: 'Query', page: { __typename: 'Page', id: string, title?: string | null, slug?: string | null, isDraft?: boolean | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, hasReferences?: boolean | null, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, seo?: { __typename: 'PageSeo', metaTitle?: string | null, metaDescription?: string | null, addTitleSuffix?: boolean | null } | null } };
 
 export type PageConnectionQueryVariables = Exact<{
   before?: InputMaybe<Scalars['String']['input']>;
@@ -495,7 +492,7 @@ export type PageConnectionQueryVariables = Exact<{
 }>;
 
 
-export type PageConnectionQuery = { __typename?: 'Query', pageConnection: { __typename?: 'PageConnection', totalCount: number, pageInfo: { __typename?: 'PageInfo', hasPreviousPage: boolean, hasNextPage: boolean, startCursor: string, endCursor: string }, edges?: Array<{ __typename?: 'PageConnectionEdges', cursor: string, node?: { __typename: 'Page', id: string, title: string, slug?: string | null, type?: string | null, isDraft?: boolean | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, hasReferences?: boolean | null, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, seo?: { __typename: 'PageSeo', metaTitle?: string | null, metaDescription?: string | null, addTitleSuffix?: boolean | null } | null } | null } | null> | null } };
+export type PageConnectionQuery = { __typename?: 'Query', pageConnection: { __typename?: 'PageConnection', totalCount: number, pageInfo: { __typename?: 'PageInfo', hasPreviousPage: boolean, hasNextPage: boolean, startCursor: string, endCursor: string }, edges?: Array<{ __typename?: 'PageConnectionEdges', cursor: string, node?: { __typename: 'Page', id: string, title?: string | null, slug?: string | null, isDraft?: boolean | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, hasReferences?: boolean | null, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, seo?: { __typename: 'PageSeo', metaTitle?: string | null, metaDescription?: string | null, addTitleSuffix?: boolean | null } | null } | null } | null> | null } };
 
 export type PostQueryVariables = Exact<{
   relativePath: Scalars['String']['input'];
@@ -540,7 +537,6 @@ export const PagePartsFragmentDoc = gql`
   __typename
   title
   slug
-  type
   seo {
     __typename
     metaTitle
