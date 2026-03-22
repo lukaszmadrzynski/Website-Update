@@ -1,9 +1,9 @@
 {
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
   "/admin": "pages/admin.html",
+  "/_error": "pages/_error.js",
   "/api/reindex": "pages/api/reindex.js",
-  "/[[...slug]]": "pages/[[...slug]].js",
   "/_document": "pages/_document.js",
+  "/[[...slug]]": "pages/[[...slug]].js",
   "/404": "pages/404.html"
 }
