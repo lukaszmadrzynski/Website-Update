@@ -36,18 +36,11 @@ export default defineConfig({
             type: "string",
             name: "title",
             label: "Page Title",
-            required: true,
           },
           {
             type: "string",
             name: "slug",
             label: "URL Slug",
-          },
-          {
-            type: "string",
-            name: "type",
-            label: "Layout Type",
-            options: ["PageLayout", "PostLayout", "PostFeedLayout"],
           },
           // Sections is complex YAML - exclude from schema (will be stored as-is in the file)
           // Only edit sections by editing the raw markdown files
