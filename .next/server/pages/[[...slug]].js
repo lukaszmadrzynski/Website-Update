@@ -12,68 +12,11 @@
             title
             slug
             type
-            genericSection {
-              title
-              subtitle
-              text
-              imageUrl
-              imageAlt
-              badgeLabel
-              button1Label
-              button1Url
-              button2Label
-              button2Url
-              button3Label
-              button3Url
-              colors
-            }
-            featuredSection {
-              title
-              subtitle
-              variant
-              colors
-            }
-            featuredItem1 {
-              title
-              subtitle
-              text
-              imageUrl
-              imageAlt
-            }
-            featuredItem2 {
-              title
-              subtitle
-              text
-              imageUrl
-              imageAlt
-            }
-            featuredItem3 {
-              title
-              subtitle
-              text
-              imageUrl
-              imageAlt
-            }
-            ctaSection {
-              title
-              subtitle
-              text
-              buttonLabel
-              buttonUrl
-              colors
-            }
-            contactSection {
-              title
-              subtitle
-              text
-              buttonLabel
-              buttonUrl
-            }
+            sections
             seo {
               metaTitle
               metaDescription
               addTitleSuffix
-              socialImage
             }
             isDraft
             _sys {

@@ -100,6 +100,7 @@ type PageSeo {
 }
 
 type Page implements Node & Document {
+  type: String
   title: String
   slug: String
   seo: PageSeo
@@ -128,6 +129,7 @@ input PageSeoFilter {
 }
 
 input PageFilter {
+  type: StringFilter
   title: StringFilter
   slug: StringFilter
   seo: PageSeoFilter
@@ -255,6 +257,7 @@ input PageSeoMutation {
 }
 
 input PageMutation {
+  type: String
   title: String
   slug: String
   seo: PageSeoMutation

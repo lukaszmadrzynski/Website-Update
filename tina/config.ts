@@ -34,6 +34,12 @@ export default defineConfig({
         fields: [
           {
             type: "string",
+            name: "type",
+            label: "Page Layout Type",
+            description: "Internal field - determines which layout component to use",
+          },
+          {
+            type: "string",
             name: "title",
             label: "Page Title",
           },
