@@ -130,6 +130,7 @@ export async function getStaticProps({ params }) {
 
     // For visual editing, we need to provide query, variables, and data
     // This allows useTina to work in edit mode
+    // Query matches the sections-based content structure
     const pageData = {
       query: `
         query Page($relativePath: String!) {
@@ -138,72 +139,208 @@ export async function getStaticProps({ params }) {
             title
             slug
             type
-            heroSection {
-              title
-              subtitle
-              text
-              imageUrl
-              imageAlt
-              badgeLabel
-              button1Label
-              button1Url
-              button2Label
-              button2Url
-              button3Label
-              button3Url
-            }
-            introSection {
-              title
-              subtitle
-              text
-              imageUrl
-              imageAlt
-            }
-            featuredSection {
-              title
-              subtitle
-              variant
-              colors
-            }
-            featuredItem1 {
-              title
-              subtitle
-              text
-              imageUrl
-              imageAlt
-            }
-            featuredItem2 {
-              title
-              subtitle
-              text
-              imageUrl
-              imageAlt
-            }
-            featuredItem3 {
-              title
-              subtitle
-              text
-              imageUrl
-              imageAlt
-            }
-            ctaSection {
-              title
-              subtitle
-              text
-              buttonLabel
-              buttonUrl
-              colors
-            }
-            contactSection {
-              title
-              subtitle
-              text
-              buttonLabel
-              buttonUrl
+            sections {
+              ... on GenericSection {
+                type
+                title {
+                  text
+                  color
+                  styles {
+                    self {
+                      textAlign
+                      fontWeight
+                    }
+                  }
+                }
+                subtitle
+                text
+                actions {
+                  type
+                  label
+                  altText
+                  url
+                  showIcon
+                  icon
+                  iconPosition
+                  style
+                  elementId
+                }
+                media {
+                  url
+                  altText
+                  elementId
+                  styles {
+                    self {
+                      borderRadius
+                    }
+                  }
+                }
+                badge {
+                  label
+                  color
+                }
+                elementId
+                colors
+                styles {
+                  self {
+                    alignItems
+                    flexDirection
+                    padding
+                    justifyContent
+                    margin
+                  }
+                  text {
+                    textAlign
+                  }
+                  subtitle {
+                    textAlign
+                    fontWeight
+                  }
+                }
+              }
+              ... on FeaturedItemsSection {
+                type
+                title {
+                  text
+                  color
+                  styles {
+                    self {
+                      textAlign
+                      fontWeight
+                    }
+                  }
+                }
+                subtitle
+                items {
+                  title
+                  tagline
+                  subtitle
+                  text
+                  image {
+                    url
+                    altText
+                    elementId
+                    styles {
+                      self {
+                        borderRadius
+                      }
+                    }
+                  }
+                  actions {
+                    type
+                    label
+                    altText
+                    url
+                    showIcon
+                    icon
+                    iconPosition
+                    style
+                    elementId
+                  }
+                  colors
+                  styles {
+                    self {
+                      padding
+                      borderRadius
+                      flexDirection
+                      justifyContent
+                      textAlign
+                      margin
+                      borderColor
+                      borderWidth
+                      borderStyle
+                    }
+                  }
+                }
+                actions {
+                  type
+                  label
+                  altText
+                  url
+                  showIcon
+                  icon
+                  iconPosition
+                  style
+                  elementId
+                }
+                elementId
+                variant
+                colors
+                styles {
+                  self {
+                    padding
+                    justifyContent
+                    margin
+                  }
+                  subtitle {
+                    textAlign
+                    fontWeight
+                  }
+                }
+              }
+              ... on DividerSection {
+                type
+                title
+                elementId
+                colors
+                styles {
+                  self {
+                    padding
+                  }
+                }
+              }
+              ... on CarouselSection {
+                type
+                title {
+                  text
+                  color
+                }
+                subtitle
+                items {
+                  title
+                  tagline
+                  subtitle
+                  text
+                  image {
+                    url
+                    altText
+                  }
+                  actions {
+                    type
+                    label
+                    url
+                    style
+                  }
+                  colors
+                  styles {
+                    self {
+                      padding
+                      textAlign
+                      borderRadius
+                      flexDirection
+                      justifyContent
+                    }
+                  }
+                }
+                elementId
+                variant
+                colors
+                styles {
+                  self {
+                    justifyContent
+                    padding
+                  }
+                  subtitle {
+                    textAlign
+                    fontWeight
+                  }
+                }
+              }
             }
             seo {
               metaTitle
               metaDescription
+              metaTags
               addTitleSuffix
               socialImage
             }
