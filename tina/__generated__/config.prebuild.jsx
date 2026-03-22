@@ -36,8 +36,7 @@ var config_default = defineConfig({
           {
             type: "string",
             name: "slug",
-            label: "URL Slug",
-            description: "The URL path for this page (e.g., /about-us)"
+            label: "URL Slug"
           },
           {
             type: "string",
@@ -45,110 +44,25 @@ var config_default = defineConfig({
             label: "Layout Type",
             options: ["PageLayout", "PostLayout", "PostFeedLayout"]
           },
-          // Sections - Generic Sections
+          // Generic Section
           {
             type: "object",
-            name: "heroSection",
-            label: "Hero Section",
+            name: "genericSection",
+            label: "Generic Section (Hero/Intro)",
             fields: [
-              {
-                type: "string",
-                name: "title",
-                label: "Hero Title"
-              },
-              {
-                type: "string",
-                name: "subtitle",
-                label: "Hero Subtitle"
-              },
-              {
-                type: "string",
-                name: "text",
-                label: "Hero Text",
-                ui: {
-                  component: "textarea"
-                }
-              },
-              {
-                type: "image",
-                name: "imageUrl",
-                label: "Hero Image"
-              },
-              {
-                type: "string",
-                name: "imageAlt",
-                label: "Image Alt Text"
-              },
-              {
-                type: "string",
-                name: "badgeLabel",
-                label: "Badge Label"
-              },
-              {
-                type: "string",
-                name: "button1Label",
-                label: "Button 1 Label"
-              },
-              {
-                type: "string",
-                name: "button1Url",
-                label: "Button 1 URL"
-              },
-              {
-                type: "string",
-                name: "button2Label",
-                label: "Button 2 Label"
-              },
-              {
-                type: "string",
-                name: "button2Url",
-                label: "Button 2 URL"
-              },
-              {
-                type: "string",
-                name: "button3Label",
-                label: "Button 3 Label"
-              },
-              {
-                type: "string",
-                name: "button3Url",
-                label: "Button 3 URL"
-              }
-            ]
-          },
-          {
-            type: "object",
-            name: "introSection",
-            label: "Introduction Section",
-            fields: [
-              {
-                type: "string",
-                name: "title",
-                label: "Section Title"
-              },
-              {
-                type: "string",
-                name: "subtitle",
-                label: "Section Subtitle"
-              },
-              {
-                type: "string",
-                name: "text",
-                label: "Section Text",
-                ui: {
-                  component: "textarea"
-                }
-              },
-              {
-                type: "image",
-                name: "imageUrl",
-                label: "Section Image"
-              },
-              {
-                type: "string",
-                name: "imageAlt",
-                label: "Image Alt Text"
-              }
+              { type: "string", name: "title", label: "Title" },
+              { type: "string", name: "subtitle", label: "Subtitle" },
+              { type: "string", name: "text", label: "Text", ui: { component: "textarea" } },
+              { type: "image", name: "imageUrl", label: "Image URL" },
+              { type: "string", name: "imageAlt", label: "Image Alt Text" },
+              { type: "string", name: "badgeLabel", label: "Badge Label" },
+              { type: "string", name: "button1Label", label: "Button 1 Label" },
+              { type: "string", name: "button1Url", label: "Button 1 URL" },
+              { type: "string", name: "button2Label", label: "Button 2 Label" },
+              { type: "string", name: "button2Url", label: "Button 2 URL" },
+              { type: "string", name: "button3Label", label: "Button 3 Label" },
+              { type: "string", name: "button3Url", label: "Button 3 URL" },
+              { type: "string", name: "colors", label: "Color Theme", options: ["bg-light-fg-dark", "bg-dark-fg-light", "bg-neutral-fg-dark", "bg-primary-fg-light"] }
             ]
           },
           // Featured Items Section
@@ -157,181 +71,63 @@ var config_default = defineConfig({
             name: "featuredSection",
             label: "Featured Items Section",
             fields: [
-              {
-                type: "string",
-                name: "title",
-                label: "Section Title"
-              },
-              {
-                type: "string",
-                name: "subtitle",
-                label: "Section Subtitle"
-              },
-              {
-                type: "string",
-                name: "variant",
-                label: "Layout",
-                options: ["two-col-grid", "three-col-grid"]
-              },
-              {
-                type: "string",
-                name: "colors",
-                label: "Color Theme",
-                options: [
-                  "bg-light-fg-dark",
-                  "bg-dark-fg-light",
-                  "bg-neutral-fg-dark"
-                ]
-              }
+              { type: "string", name: "title", label: "Section Title" },
+              { type: "string", name: "subtitle", label: "Subtitle" },
+              { type: "string", name: "variant", label: "Layout", options: ["two-col-grid", "three-col-grid"] },
+              { type: "string", name: "colors", label: "Color Theme", options: ["bg-light-fg-dark", "bg-dark-fg-light", "bg-neutral-fg-dark"] }
             ]
           },
-          // Featured Items (Items 1-3)
+          // Featured Item 1
           {
             type: "object",
             name: "featuredItem1",
             label: "Featured Item 1",
             fields: [
-              {
-                type: "string",
-                name: "title",
-                label: "Item Title"
-              },
-              {
-                type: "string",
-                name: "subtitle",
-                label: "Item Subtitle"
-              },
-              {
-                type: "string",
-                name: "text",
-                label: "Description",
-                ui: {
-                  component: "textarea"
-                }
-              },
-              {
-                type: "image",
-                name: "imageUrl",
-                label: "Image"
-              },
-              {
-                type: "string",
-                name: "imageAlt",
-                label: "Image Alt Text"
-              }
+              { type: "string", name: "title", label: "Title" },
+              { type: "string", name: "subtitle", label: "Subtitle" },
+              { type: "string", name: "text", label: "Description", ui: { component: "textarea" } },
+              { type: "string", name: "imageUrl", label: "Image URL" },
+              { type: "string", name: "imageAlt", label: "Image Alt Text" }
             ]
           },
+          // Featured Item 2
           {
             type: "object",
             name: "featuredItem2",
             label: "Featured Item 2",
             fields: [
-              {
-                type: "string",
-                name: "title",
-                label: "Item Title"
-              },
-              {
-                type: "string",
-                name: "subtitle",
-                label: "Item Subtitle"
-              },
-              {
-                type: "string",
-                name: "text",
-                label: "Description",
-                ui: {
-                  component: "textarea"
-                }
-              },
-              {
-                type: "image",
-                name: "imageUrl",
-                label: "Image"
-              },
-              {
-                type: "string",
-                name: "imageAlt",
-                label: "Image Alt Text"
-              }
+              { type: "string", name: "title", label: "Title" },
+              { type: "string", name: "subtitle", label: "Subtitle" },
+              { type: "string", name: "text", label: "Description", ui: { component: "textarea" } },
+              { type: "string", name: "imageUrl", label: "Image URL" },
+              { type: "string", name: "imageAlt", label: "Image Alt Text" }
             ]
           },
+          // Featured Item 3
           {
             type: "object",
             name: "featuredItem3",
             label: "Featured Item 3",
             fields: [
-              {
-                type: "string",
-                name: "title",
-                label: "Item Title"
-              },
-              {
-                type: "string",
-                name: "subtitle",
-                label: "Item Subtitle"
-              },
-              {
-                type: "string",
-                name: "text",
-                label: "Description",
-                ui: {
-                  component: "textarea"
-                }
-              },
-              {
-                type: "image",
-                name: "imageUrl",
-                label: "Image"
-              },
-              {
-                type: "string",
-                name: "imageAlt",
-                label: "Image Alt Text"
-              }
+              { type: "string", name: "title", label: "Title" },
+              { type: "string", name: "subtitle", label: "Subtitle" },
+              { type: "string", name: "text", label: "Description", ui: { component: "textarea" } },
+              { type: "string", name: "imageUrl", label: "Image URL" },
+              { type: "string", name: "imageAlt", label: "Image Alt Text" }
             ]
           },
           // CTA Section
           {
             type: "object",
             name: "ctaSection",
-            label: "Call to Action Section",
+            label: "Call to Action",
             fields: [
-              {
-                type: "string",
-                name: "title",
-                label: "CTA Title"
-              },
-              {
-                type: "string",
-                name: "subtitle",
-                label: "CTA Subtitle"
-              },
-              {
-                type: "string",
-                name: "text",
-                label: "CTA Text"
-              },
-              {
-                type: "string",
-                name: "buttonLabel",
-                label: "Button Label"
-              },
-              {
-                type: "string",
-                name: "buttonUrl",
-                label: "Button URL"
-              },
-              {
-                type: "string",
-                name: "colors",
-                label: "Color Theme",
-                options: [
-                  "bg-light-fg-dark",
-                  "bg-dark-fg-light",
-                  "bg-primary-fg-light"
-                ]
-              }
+              { type: "string", name: "title", label: "Title" },
+              { type: "string", name: "subtitle", label: "Subtitle" },
+              { type: "string", name: "text", label: "Text" },
+              { type: "string", name: "buttonLabel", label: "Button Label" },
+              { type: "string", name: "buttonUrl", label: "Button URL" },
+              { type: "string", name: "colors", label: "Color Theme", options: ["bg-light-fg-dark", "bg-dark-fg-light", "bg-primary-fg-light"] }
             ]
           },
           // Contact Section
@@ -340,62 +136,23 @@ var config_default = defineConfig({
             name: "contactSection",
             label: "Contact Section",
             fields: [
-              {
-                type: "string",
-                name: "title",
-                label: "Section Title"
-              },
-              {
-                type: "string",
-                name: "subtitle",
-                label: "Section Subtitle"
-              },
-              {
-                type: "string",
-                name: "text",
-                label: "Contact Text"
-              },
-              {
-                type: "string",
-                name: "buttonLabel",
-                label: "Button Label"
-              },
-              {
-                type: "string",
-                name: "buttonUrl",
-                label: "Button URL"
-              }
+              { type: "string", name: "title", label: "Title" },
+              { type: "string", name: "subtitle", label: "Subtitle" },
+              { type: "string", name: "text", label: "Text" },
+              { type: "string", name: "buttonLabel", label: "Button Label" },
+              { type: "string", name: "buttonUrl", label: "Button URL" }
             ]
           },
-          // SEO Section
+          // SEO
           {
             type: "object",
             name: "seo",
             label: "SEO Settings",
             fields: [
-              {
-                type: "string",
-                name: "metaTitle",
-                label: "Meta Title"
-              },
-              {
-                type: "string",
-                name: "metaDescription",
-                label: "Meta Description",
-                ui: {
-                  component: "textarea"
-                }
-              },
-              {
-                type: "boolean",
-                name: "addTitleSuffix",
-                label: "Add Site Name to Title"
-              },
-              {
-                type: "image",
-                name: "socialImage",
-                label: "Social Media Image"
-              }
+              { type: "string", name: "metaTitle", label: "Meta Title" },
+              { type: "string", name: "metaDescription", label: "Meta Description", ui: { component: "textarea" } },
+              { type: "boolean", name: "addTitleSuffix", label: "Add Title Suffix" },
+              { type: "image", name: "socialImage", label: "Social Image" }
             ]
           },
           {
@@ -414,49 +171,13 @@ var config_default = defineConfig({
           include: "**/*"
         },
         fields: [
-          {
-            type: "string",
-            name: "title",
-            label: "Title",
-            required: true
-          },
-          {
-            type: "string",
-            name: "slug",
-            label: "URL Slug"
-          },
-          {
-            type: "datetime",
-            name: "date",
-            label: "Date"
-          },
-          {
-            type: "string",
-            name: "author",
-            label: "Author"
-          },
-          {
-            type: "string",
-            name: "excerpt",
-            label: "Excerpt",
-            ui: {
-              component: "textarea"
-            }
-          },
-          {
-            type: "image",
-            name: "image",
-            label: "Featured Image"
-          },
-          {
-            type: "string",
-            name: "body",
-            label: "Body",
-            ui: {
-              component: "textarea"
-            },
-            isBody: true
-          }
+          { type: "string", name: "title", label: "Title", required: true },
+          { type: "string", name: "slug", label: "URL Slug" },
+          { type: "datetime", name: "date", label: "Date" },
+          { type: "string", name: "author", label: "Author" },
+          { type: "string", name: "excerpt", label: "Excerpt", ui: { component: "textarea" } },
+          { type: "image", name: "image", label: "Featured Image" },
+          { type: "string", name: "body", label: "Body", ui: { component: "textarea" }, isBody: true }
         ]
       },
       {
@@ -468,16 +189,8 @@ var config_default = defineConfig({
           include: "**/*"
         },
         fields: [
-          {
-            type: "string",
-            name: "type",
-            label: "Type"
-          },
-          {
-            type: "string",
-            name: "title",
-            label: "Title"
-          }
+          { type: "string", name: "type", label: "Type" },
+          { type: "string", name: "title", label: "Title" }
         ]
       }
     ]

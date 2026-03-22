@@ -12,7 +12,7 @@
             title
             slug
             type
-            heroSection {
+            genericSection {
               title
               subtitle
               text
@@ -25,13 +25,7 @@
               button2Url
               button3Label
               button3Url
-            }
-            introSection {
-              title
-              subtitle
-              text
-              imageUrl
-              imageAlt
+              colors
             }
             featuredSection {
               title

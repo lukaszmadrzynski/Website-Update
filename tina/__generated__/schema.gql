@@ -93,7 +93,7 @@ type Collection {
 
 union DocumentNode = Page | Post | Data | Folder
 
-type PageHeroSection {
+type PageGenericSection {
   title: String
   subtitle: String
   text: String
@@ -106,14 +106,7 @@ type PageHeroSection {
   button2Url: String
   button3Label: String
   button3Url: String
-}
-
-type PageIntroSection {
-  title: String
-  subtitle: String
-  text: String
-  imageUrl: String
-  imageAlt: String
+  colors: String
 }
 
 type PageFeaturedSection {
@@ -175,8 +168,7 @@ type Page implements Node & Document {
   title: String!
   slug: String
   type: String
-  heroSection: PageHeroSection
-  introSection: PageIntroSection
+  genericSection: PageGenericSection
   featuredSection: PageFeaturedSection
   featuredItem1: PageFeaturedItem1
   featuredItem2: PageFeaturedItem2
@@ -204,7 +196,7 @@ input ImageFilter {
   in: [String]
 }
 
-input PageHeroSectionFilter {
+input PageGenericSectionFilter {
   title: StringFilter
   subtitle: StringFilter
   text: StringFilter
@@ -217,14 +209,7 @@ input PageHeroSectionFilter {
   button2Url: StringFilter
   button3Label: StringFilter
   button3Url: StringFilter
-}
-
-input PageIntroSectionFilter {
-  title: StringFilter
-  subtitle: StringFilter
-  text: StringFilter
-  imageUrl: ImageFilter
-  imageAlt: StringFilter
+  colors: StringFilter
 }
 
 input PageFeaturedSectionFilter {
@@ -238,7 +223,7 @@ input PageFeaturedItem1Filter {
   title: StringFilter
   subtitle: StringFilter
   text: StringFilter
-  imageUrl: ImageFilter
+  imageUrl: StringFilter
   imageAlt: StringFilter
 }
 
@@ -246,7 +231,7 @@ input PageFeaturedItem2Filter {
   title: StringFilter
   subtitle: StringFilter
   text: StringFilter
-  imageUrl: ImageFilter
+  imageUrl: StringFilter
   imageAlt: StringFilter
 }
 
@@ -254,7 +239,7 @@ input PageFeaturedItem3Filter {
   title: StringFilter
   subtitle: StringFilter
   text: StringFilter
-  imageUrl: ImageFilter
+  imageUrl: StringFilter
   imageAlt: StringFilter
 }
 
@@ -291,8 +276,7 @@ input PageFilter {
   title: StringFilter
   slug: StringFilter
   type: StringFilter
-  heroSection: PageHeroSectionFilter
-  introSection: PageIntroSectionFilter
+  genericSection: PageGenericSectionFilter
   featuredSection: PageFeaturedSectionFilter
   featuredItem1: PageFeaturedItem1Filter
   featuredItem2: PageFeaturedItem2Filter
@@ -407,7 +391,7 @@ input DocumentMutation {
   data: DataMutation
 }
 
-input PageHeroSectionMutation {
+input PageGenericSectionMutation {
   title: String
   subtitle: String
   text: String
@@ -420,14 +404,7 @@ input PageHeroSectionMutation {
   button2Url: String
   button3Label: String
   button3Url: String
-}
-
-input PageIntroSectionMutation {
-  title: String
-  subtitle: String
-  text: String
-  imageUrl: String
-  imageAlt: String
+  colors: String
 }
 
 input PageFeaturedSectionMutation {
@@ -489,8 +466,7 @@ input PageMutation {
   title: String
   slug: String
   type: String
-  heroSection: PageHeroSectionMutation
-  introSection: PageIntroSectionMutation
+  genericSection: PageGenericSectionMutation
   featuredSection: PageFeaturedSectionMutation
   featuredItem1: PageFeaturedItem1Mutation
   featuredItem2: PageFeaturedItem2Mutation

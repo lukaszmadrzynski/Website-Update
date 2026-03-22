@@ -201,8 +201,8 @@ export type CollectionDocumentsArgs = {
 
 export type DocumentNode = Page | Post | Data | Folder;
 
-export type PageHeroSection = {
-  __typename?: 'PageHeroSection';
+export type PageGenericSection = {
+  __typename?: 'PageGenericSection';
   title?: Maybe<Scalars['String']['output']>;
   subtitle?: Maybe<Scalars['String']['output']>;
   text?: Maybe<Scalars['String']['output']>;
@@ -215,15 +215,7 @@ export type PageHeroSection = {
   button2Url?: Maybe<Scalars['String']['output']>;
   button3Label?: Maybe<Scalars['String']['output']>;
   button3Url?: Maybe<Scalars['String']['output']>;
-};
-
-export type PageIntroSection = {
-  __typename?: 'PageIntroSection';
-  title?: Maybe<Scalars['String']['output']>;
-  subtitle?: Maybe<Scalars['String']['output']>;
-  text?: Maybe<Scalars['String']['output']>;
-  imageUrl?: Maybe<Scalars['String']['output']>;
-  imageAlt?: Maybe<Scalars['String']['output']>;
+  colors?: Maybe<Scalars['String']['output']>;
 };
 
 export type PageFeaturedSection = {
@@ -293,8 +285,7 @@ export type Page = Node & Document & {
   title: Scalars['String']['output'];
   slug?: Maybe<Scalars['String']['output']>;
   type?: Maybe<Scalars['String']['output']>;
-  heroSection?: Maybe<PageHeroSection>;
-  introSection?: Maybe<PageIntroSection>;
+  genericSection?: Maybe<PageGenericSection>;
   featuredSection?: Maybe<PageFeaturedSection>;
   featuredItem1?: Maybe<PageFeaturedItem1>;
   featuredItem2?: Maybe<PageFeaturedItem2>;
@@ -322,7 +313,7 @@ export type ImageFilter = {
   in?: InputMaybe<Array<InputMaybe<Scalars['String']['input']>>>;
 };
 
-export type PageHeroSectionFilter = {
+export type PageGenericSectionFilter = {
   title?: InputMaybe<StringFilter>;
   subtitle?: InputMaybe<StringFilter>;
   text?: InputMaybe<StringFilter>;
@@ -335,14 +326,7 @@ export type PageHeroSectionFilter = {
   button2Url?: InputMaybe<StringFilter>;
   button3Label?: InputMaybe<StringFilter>;
   button3Url?: InputMaybe<StringFilter>;
-};
-
-export type PageIntroSectionFilter = {
-  title?: InputMaybe<StringFilter>;
-  subtitle?: InputMaybe<StringFilter>;
-  text?: InputMaybe<StringFilter>;
-  imageUrl?: InputMaybe<ImageFilter>;
-  imageAlt?: InputMaybe<StringFilter>;
+  colors?: InputMaybe<StringFilter>;
 };
 
 export type PageFeaturedSectionFilter = {
@@ -356,7 +340,7 @@ export type PageFeaturedItem1Filter = {
   title?: InputMaybe<StringFilter>;
   subtitle?: InputMaybe<StringFilter>;
   text?: InputMaybe<StringFilter>;
-  imageUrl?: InputMaybe<ImageFilter>;
+  imageUrl?: InputMaybe<StringFilter>;
   imageAlt?: InputMaybe<StringFilter>;
 };
 
@@ -364,7 +348,7 @@ export type PageFeaturedItem2Filter = {
   title?: InputMaybe<StringFilter>;
   subtitle?: InputMaybe<StringFilter>;
   text?: InputMaybe<StringFilter>;
-  imageUrl?: InputMaybe<ImageFilter>;
+  imageUrl?: InputMaybe<StringFilter>;
   imageAlt?: InputMaybe<StringFilter>;
 };
 
@@ -372,7 +356,7 @@ export type PageFeaturedItem3Filter = {
   title?: InputMaybe<StringFilter>;
   subtitle?: InputMaybe<StringFilter>;
   text?: InputMaybe<StringFilter>;
-  imageUrl?: InputMaybe<ImageFilter>;
+  imageUrl?: InputMaybe<StringFilter>;
   imageAlt?: InputMaybe<StringFilter>;
 };
 
@@ -409,8 +393,7 @@ export type PageFilter = {
   title?: InputMaybe<StringFilter>;
   slug?: InputMaybe<StringFilter>;
   type?: InputMaybe<StringFilter>;
-  heroSection?: InputMaybe<PageHeroSectionFilter>;
-  introSection?: InputMaybe<PageIntroSectionFilter>;
+  genericSection?: InputMaybe<PageGenericSectionFilter>;
   featuredSection?: InputMaybe<PageFeaturedSectionFilter>;
   featuredItem1?: InputMaybe<PageFeaturedItem1Filter>;
   featuredItem2?: InputMaybe<PageFeaturedItem2Filter>;
@@ -603,7 +586,7 @@ export type DocumentMutation = {
   data?: InputMaybe<DataMutation>;
 };
 
-export type PageHeroSectionMutation = {
+export type PageGenericSectionMutation = {
   title?: InputMaybe<Scalars['String']['input']>;
   subtitle?: InputMaybe<Scalars['String']['input']>;
   text?: InputMaybe<Scalars['String']['input']>;
@@ -616,14 +599,7 @@ export type PageHeroSectionMutation = {
   button2Url?: InputMaybe<Scalars['String']['input']>;
   button3Label?: InputMaybe<Scalars['String']['input']>;
   button3Url?: InputMaybe<Scalars['String']['input']>;
-};
-
-export type PageIntroSectionMutation = {
-  title?: InputMaybe<Scalars['String']['input']>;
-  subtitle?: InputMaybe<Scalars['String']['input']>;
-  text?: InputMaybe<Scalars['String']['input']>;
-  imageUrl?: InputMaybe<Scalars['String']['input']>;
-  imageAlt?: InputMaybe<Scalars['String']['input']>;
+  colors?: InputMaybe<Scalars['String']['input']>;
 };
 
 export type PageFeaturedSectionMutation = {
@@ -685,8 +661,7 @@ export type PageMutation = {
   title?: InputMaybe<Scalars['String']['input']>;
   slug?: InputMaybe<Scalars['String']['input']>;
   type?: InputMaybe<Scalars['String']['input']>;
-  heroSection?: InputMaybe<PageHeroSectionMutation>;
-  introSection?: InputMaybe<PageIntroSectionMutation>;
+  genericSection?: InputMaybe<PageGenericSectionMutation>;
   featuredSection?: InputMaybe<PageFeaturedSectionMutation>;
   featuredItem1?: InputMaybe<PageFeaturedItem1Mutation>;
   featuredItem2?: InputMaybe<PageFeaturedItem2Mutation>;
@@ -712,7 +687,7 @@ export type DataMutation = {
   title?: InputMaybe<Scalars['String']['input']>;
 };
 
-export type PagePartsFragment = { __typename: 'Page', title: string, slug?: string | null, type?: string | null, isDraft?: boolean | null, heroSection?: { __typename: 'PageHeroSection', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null, badgeLabel?: string | null, button1Label?: string | null, button1Url?: string | null, button2Label?: string | null, button2Url?: string | null, button3Label?: string | null, button3Url?: string | null } | null, introSection?: { __typename: 'PageIntroSection', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, featuredSection?: { __typename: 'PageFeaturedSection', title?: string | null, subtitle?: string | null, variant?: string | null, colors?: string | null } | null, featuredItem1?: { __typename: 'PageFeaturedItem1', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, featuredItem2?: { __typename: 'PageFeaturedItem2', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, featuredItem3?: { __typename: 'PageFeaturedItem3', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, ctaSection?: { __typename: 'PageCtaSection', title?: string | null, subtitle?: string | null, text?: string | null, buttonLabel?: string | null, buttonUrl?: string | null, colors?: string | null } | null, contactSection?: { __typename: 'PageContactSection', title?: string | null, subtitle?: string | null, text?: string | null, buttonLabel?: string | null, buttonUrl?: string | null } | null, seo?: { __typename: 'PageSeo', metaTitle?: string | null, metaDescription?: string | null, addTitleSuffix?: boolean | null, socialImage?: string | null } | null };
+export type PagePartsFragment = { __typename: 'Page', title: string, slug?: string | null, type?: string | null, isDraft?: boolean | null, genericSection?: { __typename: 'PageGenericSection', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null, badgeLabel?: string | null, button1Label?: string | null, button1Url?: string | null, button2Label?: string | null, button2Url?: string | null, button3Label?: string | null, button3Url?: string | null, colors?: string | null } | null, featuredSection?: { __typename: 'PageFeaturedSection', title?: string | null, subtitle?: string | null, variant?: string | null, colors?: string | null } | null, featuredItem1?: { __typename: 'PageFeaturedItem1', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, featuredItem2?: { __typename: 'PageFeaturedItem2', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, featuredItem3?: { __typename: 'PageFeaturedItem3', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, ctaSection?: { __typename: 'PageCtaSection', title?: string | null, subtitle?: string | null, text?: string | null, buttonLabel?: string | null, buttonUrl?: string | null, colors?: string | null } | null, contactSection?: { __typename: 'PageContactSection', title?: string | null, subtitle?: string | null, text?: string | null, buttonLabel?: string | null, buttonUrl?: string | null } | null, seo?: { __typename: 'PageSeo', metaTitle?: string | null, metaDescription?: string | null, addTitleSuffix?: boolean | null, socialImage?: string | null } | null };
 
 export type PostPartsFragment = { __typename: 'Post', title: string, slug?: string | null, date?: string | null, author?: string | null, excerpt?: string | null, image?: string | null, body?: string | null };
 
@@ -723,7 +698,7 @@ export type PageQueryVariables = Exact<{
 }>;
 
 
-export type PageQuery = { __typename?: 'Query', page: { __typename: 'Page', id: string, title: string, slug?: string | null, type?: string | null, isDraft?: boolean | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, hasReferences?: boolean | null, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, heroSection?: { __typename: 'PageHeroSection', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null, badgeLabel?: string | null, button1Label?: string | null, button1Url?: string | null, button2Label?: string | null, button2Url?: string | null, button3Label?: string | null, button3Url?: string | null } | null, introSection?: { __typename: 'PageIntroSection', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, featuredSection?: { __typename: 'PageFeaturedSection', title?: string | null, subtitle?: string | null, variant?: string | null, colors?: string | null } | null, featuredItem1?: { __typename: 'PageFeaturedItem1', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, featuredItem2?: { __typename: 'PageFeaturedItem2', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, featuredItem3?: { __typename: 'PageFeaturedItem3', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, ctaSection?: { __typename: 'PageCtaSection', title?: string | null, subtitle?: string | null, text?: string | null, buttonLabel?: string | null, buttonUrl?: string | null, colors?: string | null } | null, contactSection?: { __typename: 'PageContactSection', title?: string | null, subtitle?: string | null, text?: string | null, buttonLabel?: string | null, buttonUrl?: string | null } | null, seo?: { __typename: 'PageSeo', metaTitle?: string | null, metaDescription?: string | null, addTitleSuffix?: boolean | null, socialImage?: string | null } | null } };
+export type PageQuery = { __typename?: 'Query', page: { __typename: 'Page', id: string, title: string, slug?: string | null, type?: string | null, isDraft?: boolean | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, hasReferences?: boolean | null, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, genericSection?: { __typename: 'PageGenericSection', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null, badgeLabel?: string | null, button1Label?: string | null, button1Url?: string | null, button2Label?: string | null, button2Url?: string | null, button3Label?: string | null, button3Url?: string | null, colors?: string | null } | null, featuredSection?: { __typename: 'PageFeaturedSection', title?: string | null, subtitle?: string | null, variant?: string | null, colors?: string | null } | null, featuredItem1?: { __typename: 'PageFeaturedItem1', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, featuredItem2?: { __typename: 'PageFeaturedItem2', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, featuredItem3?: { __typename: 'PageFeaturedItem3', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, ctaSection?: { __typename: 'PageCtaSection', title?: string | null, subtitle?: string | null, text?: string | null, buttonLabel?: string | null, buttonUrl?: string | null, colors?: string | null } | null, contactSection?: { __typename: 'PageContactSection', title?: string | null, subtitle?: string | null, text?: string | null, buttonLabel?: string | null, buttonUrl?: string | null } | null, seo?: { __typename: 'PageSeo', metaTitle?: string | null, metaDescription?: string | null, addTitleSuffix?: boolean | null, socialImage?: string | null } | null } };
 
 export type PageConnectionQueryVariables = Exact<{
   before?: InputMaybe<Scalars['String']['input']>;
@@ -735,7 +710,7 @@ export type PageConnectionQueryVariables = Exact<{
 }>;
 
 
-export type PageConnectionQuery = { __typename?: 'Query', pageConnection: { __typename?: 'PageConnection', totalCount: number, pageInfo: { __typename?: 'PageInfo', hasPreviousPage: boolean, hasNextPage: boolean, startCursor: string, endCursor: string }, edges?: Array<{ __typename?: 'PageConnectionEdges', cursor: string, node?: { __typename: 'Page', id: string, title: string, slug?: string | null, type?: string | null, isDraft?: boolean | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, hasReferences?: boolean | null, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, heroSection?: { __typename: 'PageHeroSection', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null, badgeLabel?: string | null, button1Label?: string | null, button1Url?: string | null, button2Label?: string | null, button2Url?: string | null, button3Label?: string | null, button3Url?: string | null } | null, introSection?: { __typename: 'PageIntroSection', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, featuredSection?: { __typename: 'PageFeaturedSection', title?: string | null, subtitle?: string | null, variant?: string | null, colors?: string | null } | null, featuredItem1?: { __typename: 'PageFeaturedItem1', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, featuredItem2?: { __typename: 'PageFeaturedItem2', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, featuredItem3?: { __typename: 'PageFeaturedItem3', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, ctaSection?: { __typename: 'PageCtaSection', title?: string | null, subtitle?: string | null, text?: string | null, buttonLabel?: string | null, buttonUrl?: string | null, colors?: string | null } | null, contactSection?: { __typename: 'PageContactSection', title?: string | null, subtitle?: string | null, text?: string | null, buttonLabel?: string | null, buttonUrl?: string | null } | null, seo?: { __typename: 'PageSeo', metaTitle?: string | null, metaDescription?: string | null, addTitleSuffix?: boolean | null, socialImage?: string | null } | null } | null } | null> | null } };
+export type PageConnectionQuery = { __typename?: 'Query', pageConnection: { __typename?: 'PageConnection', totalCount: number, pageInfo: { __typename?: 'PageInfo', hasPreviousPage: boolean, hasNextPage: boolean, startCursor: string, endCursor: string }, edges?: Array<{ __typename?: 'PageConnectionEdges', cursor: string, node?: { __typename: 'Page', id: string, title: string, slug?: string | null, type?: string | null, isDraft?: boolean | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, hasReferences?: boolean | null, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, genericSection?: { __typename: 'PageGenericSection', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null, badgeLabel?: string | null, button1Label?: string | null, button1Url?: string | null, button2Label?: string | null, button2Url?: string | null, button3Label?: string | null, button3Url?: string | null, colors?: string | null } | null, featuredSection?: { __typename: 'PageFeaturedSection', title?: string | null, subtitle?: string | null, variant?: string | null, colors?: string | null } | null, featuredItem1?: { __typename: 'PageFeaturedItem1', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, featuredItem2?: { __typename: 'PageFeaturedItem2', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, featuredItem3?: { __typename: 'PageFeaturedItem3', title?: string | null, subtitle?: string | null, text?: string | null, imageUrl?: string | null, imageAlt?: string | null } | null, ctaSection?: { __typename: 'PageCtaSection', title?: string | null, subtitle?: string | null, text?: string | null, buttonLabel?: string | null, buttonUrl?: string | null, colors?: string | null } | null, contactSection?: { __typename: 'PageContactSection', title?: string | null, subtitle?: string | null, text?: string | null, buttonLabel?: string | null, buttonUrl?: string | null } | null, seo?: { __typename: 'PageSeo', metaTitle?: string | null, metaDescription?: string | null, addTitleSuffix?: boolean | null, socialImage?: string | null } | null } | null } | null> | null } };
 
 export type PostQueryVariables = Exact<{
   relativePath: Scalars['String']['input'];
@@ -781,7 +756,7 @@ export const PagePartsFragmentDoc = gql`
   title
   slug
   type
-  heroSection {
+  genericSection {
     __typename
     title
     subtitle
@@ -795,14 +770,7 @@ export const PagePartsFragmentDoc = gql`
     button2Url
     button3Label
     button3Url
-  }
-  introSection {
-    __typename
-    title
-    subtitle
-    text
-    imageUrl
-    imageAlt
+    colors
   }
   featuredSection {
     __typename

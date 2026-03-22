@@ -3,7 +3,7 @@ fragment PageParts on Page {
   title
   slug
   type
-  heroSection {
+  genericSection {
     __typename
     title
     subtitle
@@ -17,14 +17,7 @@ fragment PageParts on Page {
     button2Url
     button3Label
     button3Url
-  }
-  introSection {
-    __typename
-    title
-    subtitle
-    text
-    imageUrl
-    imageAlt
+    colors
   }
   featuredSection {
     __typename
