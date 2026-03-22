@@ -108,8 +108,8 @@ query postConnection($before: String, $after: String, $first: Float, $last: Floa
   }
 }
 
-query data($relativePath: String!) {
-  data(relativePath: $relativePath) {
+query blog($relativePath: String!) {
+  blog(relativePath: $relativePath) {
     ... on Document {
       _sys {
         filename
@@ -122,12 +122,12 @@ query data($relativePath: String!) {
       }
       id
     }
-    ...DataParts
+    ...BlogParts
   }
 }
 
-query dataConnection($before: String, $after: String, $first: Float, $last: Float, $sort: String, $filter: DataFilter) {
-  dataConnection(
+query blogConnection($before: String, $after: String, $first: Float, $last: Float, $sort: String, $filter: BlogFilter) {
+  blogConnection(
     before: $before
     after: $after
     first: $first
@@ -157,7 +157,7 @@ query dataConnection($before: String, $after: String, $first: Float, $last: Floa
           }
           id
         }
-        ...DataParts
+        ...BlogParts
       }
     }
   }

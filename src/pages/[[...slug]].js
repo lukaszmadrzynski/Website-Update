@@ -130,6 +130,7 @@ export async function getStaticProps({ params }) {
 
     // For visual editing, we need to provide query, variables, and data
     // This allows useTina to work in edit mode
+    // Query matches simplified TinaCMS schema - sections is a simple string field
     const pageData = {
       query: `
         query Page($relativePath: String!) {
@@ -138,68 +139,11 @@ export async function getStaticProps({ params }) {
             title
             slug
             type
-            genericSection {
-              title
-              subtitle
-              text
-              imageUrl
-              imageAlt
-              badgeLabel
-              button1Label
-              button1Url
-              button2Label
-              button2Url
-              button3Label
-              button3Url
-              colors
-            }
-            featuredSection {
-              title
-              subtitle
-              variant
-              colors
-            }
-            featuredItem1 {
-              title
-              subtitle
-              text
-              imageUrl
-              imageAlt
-            }
-            featuredItem2 {
-              title
-              subtitle
-              text
-              imageUrl
-              imageAlt
-            }
-            featuredItem3 {
-              title
-              subtitle
-              text
-              imageUrl
-              imageAlt
-            }
-            ctaSection {
-              title
-              subtitle
-              text
-              buttonLabel
-              buttonUrl
-              colors
-            }
-            contactSection {
-              title
-              subtitle
-              text
-              buttonLabel
-              buttonUrl
-            }
+            sections
             seo {
               metaTitle
               metaDescription
               addTitleSuffix
-              socialImage
             }
             isDraft
             _sys {

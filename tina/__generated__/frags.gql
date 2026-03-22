@@ -3,76 +3,11 @@ fragment PageParts on Page {
   title
   slug
   type
-  genericSection {
-    __typename
-    title
-    subtitle
-    text
-    imageUrl
-    imageAlt
-    badgeLabel
-    button1Label
-    button1Url
-    button2Label
-    button2Url
-    button3Label
-    button3Url
-    colors
-  }
-  featuredSection {
-    __typename
-    title
-    subtitle
-    variant
-    colors
-  }
-  featuredItem1 {
-    __typename
-    title
-    subtitle
-    text
-    imageUrl
-    imageAlt
-  }
-  featuredItem2 {
-    __typename
-    title
-    subtitle
-    text
-    imageUrl
-    imageAlt
-  }
-  featuredItem3 {
-    __typename
-    title
-    subtitle
-    text
-    imageUrl
-    imageAlt
-  }
-  ctaSection {
-    __typename
-    title
-    subtitle
-    text
-    buttonLabel
-    buttonUrl
-    colors
-  }
-  contactSection {
-    __typename
-    title
-    subtitle
-    text
-    buttonLabel
-    buttonUrl
-  }
   seo {
     __typename
     metaTitle
     metaDescription
     addTitleSuffix
-    socialImage
   }
   isDraft
 }
@@ -88,8 +23,13 @@ fragment PostParts on Post {
   body
 }
 
-fragment DataParts on Data {
+fragment BlogParts on Blog {
   __typename
-  type
   title
+  slug
+  date
+  author
+  excerpt
+  image
+  body
 }

@@ -1,9 +1,12 @@
 /**
  * @type {import('next').NextConfig}
  */
+const isDev = process.env.NODE_ENV !== 'production';
+
 const nextConfig = {
-    // Static export configuration for Cloudflare Pages
-    output: 'export',
+    // Static export only for production build (not for dev server)
+    // Dev server needs API routes for TinaCMS
+    output: isDev ? undefined : 'export',
     images: {
         unoptimized: true,
     },

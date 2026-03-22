@@ -58,14 +58,14 @@ type Query {
   pageConnection(before: String, after: String, first: Float, last: Float, sort: String, filter: PageFilter): PageConnection!
   post(relativePath: String): Post!
   postConnection(before: String, after: String, first: Float, last: Float, sort: String, filter: PostFilter): PostConnection!
-  data(relativePath: String): Data!
-  dataConnection(before: String, after: String, first: Float, last: Float, sort: String, filter: DataFilter): DataConnection!
+  blog(relativePath: String): Blog!
+  blogConnection(before: String, after: String, first: Float, last: Float, sort: String, filter: BlogFilter): BlogConnection!
 }
 
 input DocumentFilter {
   page: PageFilter
   post: PostFilter
-  data: DataFilter
+  blog: BlogFilter
 }
 
 type DocumentConnectionEdges {
@@ -91,90 +91,18 @@ type Collection {
   documents(before: String, after: String, first: Float, last: Float, sort: String, filter: DocumentFilter, folder: String): DocumentConnection!
 }
 
-union DocumentNode = Page | Post | Data | Folder
-
-type PageGenericSection {
-  title: String
-  subtitle: String
-  text: String
-  imageUrl: String
-  imageAlt: String
-  badgeLabel: String
-  button1Label: String
-  button1Url: String
-  button2Label: String
-  button2Url: String
-  button3Label: String
-  button3Url: String
-  colors: String
-}
-
-type PageFeaturedSection {
-  title: String
-  subtitle: String
-  variant: String
-  colors: String
-}
-
-type PageFeaturedItem1 {
-  title: String
-  subtitle: String
-  text: String
-  imageUrl: String
-  imageAlt: String
-}
-
-type PageFeaturedItem2 {
-  title: String
-  subtitle: String
-  text: String
-  imageUrl: String
-  imageAlt: String
-}
-
-type PageFeaturedItem3 {
-  title: String
-  subtitle: String
-  text: String
-  imageUrl: String
-  imageAlt: String
-}
-
-type PageCtaSection {
-  title: String
-  subtitle: String
-  text: String
-  buttonLabel: String
-  buttonUrl: String
-  colors: String
-}
-
-type PageContactSection {
-  title: String
-  subtitle: String
-  text: String
-  buttonLabel: String
-  buttonUrl: String
-}
+union DocumentNode = Page | Post | Blog | Folder
 
 type PageSeo {
   metaTitle: String
   metaDescription: String
   addTitleSuffix: Boolean
-  socialImage: String
 }
 
 type Page implements Node & Document {
   title: String!
   slug: String
   type: String
-  genericSection: PageGenericSection
-  featuredSection: PageFeaturedSection
-  featuredItem1: PageFeaturedItem1
-  featuredItem2: PageFeaturedItem2
-  featuredItem3: PageFeaturedItem3
-  ctaSection: PageCtaSection
-  contactSection: PageContactSection
   seo: PageSeo
   isDraft: Boolean
   id: ID!
@@ -189,77 +117,6 @@ input StringFilter {
   in: [String]
 }
 
-input ImageFilter {
-  startsWith: String
-  eq: String
-  exists: Boolean
-  in: [String]
-}
-
-input PageGenericSectionFilter {
-  title: StringFilter
-  subtitle: StringFilter
-  text: StringFilter
-  imageUrl: ImageFilter
-  imageAlt: StringFilter
-  badgeLabel: StringFilter
-  button1Label: StringFilter
-  button1Url: StringFilter
-  button2Label: StringFilter
-  button2Url: StringFilter
-  button3Label: StringFilter
-  button3Url: StringFilter
-  colors: StringFilter
-}
-
-input PageFeaturedSectionFilter {
-  title: StringFilter
-  subtitle: StringFilter
-  variant: StringFilter
-  colors: StringFilter
-}
-
-input PageFeaturedItem1Filter {
-  title: StringFilter
-  subtitle: StringFilter
-  text: StringFilter
-  imageUrl: StringFilter
-  imageAlt: StringFilter
-}
-
-input PageFeaturedItem2Filter {
-  title: StringFilter
-  subtitle: StringFilter
-  text: StringFilter
-  imageUrl: StringFilter
-  imageAlt: StringFilter
-}
-
-input PageFeaturedItem3Filter {
-  title: StringFilter
-  subtitle: StringFilter
-  text: StringFilter
-  imageUrl: StringFilter
-  imageAlt: StringFilter
-}
-
-input PageCtaSectionFilter {
-  title: StringFilter
-  subtitle: StringFilter
-  text: StringFilter
-  buttonLabel: StringFilter
-  buttonUrl: StringFilter
-  colors: StringFilter
-}
-
-input PageContactSectionFilter {
-  title: StringFilter
-  subtitle: StringFilter
-  text: StringFilter
-  buttonLabel: StringFilter
-  buttonUrl: StringFilter
-}
-
 input BooleanFilter {
   eq: Boolean
   exists: Boolean
@@ -269,20 +126,12 @@ input PageSeoFilter {
   metaTitle: StringFilter
   metaDescription: StringFilter
   addTitleSuffix: BooleanFilter
-  socialImage: ImageFilter
 }
 
 input PageFilter {
   title: StringFilter
   slug: StringFilter
   type: StringFilter
-  genericSection: PageGenericSectionFilter
-  featuredSection: PageFeaturedSectionFilter
-  featuredItem1: PageFeaturedItem1Filter
-  featuredItem2: PageFeaturedItem2Filter
-  featuredItem3: PageFeaturedItem3Filter
-  ctaSection: PageCtaSectionFilter
-  contactSection: PageContactSectionFilter
   seo: PageSeoFilter
   isDraft: BooleanFilter
 }
@@ -325,7 +174,7 @@ input PostFilter {
   date: DatetimeFilter
   author: StringFilter
   excerpt: StringFilter
-  image: ImageFilter
+  image: StringFilter
   body: StringFilter
 }
 
@@ -340,28 +189,38 @@ type PostConnection implements Connection {
   edges: [PostConnectionEdges]
 }
 
-type Data implements Node & Document {
-  type: String
-  title: String
+type Blog implements Node & Document {
+  title: String!
+  slug: String
+  date: String
+  author: String
+  excerpt: String
+  image: String
+  body: String
   id: ID!
   _sys: SystemInfo!
   _values: JSON!
 }
 
-input DataFilter {
-  type: StringFilter
+input BlogFilter {
   title: StringFilter
+  slug: StringFilter
+  date: DatetimeFilter
+  author: StringFilter
+  excerpt: StringFilter
+  image: StringFilter
+  body: StringFilter
 }
 
-type DataConnectionEdges {
+type BlogConnectionEdges {
   cursor: String!
-  node: Data
+  node: Blog
 }
 
-type DataConnection implements Connection {
+type BlogConnection implements Connection {
   pageInfo: PageInfo!
   totalCount: Float!
-  edges: [DataConnectionEdges]
+  edges: [BlogConnectionEdges]
 }
 
 type Mutation {
@@ -374,105 +233,33 @@ type Mutation {
   createPage(relativePath: String!, params: PageMutation!): Page!
   updatePost(relativePath: String!, params: PostMutation!): Post!
   createPost(relativePath: String!, params: PostMutation!): Post!
-  updateData(relativePath: String!, params: DataMutation!): Data!
-  createData(relativePath: String!, params: DataMutation!): Data!
+  updateBlog(relativePath: String!, params: BlogMutation!): Blog!
+  createBlog(relativePath: String!, params: BlogMutation!): Blog!
 }
 
 input DocumentUpdateMutation {
   page: PageMutation
   post: PostMutation
-  data: DataMutation
+  blog: BlogMutation
   relativePath: String
 }
 
 input DocumentMutation {
   page: PageMutation
   post: PostMutation
-  data: DataMutation
-}
-
-input PageGenericSectionMutation {
-  title: String
-  subtitle: String
-  text: String
-  imageUrl: String
-  imageAlt: String
-  badgeLabel: String
-  button1Label: String
-  button1Url: String
-  button2Label: String
-  button2Url: String
-  button3Label: String
-  button3Url: String
-  colors: String
-}
-
-input PageFeaturedSectionMutation {
-  title: String
-  subtitle: String
-  variant: String
-  colors: String
-}
-
-input PageFeaturedItem1Mutation {
-  title: String
-  subtitle: String
-  text: String
-  imageUrl: String
-  imageAlt: String
-}
-
-input PageFeaturedItem2Mutation {
-  title: String
-  subtitle: String
-  text: String
-  imageUrl: String
-  imageAlt: String
-}
-
-input PageFeaturedItem3Mutation {
-  title: String
-  subtitle: String
-  text: String
-  imageUrl: String
-  imageAlt: String
-}
-
-input PageCtaSectionMutation {
-  title: String
-  subtitle: String
-  text: String
-  buttonLabel: String
-  buttonUrl: String
-  colors: String
-}
-
-input PageContactSectionMutation {
-  title: String
-  subtitle: String
-  text: String
-  buttonLabel: String
-  buttonUrl: String
+  blog: BlogMutation
 }
 
 input PageSeoMutation {
   metaTitle: String
   metaDescription: String
   addTitleSuffix: Boolean
-  socialImage: String
 }
 
 input PageMutation {
   title: String
   slug: String
   type: String
-  genericSection: PageGenericSectionMutation
-  featuredSection: PageFeaturedSectionMutation
-  featuredItem1: PageFeaturedItem1Mutation
-  featuredItem2: PageFeaturedItem2Mutation
-  featuredItem3: PageFeaturedItem3Mutation
-  ctaSection: PageCtaSectionMutation
-  contactSection: PageContactSectionMutation
   seo: PageSeoMutation
   isDraft: Boolean
 }
@@ -487,9 +274,14 @@ input PostMutation {
   body: String
 }
 
-input DataMutation {
-  type: String
+input BlogMutation {
   title: String
+  slug: String
+  date: String
+  author: String
+  excerpt: String
+  image: String
+  body: String
 }
 
 schema {
